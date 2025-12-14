@@ -162,15 +162,12 @@ function generateGalleryCTA(locale: string): string {
   // 根据语言选择图片：zh 和 zh-TW 使用 zh，其他使用 en
   const imageLang = locale === 'zh' || locale === 'zh-TW' ? 'zh' : 'en';
   const coverImage = `public/images/christmas-card-prompts-cover-${imageLang}.png`;
-  const listImage = `public/images/christmas-card-prompts-list-${imageLang}.png`;
-
+  
   return `## 🌐 ${t('viewInGallery', locale)}
 
 <div align="center">
 
 ![Cover](${coverImage})
-
-![List](${listImage})
 
 </div>
 
