@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **100** |
 | ⭐ 精選 | **0** |
-| 🔄 最後更新 | **2025年12月13日 星期六 晚上8:19:01 [UTC]** |
+| 🔄 最後更新 | **2025年12月14日 星期日 凌晨1:39:27 [UTC]** |
 
 </div>
 
@@ -4073,6 +4073,6 @@ A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallo
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-13T20:19:01.778Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-14T01:39:27.395Z</sub>
 
 </div>

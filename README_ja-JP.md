@@ -90,7 +90,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **100** |
 | ⭐ おすすめ | **0** |
-| 🔄 最終更新 | **2025年12月13日土曜日 20:19:02 UTC** |
+| 🔄 最終更新 | **2025年12月14日日曜日 1:39:28 UTC** |
 
 </div>
 
@@ -4063,6 +4063,6 @@ A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallo
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2025-12-13T20:19:02.369Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2025-12-14T01:39:28.778Z</sub>
 
 </div>
