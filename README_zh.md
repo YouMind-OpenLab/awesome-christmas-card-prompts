@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **100** |
 | ⭐ 精选 | **0** |
-| 🔄 最后更新 | **2025年12月14日星期日 UTC 16:21:10** |
+| 🔄 最后更新 | **2025年12月14日星期日 UTC 20:19:30** |
 
 </div>
 
@@ -4073,6 +4073,6 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2025-12-14T16:21:10.745Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2025-12-14T20:19:30.466Z</sub>
 
 </div>
