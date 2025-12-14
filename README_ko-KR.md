@@ -24,8 +24,6 @@
 
 ![Cover](public/images/christmas-card-prompts-cover-en.png)
 
-![List](public/images/christmas-card-prompts-list-en.png)
-
 </div>
 
 **[👉 YouMind 크리스마스 카드 프롬프트 갤러리 둘러보기](https://youmind.com/tools/christmas-cards-maker)**
@@ -90,7 +88,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **100** |
 | ⭐ 추천 | **0** |
-| 🔄 마지막 업데이트 | **2025년 12월 14일 일요일 오전 4시 34분 40초 UTC** |
+| 🔄 마지막 업데이트 | **2025년 12월 14일 일요일 오전 7시 27분 36초 UTC** |
 
 </div>
 
@@ -100,18 +98,18 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 > 📝 게시일 기준 정렬(최신순)
 
-### No. 1: Santa's Laundry Line Christmas Card
+### No. 1: 산타의 빨랫줄 크리스마스 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-A whimsical and domestic Christmas scene featuring Santa's iconic clothes drying on a tinsel clothesline, including a humorous pair of boxer shorts. This prompt offers a unique and funny take on Santa getting ready for the big day.
+산타의 상징적인 옷들이 반짝이 빨랫줄에 널려 있는 기발하고 가정적인 크리스마스 장면입니다. 여기에는 유머러스한 복서 팬티 한 벌도 포함되어 있습니다. 이 프롬프트는 산타가 중요한 날을 준비하는 모습을 독특하고 재미있게 보여줍니다.
 
 #### 📝 프롬프트
 
 ```
-A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made of festive tinsel is strung across a pale blue snowy sky background. Pinned to the line with wooden clothespins are Santa's iconic clothes: his big red jacket with white fur trim, his red trousers, a pair of red suspenders, and a pair of humorous white boxer shorts covered in a pattern of green holly leaves and red berries. A small bluebird is perched on the clothesline. The style is a clean, flat illustration with a paper-cut texture effect. A unique and funny take on Santa getting ready.
+종횡비 1:1.4의 기발하고 가정적인 크리스마스 장면. 축제 분위기의 반짝이로 만든 빨랫줄이 옅은 파란색 눈 덮인 하늘 배경에 걸려 있습니다. 빨랫줄에는 나무 빨래집게로 산타의 상징적인 옷들이 널려 있습니다. 흰색 털 장식이 있는 커다란 빨간색 재킷, 빨간색 바지, 빨간색 멜빵 한 쌍, 그리고 녹색 호랑가시나무 잎과 빨간색 열매 패턴으로 덮인 유머러스한 흰색 복서 반바지 한 벌입니다. 작은 파랑새 한 마리가 빨랫줄에 앉아 있습니다. 스타일은 종이 오리기 질감 효과가 있는 깔끔하고 평면적인 일러스트레이션입니다. 산타가 준비하는 모습을 독특하고 재미있게 표현했습니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -119,7 +117,7 @@ A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640793375_1y7v4u_1765640304107-uj3tok-D5EWq0D8IRIBAAAAAElFTkSuQmCC" width="600" alt="Santa's Laundry Line Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640793375_1y7v4u_1765640304107-uj3tok-D5EWq0D8IRIBAAAAAElFTkSuQmCC" width="600" alt="산타의 빨랫줄 크리스마스 카드 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -129,23 +127,23 @@ A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20and%20domestic%20Christmas%20scene%2C%20aspect%20ratio%201%3A1.4.%20A%20clothesline%20made%20of%20festive%20tinsel%20is%20strung%20across%20a%20pale%20blue%20snowy%20sky%20background.%20Pinned%20to%20the%20line%20with%20wooden%20clothespins%20are%20Santa's%20iconic%20clothes%3A%20his%20big%20red%20jacket%20with%20white%20fur%20trim%2C%20his%20red%20trousers%2C%20a%20pair%20of%20red%20suspenders%2C%20and%20a%20pair%20of%20humorous%20white%20boxer%20shorts%20covered%20in%20a%20pattern%20of%20green%20holly%20leaves%20and%20red%20berries.%20A%20small%20bluebird%20is%20perched%20on%20the%20clothesline.%20The%20style%20is%20a%20clean%2C%20flat%20illustration%20with%20a%20paper-cut%20texture%20effect.%20A%20unique%20and%20funny%20take%20on%20Santa%20getting%20ready.)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EC%A2%85%ED%9A%A1%EB%B9%84%201%3A1.4%EC%9D%98%20%EA%B8%B0%EB%B0%9C%ED%95%98%EA%B3%A0%20%EA%B0%80%EC%A0%95%EC%A0%81%EC%9D%B8%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%9E%A5%EB%A9%B4.%20%EC%B6%95%EC%A0%9C%20%EB%B6%84%EC%9C%84%EA%B8%B0%EC%9D%98%20%EB%B0%98%EC%A7%9D%EC%9D%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A0%20%EB%B9%A8%EB%9E%AB%EC%A4%84%EC%9D%B4%20%EC%98%85%EC%9D%80%20%ED%8C%8C%EB%9E%80%EC%83%89%20%EB%88%88%20%EB%8D%AE%EC%9D%B8%20%ED%95%98%EB%8A%98%20%EB%B0%B0%EA%B2%BD%EC%97%90%20%EA%B1%B8%EB%A0%A4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%B9%A8%EB%9E%AB%EC%A4%84%EC%97%90%EB%8A%94%20%EB%82%98%EB%AC%B4%20%EB%B9%A8%EB%9E%98%EC%A7%91%EA%B2%8C%EB%A1%9C%20%EC%82%B0%ED%83%80%EC%9D%98%20%EC%83%81%EC%A7%95%EC%A0%81%EC%9D%B8%20%EC%98%B7%EB%93%A4%EC%9D%B4%20%EB%84%90%EB%A0%A4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%ED%9D%B0%EC%83%89%20%ED%84%B8%20%EC%9E%A5%EC%8B%9D%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EC%BB%A4%EB%8B%A4%EB%9E%80%20%EB%B9%A8%EA%B0%84%EC%83%89%20%EC%9E%AC%ED%82%B7%2C%20%EB%B9%A8%EA%B0%84%EC%83%89%20%EB%B0%94%EC%A7%80%2C%20%EB%B9%A8%EA%B0%84%EC%83%89%20%EB%A9%9C%EB%B9%B5%20%ED%95%9C%20%EC%8C%8D%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EB%85%B9%EC%83%89%20%ED%98%B8%EB%9E%91%EA%B0%80%EC%8B%9C%EB%82%98%EB%AC%B4%20%EC%9E%8E%EA%B3%BC%20%EB%B9%A8%EA%B0%84%EC%83%89%20%EC%97%B4%EB%A7%A4%20%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C%20%EB%8D%AE%EC%9D%B8%20%EC%9C%A0%EB%A8%B8%EB%9F%AC%EC%8A%A4%ED%95%9C%20%ED%9D%B0%EC%83%89%20%EB%B3%B5%EC%84%9C%20%EB%B0%98%EB%B0%94%EC%A7%80%20%ED%95%9C%20%EB%B2%8C%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%9E%91%EC%9D%80%20%ED%8C%8C%EB%9E%91%EC%83%88%20%ED%95%9C%20%EB%A7%88%EB%A6%AC%EA%B0%80%20%EB%B9%A8%EB%9E%AB%EC%A4%84%EC%97%90%20%EC%95%89%EC%95%84%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%80%20%EC%A2%85%EC%9D%B4%20%EC%98%A4%EB%A6%AC%EA%B8%B0%20%EC%A7%88%EA%B0%90%20%ED%9A%A8%EA%B3%BC%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0%20%ED%8F%89%EB%A9%B4%EC%A0%81%EC%9D%B8%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%82%B0%ED%83%80%EA%B0%80%20%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94%20%EB%AA%A8%EC%8A%B5%EC%9D%84%20%EB%8F%85%ED%8A%B9%ED%95%98%EA%B3%A0%20%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C%20%ED%91%9C%ED%98%84%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)**
 
 ---
 
-### No. 2: Sloth Hanging from Candy Cane Christmas Card
+### No. 2: 캔디 케인에 매달린 나무늘보 크리스마스 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-An adorable printable Christmas card design featuring a slow-moving sloth hanging from a candy cane, trying to reach a Christmas tree. This prompt is perfect for creating charming and funny holiday greetings with a unique touch.
+느릿느릿 움직이는 나무늘보가 지팡이 사탕에 매달려 크리스마스 트리에 닿으려고 하는 사랑스러운 인쇄용 크리스마스 카드 디자인입니다. 이 프롬프트는 독특한 감각으로 매력적이고 재미있는 연말연시 인사를 만드는 데 완벽합니다.
 
 #### 📝 프롬프트
 
 ```
-An adorable printable Christmas card design, aspect ratio 1:1.4. A cute, slow-moving sloth hangs upside down from a candy cane that stretches horizontally across the top of the card. The sloth is wearing a festive ugly Christmas sweater with a pixelated snowflake pattern. He is holding a star tree topper in his slow claws, trying to reach a Christmas tree that is just out of frame. The background is a solid deep teal color to make the sloth pop. Below the sloth, the text reads: {argument name="text" default="Slowly getting into the Spirit"} in a relaxed, hand-lettered font.
+사랑스러운 인쇄용 크리스마스 카드 디자인, 가로세로 비율 1:1.4. 귀엽고 느릿느릿 움직이는 나무늘보가 카드 상단에 가로로 길게 놓인 지팡이 사탕에 거꾸로 매달려 있습니다. 나무늘보는 픽셀화된 눈송이 패턴의 축제 분위기 못생긴 크리스마스 스웨터를 입고 있습니다. 그는 느린 발톱으로 별 모양 트리 장식을 들고 있으며, 프레임 밖에 있는 크리스마스 트리에 닿으려고 노력하고 있습니다. 배경은 나무늘보가 돋보이도록 단색의 짙은 청록색입니다. 나무늘보 아래에는 편안한 손글씨체로 "{argument name="text" default="Slowly getting into the Spirit"}"라고 쓰여 있습니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -153,7 +151,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. A cute, slow-mo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640792570_as7oyl_1765640333881-lkq034-EZMiYLAuMw9pQ64ferde4Pu_d1y3UHlI792dxd75JBOzmGh1ODnaQby1qWlttEk7O5OxGmv9dcmSdyMuSTd96MmYgfF6Gh_BYdr4ZU6ci6sKkXILWADyJjyL1ps4zHLI1UkgGfvIv8BYOpTNrui_hYAAAAASUVORK5CYII_" width="600" alt="Sloth Hanging from Candy Cane Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640792570_as7oyl_1765640333881-lkq034-EZMiYLAuMw9pQ64ferde4Pu_d1y3UHlI792dxd75JBOzmGh1ODnaQby1qWlttEk7O5OxGmv9dcmSdyMuSTd96MmYgfF6Gh_BYdr4ZU6ci6sKkXILWADyJjyL1ps4zHLI1UkgGfvIv8BYOpTNrui_hYAAAAASUVORK5CYII_" width="600" alt="캔디 케인에 매달린 나무늘보 크리스마스 카드 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -163,23 +161,23 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. A cute, slow-mo
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20cute%2C%20slow-moving%20sloth%20hangs%20upside%20down%20from%20a%20candy%20cane%20that%20stretches%20horizontally%20across%20the%20top%20of%20the%20card.%20The%20sloth%20is%20wearing%20a%20festive%20ugly%20Christmas%20sweater%20with%20a%20pixelated%20snowflake%20pattern.%20He%20is%20holding%20a%20star%20tree%20topper%20in%20his%20slow%20claws%2C%20trying%20to%20reach%20a%20Christmas%20tree%20that%20is%20just%20out%20of%20frame.%20The%20background%20is%20a%20solid%20deep%20teal%20color%20to%20make%20the%20sloth%20pop.%20Below%20the%20sloth%2C%20the%20text%20reads%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Slowly%20getting%20into%20the%20Spirit%22%7D%20in%20a%20relaxed%2C%20hand-lettered%20font.)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EC%82%AC%EB%9E%91%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%9D%B8%EC%87%84%EC%9A%A9%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C%20%EB%94%94%EC%9E%90%EC%9D%B8%2C%20%EA%B0%80%EB%A1%9C%EC%84%B8%EB%A1%9C%20%EB%B9%84%EC%9C%A8%201%3A1.4.%20%EA%B7%80%EC%97%BD%EA%B3%A0%20%EB%8A%90%EB%A6%BF%EB%8A%90%EB%A6%BF%20%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94%20%EB%82%98%EB%AC%B4%EB%8A%98%EB%B3%B4%EA%B0%80%20%EC%B9%B4%EB%93%9C%20%EC%83%81%EB%8B%A8%EC%97%90%20%EA%B0%80%EB%A1%9C%EB%A1%9C%20%EA%B8%B8%EA%B2%8C%20%EB%86%93%EC%9D%B8%20%EC%A7%80%ED%8C%A1%EC%9D%B4%20%EC%82%AC%ED%83%95%EC%97%90%20%EA%B1%B0%EA%BE%B8%EB%A1%9C%20%EB%A7%A4%EB%8B%AC%EB%A0%A4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%82%98%EB%AC%B4%EB%8A%98%EB%B3%B4%EB%8A%94%20%ED%94%BD%EC%85%80%ED%99%94%EB%90%9C%20%EB%88%88%EC%86%A1%EC%9D%B4%20%ED%8C%A8%ED%84%B4%EC%9D%98%20%EC%B6%95%EC%A0%9C%20%EB%B6%84%EC%9C%84%EA%B8%B0%20%EB%AA%BB%EC%83%9D%EA%B8%B4%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%8A%A4%EC%9B%A8%ED%84%B0%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B7%B8%EB%8A%94%20%EB%8A%90%EB%A6%B0%20%EB%B0%9C%ED%86%B1%EC%9C%BC%EB%A1%9C%20%EB%B3%84%20%EB%AA%A8%EC%96%91%20%ED%8A%B8%EB%A6%AC%20%EC%9E%A5%EC%8B%9D%EC%9D%84%20%EB%93%A4%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%ED%94%84%EB%A0%88%EC%9E%84%20%EB%B0%96%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%8A%B8%EB%A6%AC%EC%97%90%20%EB%8B%BF%EC%9C%BC%EB%A0%A4%EA%B3%A0%20%EB%85%B8%EB%A0%A5%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EB%82%98%EB%AC%B4%EB%8A%98%EB%B3%B4%EA%B0%80%20%EB%8F%8B%EB%B3%B4%EC%9D%B4%EB%8F%84%EB%A1%9D%20%EB%8B%A8%EC%83%89%EC%9D%98%20%EC%A7%99%EC%9D%80%20%EC%B2%AD%EB%A1%9D%EC%83%89%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EB%82%98%EB%AC%B4%EB%8A%98%EB%B3%B4%20%EC%95%84%EB%9E%98%EC%97%90%EB%8A%94%20%ED%8E%B8%EC%95%88%ED%95%9C%20%EC%86%90%EA%B8%80%EC%94%A8%EC%B2%B4%EB%A1%9C%20%22%7Bargument%20name%3D%22text%22%20default%3D%22Slowly%20getting%20into%20the%20Spirit%22%7D%22%EB%9D%BC%EA%B3%A0%20%EC%93%B0%EC%97%AC%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)**
 
 ---
 
-### No. 3: Pug Disguised as Elf Christmas Card
+### No. 3: 엘프로 변장한 퍼그 크리스마스 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-A funny, flat vector illustration for a Christmas card showing a pug dog trying to blend in with Santa's elves. This prompt is perfect for creating humorous and lighthearted holiday greetings.
+산타의 요정들 사이에 섞이려고 애쓰는 퍼그 강아지를 보여주는 재미있고 평면적인 벡터 크리스마스 카드 일러스트레이션입니다. 이 프롬프트는 유머러스하고 가벼운 분위기의 연말연시 인사말을 만드는 데 완벽합니다.
 
 #### 📝 프롬프트
 
 ```
-A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The image shows a horizontal lineup of four Santa's elves dressed in green tunics, red and white striped tights, and pointy hats. In the middle of the line, trying to blend in, is a beige Pug dog standing on its hind legs, wearing the exact same elf costume. The elves on either side are looking at the dog with side-eye suspicion, while the dog looks straight ahead with a blank, innocent expression. The background is a solid festive red. Text at the bottom reads: {argument name="text" default="Day 24: They still suspect nothing."} in a typewriter font.
+크리스마스 카드용 재미있고 평면적인 벡터 일러스트레이션, 가로세로 비율 1:1.4. 초록색 튜닉, 빨간색과 흰색 줄무늬 타이츠, 뾰족한 모자를 입은 네 명의 산타 요정들이 가로로 줄지어 서 있다. 줄 가운데에는 눈에 띄지 않으려는 듯 뒷발로 서 있는 베이지색 퍼그 강아지가 똑같은 요정 의상을 입고 있다. 양쪽의 요정들은 옆눈으로 의심스럽게 강아지를 쳐다보고 있고, 강아지는 멍하고 순진한 표정으로 정면을 응시하고 있다. 배경은 단색의 축제 분위기 빨간색이다. 하단에는 타자기 글꼴로 "{argument name="text" default="Day 24: They still suspect nothing."}"이라고 쓰여 있다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -187,7 +185,7 @@ A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640787455_7y0l1a_1765640309893-18pj8i-B3qh94JBo2i5AAAAAElFTkSuQmCC" width="600" alt="Pug Disguised as Elf Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640787455_7y0l1a_1765640309893-18pj8i-B3qh94JBo2i5AAAAAElFTkSuQmCC" width="600" alt="엘프로 변장한 퍼그 크리스마스 카드 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -197,22 +195,22 @@ A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The 
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%2C%20flat%20vector%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20The%20image%20shows%20a%20horizontal%20lineup%20of%20four%20Santa's%20elves%20dressed%20in%20green%20tunics%2C%20red%20and%20white%20striped%20tights%2C%20and%20pointy%20hats.%20In%20the%20middle%20of%20the%20line%2C%20trying%20to%20blend%20in%2C%20is%20a%20beige%20Pug%20dog%20standing%20on%20its%20hind%20legs%2C%20wearing%20the%20exact%20same%20elf%20costume.%20The%20elves%20on%20either%20side%20are%20looking%20at%20the%20dog%20with%20side-eye%20suspicion%2C%20while%20the%20dog%20looks%20straight%20ahead%20with%20a%20blank%2C%20innocent%20expression.%20The%20background%20is%20a%20solid%20festive%20red.%20Text%20at%20the%20bottom%20reads%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Day%2024%3A%20They%20still%20suspect%20nothing.%22%7D%20in%20a%20typewriter%20font.)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C%EC%9A%A9%20%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B3%A0%20%ED%8F%89%EB%A9%B4%EC%A0%81%EC%9D%B8%20%EB%B2%A1%ED%84%B0%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%2C%20%EA%B0%80%EB%A1%9C%EC%84%B8%EB%A1%9C%20%EB%B9%84%EC%9C%A8%201%3A1.4.%20%EC%B4%88%EB%A1%9D%EC%83%89%20%ED%8A%9C%EB%8B%89%2C%20%EB%B9%A8%EA%B0%84%EC%83%89%EA%B3%BC%20%ED%9D%B0%EC%83%89%20%EC%A4%84%EB%AC%B4%EB%8A%AC%20%ED%83%80%EC%9D%B4%EC%B8%A0%2C%20%EB%BE%B0%EC%A1%B1%ED%95%9C%20%EB%AA%A8%EC%9E%90%EB%A5%BC%20%EC%9E%85%EC%9D%80%20%EB%84%A4%20%EB%AA%85%EC%9D%98%20%EC%82%B0%ED%83%80%20%EC%9A%94%EC%A0%95%EB%93%A4%EC%9D%B4%20%EA%B0%80%EB%A1%9C%EB%A1%9C%20%EC%A4%84%EC%A7%80%EC%96%B4%20%EC%84%9C%20%EC%9E%88%EB%8B%A4.%20%EC%A4%84%20%EA%B0%80%EC%9A%B4%EB%8D%B0%EC%97%90%EB%8A%94%20%EB%88%88%EC%97%90%20%EB%9D%84%EC%A7%80%20%EC%95%8A%EC%9C%BC%EB%A0%A4%EB%8A%94%20%EB%93%AF%20%EB%92%B7%EB%B0%9C%EB%A1%9C%20%EC%84%9C%20%EC%9E%88%EB%8A%94%20%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%83%89%20%ED%8D%BC%EA%B7%B8%20%EA%B0%95%EC%95%84%EC%A7%80%EA%B0%80%20%EB%98%91%EA%B0%99%EC%9D%80%20%EC%9A%94%EC%A0%95%20%EC%9D%98%EC%83%81%EC%9D%84%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EC%96%91%EC%AA%BD%EC%9D%98%20%EC%9A%94%EC%A0%95%EB%93%A4%EC%9D%80%20%EC%98%86%EB%88%88%EC%9C%BC%EB%A1%9C%20%EC%9D%98%EC%8B%AC%EC%8A%A4%EB%9F%BD%EA%B2%8C%20%EA%B0%95%EC%95%84%EC%A7%80%EB%A5%BC%20%EC%B3%90%EB%8B%A4%EB%B3%B4%EA%B3%A0%20%EC%9E%88%EA%B3%A0%2C%20%EA%B0%95%EC%95%84%EC%A7%80%EB%8A%94%20%EB%A9%8D%ED%95%98%EA%B3%A0%20%EC%88%9C%EC%A7%84%ED%95%9C%20%ED%91%9C%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EC%A0%95%EB%A9%B4%EC%9D%84%20%EC%9D%91%EC%8B%9C%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EB%8B%A8%EC%83%89%EC%9D%98%20%EC%B6%95%EC%A0%9C%20%EB%B6%84%EC%9C%84%EA%B8%B0%20%EB%B9%A8%EA%B0%84%EC%83%89%EC%9D%B4%EB%8B%A4.%20%ED%95%98%EB%8B%A8%EC%97%90%EB%8A%94%20%ED%83%80%EC%9E%90%EA%B8%B0%20%EA%B8%80%EA%BC%B4%EB%A1%9C%20%22%7Bargument%20name%3D%22text%22%20default%3D%22Day%2024%3A%20They%20still%20suspect%20nothing.%22%7D%22%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EC%93%B0%EC%97%AC%20%EC%9E%88%EB%8B%A4.)**
 
 ---
 
-### No. 4: Reindeer Flight School Christmas Card
+### No. 4: 순록 비행 학교 크리스마스 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-A charming and funny Christmas card design depicting a baby reindeer's clumsy but determined attempt at flight school, aided by a tiny robin. This prompt is ideal for creating whimsical and endearing holiday messages.
+작고 귀여운 아기 순록이 작은 울새의 도움을 받아 서툴지만 굳건하게 비행 학교에 도전하는 모습을 담은 매력적이고 재미있는 크리스마스 카드 디자인입니다. 이 프롬프트는 기발하고 사랑스러운 홀리데이 메시지를 만드는 데 이상적입니다.
 
 #### 📝 프롬프트
 
 ```
-A charming and funny Christmas card design, aspect ratio 1:1.4. The scene depicts a "Reindeer Flight School." A cute, clumsy baby reindeer with a slightly oversized red nose is hovering just a few inches off the snowy ground, legs splayed out in all directions, looking panicked but determined. He is wearing vintage aviator goggles and a brown leather helmet. Behind him, a tiny red robin bird is using its beak to push the reindeer's bottom to help him stay up. The background is a simple, pale blue winter sky with fluffy white clouds. The style is a detailed colored pencil drawing on textured paper.
+매력적이고 재미있는 크리스마스 카드 디자인, 화면 비율 1:1.4. 장면은 "순록 비행 학교"를 묘사합니다. 살짝 큰 빨간 코를 가진 귀엽고 어설픈 아기 순록이 눈 덮인 땅에서 몇 인치 떨어진 곳에 다리를 사방으로 벌린 채 공중에 떠 있으며, 당황했지만 결연한 표정을 짓고 있습니다. 순록은 빈티지 비행 고글과 갈색 가죽 헬멧을 착용하고 있습니다. 순록 뒤에는 작은 붉은 울새가 부리로 순록의 엉덩이를 밀어 순록이 떠 있도록 돕고 있습니다. 배경은 푹신한 흰 구름이 있는 단순한 옅은 파란색 겨울 하늘입니다. 스타일은 질감 있는 종이에 세밀하게 채색된 연필 그림입니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -220,7 +218,7 @@ A charming and funny Christmas card design, aspect ratio 1:1.4. The scene depict
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640787943_hq7ga1_1765640065495-37f5mv-8BrHHbyCDq3h0AAAAASUVORK5CYII_" width="600" alt="Reindeer Flight School Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640787943_hq7ga1_1765640065495-37f5mv-8BrHHbyCDq3h0AAAAASUVORK5CYII_" width="600" alt="순록 비행 학교 크리스마스 카드 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -230,22 +228,22 @@ A charming and funny Christmas card design, aspect ratio 1:1.4. The scene depict
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20and%20funny%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20scene%20depicts%20a%20%22Reindeer%20Flight%20School.%22%20A%20cute%2C%20clumsy%20baby%20reindeer%20with%20a%20slightly%20oversized%20red%20nose%20is%20hovering%20just%20a%20few%20inches%20off%20the%20snowy%20ground%2C%20legs%20splayed%20out%20in%20all%20directions%2C%20looking%20panicked%20but%20determined.%20He%20is%20wearing%20vintage%20aviator%20goggles%20and%20a%20brown%20leather%20helmet.%20Behind%20him%2C%20a%20tiny%20red%20robin%20bird%20is%20using%20its%20beak%20to%20push%20the%20reindeer's%20bottom%20to%20help%20him%20stay%20up.%20The%20background%20is%20a%20simple%2C%20pale%20blue%20winter%20sky%20with%20fluffy%20white%20clouds.%20The%20style%20is%20a%20detailed%20colored%20pencil%20drawing%20on%20textured%20paper.)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B4%EA%B3%A0%20%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%8A%94%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C%20%EB%94%94%EC%9E%90%EC%9D%B8%2C%20%ED%99%94%EB%A9%B4%20%EB%B9%84%EC%9C%A8%201%3A1.4.%20%EC%9E%A5%EB%A9%B4%EC%9D%80%20%22%EC%88%9C%EB%A1%9D%20%EB%B9%84%ED%96%89%20%ED%95%99%EA%B5%90%22%EB%A5%BC%20%EB%AC%98%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%82%B4%EC%A7%9D%20%ED%81%B0%20%EB%B9%A8%EA%B0%84%20%EC%BD%94%EB%A5%BC%20%EA%B0%80%EC%A7%84%20%EA%B7%80%EC%97%BD%EA%B3%A0%20%EC%96%B4%EC%84%A4%ED%94%88%20%EC%95%84%EA%B8%B0%20%EC%88%9C%EB%A1%9D%EC%9D%B4%20%EB%88%88%20%EB%8D%AE%EC%9D%B8%20%EB%95%85%EC%97%90%EC%84%9C%20%EB%AA%87%20%EC%9D%B8%EC%B9%98%20%EB%96%A8%EC%96%B4%EC%A7%84%20%EA%B3%B3%EC%97%90%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%82%AC%EB%B0%A9%EC%9C%BC%EB%A1%9C%20%EB%B2%8C%EB%A6%B0%20%EC%B1%84%20%EA%B3%B5%EC%A4%91%EC%97%90%20%EB%96%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EB%8B%B9%ED%99%A9%ED%96%88%EC%A7%80%EB%A7%8C%20%EA%B2%B0%EC%97%B0%ED%95%9C%20%ED%91%9C%EC%A0%95%EC%9D%84%20%EC%A7%93%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%88%9C%EB%A1%9D%EC%9D%80%20%EB%B9%88%ED%8B%B0%EC%A7%80%20%EB%B9%84%ED%96%89%20%EA%B3%A0%EA%B8%80%EA%B3%BC%20%EA%B0%88%EC%83%89%20%EA%B0%80%EC%A3%BD%20%ED%97%AC%EB%A9%A7%EC%9D%84%20%EC%B0%A9%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%88%9C%EB%A1%9D%20%EB%92%A4%EC%97%90%EB%8A%94%20%EC%9E%91%EC%9D%80%20%EB%B6%89%EC%9D%80%20%EC%9A%B8%EC%83%88%EA%B0%80%20%EB%B6%80%EB%A6%AC%EB%A1%9C%20%EC%88%9C%EB%A1%9D%EC%9D%98%20%EC%97%89%EB%8D%A9%EC%9D%B4%EB%A5%BC%20%EB%B0%80%EC%96%B4%20%EC%88%9C%EB%A1%9D%EC%9D%B4%20%EB%96%A0%20%EC%9E%88%EB%8F%84%EB%A1%9D%20%EB%8F%95%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%ED%91%B9%EC%8B%A0%ED%95%9C%20%ED%9D%B0%20%EA%B5%AC%EB%A6%84%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EB%8B%A8%EC%88%9C%ED%95%9C%20%EC%98%85%EC%9D%80%20%ED%8C%8C%EB%9E%80%EC%83%89%20%EA%B2%A8%EC%9A%B8%20%ED%95%98%EB%8A%98%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%80%20%EC%A7%88%EA%B0%90%20%EC%9E%88%EB%8A%94%20%EC%A2%85%EC%9D%B4%EC%97%90%20%EC%84%B8%EB%B0%80%ED%95%98%EA%B2%8C%20%EC%B1%84%EC%83%89%EB%90%9C%20%EC%97%B0%ED%95%84%20%EA%B7%B8%EB%A6%BC%EC%9E%85%EB%8B%88%EB%8B%A4.)**
 
 ---
 
-### No. 5: Marshmallow Hot Tub Christmas Card
+### No. 5: 마시멜로 온수 욕조 크리스마스 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-A kawaii style printable Christmas card illustration featuring adorable marshmallow characters relaxing in a mug of hot chocolate. This prompt creates a fun and sweet image, perfect for delightful holiday greetings.
+핫 초콜릿 머그잔에서 쉬고 있는 사랑스러운 마시멜로 캐릭터들이 그려진 카와이 스타일의 인쇄용 크리스마스 카드 일러스트입니다. 이 프롬프트는 즐겁고 달콤한 이미지를 만들어주어 즐거운 연말연시 인사에 완벽합니다.
 
 #### 📝 프롬프트
 
 ```
-A kawaii style printable Christmas card illustration, aspect ratio 1:1.4. The view is a top-down perspective looking into a red ceramic mug filled with rich, brown hot chocolate. Inside the mug, three adorable white marshmallow characters are relaxing as if it's a hot tub. One marshmallow is leaning back with drawn-on sunglasses made of chocolate icing. Another is wearing a tiny candy cane snorkel. The third is floating on a square of chocolate bar like a raft. Steam swirls rise up in the shape of hearts. The background outside the mug is a soft pink with white polka dots. High resolution, bright colors, vector art style.
+귀여운 스타일의 인쇄 가능한 크리스마스 카드 일러스트레이션, 가로세로 비율 1:1.4. 풍부한 갈색 핫 초콜릿으로 가득 찬 빨간색 세라믹 머그잔을 위에서 내려다보는 시점입니다. 머그잔 안에는 세 개의 사랑스러운 흰색 마시멜로 캐릭터가 마치 온수 욕조인 것처럼 편안하게 쉬고 있습니다. 한 마시멜로는 초콜릿 아이싱으로 그린 선글라스를 쓰고 뒤로 기대어 있습니다. 다른 하나는 작은 캔디 케인 스노클을 착용하고 있습니다. 세 번째는 초콜릿 바 조각 위에서 뗏목처럼 떠 있습니다. 하트 모양의 김이 피어오릅니다. 머그잔 밖의 배경은 흰색 물방울 무늬가 있는 부드러운 분홍색입니다. 고해상도, 밝은 색상, 벡터 아트 스타일.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -253,7 +251,7 @@ A kawaii style printable Christmas card illustration, aspect ratio 1:1.4. The vi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640787036_1czg4c_1765640042781-1ksod8-B61Wq24QZe3rAAAAAElFTkSuQmCC" width="600" alt="Marshmallow Hot Tub Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640787036_1czg4c_1765640042781-1ksod8-B61Wq24QZe3rAAAAAElFTkSuQmCC" width="600" alt="마시멜로 온수 욕조 크리스마스 카드 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -263,22 +261,22 @@ A kawaii style printable Christmas card illustration, aspect ratio 1:1.4. The vi
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20kawaii%20style%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20The%20view%20is%20a%20top-down%20perspective%20looking%20into%20a%20red%20ceramic%20mug%20filled%20with%20rich%2C%20brown%20hot%20chocolate.%20Inside%20the%20mug%2C%20three%20adorable%20white%20marshmallow%20characters%20are%20relaxing%20as%20if%20it's%20a%20hot%20tub.%20One%20marshmallow%20is%20leaning%20back%20with%20drawn-on%20sunglasses%20made%20of%20chocolate%20icing.%20Another%20is%20wearing%20a%20tiny%20candy%20cane%20snorkel.%20The%20third%20is%20floating%20on%20a%20square%20of%20chocolate%20bar%20like%20a%20raft.%20Steam%20swirls%20rise%20up%20in%20the%20shape%20of%20hearts.%20The%20background%20outside%20the%20mug%20is%20a%20soft%20pink%20with%20white%20polka%20dots.%20High%20resolution%2C%20bright%20colors%2C%20vector%20art%20style.)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EA%B7%80%EC%97%AC%EC%9A%B4%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%98%20%EC%9D%B8%EC%87%84%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%2C%20%EA%B0%80%EB%A1%9C%EC%84%B8%EB%A1%9C%20%EB%B9%84%EC%9C%A8%201%3A1.4.%20%ED%92%8D%EB%B6%80%ED%95%9C%20%EA%B0%88%EC%83%89%20%ED%95%AB%20%EC%B4%88%EC%BD%9C%EB%A6%BF%EC%9C%BC%EB%A1%9C%20%EA%B0%80%EB%93%9D%20%EC%B0%AC%20%EB%B9%A8%EA%B0%84%EC%83%89%20%EC%84%B8%EB%9D%BC%EB%AF%B9%20%EB%A8%B8%EA%B7%B8%EC%9E%94%EC%9D%84%20%EC%9C%84%EC%97%90%EC%84%9C%20%EB%82%B4%EB%A0%A4%EB%8B%A4%EB%B3%B4%EB%8A%94%20%EC%8B%9C%EC%A0%90%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EB%A8%B8%EA%B7%B8%EC%9E%94%20%EC%95%88%EC%97%90%EB%8A%94%20%EC%84%B8%20%EA%B0%9C%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%ED%9D%B0%EC%83%89%20%EB%A7%88%EC%8B%9C%EB%A9%9C%EB%A1%9C%20%EC%BA%90%EB%A6%AD%ED%84%B0%EA%B0%80%20%EB%A7%88%EC%B9%98%20%EC%98%A8%EC%88%98%20%EC%9A%95%EC%A1%B0%EC%9D%B8%20%EA%B2%83%EC%B2%98%EB%9F%BC%20%ED%8E%B8%EC%95%88%ED%95%98%EA%B2%8C%20%EC%89%AC%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%ED%95%9C%20%EB%A7%88%EC%8B%9C%EB%A9%9C%EB%A1%9C%EB%8A%94%20%EC%B4%88%EC%BD%9C%EB%A6%BF%20%EC%95%84%EC%9D%B4%EC%8B%B1%EC%9C%BC%EB%A1%9C%20%EA%B7%B8%EB%A6%B0%20%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4%EB%A5%BC%20%EC%93%B0%EA%B3%A0%20%EB%92%A4%EB%A1%9C%20%EA%B8%B0%EB%8C%80%EC%96%B4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%8B%A4%EB%A5%B8%20%ED%95%98%EB%82%98%EB%8A%94%20%EC%9E%91%EC%9D%80%20%EC%BA%94%EB%94%94%20%EC%BC%80%EC%9D%B8%20%EC%8A%A4%EB%85%B8%ED%81%B4%EC%9D%84%20%EC%B0%A9%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%84%B8%20%EB%B2%88%EC%A7%B8%EB%8A%94%20%EC%B4%88%EC%BD%9C%EB%A6%BF%20%EB%B0%94%20%EC%A1%B0%EA%B0%81%20%EC%9C%84%EC%97%90%EC%84%9C%20%EB%97%8F%EB%AA%A9%EC%B2%98%EB%9F%BC%20%EB%96%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%ED%95%98%ED%8A%B8%20%EB%AA%A8%EC%96%91%EC%9D%98%20%EA%B9%80%EC%9D%B4%20%ED%94%BC%EC%96%B4%EC%98%A4%EB%A6%85%EB%8B%88%EB%8B%A4.%20%EB%A8%B8%EA%B7%B8%EC%9E%94%20%EB%B0%96%EC%9D%98%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%ED%9D%B0%EC%83%89%20%EB%AC%BC%EB%B0%A9%EC%9A%B8%20%EB%AC%B4%EB%8A%AC%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EB%B6%84%ED%99%8D%EC%83%89%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EA%B3%A0%ED%95%B4%EC%83%81%EB%8F%84%2C%20%EB%B0%9D%EC%9D%80%20%EC%83%89%EC%83%81%2C%20%EB%B2%A1%ED%84%B0%20%EC%95%84%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC.)**
 
 ---
 
-### No. 6: Hamster with Cranberry Christmas Card
+### No. 6: 크랜베리 크리스마스 카드를 든 햄스터
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-An exquisite, printable Christmas greeting card illustration in a soft, storybook watercolor style. This prompt generates a heartwarming scene of a chubby hamster enjoying a cranberry, perfect for cozy holiday greetings.
+부드러운 동화책 수채화 스타일의 정교하고 인쇄 가능한 크리스마스 인사 카드 일러스트레이션. 이 프롬프트는 통통한 햄스터가 크랜베리를 즐기는 따뜻한 장면을 생성하여 아늑한 연말연시 인사에 완벽합니다.
 
 #### 📝 프롬프트
 
 ```
-An exquisite, printable Christmas greeting card illustration in a soft, storybook watercolor style, aspect ratio 1:1.4. The scene is a close-up macro view of a chubby, golden-brown hamster wearing a tiny, knitted red Santa hat. The hamster sits at a miniature wooden table made from a popsicle stick. He is holding a single, bright red cranberry with both paws, looking absolutely delighted with stuffed cheeks. On the table, there is a thimble serving as a cup and a tiny plate with a crumb of cheese. The background is a warm, creamy off-white paper texture with faint watercolor holly leaves in the corners. The mood is cozy, tiny, and heartwarming.
+가로 세로 비율 1:1.4의 부드러운 동화책 수채화 스타일로 제작된 정교하고 인쇄 가능한 크리스마스 인사 카드 일러스트레이션. 장면은 작고 통통한 붉은색 산타 모자를 쓴 통통하고 황금빛 갈색 햄스터의 클로즈업 매크로 뷰입니다. 햄스터는 아이스크림 막대로 만든 미니어처 나무 테이블에 앉아 있습니다. 그는 두 발로 밝은 빨간색 크랜베리 하나를 들고 있으며, 볼이 가득 차서 매우 기뻐 보입니다. 테이블 위에는 컵 역할을 하는 골무와 치즈 부스러기가 담긴 작은 접시가 있습니다. 배경은 따뜻하고 크리미한 미색 종이 질감이며, 모서리에는 희미한 수채화 호랑가시나무 잎이 있습니다. 분위기는 아늑하고 작고 따뜻합니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -286,7 +284,7 @@ An exquisite, printable Christmas greeting card illustration in a soft, storyboo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640781703_na5jwz_1765640043553-nm924c-v6X3sYZq6ZQlE3UIvAPoabB8Ho4z8Ad4d8qgY2yVkAAAAASUVORK5CYII_" width="600" alt="Hamster with Cranberry Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640781703_na5jwz_1765640043553-nm924c-v6X3sYZq6ZQlE3UIvAPoabB8Ho4z8Ad4d8qgY2yVkAAAAASUVORK5CYII_" width="600" alt="크랜베리 크리스마스 카드를 든 햄스터 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -296,57 +294,23 @@ An exquisite, printable Christmas greeting card illustration in a soft, storyboo
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20exquisite%2C%20printable%20Christmas%20greeting%20card%20illustration%20in%20a%20soft%2C%20storybook%20watercolor%20style%2C%20aspect%20ratio%201%3A1.4.%20The%20scene%20is%20a%20close-up%20macro%20view%20of%20a%20chubby%2C%20golden-brown%20hamster%20wearing%20a%20tiny%2C%20knitted%20red%20Santa%20hat.%20The%20hamster%20sits%20at%20a%20miniature%20wooden%20table%20made%20from%20a%20popsicle%20stick.%20He%20is%20holding%20a%20single%2C%20bright%20red%20cranberry%20with%20both%20paws%2C%20looking%20absolutely%20delighted%20with%20stuffed%20cheeks.%20On%20the%20table%2C%20there%20is%20a%20thimble%20serving%20as%20a%20cup%20and%20a%20tiny%20plate%20with%20a%20crumb%20of%20cheese.%20The%20background%20is%20a%20warm%2C%20creamy%20off-white%20paper%20texture%20with%20faint%20watercolor%20holly%20leaves%20in%20the%20corners.%20The%20mood%20is%20cozy%2C%20tiny%2C%20and%20heartwarming.)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EA%B0%80%EB%A1%9C%20%EC%84%B8%EB%A1%9C%20%EB%B9%84%EC%9C%A8%201%3A1.4%EC%9D%98%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EB%8F%99%ED%99%94%EC%B1%85%20%EC%88%98%EC%B1%84%ED%99%94%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A1%9C%20%EC%A0%9C%EC%9E%91%EB%90%9C%20%EC%A0%95%EA%B5%90%ED%95%98%EA%B3%A0%20%EC%9D%B8%EC%87%84%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%9D%B8%EC%82%AC%20%EC%B9%B4%EB%93%9C%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98.%20%EC%9E%A5%EB%A9%B4%EC%9D%80%20%EC%9E%91%EA%B3%A0%20%ED%86%B5%ED%86%B5%ED%95%9C%20%EB%B6%89%EC%9D%80%EC%83%89%20%EC%82%B0%ED%83%80%20%EB%AA%A8%EC%9E%90%EB%A5%BC%20%EC%93%B4%20%ED%86%B5%ED%86%B5%ED%95%98%EA%B3%A0%20%ED%99%A9%EA%B8%88%EB%B9%9B%20%EA%B0%88%EC%83%89%20%ED%96%84%EC%8A%A4%ED%84%B0%EC%9D%98%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%20%EB%A7%A4%ED%81%AC%EB%A1%9C%20%EB%B7%B0%EC%9E%85%EB%8B%88%EB%8B%A4.%20%ED%96%84%EC%8A%A4%ED%84%B0%EB%8A%94%20%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%20%EB%A7%89%EB%8C%80%EB%A1%9C%20%EB%A7%8C%EB%93%A0%20%EB%AF%B8%EB%8B%88%EC%96%B4%EC%B2%98%20%EB%82%98%EB%AC%B4%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90%20%EC%95%89%EC%95%84%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B7%B8%EB%8A%94%20%EB%91%90%20%EB%B0%9C%EB%A1%9C%20%EB%B0%9D%EC%9D%80%20%EB%B9%A8%EA%B0%84%EC%83%89%20%ED%81%AC%EB%9E%9C%EB%B2%A0%EB%A6%AC%20%ED%95%98%EB%82%98%EB%A5%BC%20%EB%93%A4%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EB%B3%BC%EC%9D%B4%20%EA%B0%80%EB%93%9D%20%EC%B0%A8%EC%84%9C%20%EB%A7%A4%EC%9A%B0%20%EA%B8%B0%EB%BB%90%20%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4.%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%9C%84%EC%97%90%EB%8A%94%20%EC%BB%B5%20%EC%97%AD%ED%95%A0%EC%9D%84%20%ED%95%98%EB%8A%94%20%EA%B3%A8%EB%AC%B4%EC%99%80%20%EC%B9%98%EC%A6%88%20%EB%B6%80%EC%8A%A4%EB%9F%AC%EA%B8%B0%EA%B0%80%20%EB%8B%B4%EA%B8%B4%20%EC%9E%91%EC%9D%80%20%EC%A0%91%EC%8B%9C%EA%B0%80%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EB%94%B0%EB%9C%BB%ED%95%98%EA%B3%A0%20%ED%81%AC%EB%A6%AC%EB%AF%B8%ED%95%9C%20%EB%AF%B8%EC%83%89%20%EC%A2%85%EC%9D%B4%20%EC%A7%88%EA%B0%90%EC%9D%B4%EB%A9%B0%2C%20%EB%AA%A8%EC%84%9C%EB%A6%AC%EC%97%90%EB%8A%94%20%ED%9D%AC%EB%AF%B8%ED%95%9C%20%EC%88%98%EC%B1%84%ED%99%94%20%ED%98%B8%EB%9E%91%EA%B0%80%EC%8B%9C%EB%82%98%EB%AC%B4%20%EC%9E%8E%EC%9D%B4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%B6%84%EC%9C%84%EA%B8%B0%EB%8A%94%20%EC%95%84%EB%8A%91%ED%95%98%EA%B3%A0%20%EC%9E%91%EA%B3%A0%20%EB%94%B0%EB%9C%BB%ED%95%A9%EB%8B%88%EB%8B%A4.)**
 
 ---
 
-### No. 7: Cat in Christmas Lights Christmas Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-A humorous and cute printable card design featuring a mischievous black cat tangled in a mess of colorful vintage Christmas lights. This prompt is perfect for creating funny holiday cards that capture the playful chaos of pets during Christmas.
-
-#### 📝 프롬프트
-
-```
-A humorous and cute printable card design, aspect ratio 1:1.4. The illustration features a chaotic, tangled mess of colorful vintage Christmas lights (red, green, blue, yellow bulbs) forming a rough ball shape in the center of a solid white background. Emerging from the center of the tangle is a cute black cat with wide, yellow eyes and a mischievous expression. The cat has one paw stuck out, batting at a loose bulb. A "To/From" gift tag is tangled in the wire, dangling from the cat's ear. The style is a flat graphic illustration with clean lines and vibrant colors. Text at the bottom: {argument name="text" default="I Helped."} in a messy, scratchy black font.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640781919_674amh_1765640041031-9iqp3v-4fNTsfFaeOKTYAAAAASUVORK5CYII_" width="600" alt="Cat in Christmas Lights Christmas Card - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **출처:** [Twitter Post](null)
-- **게시일:** 2025년 12월 13일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20humorous%20and%20cute%20printable%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20illustration%20features%20a%20chaotic%2C%20tangled%20mess%20of%20colorful%20vintage%20Christmas%20lights%20(red%2C%20green%2C%20blue%2C%20yellow%20bulbs)%20forming%20a%20rough%20ball%20shape%20in%20the%20center%20of%20a%20solid%20white%20background.%20Emerging%20from%20the%20center%20of%20the%20tangle%20is%20a%20cute%20black%20cat%20with%20wide%2C%20yellow%20eyes%20and%20a%20mischievous%20expression.%20The%20cat%20has%20one%20paw%20stuck%20out%2C%20batting%20at%20a%20loose%20bulb.%20A%20%22To%2FFrom%22%20gift%20tag%20is%20tangled%20in%20the%20wire%2C%20dangling%20from%20the%20cat's%20ear.%20The%20style%20is%20a%20flat%20graphic%20illustration%20with%20clean%20lines%20and%20vibrant%20colors.%20Text%20at%20the%20bottom%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22I%20Helped.%22%7D%20in%20a%20messy%2C%20scratchy%20black%20font.)**
-
----
-
-### No. 8: Gingerbread Yoga Class Christmas Card
+### No. 7: 크리스마스 조명 속 고양이 크리스마스 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-A cheerful and adorable printable Christmas card design featuring five cute gingerbread men cookies in a 'Yoga Class'. This prompt is perfect for creating heartwarming holiday greetings with a touch of humor and cuteness.
+알록달록한 빈티지 크리스마스 조명에 엉킨 장난기 넘치는 검은 고양이가 그려진 유머러스하고 귀여운 인쇄용 카드 디자인입니다. 이 프롬프트는 크리스마스 동안 반려동물의 장난스러운 혼돈을 담아내는 재미있는 홀리데이 카드를 만드는 데 완벽합니다.
 
 #### 📝 프롬프트
 
 ```
-A funny and adorable printable Christmas card design, aspect ratio 1:1.4. The background is a solid, clean pastel mint green. The illustration features a "Yoga Class" of five cute gingerbread men cookies. The central gingerbread man is standing on one leg in a "Tree Pose," balancing a gumdrop on his head with a focused expression. To his left, another cookie is attempting a "Downward Dog" pose but his arm has crumbled slightly, revealing delicious cookie crumbs. To the right, a gingerbread man is meditating in "Lotus position" with his icing eyes closed. They all have white icing details and red red-hot candy buttons. The style is a clean, flat vector illustration with soft shadows. Text at the top reads: {argument name="text" default="Find Your Inner Piece"} in a playful, rounded white font.
+재미있고 귀여운 인쇄용 카드 디자인, 가로세로 비율 1:1.4. 단색의 흰색 배경 중앙에 다채로운 빈티지 크리스마스 조명(빨간색, 녹색, 파란색, 노란색 전구)이 엉망진창으로 얽혀 대략적인 공 모양을 이루고 있는 일러스트레이션입니다. 엉킨 조명 한가운데에서 커다란 노란 눈과 장난기 가득한 표정을 한 귀여운 검은 고양이가 나타납니다. 고양이는 한쪽 발을 내밀어 느슨한 전구를 치고 있습니다. 전선에 엉킨 "To/From" 선물 태그가 고양이 귀에서 대롱대롱 매달려 있습니다. 깔끔한 선과 생생한 색상의 플랫 그래픽 일러스트레이션 스타일입니다. 하단 텍스트: {argument name="text" default="I Helped."} (지저분하고 긁힌 듯한 검은색 글꼴).
 ```
 
 #### 🖼️ 생성된 이미지
@@ -354,7 +318,7 @@ A funny and adorable printable Christmas card design, aspect ratio 1:1.4. The ba
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640780963_w8tis9_1765640041792-ya1lsk-kYut4TGuYNPXl4D3U4NlBYnZnxEwH_L7GY8tY3qO5QAAAAAElFTkSuQmCC" width="600" alt="Gingerbread Yoga Class Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640781919_674amh_1765640041031-9iqp3v-4fNTsfFaeOKTYAAAAASUVORK5CYII_" width="600" alt="크리스마스 조명 속 고양이 크리스마스 카드 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -364,22 +328,22 @@ A funny and adorable printable Christmas card design, aspect ratio 1:1.4. The ba
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20and%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20background%20is%20a%20solid%2C%20clean%20pastel%20mint%20green.%20The%20illustration%20features%20a%20%22Yoga%20Class%22%20of%20five%20cute%20gingerbread%20men%20cookies.%20The%20central%20gingerbread%20man%20is%20standing%20on%20one%20leg%20in%20a%20%22Tree%20Pose%2C%22%20balancing%20a%20gumdrop%20on%20his%20head%20with%20a%20focused%20expression.%20To%20his%20left%2C%20another%20cookie%20is%20attempting%20a%20%22Downward%20Dog%22%20pose%20but%20his%20arm%20has%20crumbled%20slightly%2C%20revealing%20delicious%20cookie%20crumbs.%20To%20the%20right%2C%20a%20gingerbread%20man%20is%20meditating%20in%20%22Lotus%20position%22%20with%20his%20icing%20eyes%20closed.%20They%20all%20have%20white%20icing%20details%20and%20red%20red-hot%20candy%20buttons.%20The%20style%20is%20a%20clean%2C%20flat%20vector%20illustration%20with%20soft%20shadows.%20Text%20at%20the%20top%20reads%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Find%20Your%20Inner%20Piece%22%7D%20in%20a%20playful%2C%20rounded%20white%20font.)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B3%A0%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%EC%9D%B8%EC%87%84%EC%9A%A9%20%EC%B9%B4%EB%93%9C%20%EB%94%94%EC%9E%90%EC%9D%B8%2C%20%EA%B0%80%EB%A1%9C%EC%84%B8%EB%A1%9C%20%EB%B9%84%EC%9C%A8%201%3A1.4.%20%EB%8B%A8%EC%83%89%EC%9D%98%20%ED%9D%B0%EC%83%89%20%EB%B0%B0%EA%B2%BD%20%EC%A4%91%EC%95%99%EC%97%90%20%EB%8B%A4%EC%B1%84%EB%A1%9C%EC%9A%B4%20%EB%B9%88%ED%8B%B0%EC%A7%80%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%A1%B0%EB%AA%85(%EB%B9%A8%EA%B0%84%EC%83%89%2C%20%EB%85%B9%EC%83%89%2C%20%ED%8C%8C%EB%9E%80%EC%83%89%2C%20%EB%85%B8%EB%9E%80%EC%83%89%20%EC%A0%84%EA%B5%AC)%EC%9D%B4%20%EC%97%89%EB%A7%9D%EC%A7%84%EC%B0%BD%EC%9C%BC%EB%A1%9C%20%EC%96%BD%ED%98%80%20%EB%8C%80%EB%9E%B5%EC%A0%81%EC%9D%B8%20%EA%B3%B5%20%EB%AA%A8%EC%96%91%EC%9D%84%20%EC%9D%B4%EB%A3%A8%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%97%89%ED%82%A8%20%EC%A1%B0%EB%AA%85%20%ED%95%9C%EA%B0%80%EC%9A%B4%EB%8D%B0%EC%97%90%EC%84%9C%20%EC%BB%A4%EB%8B%A4%EB%9E%80%20%EB%85%B8%EB%9E%80%20%EB%88%88%EA%B3%BC%20%EC%9E%A5%EB%82%9C%EA%B8%B0%20%EA%B0%80%EB%93%9D%ED%95%9C%20%ED%91%9C%EC%A0%95%EC%9D%84%20%ED%95%9C%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%EA%B2%80%EC%9D%80%20%EA%B3%A0%EC%96%91%EC%9D%B4%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%A9%EB%8B%88%EB%8B%A4.%20%EA%B3%A0%EC%96%91%EC%9D%B4%EB%8A%94%20%ED%95%9C%EC%AA%BD%20%EB%B0%9C%EC%9D%84%20%EB%82%B4%EB%B0%80%EC%96%B4%20%EB%8A%90%EC%8A%A8%ED%95%9C%20%EC%A0%84%EA%B5%AC%EB%A5%BC%20%EC%B9%98%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%A0%84%EC%84%A0%EC%97%90%20%EC%97%89%ED%82%A8%20%22To%2FFrom%22%20%EC%84%A0%EB%AC%BC%20%ED%83%9C%EA%B7%B8%EA%B0%80%20%EA%B3%A0%EC%96%91%EC%9D%B4%20%EA%B7%80%EC%97%90%EC%84%9C%20%EB%8C%80%EB%A1%B1%EB%8C%80%EB%A1%B1%20%EB%A7%A4%EB%8B%AC%EB%A0%A4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B9%94%EB%81%94%ED%95%9C%20%EC%84%A0%EA%B3%BC%20%EC%83%9D%EC%83%9D%ED%95%9C%20%EC%83%89%EC%83%81%EC%9D%98%20%ED%94%8C%EB%9E%AB%20%EA%B7%B8%EB%9E%98%ED%94%BD%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9E%85%EB%8B%88%EB%8B%A4.%20%ED%95%98%EB%8B%A8%20%ED%85%8D%EC%8A%A4%ED%8A%B8%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22I%20Helped.%22%7D%20(%EC%A7%80%EC%A0%80%EB%B6%84%ED%95%98%EA%B3%A0%20%EA%B8%81%ED%9E%8C%20%EB%93%AF%ED%95%9C%20%EA%B2%80%EC%9D%80%EC%83%89%20%EA%B8%80%EA%BC%B4).)**
 
 ---
 
-### No. 9: Polar Bear and Penguin Scarf Christmas Card
+### No. 8: 진저브레드 요가 수업 크리스마스 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-A heartwarming and whimsical Christmas card cover depicting an unlikely friendship between a massive polar bear and a tiny penguin, connected by a comically oversized scarf. Ideal for conveying themes of friendship and warmth during the holidays.
+'요가 수업'을 하는 귀여운 진저브레드 쿠키 다섯 마리가 그려진, 유쾌하고 사랑스러운 인쇄용 크리스마스 카드 디자인입니다. 이 프롬프트는 유머와 귀여움을 더해 마음 따뜻한 연말연시 인사를 만드는 데 완벽합니다.
 
 #### 📝 프롬프트
 
 ```
-A heartwarming and whimsical Christmas card cover, aspect ratio 1:1.4. A massive, fluffy white polar bear sits on the left, and a tiny, round penguin stands on the right against a clean, ice-blue background. They are connected by a comically long, oversized red and green knitted scarf that is wrapped multiple times around the bear's neck and then loops down to wrap snugly around the tiny penguin. The penguin is looking up at the bear with admiration. The texture of the fur and the knit wool is visible and soft. Simple white snowflakes fall gently around them. No text, just a sweet image of friendship.
+재미있고 사랑스러운 인쇄용 크리스마스 카드 디자인, 가로세로 비율 1:1.4. 배경은 단색의 깔끔한 파스텔 민트 그린입니다. 일러스트레이션에는 다섯 명의 귀여운 진저브레드 맨 쿠키들이 "요가 수업"을 하고 있습니다. 중앙의 진저브레드 맨은 "나무 자세"로 한쪽 다리로 서서 집중한 표정으로 머리 위에 젤리 드롭을 균형 잡고 있습니다. 그의 왼쪽에는 다른 쿠키가 "다운워드 독" 자세를 시도하고 있지만 팔이 약간 부서져 맛있는 쿠키 부스러기가 보입니다. 오른쪽에는 진저브레드 맨이 아이싱 눈을 감고 "연꽃 자세"로 명상하고 있습니다. 그들은 모두 흰색 아이싱 디테일과 빨간색 레드핫 캔디 단추를 가지고 있습니다. 스타일은 부드러운 그림자가 있는 깔끔하고 평면적인 벡터 일러스트레이션입니다. 상단에는 장난기 넘치는 둥근 흰색 글꼴로 "Find Your Inner Piece"라는 텍스트가 있습니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -387,7 +351,7 @@ A heartwarming and whimsical Christmas card cover, aspect ratio 1:1.4. A massive
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765641085323_jvvhse_image.png" width="600" alt="Polar Bear and Penguin Scarf Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640780963_w8tis9_1765640041792-ya1lsk-kYut4TGuYNPXl4D3U4NlBYnZnxEwH_L7GY8tY3qO5QAAAAAElFTkSuQmCC" width="600" alt="진저브레드 요가 수업 크리스마스 카드 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -397,23 +361,22 @@ A heartwarming and whimsical Christmas card cover, aspect ratio 1:1.4. A massive
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20heartwarming%20and%20whimsical%20Christmas%20card%20cover%2C%20aspect%20ratio%201%3A1.4.%20A%20massive%2C%20fluffy%20white%20polar%20bear%20sits%20on%20the%20left%2C%20and%20a%20tiny%2C%20round%20penguin%20stands%20on%20the%20right%20against%20a%20clean%2C%20ice-blue%20background.%20They%20are%20connected%20by%20a%20comically%20long%2C%20oversized%20red%20and%20green%20knitted%20scarf%20that%20is%20wrapped%20multiple%20times%20around%20the%20bear's%20neck%20and%20then%20loops%20down%20to%20wrap%20snugly%20around%20the%20tiny%20penguin.%20The%20penguin%20is%20looking%20up%20at%20the%20bear%20with%20admiration.%20The%20texture%20of%20the%20fur%20and%20the%20knit%20wool%20is%20visible%20and%20soft.%20Simple%20white%20snowflakes%20fall%20gently%20around%20them.%20No%20text%2C%20just%20a%20sweet%20image%20of%20friendship.)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B3%A0%20%EC%82%AC%EB%9E%91%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%9D%B8%EC%87%84%EC%9A%A9%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C%20%EB%94%94%EC%9E%90%EC%9D%B8%2C%20%EA%B0%80%EB%A1%9C%EC%84%B8%EB%A1%9C%20%EB%B9%84%EC%9C%A8%201%3A1.4.%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EB%8B%A8%EC%83%89%EC%9D%98%20%EA%B9%94%EB%81%94%ED%95%9C%20%ED%8C%8C%EC%8A%A4%ED%85%94%20%EB%AF%BC%ED%8A%B8%20%EA%B7%B8%EB%A6%B0%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%EC%97%90%EB%8A%94%20%EB%8B%A4%EC%84%AF%20%EB%AA%85%EC%9D%98%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%EC%A7%84%EC%A0%80%EB%B8%8C%EB%A0%88%EB%93%9C%20%EB%A7%A8%20%EC%BF%A0%ED%82%A4%EB%93%A4%EC%9D%B4%20%22%EC%9A%94%EA%B0%80%20%EC%88%98%EC%97%85%22%EC%9D%84%20%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%A4%91%EC%95%99%EC%9D%98%20%EC%A7%84%EC%A0%80%EB%B8%8C%EB%A0%88%EB%93%9C%20%EB%A7%A8%EC%9D%80%20%22%EB%82%98%EB%AC%B4%20%EC%9E%90%EC%84%B8%22%EB%A1%9C%20%ED%95%9C%EC%AA%BD%20%EB%8B%A4%EB%A6%AC%EB%A1%9C%20%EC%84%9C%EC%84%9C%20%EC%A7%91%EC%A4%91%ED%95%9C%20%ED%91%9C%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EB%A8%B8%EB%A6%AC%20%EC%9C%84%EC%97%90%20%EC%A0%A4%EB%A6%AC%20%EB%93%9C%EB%A1%AD%EC%9D%84%20%EA%B7%A0%ED%98%95%20%EC%9E%A1%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B7%B8%EC%9D%98%20%EC%99%BC%EC%AA%BD%EC%97%90%EB%8A%94%20%EB%8B%A4%EB%A5%B8%20%EC%BF%A0%ED%82%A4%EA%B0%80%20%22%EB%8B%A4%EC%9A%B4%EC%9B%8C%EB%93%9C%20%EB%8F%85%22%20%EC%9E%90%EC%84%B8%EB%A5%BC%20%EC%8B%9C%EB%8F%84%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%A7%80%EB%A7%8C%20%ED%8C%94%EC%9D%B4%20%EC%95%BD%EA%B0%84%20%EB%B6%80%EC%84%9C%EC%A0%B8%20%EB%A7%9B%EC%9E%88%EB%8A%94%20%EC%BF%A0%ED%82%A4%20%EB%B6%80%EC%8A%A4%EB%9F%AC%EA%B8%B0%EA%B0%80%20%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EB%8A%94%20%EC%A7%84%EC%A0%80%EB%B8%8C%EB%A0%88%EB%93%9C%20%EB%A7%A8%EC%9D%B4%20%EC%95%84%EC%9D%B4%EC%8B%B1%20%EB%88%88%EC%9D%84%20%EA%B0%90%EA%B3%A0%20%22%EC%97%B0%EA%BD%83%20%EC%9E%90%EC%84%B8%22%EB%A1%9C%20%EB%AA%85%EC%83%81%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B7%B8%EB%93%A4%EC%9D%80%20%EB%AA%A8%EB%91%90%20%ED%9D%B0%EC%83%89%20%EC%95%84%EC%9D%B4%EC%8B%B1%20%EB%94%94%ED%85%8C%EC%9D%BC%EA%B3%BC%20%EB%B9%A8%EA%B0%84%EC%83%89%20%EB%A0%88%EB%93%9C%ED%95%AB%20%EC%BA%94%EB%94%94%20%EB%8B%A8%EC%B6%94%EB%A5%BC%20%EA%B0%80%EC%A7%80%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%80%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EA%B7%B8%EB%A6%BC%EC%9E%90%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0%20%ED%8F%89%EB%A9%B4%EC%A0%81%EC%9D%B8%20%EB%B2%A1%ED%84%B0%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%83%81%EB%8B%A8%EC%97%90%EB%8A%94%20%EC%9E%A5%EB%82%9C%EA%B8%B0%20%EB%84%98%EC%B9%98%EB%8A%94%20%EB%91%A5%EA%B7%BC%20%ED%9D%B0%EC%83%89%20%EA%B8%80%EA%BC%B4%EB%A1%9C%20%22Find%20Your%20Inner%20Piece%22%EB%9D%BC%EB%8A%94%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)**
 
 ---
 
-### No. 10: Watercolor Snowy Cabin Landscape
+### No. 9: 북극곰과 펭귄 스카프 크리스마스 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-A serene watercolor Christmas card featuring a lonely cabin in a snowy field at sunset with beautiful gradient skies, perfect for conveying peaceful holiday sentiments
+거대한 북극곰과 작은 펭귄이 우스꽝스러울 정도로 큰 스카프로 연결되어 있는, 예상치 못한 우정을 묘사한 따뜻하고 기발한 크리스마스 카드 표지입니다. 연말연시의 우정과 따뜻함을 전하는 데 이상적입니다.
 
 #### 📝 프롬프트
 
 ```
-A serene watercolor landscape, --ar 10:14. A lonely cabin in a vast snowy field at sunset. The sky is a gradient of {argument name="sky color 1" default="purple"}, {argument name="sky color 2" default="pink"}, and {argument name="sky color 3" default="orange"}. Smoke rises vertically from the chimney. Soft, wet-on-wet watercolor technique.
+따뜻하고 기발한 크리스마스 카드 표지, 가로세로 비율 1:1.4. 거대한 털복숭이 흰 북극곰이 왼쪽에 앉아 있고, 작고 통통한 펭귄이 깨끗한 얼음색 배경을 등지고 오른쪽에 서 있습니다. 이 둘은 우스꽝스러울 정도로 길고 커다란 빨간색과 초록색 뜨개질 스카프로 연결되어 있는데, 스카프는 곰의 목에 여러 번 감겨 있고, 아래로 늘어져 작은 펭귄을 포근하게 감싸고 있습니다. 펭귄은 곰을 존경스러운 눈빛으로 올려다보고 있습니다. 털과 뜨개질된 양모의 질감이 부드럽게 보입니다. 단순한 흰 눈송이가 그들 주위로 부드럽게 내립니다. 글자는 없고, 우정의 달콤한 이미지입니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -421,7 +384,7 @@ A serene watercolor landscape, --ar 10:14. A lonely cabin in a vast snowy field 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640542662_il05z4_1765635182535-9ggafe-o6rQAAAAASUVORK5CYII_" width="600" alt="Watercolor Snowy Cabin Landscape - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765641085323_jvvhse_image.png" width="600" alt="북극곰과 펭귄 스카프 크리스마스 카드 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -431,57 +394,23 @@ A serene watercolor landscape, --ar 10:14. A lonely cabin in a vast snowy field 
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20serene%20watercolor%20landscape%2C%20--ar%2010%3A14.%20A%20lonely%20cabin%20in%20a%20vast%20snowy%20field%20at%20sunset.%20The%20sky%20is%20a%20gradient%20of%20%7Bargument%20name%3D%22sky%20color%201%22%20default%3D%22purple%22%7D%2C%20%7Bargument%20name%3D%22sky%20color%202%22%20default%3D%22pink%22%7D%2C%20and%20%7Bargument%20name%3D%22sky%20color%203%22%20default%3D%22orange%22%7D.%20Smoke%20rises%20vertically%20from%20the%20chimney.%20Soft%2C%20wet-on-wet%20watercolor%20technique.)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EB%94%B0%EB%9C%BB%ED%95%98%EA%B3%A0%20%EA%B8%B0%EB%B0%9C%ED%95%9C%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C%20%ED%91%9C%EC%A7%80%2C%20%EA%B0%80%EB%A1%9C%EC%84%B8%EB%A1%9C%20%EB%B9%84%EC%9C%A8%201%3A1.4.%20%EA%B1%B0%EB%8C%80%ED%95%9C%20%ED%84%B8%EB%B3%B5%EC%88%AD%EC%9D%B4%20%ED%9D%B0%20%EB%B6%81%EA%B7%B9%EA%B3%B0%EC%9D%B4%20%EC%99%BC%EC%AA%BD%EC%97%90%20%EC%95%89%EC%95%84%20%EC%9E%88%EA%B3%A0%2C%20%EC%9E%91%EA%B3%A0%20%ED%86%B5%ED%86%B5%ED%95%9C%20%ED%8E%AD%EA%B7%84%EC%9D%B4%20%EA%B9%A8%EB%81%97%ED%95%9C%20%EC%96%BC%EC%9D%8C%EC%83%89%20%EB%B0%B0%EA%B2%BD%EC%9D%84%20%EB%93%B1%EC%A7%80%EA%B3%A0%20%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%20%EC%84%9C%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%9D%B4%20%EB%91%98%EC%9D%80%20%EC%9A%B0%EC%8A%A4%EA%BD%9D%EC%8A%A4%EB%9F%AC%EC%9A%B8%20%EC%A0%95%EB%8F%84%EB%A1%9C%20%EA%B8%B8%EA%B3%A0%20%EC%BB%A4%EB%8B%A4%EB%9E%80%20%EB%B9%A8%EA%B0%84%EC%83%89%EA%B3%BC%20%EC%B4%88%EB%A1%9D%EC%83%89%20%EB%9C%A8%EA%B0%9C%EC%A7%88%20%EC%8A%A4%EC%B9%B4%ED%94%84%EB%A1%9C%20%EC%97%B0%EA%B2%B0%EB%90%98%EC%96%B4%20%EC%9E%88%EB%8A%94%EB%8D%B0%2C%20%EC%8A%A4%EC%B9%B4%ED%94%84%EB%8A%94%20%EA%B3%B0%EC%9D%98%20%EB%AA%A9%EC%97%90%20%EC%97%AC%EB%9F%AC%20%EB%B2%88%20%EA%B0%90%EA%B2%A8%20%EC%9E%88%EA%B3%A0%2C%20%EC%95%84%EB%9E%98%EB%A1%9C%20%EB%8A%98%EC%96%B4%EC%A0%B8%20%EC%9E%91%EC%9D%80%20%ED%8E%AD%EA%B7%84%EC%9D%84%20%ED%8F%AC%EA%B7%BC%ED%95%98%EA%B2%8C%20%EA%B0%90%EC%8B%B8%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%ED%8E%AD%EA%B7%84%EC%9D%80%20%EA%B3%B0%EC%9D%84%20%EC%A1%B4%EA%B2%BD%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EB%88%88%EB%B9%9B%EC%9C%BC%EB%A1%9C%20%EC%98%AC%EB%A0%A4%EB%8B%A4%EB%B3%B4%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%ED%84%B8%EA%B3%BC%20%EB%9C%A8%EA%B0%9C%EC%A7%88%EB%90%9C%20%EC%96%91%EB%AA%A8%EC%9D%98%20%EC%A7%88%EA%B0%90%EC%9D%B4%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C%20%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EB%8B%A8%EC%88%9C%ED%95%9C%20%ED%9D%B0%20%EB%88%88%EC%86%A1%EC%9D%B4%EA%B0%80%20%EA%B7%B8%EB%93%A4%20%EC%A3%BC%EC%9C%84%EB%A1%9C%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C%20%EB%82%B4%EB%A6%BD%EB%8B%88%EB%8B%A4.%20%EA%B8%80%EC%9E%90%EB%8A%94%20%EC%97%86%EA%B3%A0%2C%20%EC%9A%B0%EC%A0%95%EC%9D%98%20%EB%8B%AC%EC%BD%A4%ED%95%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9E%85%EB%8B%88%EB%8B%A4.)**
 
 ---
 
-### No. 11: Luxury Navy Snowflake Mandala Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-An elegant luxury Christmas card with deep navy velvet texture and an intricate gold foil snowflake mandala design, perfect for premium holiday greetings
-
-#### 📝 프롬프트
-
-```
-An exquisite luxury card design, --ar 10:14. A deep {argument name="background color" default="navy blue"} velvet texture background. In the center, a large, intricate snowflake mandala is rendered in embossed {argument name="foil color" default="gold"} foil. The {argument name="foil color" default="gold"} looks shiny and metallic.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640540780_ipxvdo_1765635134196-lrarow-2kokD3ed6blAAAAAElFTkSuQmCC" width="600" alt="Luxury Navy Snowflake Mandala Card - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **출처:** [Twitter Post](null)
-- **게시일:** 2025년 12월 13일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20exquisite%20luxury%20card%20design%2C%20--ar%2010%3A14.%20A%20deep%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22navy%20blue%22%7D%20velvet%20texture%20background.%20In%20the%20center%2C%20a%20large%2C%20intricate%20snowflake%20mandala%20is%20rendered%20in%20embossed%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20foil.%20The%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20looks%20shiny%20and%20metallic.)**
-
----
-
-### No. 12: Vintage Travel Poster Winter Scene
+### No. 10: 수채화 설경 오두막 풍경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-A Christmas card designed in vintage travel poster style featuring a snowy mountain lodge with bold flat colors and screen print texture aesthetics
+눈 덮인 들판 위 외딴 오두막과 아름다운 그라데이션 하늘이 어우러진 고요한 수채화 크리스마스 카드. 평화로운 연말연시 분위기를 전하기에 완벽합니다.
 
 #### 📝 프롬프트
 
 ```
-A vintage travel poster style Christmas card. A stylized view of a snowy mountain lodge with a skier. Bold flat colors, screen print texture. Text at bottom: "{argument name="message" default="Winter Wonderland"}". --ar 10:14
+고요한 수채화 풍경, --ar 10:14. 해 질 녘 광활한 설원 위에 외딴 오두막 한 채. 하늘은 {argument name="sky color 1" default="purple"}, {argument name="sky color 2" default="pink"}, {argument name="sky color 3" default="orange"} 색상이 그러데이션을 이루고 있다. 굴뚝에서는 연기가 수직으로 피어오른다. 부드러운 습식 수채화 기법.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -489,7 +418,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640539963_cytycj_1765635109580-9y3we0-pA7TteiD0AAAAASUVORK5CYII_" width="600" alt="Vintage Travel Poster Winter Scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640542662_il05z4_1765635182535-9ggafe-o6rQAAAAASUVORK5CYII_" width="600" alt="수채화 설경 오두막 풍경 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -499,56 +428,23 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vintage%20travel%20poster%20style%20Christmas%20card.%20A%20stylized%20view%20of%20a%20snowy%20mountain%20lodge%20with%20a%20skier.%20Bold%20flat%20colors%2C%20screen%20print%20texture.%20Text%20at%20bottom%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Winter%20Wonderland%22%7D%22.%20--ar%2010%3A14)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EA%B3%A0%EC%9A%94%ED%95%9C%20%EC%88%98%EC%B1%84%ED%99%94%20%ED%92%8D%EA%B2%BD%2C%20--ar%2010%3A14.%20%ED%95%B4%20%EC%A7%88%20%EB%85%98%20%EA%B4%91%ED%99%9C%ED%95%9C%20%EC%84%A4%EC%9B%90%20%EC%9C%84%EC%97%90%20%EC%99%B8%EB%94%B4%20%EC%98%A4%EB%91%90%EB%A7%89%20%ED%95%9C%20%EC%B1%84.%20%ED%95%98%EB%8A%98%EC%9D%80%20%7Bargument%20name%3D%22sky%20color%201%22%20default%3D%22purple%22%7D%2C%20%7Bargument%20name%3D%22sky%20color%202%22%20default%3D%22pink%22%7D%2C%20%7Bargument%20name%3D%22sky%20color%203%22%20default%3D%22orange%22%7D%20%EC%83%89%EC%83%81%EC%9D%B4%20%EA%B7%B8%EB%9F%AC%EB%8D%B0%EC%9D%B4%EC%85%98%EC%9D%84%20%EC%9D%B4%EB%A3%A8%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B5%B4%EB%9A%9D%EC%97%90%EC%84%9C%EB%8A%94%20%EC%97%B0%EA%B8%B0%EA%B0%80%20%EC%88%98%EC%A7%81%EC%9C%BC%EB%A1%9C%20%ED%94%BC%EC%96%B4%EC%98%A4%EB%A5%B8%EB%8B%A4.%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EC%8A%B5%EC%8B%9D%20%EC%88%98%EC%B1%84%ED%99%94%20%EA%B8%B0%EB%B2%95.)**
 
 ---
 
-### No. 13: Nostalgic Toy Shop Window Scene
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-A heartwarming nostalgic illustration of a toy shop window at night with a toy train and tin soldiers, capturing the magic of Christmas through a child's eyes
-
-#### 📝 프롬프트
-
-```
-A nostalgic illustration of a toy shop window at night. Inside, a toy train circles a tree, and tin soldiers stand guard. The window frame is wood, and snow gathers in the corners. Warm yellow glow from inside.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640538051_l3wk8q_1765635100465-0itgcp-q3LGyuyZ2kAAAAASUVORK5CYII_" width="600" alt="Nostalgic Toy Shop Window Scene - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **출처:** [Twitter Post](null)
-- **게시일:** 2025년 12월 13일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20nostalgic%20illustration%20of%20a%20toy%20shop%20window%20at%20night.%20Inside%2C%20a%20toy%20train%20circles%20a%20tree%2C%20and%20tin%20soldiers%20stand%20guard.%20The%20window%20frame%20is%20wood%2C%20and%20snow%20gathers%20in%20the%20corners.%20Warm%20yellow%20glow%20from%20inside.)**
-
----
-
-### No. 14: Mid-Century Modern Christmas Card
+### No. 11: 럭셔리 네이비 스노우플레이크 만다라 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-A retro geometric Christmas design with mid-century modern atomic starbursts and diamond shapes in vibrant colors, perfect for fans of 1950s aesthetic
+깊은 네이비 벨벳 질감과 정교한 금박 눈꽃 만다라 디자인이 돋보이는 우아하고 고급스러운 크리스마스 카드. 프리미엄 홀리데이 인사말에 완벽합니다.
 
 #### 📝 프롬프트
 
 ```
-A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and diamond shapes in {argument name="color 1" default="gold"}, {argument name="color 2" default="turquoise"}, and {argument name="color 3" default="orange"} on a {argument name="background color" default="cream"} background. "{argument name="greeting" default="Merry Christmas"}" in a retro 50s font.
+아름다운 럭셔리 카드 디자인, --ar 10:14. 짙은 {argument name="background color" default="navy blue"} 벨벳 질감 배경. 중앙에는 복잡한 눈꽃 만다라가 양각 {argument name="foil color" default="gold"} 포일로 렌더링되어 있습니다. {argument name="foil color" default="gold"} 포일은 반짝이고 금속성 느낌을 줍니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -556,7 +452,7 @@ A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and d
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640534853_4frela_b134e84f62985454897a3a713d0f4096c786ca67f9c4dfb65b4d6a97e7e5bcc8" width="600" alt="Mid-Century Modern Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640540780_ipxvdo_1765635134196-lrarow-2kokD3ed6blAAAAAElFTkSuQmCC" width="600" alt="럭셔리 네이비 스노우플레이크 만다라 카드 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -566,23 +462,23 @@ A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and d
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20retro%20geometric%20design%2C%20--ar%2010%3A14.%20Mid-century%20modern%20atomic%20starbursts%20and%20diamond%20shapes%20in%20%7Bargument%20name%3D%22color%201%22%20default%3D%22gold%22%7D%2C%20%7Bargument%20name%3D%22color%202%22%20default%3D%22turquoise%22%7D%2C%20and%20%7Bargument%20name%3D%22color%203%22%20default%3D%22orange%22%7D%20on%20a%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22cream%22%7D%20background.%20%22%7Bargument%20name%3D%22greeting%22%20default%3D%22Merry%20Christmas%22%7D%22%20in%20a%20retro%2050s%20font.)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EB%9F%AD%EC%85%94%EB%A6%AC%20%EC%B9%B4%EB%93%9C%20%EB%94%94%EC%9E%90%EC%9D%B8%2C%20--ar%2010%3A14.%20%EC%A7%99%EC%9D%80%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22navy%20blue%22%7D%20%EB%B2%A8%EB%B2%B3%20%EC%A7%88%EA%B0%90%20%EB%B0%B0%EA%B2%BD.%20%EC%A4%91%EC%95%99%EC%97%90%EB%8A%94%20%EB%B3%B5%EC%9E%A1%ED%95%9C%20%EB%88%88%EA%BD%83%20%EB%A7%8C%EB%8B%A4%EB%9D%BC%EA%B0%80%20%EC%96%91%EA%B0%81%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20%ED%8F%AC%EC%9D%BC%EB%A1%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81%EB%90%98%EC%96%B4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20%ED%8F%AC%EC%9D%BC%EC%9D%80%20%EB%B0%98%EC%A7%9D%EC%9D%B4%EA%B3%A0%20%EA%B8%88%EC%86%8D%EC%84%B1%20%EB%8A%90%EB%82%8C%EC%9D%84%20%EC%A4%8D%EB%8B%88%EB%8B%A4.)**
 
 ---
 
-### No. 15: Victorian Father Christmas Postcard
+### No. 12: 빈티지 여행 포스터: 겨울 풍경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-A vintage-style Christmas card inspired by Victorian postcards, featuring Father Christmas in traditional robes walking through a snowy village with detailed cross-hatching artwork
+대담하고 평평한 색상과 스크린 프린트 질감 미학이 돋보이는 눈 덮인 산장 빈티지 여행 포스터 스타일로 디자인된 크리스마스 카드
 
 #### 📝 프롬프트
 
 ```
-A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic Father Christmas in a long {argument name="robe color" default="green"} robe with {argument name="trim color" default="gold"} trim walks through a snowy village carrying a lantern. Muted colors, aged paper texture, detailed cross-hatching.
+빈티지 여행 포스터 스타일의 크리스마스 카드. 스키어가 있는 눈 덮인 산장 풍경을 양식화한 그림. 대담하고 평평한 색상, 스크린 프린트 질감. 하단 텍스트: "{argument name="message" default="Winter Wonderland"}". --ar 10:14
 ```
 
 #### 🖼️ 생성된 이미지
@@ -590,7 +486,7 @@ A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640534049_tgsk25_1765635084662-g11ln5-wFfN5JebHRCEgAAAABJRU5ErkJggg__" width="600" alt="Victorian Father Christmas Postcard - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640539963_cytycj_1765635109580-9y3we0-pA7TteiD0AAAAASUVORK5CYII_" width="600" alt="빈티지 여행 포스터: 겨울 풍경 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -600,23 +496,56 @@ A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vintage%20Victorian%20Christmas%20postcard%20style%20illustration%2C%20--ar%2010%3A14.%20A%20classic%20Father%20Christmas%20in%20a%20long%20%7Bargument%20name%3D%22robe%20color%22%20default%3D%22green%22%7D%20robe%20with%20%7Bargument%20name%3D%22trim%20color%22%20default%3D%22gold%22%7D%20trim%20walks%20through%20a%20snowy%20village%20carrying%20a%20lantern.%20Muted%20colors%2C%20aged%20paper%20texture%2C%20detailed%20cross-hatching.)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EB%B9%88%ED%8B%B0%EC%A7%80%20%EC%97%AC%ED%96%89%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%98%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C.%20%EC%8A%A4%ED%82%A4%EC%96%B4%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EB%88%88%20%EB%8D%AE%EC%9D%B8%20%EC%82%B0%EC%9E%A5%20%ED%92%8D%EA%B2%BD%EC%9D%84%20%EC%96%91%EC%8B%9D%ED%99%94%ED%95%9C%20%EA%B7%B8%EB%A6%BC.%20%EB%8C%80%EB%8B%B4%ED%95%98%EA%B3%A0%20%ED%8F%89%ED%8F%89%ED%95%9C%20%EC%83%89%EC%83%81%2C%20%EC%8A%A4%ED%81%AC%EB%A6%B0%20%ED%94%84%EB%A6%B0%ED%8A%B8%20%EC%A7%88%EA%B0%90.%20%ED%95%98%EB%8B%A8%20%ED%85%8D%EC%8A%A4%ED%8A%B8%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Winter%20Wonderland%22%7D%22.%20--ar%2010%3A14)**
 
 ---
 
-### No. 16: Sleepy Animals Stack Christmas Card
+### No. 13: 향수를 불러일으키는 장난감 가게 진열장 풍경
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+장난감 기차와 양철 병정들이 있는 밤의 장난감 가게 창문 그림. 아이의 눈으로 본 크리스마스의 마법을 담아 마음을 따뜻하게 하는 향수를 불러일으키는 일러스트레이션.
+
+#### 📝 프롬프트
+
+```
+밤에 장난감 가게 창문을 정겹게 그린 삽화. 안에서는 장난감 기차가 트리를 돌고 있고, 양철 병정들이 경계를 서고 있습니다. 창문 틀은 나무로 되어 있고, 모서리에는 눈이 쌓여 있습니다. 내부에서는 따뜻한 노란색 불빛이 새어 나옵니다.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640538051_l3wk8q_1765635100465-0itgcp-q3LGyuyZ2kAAAAASUVORK5CYII_" width="600" alt="향수를 불러일으키는 장난감 가게 진열장 풍경 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **출처:** [Twitter Post](null)
+- **게시일:** 2025년 12월 13일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EB%B0%A4%EC%97%90%20%EC%9E%A5%EB%82%9C%EA%B0%90%20%EA%B0%80%EA%B2%8C%20%EC%B0%BD%EB%AC%B8%EC%9D%84%20%EC%A0%95%EA%B2%B9%EA%B2%8C%20%EA%B7%B8%EB%A6%B0%20%EC%82%BD%ED%99%94.%20%EC%95%88%EC%97%90%EC%84%9C%EB%8A%94%20%EC%9E%A5%EB%82%9C%EA%B0%90%20%EA%B8%B0%EC%B0%A8%EA%B0%80%20%ED%8A%B8%EB%A6%AC%EB%A5%BC%20%EB%8F%8C%EA%B3%A0%20%EC%9E%88%EA%B3%A0%2C%20%EC%96%91%EC%B2%A0%20%EB%B3%91%EC%A0%95%EB%93%A4%EC%9D%B4%20%EA%B2%BD%EA%B3%84%EB%A5%BC%20%EC%84%9C%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%B0%BD%EB%AC%B8%20%ED%8B%80%EC%9D%80%20%EB%82%98%EB%AC%B4%EB%A1%9C%20%EB%90%98%EC%96%B4%20%EC%9E%88%EA%B3%A0%2C%20%EB%AA%A8%EC%84%9C%EB%A6%AC%EC%97%90%EB%8A%94%20%EB%88%88%EC%9D%B4%20%EC%8C%93%EC%97%AC%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C%EB%8A%94%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EB%85%B8%EB%9E%80%EC%83%89%20%EB%B6%88%EB%B9%9B%EC%9D%B4%20%EC%83%88%EC%96%B4%20%EB%82%98%EC%98%B5%EB%8B%88%EB%8B%A4.)**
+
+---
+
+### No. 14: 미드 센추리 모던 크리스마스 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-A heartwarming cartoon illustration of three adorable animals hibernating together under a cozy quilt, perfect for conveying comfort and warmth during the holidays
+활기찬 색상의 미드 센추리 모던 아토믹 스타버스트와 다이아몬드 모양이 특징인 레트로 기하학적 크리스마스 디자인으로, 1950년대 미학을 좋아하는 분들께 완벽합니다.
 
 #### 📝 프롬프트
 
 ```
-A cute cartoon illustration. A stack of three sleepy animals: a {argument name="bottom animal" default="bear"} at the bottom, a {argument name="middle animal" default="fox"} in the middle, and a {argument name="top animal" default="bunny"} on top, all hibernating together under a patchwork quilt. "{argument name="message" default="Cozy & Bright"}" text in the clouds above. --ar 10:14
+레트로 기하학적 디자인, --ar 10:14. {argument name="color 1" default="골드"}, {argument name="color 2" default="터콰이즈"}, {argument name="color 3" default="오렌지"} 색상의 미드 센추리 모던 아토믹 스타버스트와 다이아몬드 형태가 {argument name="background color" default="크림"} 배경 위에 있습니다. 레트로 50년대 폰트로 "{argument name="greeting" default="메리 크리스마스"}" 문구가 있습니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -624,7 +553,7 @@ A cute cartoon illustration. A stack of three sleepy animals: a {argument name="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640532908_mfv73e_1765635069764-sv27ex-wusdZkTvGMQIAAAAABJRU5ErkJggg__" width="600" alt="Sleepy Animals Stack Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640534853_4frela_b134e84f62985454897a3a713d0f4096c786ca67f9c4dfb65b4d6a97e7e5bcc8" width="600" alt="미드 센추리 모던 크리스마스 카드 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -634,23 +563,23 @@ A cute cartoon illustration. A stack of three sleepy animals: a {argument name="
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20cartoon%20illustration.%20A%20stack%20of%20three%20sleepy%20animals%3A%20a%20%7Bargument%20name%3D%22bottom%20animal%22%20default%3D%22bear%22%7D%20at%20the%20bottom%2C%20a%20%7Bargument%20name%3D%22middle%20animal%22%20default%3D%22fox%22%7D%20in%20the%20middle%2C%20and%20a%20%7Bargument%20name%3D%22top%20animal%22%20default%3D%22bunny%22%7D%20on%20top%2C%20all%20hibernating%20together%20under%20a%20patchwork%20quilt.%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Cozy%20%26%20Bright%22%7D%22%20text%20in%20the%20clouds%20above.%20--ar%2010%3A14)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EB%A0%88%ED%8A%B8%EB%A1%9C%20%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81%20%EB%94%94%EC%9E%90%EC%9D%B8%2C%20--ar%2010%3A14.%20%7Bargument%20name%3D%22color%201%22%20default%3D%22%EA%B3%A8%EB%93%9C%22%7D%2C%20%7Bargument%20name%3D%22color%202%22%20default%3D%22%ED%84%B0%EC%BD%B0%EC%9D%B4%EC%A6%88%22%7D%2C%20%7Bargument%20name%3D%22color%203%22%20default%3D%22%EC%98%A4%EB%A0%8C%EC%A7%80%22%7D%20%EC%83%89%EC%83%81%EC%9D%98%20%EB%AF%B8%EB%93%9C%20%EC%84%BC%EC%B6%94%EB%A6%AC%20%EB%AA%A8%EB%8D%98%20%EC%95%84%ED%86%A0%EB%AF%B9%20%EC%8A%A4%ED%83%80%EB%B2%84%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C%20%ED%98%95%ED%83%9C%EA%B0%80%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22%ED%81%AC%EB%A6%BC%22%7D%20%EB%B0%B0%EA%B2%BD%20%EC%9C%84%EC%97%90%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%A0%88%ED%8A%B8%EB%A1%9C%2050%EB%85%84%EB%8C%80%20%ED%8F%B0%ED%8A%B8%EB%A1%9C%20%22%7Bargument%20name%3D%22greeting%22%20default%3D%22%EB%A9%94%EB%A6%AC%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%22%7D%22%20%EB%AC%B8%EA%B5%AC%EA%B0%80%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)**
 
 ---
 
-### No. 17: Penguin Christmas Lights Struggle Card
+### No. 15: 빅토리아 시대의 산타클로스 엽서
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-A humorous Christmas card featuring a cute cartoon penguin struggling with tangled Christmas lights, perfect for adding humor to holiday greetings
+빅토리아 시대 엽서에서 영감을 받은 빈티지 스타일 크리스마스 카드. 전통 의상을 입은 산타클로스가 눈 덮인 마을을 걷는 모습이 섬세한 크로스 해칭 아트로 표현되어 있습니다.
 
 #### 📝 프롬프트
 
 ```
-A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is struggling to untangle a massive ball of colorful Christmas lights. The penguin looks frustrated but adorable. White background with soft blue snow shadows. Text: "{argument name="message" default="It's that time again..."}"
+빈티지 빅토리아 시대 크리스마스 엽서 스타일 일러스트레이션, --ar 10:14. 긴 {argument name="robe color" default="green"} 로브에 {argument name="trim color" default="gold"} 테두리를 두른 고전적인 산타클로스가 등불을 들고 눈 덮인 마을을 걷고 있습니다. 차분한 색상, 오래된 종이 질감, 섬세한 크로스 해칭.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -658,7 +587,7 @@ A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is stru
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640528355_3myo91_1765635017613-5duglp-7YSFQGgTiLwAAAABJRU5ErkJggg__" width="600" alt="Penguin Christmas Lights Struggle Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640534049_tgsk25_1765635084662-g11ln5-wFfN5JebHRCEgAAAABJRU5ErkJggg__" width="600" alt="빅토리아 시대의 산타클로스 엽서 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -668,23 +597,23 @@ A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is stru
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20funny%20printable%20Christmas%20card%2C%20--ar%2010%3A14.%20A%20cartoon%20penguin%20is%20struggling%20to%20untangle%20a%20massive%20ball%20of%20colorful%20Christmas%20lights.%20The%20penguin%20looks%20frustrated%20but%20adorable.%20White%20background%20with%20soft%20blue%20snow%20shadows.%20Text%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22It's%20that%20time%20again...%22%7D%22)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EB%B9%88%ED%8B%B0%EC%A7%80%20%EB%B9%85%ED%86%A0%EB%A6%AC%EC%95%84%20%EC%8B%9C%EB%8C%80%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%97%BD%EC%84%9C%20%EC%8A%A4%ED%83%80%EC%9D%BC%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%2C%20--ar%2010%3A14.%20%EA%B8%B4%20%7Bargument%20name%3D%22robe%20color%22%20default%3D%22green%22%7D%20%EB%A1%9C%EB%B8%8C%EC%97%90%20%7Bargument%20name%3D%22trim%20color%22%20default%3D%22gold%22%7D%20%ED%85%8C%EB%91%90%EB%A6%AC%EB%A5%BC%20%EB%91%90%EB%A5%B8%20%EA%B3%A0%EC%A0%84%EC%A0%81%EC%9D%B8%20%EC%82%B0%ED%83%80%ED%81%B4%EB%A1%9C%EC%8A%A4%EA%B0%80%20%EB%93%B1%EB%B6%88%EC%9D%84%20%EB%93%A4%EA%B3%A0%20%EB%88%88%20%EB%8D%AE%EC%9D%B8%20%EB%A7%88%EC%9D%84%EC%9D%84%20%EA%B1%B7%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%B0%A8%EB%B6%84%ED%95%9C%20%EC%83%89%EC%83%81%2C%20%EC%98%A4%EB%9E%98%EB%90%9C%20%EC%A2%85%EC%9D%B4%20%EC%A7%88%EA%B0%90%2C%20%EC%84%AC%EC%84%B8%ED%95%9C%20%ED%81%AC%EB%A1%9C%EC%8A%A4%20%ED%95%B4%EC%B9%AD.)**
 
 ---
 
-### No. 18: Modern Typography Christmas Tree Card
+### No. 16: 잠자는 동물 스택 크리스마스 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-A minimalist Christmas card design featuring a geometric tree made entirely from holiday typography on a solid background, perfect for modern holiday greetings with clean aesthetics
+아늑한 이불 아래에서 함께 겨울잠을 자는 사랑스러운 동물 세 마리의 훈훈한 카툰 일러스트레이션으로, 연말연시의 편안함과 따뜻함을 전달하기에 완벽합니다.
 
 #### 📝 프롬프트
 
 ```
-A modern, flat graphic Christmas card, --ar 10:14. On a solid {argument name="background color" default="matcha green"} background, a geometric Christmas tree is formed entirely by white typography of varying weights and sizes, spelling out holiday words like "{argument name="word 1" default="Joy"}", "{argument name="word 2" default="Love"}", "{argument name="word 3" default="Noel"}", "{argument name="word 4" default="Snow"}". The overall shape is a clean triangle. Minimalist and bold.
+귀여운 만화 일러스트. 세 마리의 졸린 동물들이 쌓여 있습니다. 맨 아래에는 {argument name="bottom animal" default="곰"}, 중간에는 {argument name="middle animal" default="여우"}, 맨 위에는 {argument name="top animal" default="토끼"}가 모두 조각 이불 아래에서 함께 겨울잠을 자고 있습니다. 구름 위에는 "{argument name="message" default="아늑하고 밝게"}"라는 문구가 있습니다. --ar 10:14
 ```
 
 #### 🖼️ 생성된 이미지
@@ -692,7 +621,7 @@ A modern, flat graphic Christmas card, --ar 10:14. On a solid {argument name="ba
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640527656_l4bqnh_1765634970019-m2ap7w-wXiy8EsMefgSQAAAABJRU5ErkJggg__" width="600" alt="Modern Typography Christmas Tree Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640532908_mfv73e_1765635069764-sv27ex-wusdZkTvGMQIAAAAABJRU5ErkJggg__" width="600" alt="잠자는 동물 스택 크리스마스 카드 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -702,23 +631,23 @@ A modern, flat graphic Christmas card, --ar 10:14. On a solid {argument name="ba
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20modern%2C%20flat%20graphic%20Christmas%20card%2C%20--ar%2010%3A14.%20On%20a%20solid%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22matcha%20green%22%7D%20background%2C%20a%20geometric%20Christmas%20tree%20is%20formed%20entirely%20by%20white%20typography%20of%20varying%20weights%20and%20sizes%2C%20spelling%20out%20holiday%20words%20like%20%22%7Bargument%20name%3D%22word%201%22%20default%3D%22Joy%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%202%22%20default%3D%22Love%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%203%22%20default%3D%22Noel%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%204%22%20default%3D%22Snow%22%7D%22.%20The%20overall%20shape%20is%20a%20clean%20triangle.%20Minimalist%20and%20bold.)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EA%B7%80%EC%97%AC%EC%9A%B4%20%EB%A7%8C%ED%99%94%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.%20%EC%84%B8%20%EB%A7%88%EB%A6%AC%EC%9D%98%20%EC%A1%B8%EB%A6%B0%20%EB%8F%99%EB%AC%BC%EB%93%A4%EC%9D%B4%20%EC%8C%93%EC%97%AC%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%A7%A8%20%EC%95%84%EB%9E%98%EC%97%90%EB%8A%94%20%7Bargument%20name%3D%22bottom%20animal%22%20default%3D%22%EA%B3%B0%22%7D%2C%20%EC%A4%91%EA%B0%84%EC%97%90%EB%8A%94%20%7Bargument%20name%3D%22middle%20animal%22%20default%3D%22%EC%97%AC%EC%9A%B0%22%7D%2C%20%EB%A7%A8%20%EC%9C%84%EC%97%90%EB%8A%94%20%7Bargument%20name%3D%22top%20animal%22%20default%3D%22%ED%86%A0%EB%81%BC%22%7D%EA%B0%80%20%EB%AA%A8%EB%91%90%20%EC%A1%B0%EA%B0%81%20%EC%9D%B4%EB%B6%88%20%EC%95%84%EB%9E%98%EC%97%90%EC%84%9C%20%ED%95%A8%EA%BB%98%20%EA%B2%A8%EC%9A%B8%EC%9E%A0%EC%9D%84%20%EC%9E%90%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B5%AC%EB%A6%84%20%EC%9C%84%EC%97%90%EB%8A%94%20%22%7Bargument%20name%3D%22message%22%20default%3D%22%EC%95%84%EB%8A%91%ED%95%98%EA%B3%A0%20%EB%B0%9D%EA%B2%8C%22%7D%22%EB%9D%BC%EB%8A%94%20%EB%AC%B8%EA%B5%AC%EA%B0%80%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20--ar%2010%3A14)**
 
 ---
 
-### No. 19: Kawaii Hot Cocoa Christmas Card
+### No. 17: 펭귄 크리스마스 조명 고군분투 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-An adorable kawaii-style Christmas card featuring a smiling cup of hot cocoa with cute marshmallows, perfect for sending warm holiday wishes
+엉킨 크리스마스 조명과 씨름하는 귀여운 만화 펭귄이 그려진 유머러스한 크리스마스 카드입니다. 연말연시 인사말에 유머를 더하기에 완벽합니다.
 
 #### 📝 프롬프트
 
 ```
-A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallows bathing in it. The marshmallows have tiny faces. Steam rises in the shape of a heart. Pastel pink background with white polka dots. Text: "{argument name="message" default="Sending you a hug in a mug."}" --ar 10:14
+귀엽고 재미있는 인쇄용 크리스마스 카드, --ar 10:14. 만화 펭귄이 거대한 컬러 크리스마스 조명 뭉치를 풀려고 애쓰고 있습니다. 펭귄은 좌절했지만 사랑스러워 보입니다. 부드러운 파란색 눈 그림자가 있는 흰색 배경. 텍스트: "{argument name="message" default="It's that time again..."}"
 ```
 
 #### 🖼️ 생성된 이미지
@@ -726,7 +655,7 @@ A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640527833_kdwtfz_1765635040104-k0xba7-OlzRR9X9TVgAAAABJRU5ErkJggg__" width="600" alt="Kawaii Hot Cocoa Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640528355_3myo91_1765635017613-5duglp-7YSFQGgTiLwAAAABJRU5ErkJggg__" width="600" alt="펭귄 크리스마스 조명 고군분투 카드 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -736,7 +665,75 @@ A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallo
 - **게시일:** 2025년 12월 13일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20kawaii%20style%20Christmas%20card.%20A%20happy%2C%20smiling%20cup%20of%20hot%20cocoa%20with%20marshmallows%20bathing%20in%20it.%20The%20marshmallows%20have%20tiny%20faces.%20Steam%20rises%20in%20the%20shape%20of%20a%20heart.%20Pastel%20pink%20background%20with%20white%20polka%20dots.%20Text%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Sending%20you%20a%20hug%20in%20a%20mug.%22%7D%22%20--ar%2010%3A14)**
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EA%B7%80%EC%97%BD%EA%B3%A0%20%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%8A%94%20%EC%9D%B8%EC%87%84%EC%9A%A9%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C%2C%20--ar%2010%3A14.%20%EB%A7%8C%ED%99%94%20%ED%8E%AD%EA%B7%84%EC%9D%B4%20%EA%B1%B0%EB%8C%80%ED%95%9C%20%EC%BB%AC%EB%9F%AC%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%A1%B0%EB%AA%85%20%EB%AD%89%EC%B9%98%EB%A5%BC%20%ED%92%80%EB%A0%A4%EA%B3%A0%20%EC%95%A0%EC%93%B0%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%ED%8E%AD%EA%B7%84%EC%9D%80%20%EC%A2%8C%EC%A0%88%ED%96%88%EC%A7%80%EB%A7%8C%20%EC%82%AC%EB%9E%91%EC%8A%A4%EB%9F%AC%EC%9B%8C%20%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%ED%8C%8C%EB%9E%80%EC%83%89%20%EB%88%88%20%EA%B7%B8%EB%A6%BC%EC%9E%90%EA%B0%80%20%EC%9E%88%EB%8A%94%20%ED%9D%B0%EC%83%89%20%EB%B0%B0%EA%B2%BD.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22It's%20that%20time%20again...%22%7D%22)**
+
+---
+
+### No. 18: 모던 타이포그래피 크리스마스 트리 카드
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+단색 배경에 홀리데이 타이포그래피로만 이루어진 기하학적인 트리가 특징인 미니멀리스트 크리스마스 카드 디자인으로, 깔끔한 미학을 가진 모던한 홀리데이 인사말에 완벽합니다.
+
+#### 📝 프롬프트
+
+```
+현대적이고 평면적인 그래픽 크리스마스 카드, --ar 10:14. 단색의 {argument name="background color" default="말차 그린"} 배경에 다양한 굵기와 크기의 흰색 타이포그래피로만 이루어진 기하학적인 크리스마스 트리가 있습니다. 이 타이포그래피는 "{argument name="word 1" default="Joy"}", "{argument name="word 2" default="Love"}", "{argument name="word 3" default="Noel"}", "{argument name="word 4" default="Snow"}"와 같은 홀리데이 단어들을 철자합니다. 전체적인 모양은 깔끔한 삼각형입니다. 미니멀하고 대담합니다.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640527656_l4bqnh_1765634970019-m2ap7w-wXiy8EsMefgSQAAAABJRU5ErkJggg__" width="600" alt="모던 타이포그래피 크리스마스 트리 카드 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **출처:** [Twitter Post](null)
+- **게시일:** 2025년 12월 13일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B4%EA%B3%A0%20%ED%8F%89%EB%A9%B4%EC%A0%81%EC%9D%B8%20%EA%B7%B8%EB%9E%98%ED%94%BD%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C%2C%20--ar%2010%3A14.%20%EB%8B%A8%EC%83%89%EC%9D%98%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22%EB%A7%90%EC%B0%A8%20%EA%B7%B8%EB%A6%B0%22%7D%20%EB%B0%B0%EA%B2%BD%EC%97%90%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EA%B5%B5%EA%B8%B0%EC%99%80%20%ED%81%AC%EA%B8%B0%EC%9D%98%20%ED%9D%B0%EC%83%89%20%ED%83%80%EC%9D%B4%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BC%EB%A1%9C%EB%A7%8C%20%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%84%20%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81%EC%9D%B8%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%8A%B8%EB%A6%AC%EA%B0%80%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EC%9D%B4%20%ED%83%80%EC%9D%B4%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BC%EB%8A%94%20%22%7Bargument%20name%3D%22word%201%22%20default%3D%22Joy%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%202%22%20default%3D%22Love%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%203%22%20default%3D%22Noel%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%204%22%20default%3D%22Snow%22%7D%22%EC%99%80%20%EA%B0%99%EC%9D%80%20%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4%20%EB%8B%A8%EC%96%B4%EB%93%A4%EC%9D%84%20%EC%B2%A0%EC%9E%90%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8%20%EB%AA%A8%EC%96%91%EC%9D%80%20%EA%B9%94%EB%81%94%ED%95%9C%20%EC%82%BC%EA%B0%81%ED%98%95%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%98%EA%B3%A0%20%EB%8C%80%EB%8B%B4%ED%95%A9%EB%8B%88%EB%8B%A4.)**
+
+---
+
+### No. 19: 귀여운 핫 코코아 크리스마스 카드
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+귀여운 마시멜로가 얹어진, 웃는 모습의 따뜻한 코코아 컵이 그려진 사랑스러운 카와이 스타일 크리스마스 카드. 따뜻한 연말연시 인사를 전하기에 완벽합니다.
+
+#### 📝 프롬프트
+
+```
+카와이 스타일의 크리스마스 카드. 마시멜로가 담긴 행복하고 웃는 핫 코코아 한 잔. 마시멜로에는 작은 얼굴이 있다. 하트 모양으로 피어오르는 김. 흰색 물방울 무늬가 있는 파스텔 핑크 배경. 텍스트: "{argument name="message" default="머그잔에 담은 포옹을 보내드립니다."}" --ar 10:14
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640527833_kdwtfz_1765635040104-k0xba7-OlzRR9X9TVgAAAABJRU5ErkJggg__" width="600" alt="귀여운 핫 코코아 크리스마스 카드 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **출처:** [Twitter Post](null)
+- **게시일:** 2025년 12월 13일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/tools/christmas-cards-maker?prompt=%EC%B9%B4%EC%99%80%EC%9D%B4%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%98%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C.%20%EB%A7%88%EC%8B%9C%EB%A9%9C%EB%A1%9C%EA%B0%80%20%EB%8B%B4%EA%B8%B4%20%ED%96%89%EB%B3%B5%ED%95%98%EA%B3%A0%20%EC%9B%83%EB%8A%94%20%ED%95%AB%20%EC%BD%94%EC%BD%94%EC%95%84%20%ED%95%9C%20%EC%9E%94.%20%EB%A7%88%EC%8B%9C%EB%A9%9C%EB%A1%9C%EC%97%90%EB%8A%94%20%EC%9E%91%EC%9D%80%20%EC%96%BC%EA%B5%B4%EC%9D%B4%20%EC%9E%88%EB%8B%A4.%20%ED%95%98%ED%8A%B8%20%EB%AA%A8%EC%96%91%EC%9C%BC%EB%A1%9C%20%ED%94%BC%EC%96%B4%EC%98%A4%EB%A5%B4%EB%8A%94%20%EA%B9%80.%20%ED%9D%B0%EC%83%89%20%EB%AC%BC%EB%B0%A9%EC%9A%B8%20%EB%AC%B4%EB%8A%AC%EA%B0%80%20%EC%9E%88%EB%8A%94%20%ED%8C%8C%EC%8A%A4%ED%85%94%20%ED%95%91%ED%81%AC%20%EB%B0%B0%EA%B2%BD.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22%EB%A8%B8%EA%B7%B8%EC%9E%94%EC%97%90%20%EB%8B%B4%EC%9D%80%20%ED%8F%AC%EC%98%B9%EC%9D%84%20%EB%B3%B4%EB%82%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4.%22%7D%22%20--ar%2010%3A14)**
 
 ---
 
@@ -4070,6 +4067,6 @@ A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallo
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-14T04:34:40.320Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-14T07:27:36.934Z</sub>
 
 </div>

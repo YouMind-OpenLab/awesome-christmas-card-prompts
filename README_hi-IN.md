@@ -24,8 +24,6 @@
 
 ![Cover](public/images/christmas-card-prompts-cover-en.png)
 
-![List](public/images/christmas-card-prompts-list-en.png)
-
 </div>
 
 **[👉 YouMind क्रिसमस कार्ड गैलरी ब्राउज़ करें](https://youmind.com/tools/christmas-cards-maker)**
@@ -90,7 +88,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **100** |
 | ⭐ विशेष | **0** |
-| 🔄 अंतिम अपडेट | **रविवार, 14 दिसंबर 2025 को 4:34:42 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **रविवार, 14 दिसंबर 2025 को 7:27:38 am UTC बजे** |
 
 </div>
 
@@ -100,18 +98,18 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### No. 1: Santa's Laundry Line Christmas Card
+### No. 1: सांता की लॉन्ड्री लाइन क्रिसमस कार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 विवरण
 
-A whimsical and domestic Christmas scene featuring Santa's iconic clothes drying on a tinsel clothesline, including a humorous pair of boxer shorts. This prompt offers a unique and funny take on Santa getting ready for the big day.
+एक मनमोहक और घरेलू क्रिसमस का दृश्य, जिसमें सांता के प्रतिष्ठित कपड़े टिनसेल की कपड़े सुखाने वाली रस्सी पर सूख रहे हैं, जिसमें एक मज़ेदार बॉक्सर शॉर्ट्स की जोड़ी भी शामिल है। यह प्रॉम्प्ट सांता के बड़े दिन की तैयारी का एक अनोखा और मज़ेदार नज़रिया पेश करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made of festive tinsel is strung across a pale blue snowy sky background. Pinned to the line with wooden clothespins are Santa's iconic clothes: his big red jacket with white fur trim, his red trousers, a pair of red suspenders, and a pair of humorous white boxer shorts covered in a pattern of green holly leaves and red berries. A small bluebird is perched on the clothesline. The style is a clean, flat illustration with a paper-cut texture effect. A unique and funny take on Santa getting ready.
+एक मनमोहक और घरेलू क्रिसमस का दृश्य, आस्पेक्ट रेश्यो 1:1.4। एक हल्के नीले बर्फीले आसमान की पृष्ठभूमि में उत्सव की झालर से बनी एक कपड़े की रस्सी बंधी हुई है। रस्सी पर लकड़ी की चिमटियों से सांता के प्रतिष्ठित कपड़े टंगे हुए हैं: सफेद फर ट्रिम वाली उनकी बड़ी लाल जैकेट, उनकी लाल पतलून, लाल सस्पेंडर्स की एक जोड़ी, और हरे होली के पत्तों और लाल जामुन के पैटर्न से ढके हास्यपूर्ण सफेद बॉक्सर शॉर्ट्स की एक जोड़ी। एक छोटा नीला पक्षी कपड़े की रस्सी पर बैठा है। शैली एक साफ, सपाट चित्रण है जिसमें पेपर-कट टेक्सचर प्रभाव है। सांता के तैयार होने का एक अनोखा और मजेदार तरीका।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -119,7 +117,7 @@ A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640793375_1y7v4u_1765640304107-uj3tok-D5EWq0D8IRIBAAAAAElFTkSuQmCC" width="600" alt="Santa's Laundry Line Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640793375_1y7v4u_1765640304107-uj3tok-D5EWq0D8IRIBAAAAAElFTkSuQmCC" width="600" alt="सांता की लॉन्ड्री लाइन क्रिसमस कार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -129,23 +127,23 @@ A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20and%20domestic%20Christmas%20scene%2C%20aspect%20ratio%201%3A1.4.%20A%20clothesline%20made%20of%20festive%20tinsel%20is%20strung%20across%20a%20pale%20blue%20snowy%20sky%20background.%20Pinned%20to%20the%20line%20with%20wooden%20clothespins%20are%20Santa's%20iconic%20clothes%3A%20his%20big%20red%20jacket%20with%20white%20fur%20trim%2C%20his%20red%20trousers%2C%20a%20pair%20of%20red%20suspenders%2C%20and%20a%20pair%20of%20humorous%20white%20boxer%20shorts%20covered%20in%20a%20pattern%20of%20green%20holly%20leaves%20and%20red%20berries.%20A%20small%20bluebird%20is%20perched%20on%20the%20clothesline.%20The%20style%20is%20a%20clean%2C%20flat%20illustration%20with%20a%20paper-cut%20texture%20effect.%20A%20unique%20and%20funny%20take%20on%20Santa%20getting%20ready.)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%AE%E0%A4%A8%E0%A4%AE%E0%A5%8B%E0%A4%B9%E0%A4%95%20%E0%A4%94%E0%A4%B0%20%E0%A4%98%E0%A4%B0%E0%A5%87%E0%A4%B2%E0%A5%82%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%95%E0%A4%BE%20%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF%2C%20%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%20%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%201%3A1.4%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%87%20%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A5%87%20%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%AB%E0%A5%80%E0%A4%B2%E0%A5%87%20%E0%A4%86%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A8%20%E0%A4%95%E0%A5%80%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B5%20%E0%A4%95%E0%A5%80%20%E0%A4%9D%E0%A4%BE%E0%A4%B2%E0%A4%B0%20%E0%A4%B8%E0%A5%87%20%E0%A4%AC%E0%A4%A8%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%95%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A5%80%20%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80%20%E0%A4%B9%E0%A5%81%E0%A4%88%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A5%80%20%E0%A4%AA%E0%A4%B0%20%E0%A4%B2%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%80%20%E0%A4%95%E0%A5%80%20%E0%A4%9A%E0%A4%BF%E0%A4%AE%E0%A4%9F%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%20%E0%A4%B8%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BE%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%BF%E0%A4%A4%20%E0%A4%95%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%9F%E0%A4%82%E0%A4%97%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%B9%E0%A5%88%E0%A4%82%3A%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%AB%E0%A4%B0%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AE%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%89%E0%A4%A8%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A5%80%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%9C%E0%A5%88%E0%A4%95%E0%A5%87%E0%A4%9F%2C%20%E0%A4%89%E0%A4%A8%E0%A4%95%E0%A5%80%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%AA%E0%A4%A4%E0%A4%B2%E0%A5%82%E0%A4%A8%2C%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%B8%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%A1%E0%A4%B0%E0%A5%8D%E0%A4%B8%20%E0%A4%95%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%9C%E0%A5%8B%E0%A4%A1%E0%A4%BC%E0%A5%80%2C%20%E0%A4%94%E0%A4%B0%20%E0%A4%B9%E0%A4%B0%E0%A5%87%20%E0%A4%B9%E0%A5%8B%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%82%20%E0%A4%94%E0%A4%B0%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%9C%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%88%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%A8%20%E0%A4%B8%E0%A5%87%20%E0%A4%A2%E0%A4%95%E0%A5%87%20%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%AC%E0%A5%89%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%B0%20%E0%A4%B6%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B8%20%E0%A4%95%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%9C%E0%A5%8B%E0%A4%A1%E0%A4%BC%E0%A5%80%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A4%BE%20%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE%20%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80%20%E0%A4%95%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A5%80%20%E0%A4%AA%E0%A4%B0%20%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A4%BE%E0%A4%AB%2C%20%E0%A4%B8%E0%A4%AA%E0%A4%BE%E0%A4%9F%20%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A3%20%E0%A4%B9%E0%A5%88%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AA%E0%A5%87%E0%A4%AA%E0%A4%B0-%E0%A4%95%E0%A4%9F%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%9A%E0%A4%B0%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B5%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BE%20%E0%A4%95%E0%A5%87%20%E0%A4%A4%E0%A5%88%E0%A4%AF%E0%A4%BE%E0%A4%B0%20%E0%A4%B9%E0%A5%8B%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%85%E0%A4%A8%E0%A5%8B%E0%A4%96%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%AE%E0%A4%9C%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%20%E0%A4%A4%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A4%BE%E0%A5%A4)**
 
 ---
 
-### No. 2: Sloth Hanging from Candy Cane Christmas Card
+### No. 2: कैंडी केन से लटका हुआ स्लॉथ क्रिसमस कार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-An adorable printable Christmas card design featuring a slow-moving sloth hanging from a candy cane, trying to reach a Christmas tree. This prompt is perfect for creating charming and funny holiday greetings with a unique touch.
+एक प्यारा प्रिंट करने योग्य क्रिसमस कार्ड डिज़ाइन जिसमें एक धीरे-धीरे चलने वाला स्लॉथ कैंडी केन से लटका हुआ है, जो क्रिसमस ट्री तक पहुँचने की कोशिश कर रहा है। यह प्रॉम्प्ट एक अनोखे अंदाज़ के साथ आकर्षक और मज़ेदार छुट्टियों की शुभकामनाएँ बनाने के लिए एकदम सही है।
 
 #### 📝 प्रॉम्पट
 
 ```
-An adorable printable Christmas card design, aspect ratio 1:1.4. A cute, slow-moving sloth hangs upside down from a candy cane that stretches horizontally across the top of the card. The sloth is wearing a festive ugly Christmas sweater with a pixelated snowflake pattern. He is holding a star tree topper in his slow claws, trying to reach a Christmas tree that is just out of frame. The background is a solid deep teal color to make the sloth pop. Below the sloth, the text reads: {argument name="text" default="Slowly getting into the Spirit"} in a relaxed, hand-lettered font.
+एक मनमोहक प्रिंट करने योग्य क्रिसमस कार्ड डिज़ाइन, आस्पेक्ट रेश्यो 1:1.4। एक प्यारा, धीरे-धीरे चलने वाला स्लॉथ एक कैंडी केन से उल्टा लटका हुआ है जो कार्ड के ऊपर क्षैतिज रूप से फैला हुआ है। स्लॉथ ने पिक्सेलयुक्त स्नोफ्लेक पैटर्न वाला एक उत्सवपूर्ण बदसूरत क्रिसमस स्वेटर पहना हुआ है। वह अपने धीमे पंजों में एक स्टार ट्री टॉपर पकड़े हुए है, जो एक क्रिसमस ट्री तक पहुँचने की कोशिश कर रहा है जो फ्रेम से ठीक बाहर है। स्लॉथ को उभारने के लिए पृष्ठभूमि एक ठोस गहरा टील रंग की है। स्लॉथ के नीचे, टेक्स्ट में लिखा है: {argument name="text" default="Slowly getting into the Spirit"} एक आरामदायक, हाथ से लिखे हुए फ़ॉन्ट में।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -153,7 +151,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. A cute, slow-mo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640792570_as7oyl_1765640333881-lkq034-EZMiYLAuMw9pQ64ferde4Pu_d1y3UHlI792dxd75JBOzmGh1ODnaQby1qWlttEk7O5OxGmv9dcmSdyMuSTd96MmYgfF6Gh_BYdr4ZU6ci6sKkXILWADyJjyL1ps4zHLI1UkgGfvIv8BYOpTNrui_hYAAAAASUVORK5CYII_" width="600" alt="Sloth Hanging from Candy Cane Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640792570_as7oyl_1765640333881-lkq034-EZMiYLAuMw9pQ64ferde4Pu_d1y3UHlI792dxd75JBOzmGh1ODnaQby1qWlttEk7O5OxGmv9dcmSdyMuSTd96MmYgfF6Gh_BYdr4ZU6ci6sKkXILWADyJjyL1ps4zHLI1UkgGfvIv8BYOpTNrui_hYAAAAASUVORK5CYII_" width="600" alt="कैंडी केन से लटका हुआ स्लॉथ क्रिसमस कार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -163,23 +161,23 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. A cute, slow-mo
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20cute%2C%20slow-moving%20sloth%20hangs%20upside%20down%20from%20a%20candy%20cane%20that%20stretches%20horizontally%20across%20the%20top%20of%20the%20card.%20The%20sloth%20is%20wearing%20a%20festive%20ugly%20Christmas%20sweater%20with%20a%20pixelated%20snowflake%20pattern.%20He%20is%20holding%20a%20star%20tree%20topper%20in%20his%20slow%20claws%2C%20trying%20to%20reach%20a%20Christmas%20tree%20that%20is%20just%20out%20of%20frame.%20The%20background%20is%20a%20solid%20deep%20teal%20color%20to%20make%20the%20sloth%20pop.%20Below%20the%20sloth%2C%20the%20text%20reads%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Slowly%20getting%20into%20the%20Spirit%22%7D%20in%20a%20relaxed%2C%20hand-lettered%20font.)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%AE%E0%A4%A8%E0%A4%AE%E0%A5%8B%E0%A4%B9%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%A8%2C%20%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%20%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%201%3A1.4%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A4%BE%2C%20%E0%A4%A7%E0%A5%80%E0%A4%B0%E0%A5%87-%E0%A4%A7%E0%A5%80%E0%A4%B0%E0%A5%87%20%E0%A4%9A%E0%A4%B2%E0%A4%A8%E0%A5%87%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A5%89%E0%A4%A5%20%E0%A4%8F%E0%A4%95%20%E0%A4%95%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A5%80%20%E0%A4%95%E0%A5%87%E0%A4%A8%20%E0%A4%B8%E0%A5%87%20%E0%A4%89%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A4%BE%20%E0%A4%B2%E0%A4%9F%E0%A4%95%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B9%E0%A5%88%20%E0%A4%9C%E0%A5%8B%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%95%E0%A5%87%20%E0%A4%8A%E0%A4%AA%E0%A4%B0%20%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%9C%20%E0%A4%B0%E0%A5%82%E0%A4%AA%20%E0%A4%B8%E0%A5%87%20%E0%A4%AB%E0%A5%88%E0%A4%B2%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A5%89%E0%A4%A5%20%E0%A4%A8%E0%A5%87%20%E0%A4%AA%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A4%AF%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4%20%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A5%8B%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%95%20%E0%A4%AA%E0%A5%88%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%A8%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B5%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3%20%E0%A4%AC%E0%A4%A6%E0%A4%B8%E0%A5%82%E0%A4%B0%E0%A4%A4%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%9F%E0%A4%B0%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B5%E0%A4%B9%20%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87%20%E0%A4%A7%E0%A5%80%E0%A4%AE%E0%A5%87%20%E0%A4%AA%E0%A4%82%E0%A4%9C%E0%A5%8B%E0%A4%82%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%9F%E0%A5%89%E0%A4%AA%E0%A4%B0%20%E0%A4%AA%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A5%8B%20%E0%A4%8F%E0%A4%95%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%A4%E0%A4%95%20%E0%A4%AA%E0%A4%B9%E0%A5%81%E0%A4%81%E0%A4%9A%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A5%8B%E0%A4%B6%E0%A4%BF%E0%A4%B6%20%E0%A4%95%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%20%E0%A4%9C%E0%A5%8B%20%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%20%E0%A4%B8%E0%A5%87%20%E0%A4%A0%E0%A5%80%E0%A4%95%20%E0%A4%AC%E0%A4%BE%E0%A4%B9%E0%A4%B0%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A5%89%E0%A4%A5%20%E0%A4%95%E0%A5%8B%20%E0%A4%89%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%20%E0%A4%8F%E0%A4%95%20%E0%A4%A0%E0%A5%8B%E0%A4%B8%20%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE%20%E0%A4%9F%E0%A5%80%E0%A4%B2%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A5%89%E0%A4%A5%20%E0%A4%95%E0%A5%87%20%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87%2C%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A4%BE%20%E0%A4%B9%E0%A5%88%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Slowly%20getting%20into%20the%20Spirit%22%7D%20%E0%A4%8F%E0%A4%95%20%E0%A4%86%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A6%E0%A4%BE%E0%A4%AF%E0%A4%95%2C%20%E0%A4%B9%E0%A4%BE%E0%A4%A5%20%E0%A4%B8%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%AB%E0%A4%BC%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%9F%20%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A5%A4)**
 
 ---
 
-### No. 3: Pug Disguised as Elf Christmas Card
+### No. 3: एल्फ के भेष में पग डॉग क्रिसमस कार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A funny, flat vector illustration for a Christmas card showing a pug dog trying to blend in with Santa's elves. This prompt is perfect for creating humorous and lighthearted holiday greetings.
+क्रिसमस कार्ड के लिए एक मज़ेदार, फ़्लैट वेक्टर इलस्ट्रेशन जिसमें एक पग कुत्ता सांता के एल्व्स के साथ घुलने-मिलने की कोशिश कर रहा है। यह प्रॉम्प्ट हास्यपूर्ण और हल्के-फुल्के हॉलिडे ग्रीटिंग्स बनाने के लिए एकदम सही है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The image shows a horizontal lineup of four Santa's elves dressed in green tunics, red and white striped tights, and pointy hats. In the middle of the line, trying to blend in, is a beige Pug dog standing on its hind legs, wearing the exact same elf costume. The elves on either side are looking at the dog with side-eye suspicion, while the dog looks straight ahead with a blank, innocent expression. The background is a solid festive red. Text at the bottom reads: {argument name="text" default="Day 24: They still suspect nothing."} in a typewriter font.
+क्रिसमस कार्ड के लिए एक मज़ेदार, फ़्लैट वेक्टर इलस्ट्रेशन, आस्पेक्ट रेशियो 1:1.4। इमेज में चार सांता के एल्व्स की एक क्षैतिज कतार दिखाई गई है, जिन्होंने हरे रंग की ट्यूनिक्स, लाल और सफ़ेद धारीदार टाइट्स और नुकीली टोपियाँ पहनी हुई हैं। कतार के बीच में, घुलने-मिलने की कोशिश करता हुआ, एक बेज रंग का पग कुत्ता अपने पिछले पैरों पर खड़ा है, जिसने बिल्कुल वही एल्फ़ कॉस्ट्यूम पहना हुआ है। दोनों तरफ़ के एल्व्स कुत्ते को तिरछी नज़रों से संदेह भरी निगाहों से देख रहे हैं, जबकि कुत्ता एक खाली, मासूम अभिव्यक्ति के साथ सीधा आगे देख रहा है। बैकग्राउंड एक ठोस उत्सवपूर्ण लाल रंग का है। नीचे टाइपराइटर फ़ॉन्ट में टेक्स्ट लिखा है: {argument name="text" default="Day 24: They still suspect nothing."}
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -187,7 +185,7 @@ A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640787455_7y0l1a_1765640309893-18pj8i-B3qh94JBo2i5AAAAAElFTkSuQmCC" width="600" alt="Pug Disguised as Elf Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640787455_7y0l1a_1765640309893-18pj8i-B3qh94JBo2i5AAAAAElFTkSuQmCC" width="600" alt="एल्फ के भेष में पग डॉग क्रिसमस कार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -197,22 +195,22 @@ A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The 
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%2C%20flat%20vector%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20The%20image%20shows%20a%20horizontal%20lineup%20of%20four%20Santa's%20elves%20dressed%20in%20green%20tunics%2C%20red%20and%20white%20striped%20tights%2C%20and%20pointy%20hats.%20In%20the%20middle%20of%20the%20line%2C%20trying%20to%20blend%20in%2C%20is%20a%20beige%20Pug%20dog%20standing%20on%20its%20hind%20legs%2C%20wearing%20the%20exact%20same%20elf%20costume.%20The%20elves%20on%20either%20side%20are%20looking%20at%20the%20dog%20with%20side-eye%20suspicion%2C%20while%20the%20dog%20looks%20straight%20ahead%20with%20a%20blank%2C%20innocent%20expression.%20The%20background%20is%20a%20solid%20festive%20red.%20Text%20at%20the%20bottom%20reads%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Day%2024%3A%20They%20still%20suspect%20nothing.%22%7D%20in%20a%20typewriter%20font.)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%8F%E0%A4%95%20%E0%A4%AE%E0%A4%9C%E0%A4%BC%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%2C%20%E0%A4%AB%E0%A4%BC%E0%A5%8D%E0%A4%B2%E0%A5%88%E0%A4%9F%20%E0%A4%B5%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%B0%20%E0%A4%87%E0%A4%B2%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8%2C%20%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%20%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A5%8B%201%3A1.4%E0%A5%A4%20%E0%A4%87%E0%A4%AE%E0%A5%87%E0%A4%9C%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%9A%E0%A4%BE%E0%A4%B0%20%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BE%20%E0%A4%95%E0%A5%87%20%E0%A4%8F%E0%A4%B2%E0%A5%8D%E0%A4%B5%E0%A5%8D%E0%A4%B8%20%E0%A4%95%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%9C%20%E0%A4%95%E0%A4%A4%E0%A4%BE%E0%A4%B0%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%BE%E0%A4%88%20%E0%A4%97%E0%A4%88%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A5%8B%E0%A4%82%E0%A4%A8%E0%A5%87%20%E0%A4%B9%E0%A4%B0%E0%A5%87%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A5%80%20%E0%A4%9F%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B8%2C%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AB%E0%A4%BC%E0%A5%87%E0%A4%A6%20%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%80%E0%A4%A6%E0%A4%BE%E0%A4%B0%20%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%8D%E0%A4%B8%20%E0%A4%94%E0%A4%B0%20%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%80%E0%A4%B2%E0%A5%80%20%E0%A4%9F%E0%A5%8B%E0%A4%AA%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A5%80%20%E0%A4%B9%E0%A5%81%E0%A4%88%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%95%E0%A4%A4%E0%A4%BE%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%AC%E0%A5%80%E0%A4%9A%20%E0%A4%AE%E0%A5%87%E0%A4%82%2C%20%E0%A4%98%E0%A5%81%E0%A4%B2%E0%A4%A8%E0%A5%87-%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A5%8B%E0%A4%B6%E0%A4%BF%E0%A4%B6%20%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%2C%20%E0%A4%8F%E0%A4%95%20%E0%A4%AC%E0%A5%87%E0%A4%9C%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A4%BE%20%E0%A4%AA%E0%A4%97%20%E0%A4%95%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE%20%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87%20%E0%A4%AA%E0%A4%BF%E0%A4%9B%E0%A4%B2%E0%A5%87%20%E0%A4%AA%E0%A5%88%E0%A4%B0%E0%A5%8B%E0%A4%82%20%E0%A4%AA%E0%A4%B0%20%E0%A4%96%E0%A4%A1%E0%A4%BC%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%A8%E0%A5%87%20%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%81%E0%A4%B2%20%E0%A4%B5%E0%A4%B9%E0%A5%80%20%E0%A4%8F%E0%A4%B2%E0%A5%8D%E0%A4%AB%E0%A4%BC%20%E0%A4%95%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%AE%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%A6%E0%A5%8B%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%A4%E0%A4%B0%E0%A4%AB%E0%A4%BC%20%E0%A4%95%E0%A5%87%20%E0%A4%8F%E0%A4%B2%E0%A5%8D%E0%A4%B5%E0%A5%8D%E0%A4%B8%20%E0%A4%95%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%87%20%E0%A4%95%E0%A5%8B%20%E0%A4%A4%E0%A4%BF%E0%A4%B0%E0%A4%9B%E0%A5%80%20%E0%A4%A8%E0%A4%9C%E0%A4%BC%E0%A4%B0%E0%A5%8B%E0%A4%82%20%E0%A4%B8%E0%A5%87%20%E0%A4%B8%E0%A4%82%E0%A4%A6%E0%A5%87%E0%A4%B9%20%E0%A4%AD%E0%A4%B0%E0%A5%80%20%E0%A4%A8%E0%A4%BF%E0%A4%97%E0%A4%BE%E0%A4%B9%E0%A5%8B%E0%A4%82%20%E0%A4%B8%E0%A5%87%20%E0%A4%A6%E0%A5%87%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%2C%20%E0%A4%9C%E0%A4%AC%E0%A4%95%E0%A4%BF%20%E0%A4%95%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%96%E0%A4%BE%E0%A4%B2%E0%A5%80%2C%20%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A5%82%E0%A4%AE%20%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%B8%E0%A5%80%E0%A4%A7%E0%A4%BE%20%E0%A4%86%E0%A4%97%E0%A5%87%20%E0%A4%A6%E0%A5%87%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AC%E0%A5%88%E0%A4%95%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%89%E0%A4%82%E0%A4%A1%20%E0%A4%8F%E0%A4%95%20%E0%A4%A0%E0%A5%8B%E0%A4%B8%20%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B5%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87%20%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A4%B0%20%E0%A4%AB%E0%A4%BC%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%9F%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A4%BE%20%E0%A4%B9%E0%A5%88%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Day%2024%3A%20They%20still%20suspect%20nothing.%22%7D)**
 
 ---
 
-### No. 4: Reindeer Flight School Christmas Card
+### No. 4: रेनडियर फ्लाइट स्कूल क्रिसमस कार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 विवरण
 
-A charming and funny Christmas card design depicting a baby reindeer's clumsy but determined attempt at flight school, aided by a tiny robin. This prompt is ideal for creating whimsical and endearing holiday messages.
+एक आकर्षक और मज़ेदार क्रिसमस कार्ड डिज़ाइन, जिसमें एक नन्हा बारहसिंगा एक छोटे रॉबिन की मदद से उड़ान स्कूल में अनाड़ी लेकिन दृढ़ प्रयास कर रहा है। यह प्रॉम्प्ट मनमोहक और प्यारी छुट्टियों के संदेश बनाने के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A charming and funny Christmas card design, aspect ratio 1:1.4. The scene depicts a "Reindeer Flight School." A cute, clumsy baby reindeer with a slightly oversized red nose is hovering just a few inches off the snowy ground, legs splayed out in all directions, looking panicked but determined. He is wearing vintage aviator goggles and a brown leather helmet. Behind him, a tiny red robin bird is using its beak to push the reindeer's bottom to help him stay up. The background is a simple, pale blue winter sky with fluffy white clouds. The style is a detailed colored pencil drawing on textured paper.
+एक आकर्षक और मज़ेदार क्रिसमस कार्ड डिज़ाइन, आस्पेक्ट रेश्यो 1:1.4। दृश्य में "रेनडियर फ़्लाइट स्कूल" दिखाया गया है। एक प्यारा, अनाड़ी बच्चा रेनडियर, जिसकी लाल नाक थोड़ी बड़ी है, बर्फीली ज़मीन से कुछ इंच ऊपर हवा में मंडरा रहा है, उसके पैर चारों दिशाओं में फैले हुए हैं, वह घबराया हुआ लेकिन दृढ़ दिख रहा है। उसने विंटेज एविएटर गॉगल्स और एक भूरे रंग का चमड़े का हेलमेट पहना हुआ है। उसके पीछे, एक छोटी लाल रॉबिन चिड़िया अपनी चोंच का उपयोग करके रेनडियर के पिछले हिस्से को ऊपर रहने में मदद कर रही है। पृष्ठभूमि में एक साधारण, हल्का नीला सर्दियों का आकाश है जिसमें फूले हुए सफेद बादल हैं। शैली बनावट वाले कागज़ पर एक विस्तृत रंगीन पेंसिल ड्राइंग है।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -220,7 +218,7 @@ A charming and funny Christmas card design, aspect ratio 1:1.4. The scene depict
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640787943_hq7ga1_1765640065495-37f5mv-8BrHHbyCDq3h0AAAAASUVORK5CYII_" width="600" alt="Reindeer Flight School Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640787943_hq7ga1_1765640065495-37f5mv-8BrHHbyCDq3h0AAAAASUVORK5CYII_" width="600" alt="रेनडियर फ्लाइट स्कूल क्रिसमस कार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -230,22 +228,22 @@ A charming and funny Christmas card design, aspect ratio 1:1.4. The scene depict
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20and%20funny%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20scene%20depicts%20a%20%22Reindeer%20Flight%20School.%22%20A%20cute%2C%20clumsy%20baby%20reindeer%20with%20a%20slightly%20oversized%20red%20nose%20is%20hovering%20just%20a%20few%20inches%20off%20the%20snowy%20ground%2C%20legs%20splayed%20out%20in%20all%20directions%2C%20looking%20panicked%20but%20determined.%20He%20is%20wearing%20vintage%20aviator%20goggles%20and%20a%20brown%20leather%20helmet.%20Behind%20him%2C%20a%20tiny%20red%20robin%20bird%20is%20using%20its%20beak%20to%20push%20the%20reindeer's%20bottom%20to%20help%20him%20stay%20up.%20The%20background%20is%20a%20simple%2C%20pale%20blue%20winter%20sky%20with%20fluffy%20white%20clouds.%20The%20style%20is%20a%20detailed%20colored%20pencil%20drawing%20on%20textured%20paper.)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%86%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%95%20%E0%A4%94%E0%A4%B0%20%E0%A4%AE%E0%A4%9C%E0%A4%BC%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%A8%2C%20%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%20%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%201%3A1.4%E0%A5%A4%20%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%22%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%B0%20%E0%A4%AB%E0%A4%BC%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F%20%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%82%E0%A4%B2%22%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%BE%E0%A4%AF%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A4%BE%2C%20%E0%A4%85%E0%A4%A8%E0%A4%BE%E0%A4%A1%E0%A4%BC%E0%A5%80%20%E0%A4%AC%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE%20%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%B0%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%95%E0%A5%80%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%A8%E0%A4%BE%E0%A4%95%20%E0%A4%A5%E0%A5%8B%E0%A4%A1%E0%A4%BC%E0%A5%80%20%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A5%80%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%AB%E0%A5%80%E0%A4%B2%E0%A5%80%20%E0%A4%9C%E0%A4%BC%E0%A4%AE%E0%A5%80%E0%A4%A8%20%E0%A4%B8%E0%A5%87%20%E0%A4%95%E0%A5%81%E0%A4%9B%20%E0%A4%87%E0%A4%82%E0%A4%9A%20%E0%A4%8A%E0%A4%AA%E0%A4%B0%20%E0%A4%B9%E0%A4%B5%E0%A4%BE%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AE%E0%A4%82%E0%A4%A1%E0%A4%B0%E0%A4%BE%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%88%E0%A4%B0%20%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82%20%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%93%E0%A4%82%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AB%E0%A5%88%E0%A4%B2%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%B9%E0%A5%88%E0%A4%82%2C%20%E0%A4%B5%E0%A4%B9%20%E0%A4%98%E0%A4%AC%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8%20%E0%A4%A6%E0%A5%83%E0%A4%A2%E0%A4%BC%20%E0%A4%A6%E0%A4%BF%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%89%E0%A4%B8%E0%A4%A8%E0%A5%87%20%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A5%87%E0%A4%9C%20%E0%A4%8F%E0%A4%B5%E0%A4%BF%E0%A4%8F%E0%A4%9F%E0%A4%B0%20%E0%A4%97%E0%A5%89%E0%A4%97%E0%A4%B2%E0%A5%8D%E0%A4%B8%20%E0%A4%94%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A5%87%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A4%BE%20%E0%A4%9A%E0%A4%AE%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%95%E0%A4%BE%20%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A4%AE%E0%A5%87%E0%A4%9F%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%80%E0%A4%9B%E0%A5%87%2C%20%E0%A4%8F%E0%A4%95%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%80%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%B0%E0%A5%89%E0%A4%AC%E0%A4%BF%E0%A4%A8%20%E0%A4%9A%E0%A4%BF%E0%A4%A1%E0%A4%BC%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%80%20%E0%A4%9A%E0%A5%8B%E0%A4%82%E0%A4%9A%20%E0%A4%95%E0%A4%BE%20%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%20%E0%A4%95%E0%A4%B0%E0%A4%95%E0%A5%87%20%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A4%BF%E0%A4%9B%E0%A4%B2%E0%A5%87%20%E0%A4%B9%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A5%87%20%E0%A4%95%E0%A5%8B%20%E0%A4%8A%E0%A4%AA%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A4%A8%E0%A5%87%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AE%E0%A4%A6%E0%A4%A6%20%E0%A4%95%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%A3%2C%20%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A4%BE%20%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE%20%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%20%E0%A4%B9%E0%A5%88%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AB%E0%A5%82%E0%A4%B2%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%AC%E0%A4%BE%E0%A4%A6%E0%A4%B2%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%B5%E0%A4%9F%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%87%20%E0%A4%95%E0%A4%BE%E0%A4%97%E0%A4%9C%E0%A4%BC%20%E0%A4%AA%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%83%E0%A4%A4%20%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80%E0%A4%A8%20%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%B8%E0%A4%BF%E0%A4%B2%20%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%97%20%E0%A4%B9%E0%A5%88%E0%A5%A4)**
 
 ---
 
-### No. 5: Marshmallow Hot Tub Christmas Card
+### No. 5: मार्शमैलो हॉट टब क्रिसमस कार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 विवरण
 
-A kawaii style printable Christmas card illustration featuring adorable marshmallow characters relaxing in a mug of hot chocolate. This prompt creates a fun and sweet image, perfect for delightful holiday greetings.
+एक कवाई शैली का प्रिंट करने योग्य क्रिसमस कार्ड चित्रण, जिसमें हॉट चॉकलेट के मग में आराम करते हुए प्यारे मार्शमैलो पात्र दिखाए गए हैं। यह प्रॉम्प्ट एक मज़ेदार और प्यारी छवि बनाता है, जो आनंददायक छुट्टियों की शुभकामनाओं के लिए एकदम सही है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A kawaii style printable Christmas card illustration, aspect ratio 1:1.4. The view is a top-down perspective looking into a red ceramic mug filled with rich, brown hot chocolate. Inside the mug, three adorable white marshmallow characters are relaxing as if it's a hot tub. One marshmallow is leaning back with drawn-on sunglasses made of chocolate icing. Another is wearing a tiny candy cane snorkel. The third is floating on a square of chocolate bar like a raft. Steam swirls rise up in the shape of hearts. The background outside the mug is a soft pink with white polka dots. High resolution, bright colors, vector art style.
+एक कवाई शैली का प्रिंटेबल क्रिसमस कार्ड चित्रण, आस्पेक्ट रेश्यो 1:1.4। दृश्य ऊपर से नीचे का है, जिसमें एक लाल सिरेमिक मग में गाढ़ी, भूरी हॉट चॉकलेट भरी हुई दिख रही है। मग के अंदर, तीन प्यारे सफेद मार्शमैलो पात्र ऐसे आराम कर रहे हैं जैसे कि वह एक हॉट टब हो। एक मार्शमैलो चॉकलेट आइसिंग से बने ड्रॉ-ऑन धूप के चश्मे के साथ पीछे की ओर झुका हुआ है। दूसरा एक छोटा कैंडी केन स्नॉर्कल पहने हुए है। तीसरा चॉकलेट बार के एक चौकोर टुकड़े पर एक बेड़ा की तरह तैर रहा है। भाप के भंवर दिल के आकार में ऊपर उठ रहे हैं। मग के बाहर की पृष्ठभूमि सफेद पोल्का डॉट्स के साथ हल्के गुलाबी रंग की है। उच्च रिज़ॉल्यूशन, चमकीले रंग, वेक्टर आर्ट स्टाइल।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -253,7 +251,7 @@ A kawaii style printable Christmas card illustration, aspect ratio 1:1.4. The vi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640787036_1czg4c_1765640042781-1ksod8-B61Wq24QZe3rAAAAAElFTkSuQmCC" width="600" alt="Marshmallow Hot Tub Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640787036_1czg4c_1765640042781-1ksod8-B61Wq24QZe3rAAAAAElFTkSuQmCC" width="600" alt="मार्शमैलो हॉट टब क्रिसमस कार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -263,22 +261,22 @@ A kawaii style printable Christmas card illustration, aspect ratio 1:1.4. The vi
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20kawaii%20style%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20The%20view%20is%20a%20top-down%20perspective%20looking%20into%20a%20red%20ceramic%20mug%20filled%20with%20rich%2C%20brown%20hot%20chocolate.%20Inside%20the%20mug%2C%20three%20adorable%20white%20marshmallow%20characters%20are%20relaxing%20as%20if%20it's%20a%20hot%20tub.%20One%20marshmallow%20is%20leaning%20back%20with%20drawn-on%20sunglasses%20made%20of%20chocolate%20icing.%20Another%20is%20wearing%20a%20tiny%20candy%20cane%20snorkel.%20The%20third%20is%20floating%20on%20a%20square%20of%20chocolate%20bar%20like%20a%20raft.%20Steam%20swirls%20rise%20up%20in%20the%20shape%20of%20hearts.%20The%20background%20outside%20the%20mug%20is%20a%20soft%20pink%20with%20white%20polka%20dots.%20High%20resolution%2C%20bright%20colors%2C%20vector%20art%20style.)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%95%E0%A4%B5%E0%A4%BE%E0%A4%88%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A5%87%E0%A4%AC%E0%A4%B2%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A3%2C%20%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%20%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%201%3A1.4%E0%A5%A4%20%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF%20%E0%A4%8A%E0%A4%AA%E0%A4%B0%20%E0%A4%B8%E0%A5%87%20%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87%20%E0%A4%95%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%BF%E0%A4%95%20%E0%A4%AE%E0%A4%97%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%97%E0%A4%BE%E0%A4%A2%E0%A4%BC%E0%A5%80%2C%20%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A5%80%20%E0%A4%B9%E0%A5%89%E0%A4%9F%20%E0%A4%9A%E0%A5%89%E0%A4%95%E0%A4%B2%E0%A5%87%E0%A4%9F%20%E0%A4%AD%E0%A4%B0%E0%A5%80%20%E0%A4%B9%E0%A5%81%E0%A4%88%20%E0%A4%A6%E0%A4%BF%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AE%E0%A4%97%20%E0%A4%95%E0%A5%87%20%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%B0%2C%20%E0%A4%A4%E0%A5%80%E0%A4%A8%20%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%87%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%AE%E0%A5%88%E0%A4%B2%E0%A5%8B%20%E0%A4%AA%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%20%E0%A4%90%E0%A4%B8%E0%A5%87%20%E0%A4%86%E0%A4%B0%E0%A4%BE%E0%A4%AE%20%E0%A4%95%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%20%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A5%87%20%E0%A4%95%E0%A4%BF%20%E0%A4%B5%E0%A4%B9%20%E0%A4%8F%E0%A4%95%20%E0%A4%B9%E0%A5%89%E0%A4%9F%20%E0%A4%9F%E0%A4%AC%20%E0%A4%B9%E0%A5%8B%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%AE%E0%A5%88%E0%A4%B2%E0%A5%8B%20%E0%A4%9A%E0%A5%89%E0%A4%95%E0%A4%B2%E0%A5%87%E0%A4%9F%20%E0%A4%86%E0%A4%87%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97%20%E0%A4%B8%E0%A5%87%20%E0%A4%AC%E0%A4%A8%E0%A5%87%20%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A5%89-%E0%A4%91%E0%A4%A8%20%E0%A4%A7%E0%A5%82%E0%A4%AA%20%E0%A4%95%E0%A5%87%20%E0%A4%9A%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%AA%E0%A5%80%E0%A4%9B%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%93%E0%A4%B0%20%E0%A4%9D%E0%A5%81%E0%A4%95%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%A6%E0%A5%82%E0%A4%B8%E0%A4%B0%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A4%BE%20%E0%A4%95%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A5%80%20%E0%A4%95%E0%A5%87%E0%A4%A8%20%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%B2%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%A4%E0%A5%80%E0%A4%B8%E0%A4%B0%E0%A4%BE%20%E0%A4%9A%E0%A5%89%E0%A4%95%E0%A4%B2%E0%A5%87%E0%A4%9F%20%E0%A4%AC%E0%A4%BE%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%9A%E0%A5%8C%E0%A4%95%E0%A5%8B%E0%A4%B0%20%E0%A4%9F%E0%A5%81%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%AA%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%AC%E0%A5%87%E0%A4%A1%E0%A4%BC%E0%A4%BE%20%E0%A4%95%E0%A5%80%20%E0%A4%A4%E0%A4%B0%E0%A4%B9%20%E0%A4%A4%E0%A5%88%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AD%E0%A4%BE%E0%A4%AA%20%E0%A4%95%E0%A5%87%20%E0%A4%AD%E0%A4%82%E0%A4%B5%E0%A4%B0%20%E0%A4%A6%E0%A4%BF%E0%A4%B2%20%E0%A4%95%E0%A5%87%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8A%E0%A4%AA%E0%A4%B0%20%E0%A4%89%E0%A4%A0%20%E0%A4%B0%E0%A4%B9%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%AE%E0%A4%97%20%E0%A4%95%E0%A5%87%20%E0%A4%AC%E0%A4%BE%E0%A4%B9%E0%A4%B0%20%E0%A4%95%E0%A5%80%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%AA%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A4%BE%20%E0%A4%A1%E0%A5%89%E0%A4%9F%E0%A5%8D%E0%A4%B8%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%87%20%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A%20%E0%A4%B0%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A5%89%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B6%E0%A4%A8%2C%20%E0%A4%9A%E0%A4%AE%E0%A4%95%E0%A5%80%E0%A4%B2%E0%A5%87%20%E0%A4%B0%E0%A4%82%E0%A4%97%2C%20%E0%A4%B5%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%B0%20%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%9F%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A5%A4)**
 
 ---
 
-### No. 6: Hamster with Cranberry Christmas Card
+### No. 6: क्रेनबेरी क्रिसमस कार्ड के साथ हैम्स्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 विवरण
 
-An exquisite, printable Christmas greeting card illustration in a soft, storybook watercolor style. This prompt generates a heartwarming scene of a chubby hamster enjoying a cranberry, perfect for cozy holiday greetings.
+एक सुंदर, प्रिंट करने योग्य क्रिसमस ग्रीटिंग कार्ड चित्रण, जो एक नरम, स्टोरीबुक वॉटरकलर शैली में है। यह प्रॉम्प्ट एक मोटे हम्सटर का दिल को छू लेने वाला दृश्य उत्पन्न करता है जो क्रैनबेरी का आनंद ले रहा है, जो आरामदायक छुट्टियों की शुभकामनाओं के लिए एकदम सही है।
 
 #### 📝 प्रॉम्पट
 
 ```
-An exquisite, printable Christmas greeting card illustration in a soft, storybook watercolor style, aspect ratio 1:1.4. The scene is a close-up macro view of a chubby, golden-brown hamster wearing a tiny, knitted red Santa hat. The hamster sits at a miniature wooden table made from a popsicle stick. He is holding a single, bright red cranberry with both paws, looking absolutely delighted with stuffed cheeks. On the table, there is a thimble serving as a cup and a tiny plate with a crumb of cheese. The background is a warm, creamy off-white paper texture with faint watercolor holly leaves in the corners. The mood is cozy, tiny, and heartwarming.
+एक उत्तम, प्रिंट करने योग्य क्रिसमस ग्रीटिंग कार्ड चित्रण, नरम, कहानी-किताब वाली वॉटरकलर शैली में, पहलू अनुपात 1:1.4। दृश्य एक मोटे, सुनहरे-भूरे हम्सटर का क्लोज-अप मैक्रो दृश्य है जिसने एक छोटी, बुनी हुई लाल सांता टोपी पहनी हुई है। हम्सटर एक पॉप्सिकल स्टिक से बनी एक छोटी लकड़ी की मेज पर बैठा है। वह दोनों पंजों से एक अकेली, चमकीली लाल क्रैनबेरी पकड़े हुए है, और भरे हुए गालों के साथ बिल्कुल प्रसन्न दिख रहा है। मेज पर, एक कप के रूप में एक थिम्बल और पनीर के टुकड़े के साथ एक छोटी प्लेट है। पृष्ठभूमि एक गर्म, मलाईदार ऑफ-व्हाइट पेपर टेक्सचर है जिसके कोनों में हल्की वॉटरकलर हॉली पत्तियां हैं। मूड आरामदायक, छोटा और दिल को छू लेने वाला है।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -286,7 +284,7 @@ An exquisite, printable Christmas greeting card illustration in a soft, storyboo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640781703_na5jwz_1765640043553-nm924c-v6X3sYZq6ZQlE3UIvAPoabB8Ho4z8Ad4d8qgY2yVkAAAAASUVORK5CYII_" width="600" alt="Hamster with Cranberry Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640781703_na5jwz_1765640043553-nm924c-v6X3sYZq6ZQlE3UIvAPoabB8Ho4z8Ad4d8qgY2yVkAAAAASUVORK5CYII_" width="600" alt="क्रेनबेरी क्रिसमस कार्ड के साथ हैम्स्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -296,57 +294,23 @@ An exquisite, printable Christmas greeting card illustration in a soft, storyboo
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20exquisite%2C%20printable%20Christmas%20greeting%20card%20illustration%20in%20a%20soft%2C%20storybook%20watercolor%20style%2C%20aspect%20ratio%201%3A1.4.%20The%20scene%20is%20a%20close-up%20macro%20view%20of%20a%20chubby%2C%20golden-brown%20hamster%20wearing%20a%20tiny%2C%20knitted%20red%20Santa%20hat.%20The%20hamster%20sits%20at%20a%20miniature%20wooden%20table%20made%20from%20a%20popsicle%20stick.%20He%20is%20holding%20a%20single%2C%20bright%20red%20cranberry%20with%20both%20paws%2C%20looking%20absolutely%20delighted%20with%20stuffed%20cheeks.%20On%20the%20table%2C%20there%20is%20a%20thimble%20serving%20as%20a%20cup%20and%20a%20tiny%20plate%20with%20a%20crumb%20of%20cheese.%20The%20background%20is%20a%20warm%2C%20creamy%20off-white%20paper%20texture%20with%20faint%20watercolor%20holly%20leaves%20in%20the%20corners.%20The%20mood%20is%20cozy%2C%20tiny%2C%20and%20heartwarming.)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%2C%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A3%2C%20%E0%A4%A8%E0%A4%B0%E0%A4%AE%2C%20%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A5%80-%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%AC%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%B5%E0%A5%89%E0%A4%9F%E0%A4%B0%E0%A4%95%E0%A4%B2%E0%A4%B0%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%AE%E0%A5%87%E0%A4%82%2C%20%E0%A4%AA%E0%A4%B9%E0%A4%B2%E0%A5%82%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%A4%201%3A1.4%E0%A5%A4%20%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF%20%E0%A4%8F%E0%A4%95%20%E0%A4%AE%E0%A5%8B%E0%A4%9F%E0%A5%87%2C%20%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%B9%E0%A4%B0%E0%A5%87-%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A5%87%20%E0%A4%B9%E0%A4%AE%E0%A5%8D%E0%A4%B8%E0%A4%9F%E0%A4%B0%20%E0%A4%95%E0%A4%BE%20%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%8B%E0%A4%9C-%E0%A4%85%E0%A4%AA%20%E0%A4%AE%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%20%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF%20%E0%A4%B9%E0%A5%88%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%A8%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%80%2C%20%E0%A4%AC%E0%A5%81%E0%A4%A8%E0%A5%80%20%E0%A4%B9%E0%A5%81%E0%A4%88%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BE%20%E0%A4%9F%E0%A5%8B%E0%A4%AA%E0%A5%80%20%E0%A4%AA%E0%A4%B9%E0%A4%A8%E0%A5%80%20%E0%A4%B9%E0%A5%81%E0%A4%88%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B9%E0%A4%AE%E0%A5%8D%E0%A4%B8%E0%A4%9F%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A5%89%E0%A4%AA%E0%A5%8D%E0%A4%B8%E0%A4%BF%E0%A4%95%E0%A4%B2%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95%20%E0%A4%B8%E0%A5%87%20%E0%A4%AC%E0%A4%A8%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%80%20%E0%A4%B2%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%80%20%E0%A4%95%E0%A5%80%20%E0%A4%AE%E0%A5%87%E0%A4%9C%20%E0%A4%AA%E0%A4%B0%20%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B5%E0%A4%B9%20%E0%A4%A6%E0%A5%8B%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%AA%E0%A4%82%E0%A4%9C%E0%A5%8B%E0%A4%82%20%E0%A4%B8%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%85%E0%A4%95%E0%A5%87%E0%A4%B2%E0%A5%80%2C%20%E0%A4%9A%E0%A4%AE%E0%A4%95%E0%A5%80%E0%A4%B2%E0%A5%80%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%A8%E0%A4%AC%E0%A5%87%E0%A4%B0%E0%A5%80%20%E0%A4%AA%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%94%E0%A4%B0%20%E0%A4%AD%E0%A4%B0%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%97%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%81%E0%A4%B2%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A8%20%E0%A4%A6%E0%A4%BF%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AE%E0%A5%87%E0%A4%9C%20%E0%A4%AA%E0%A4%B0%2C%20%E0%A4%8F%E0%A4%95%20%E0%A4%95%E0%A4%AA%20%E0%A4%95%E0%A5%87%20%E0%A4%B0%E0%A5%82%E0%A4%AA%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%A5%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%AA%E0%A4%A8%E0%A5%80%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%9F%E0%A5%81%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%8F%E0%A4%95%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%80%20%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%9F%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%20%E0%A4%8F%E0%A4%95%20%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%AE%2C%20%E0%A4%AE%E0%A4%B2%E0%A4%BE%E0%A4%88%E0%A4%A6%E0%A4%BE%E0%A4%B0%20%E0%A4%91%E0%A4%AB-%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BE%E0%A4%87%E0%A4%9F%20%E0%A4%AA%E0%A5%87%E0%A4%AA%E0%A4%B0%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%9A%E0%A4%B0%20%E0%A4%B9%E0%A5%88%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%95%E0%A5%8B%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%80%20%E0%A4%B5%E0%A5%89%E0%A4%9F%E0%A4%B0%E0%A4%95%E0%A4%B2%E0%A4%B0%20%E0%A4%B9%E0%A5%89%E0%A4%B2%E0%A5%80%20%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%82%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%AE%E0%A5%82%E0%A4%A1%20%E0%A4%86%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A6%E0%A4%BE%E0%A4%AF%E0%A4%95%2C%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%A6%E0%A4%BF%E0%A4%B2%20%E0%A4%95%E0%A5%8B%20%E0%A4%9B%E0%A5%82%20%E0%A4%B2%E0%A5%87%E0%A4%A8%E0%A5%87%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4)**
 
 ---
 
-### No. 7: Cat in Christmas Lights Christmas Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-A humorous and cute printable card design featuring a mischievous black cat tangled in a mess of colorful vintage Christmas lights. This prompt is perfect for creating funny holiday cards that capture the playful chaos of pets during Christmas.
-
-#### 📝 प्रॉम्पट
-
-```
-A humorous and cute printable card design, aspect ratio 1:1.4. The illustration features a chaotic, tangled mess of colorful vintage Christmas lights (red, green, blue, yellow bulbs) forming a rough ball shape in the center of a solid white background. Emerging from the center of the tangle is a cute black cat with wide, yellow eyes and a mischievous expression. The cat has one paw stuck out, batting at a loose bulb. A "To/From" gift tag is tangled in the wire, dangling from the cat's ear. The style is a flat graphic illustration with clean lines and vibrant colors. Text at the bottom: {argument name="text" default="I Helped."} in a messy, scratchy black font.
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640781919_674amh_1765640041031-9iqp3v-4fNTsfFaeOKTYAAAAASUVORK5CYII_" width="600" alt="Cat in Christmas Lights Christmas Card - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **स्रोत:** [Twitter Post](null)
-- **प्रकाशित:** 13 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20humorous%20and%20cute%20printable%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20illustration%20features%20a%20chaotic%2C%20tangled%20mess%20of%20colorful%20vintage%20Christmas%20lights%20(red%2C%20green%2C%20blue%2C%20yellow%20bulbs)%20forming%20a%20rough%20ball%20shape%20in%20the%20center%20of%20a%20solid%20white%20background.%20Emerging%20from%20the%20center%20of%20the%20tangle%20is%20a%20cute%20black%20cat%20with%20wide%2C%20yellow%20eyes%20and%20a%20mischievous%20expression.%20The%20cat%20has%20one%20paw%20stuck%20out%2C%20batting%20at%20a%20loose%20bulb.%20A%20%22To%2FFrom%22%20gift%20tag%20is%20tangled%20in%20the%20wire%2C%20dangling%20from%20the%20cat's%20ear.%20The%20style%20is%20a%20flat%20graphic%20illustration%20with%20clean%20lines%20and%20vibrant%20colors.%20Text%20at%20the%20bottom%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22I%20Helped.%22%7D%20in%20a%20messy%2C%20scratchy%20black%20font.)**
-
----
-
-### No. 8: Gingerbread Yoga Class Christmas Card
+### No. 7: क्रिसमस लाइट में बिल्ली का क्रिसमस कार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A cheerful and adorable printable Christmas card design featuring five cute gingerbread men cookies in a 'Yoga Class'. This prompt is perfect for creating heartwarming holiday greetings with a touch of humor and cuteness.
+एक शरारती काली बिल्ली रंगीन विंटेज क्रिसमस लाइटों के जाल में उलझी हुई है, जो एक मज़ेदार और प्यारा प्रिंट करने योग्य कार्ड डिज़ाइन है। यह प्रॉम्प्ट मज़ेदार हॉलिडे कार्ड बनाने के लिए एकदम सही है जो क्रिसमस के दौरान पालतू जानवरों की चंचल अराजकता को दर्शाता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A funny and adorable printable Christmas card design, aspect ratio 1:1.4. The background is a solid, clean pastel mint green. The illustration features a "Yoga Class" of five cute gingerbread men cookies. The central gingerbread man is standing on one leg in a "Tree Pose," balancing a gumdrop on his head with a focused expression. To his left, another cookie is attempting a "Downward Dog" pose but his arm has crumbled slightly, revealing delicious cookie crumbs. To the right, a gingerbread man is meditating in "Lotus position" with his icing eyes closed. They all have white icing details and red red-hot candy buttons. The style is a clean, flat vector illustration with soft shadows. Text at the top reads: {argument name="text" default="Find Your Inner Piece"} in a playful, rounded white font.
+एक विनोदी और प्यारा प्रिंट करने योग्य कार्ड डिज़ाइन, आस्पेक्ट रेश्यो 1:1.4। चित्रण में एक ठोस सफेद पृष्ठभूमि के केंद्र में रंगीन विंटेज क्रिसमस लाइटों (लाल, हरे, नीले, पीले बल्ब) का एक अव्यवस्थित, उलझा हुआ गुच्छा है जो एक मोटे गोले का आकार बनाता है। इस उलझन के केंद्र से एक प्यारी काली बिल्ली निकल रही है, जिसकी आँखें चौड़ी, पीली हैं और शरारती भाव हैं। बिल्ली का एक पंजा बाहर निकला हुआ है, जो एक ढीले बल्ब को मार रहा है। एक "टू/फ्रॉम" उपहार टैग तार में उलझा हुआ है, जो बिल्ली के कान से लटक रहा है। शैली साफ लाइनों और चमकीले रंगों के साथ एक फ्लैट ग्राफिक चित्रण है। नीचे टेक्स्ट: {argument name="text" default="I Helped."} एक गंदी, खरोंच वाली काली फ़ॉन्ट में।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -354,7 +318,7 @@ A funny and adorable printable Christmas card design, aspect ratio 1:1.4. The ba
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640780963_w8tis9_1765640041792-ya1lsk-kYut4TGuYNPXl4D3U4NlBYnZnxEwH_L7GY8tY3qO5QAAAAAElFTkSuQmCC" width="600" alt="Gingerbread Yoga Class Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640781919_674amh_1765640041031-9iqp3v-4fNTsfFaeOKTYAAAAASUVORK5CYII_" width="600" alt="क्रिसमस लाइट में बिल्ली का क्रिसमस कार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -364,56 +328,23 @@ A funny and adorable printable Christmas card design, aspect ratio 1:1.4. The ba
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20and%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20background%20is%20a%20solid%2C%20clean%20pastel%20mint%20green.%20The%20illustration%20features%20a%20%22Yoga%20Class%22%20of%20five%20cute%20gingerbread%20men%20cookies.%20The%20central%20gingerbread%20man%20is%20standing%20on%20one%20leg%20in%20a%20%22Tree%20Pose%2C%22%20balancing%20a%20gumdrop%20on%20his%20head%20with%20a%20focused%20expression.%20To%20his%20left%2C%20another%20cookie%20is%20attempting%20a%20%22Downward%20Dog%22%20pose%20but%20his%20arm%20has%20crumbled%20slightly%2C%20revealing%20delicious%20cookie%20crumbs.%20To%20the%20right%2C%20a%20gingerbread%20man%20is%20meditating%20in%20%22Lotus%20position%22%20with%20his%20icing%20eyes%20closed.%20They%20all%20have%20white%20icing%20details%20and%20red%20red-hot%20candy%20buttons.%20The%20style%20is%20a%20clean%2C%20flat%20vector%20illustration%20with%20soft%20shadows.%20Text%20at%20the%20top%20reads%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Find%20Your%20Inner%20Piece%22%7D%20in%20a%20playful%2C%20rounded%20white%20font.)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A5%8B%E0%A4%A6%E0%A5%80%20%E0%A4%94%E0%A4%B0%20%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A4%BE%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%A8%2C%20%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%20%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%201%3A1.4%E0%A5%A4%20%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A3%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%A0%E0%A5%8B%E0%A4%B8%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%20%E0%A4%95%E0%A5%87%20%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80%E0%A4%A8%20%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A5%87%E0%A4%9C%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%8B%E0%A4%82%20(%E0%A4%B2%E0%A4%BE%E0%A4%B2%2C%20%E0%A4%B9%E0%A4%B0%E0%A5%87%2C%20%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A5%87%2C%20%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A5%87%20%E0%A4%AC%E0%A4%B2%E0%A5%8D%E0%A4%AC)%20%E0%A4%95%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%85%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%A4%2C%20%E0%A4%89%E0%A4%B2%E0%A4%9D%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%97%E0%A5%81%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE%20%E0%A4%B9%E0%A5%88%20%E0%A4%9C%E0%A5%8B%20%E0%A4%8F%E0%A4%95%20%E0%A4%AE%E0%A5%8B%E0%A4%9F%E0%A5%87%20%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%87%20%E0%A4%95%E0%A4%BE%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%87%E0%A4%B8%20%E0%A4%89%E0%A4%B2%E0%A4%9D%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%20%E0%A4%B8%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80%20%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%B2%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%95%E0%A5%80%20%E0%A4%86%E0%A4%81%E0%A4%96%E0%A5%87%E0%A4%82%20%E0%A4%9A%E0%A5%8C%E0%A4%A1%E0%A4%BC%E0%A5%80%2C%20%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A4%82%20%E0%A4%94%E0%A4%B0%20%E0%A4%B6%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%20%E0%A4%AD%E0%A4%BE%E0%A4%B5%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A4%82%E0%A4%9C%E0%A4%BE%20%E0%A4%AC%E0%A4%BE%E0%A4%B9%E0%A4%B0%20%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A5%8B%20%E0%A4%8F%E0%A4%95%20%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A5%87%20%E0%A4%AC%E0%A4%B2%E0%A5%8D%E0%A4%AC%20%E0%A4%95%E0%A5%8B%20%E0%A4%AE%E0%A4%BE%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%22%E0%A4%9F%E0%A5%82%2F%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%AE%22%20%E0%A4%89%E0%A4%AA%E0%A4%B9%E0%A4%BE%E0%A4%B0%20%E0%A4%9F%E0%A5%88%E0%A4%97%20%E0%A4%A4%E0%A4%BE%E0%A4%B0%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%89%E0%A4%B2%E0%A4%9D%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A5%8B%20%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A5%87%20%E0%A4%95%E0%A4%BE%E0%A4%A8%20%E0%A4%B8%E0%A5%87%20%E0%A4%B2%E0%A4%9F%E0%A4%95%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%B8%E0%A4%BE%E0%A4%AB%20%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%94%E0%A4%B0%20%E0%A4%9A%E0%A4%AE%E0%A4%95%E0%A5%80%E0%A4%B2%E0%A5%87%20%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%8F%E0%A4%95%20%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A5%88%E0%A4%9F%20%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AB%E0%A4%BF%E0%A4%95%20%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A3%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22I%20Helped.%22%7D%20%E0%A4%8F%E0%A4%95%20%E0%A4%97%E0%A4%82%E0%A4%A6%E0%A5%80%2C%20%E0%A4%96%E0%A4%B0%E0%A5%8B%E0%A4%82%E0%A4%9A%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%AB%E0%A4%BC%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%9F%20%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A5%A4)**
 
 ---
 
-### No. 9: Polar Bear and Penguin Scarf Christmas Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-A heartwarming and whimsical Christmas card cover depicting an unlikely friendship between a massive polar bear and a tiny penguin, connected by a comically oversized scarf. Ideal for conveying themes of friendship and warmth during the holidays.
-
-#### 📝 प्रॉम्पट
-
-```
-A heartwarming and whimsical Christmas card cover, aspect ratio 1:1.4. A massive, fluffy white polar bear sits on the left, and a tiny, round penguin stands on the right against a clean, ice-blue background. They are connected by a comically long, oversized red and green knitted scarf that is wrapped multiple times around the bear's neck and then loops down to wrap snugly around the tiny penguin. The penguin is looking up at the bear with admiration. The texture of the fur and the knit wool is visible and soft. Simple white snowflakes fall gently around them. No text, just a sweet image of friendship.
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765641085323_jvvhse_image.png" width="600" alt="Polar Bear and Penguin Scarf Christmas Card - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **स्रोत:** [Twitter Post](null)
-- **प्रकाशित:** 13 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20heartwarming%20and%20whimsical%20Christmas%20card%20cover%2C%20aspect%20ratio%201%3A1.4.%20A%20massive%2C%20fluffy%20white%20polar%20bear%20sits%20on%20the%20left%2C%20and%20a%20tiny%2C%20round%20penguin%20stands%20on%20the%20right%20against%20a%20clean%2C%20ice-blue%20background.%20They%20are%20connected%20by%20a%20comically%20long%2C%20oversized%20red%20and%20green%20knitted%20scarf%20that%20is%20wrapped%20multiple%20times%20around%20the%20bear's%20neck%20and%20then%20loops%20down%20to%20wrap%20snugly%20around%20the%20tiny%20penguin.%20The%20penguin%20is%20looking%20up%20at%20the%20bear%20with%20admiration.%20The%20texture%20of%20the%20fur%20and%20the%20knit%20wool%20is%20visible%20and%20soft.%20Simple%20white%20snowflakes%20fall%20gently%20around%20them.%20No%20text%2C%20just%20a%20sweet%20image%20of%20friendship.)**
-
----
-
-### No. 10: Watercolor Snowy Cabin Landscape
+### No. 8: जिंजरब्रेड योगा क्लास क्रिसमस कार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A serene watercolor Christmas card featuring a lonely cabin in a snowy field at sunset with beautiful gradient skies, perfect for conveying peaceful holiday sentiments
+'योग क्लास' में पाँच प्यारे जिंजरब्रेड मैन कुकीज़ की विशेषता वाला एक हंसमुख और मनमोहक प्रिंटेबल क्रिसमस कार्ड डिज़ाइन। यह प्रॉम्प्ट हास्य और क्यूटनेस के स्पर्श के साथ दिल को छू लेने वाली छुट्टियों की शुभकामनाएँ बनाने के लिए एकदम सही है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A serene watercolor landscape, --ar 10:14. A lonely cabin in a vast snowy field at sunset. The sky is a gradient of {argument name="sky color 1" default="purple"}, {argument name="sky color 2" default="pink"}, and {argument name="sky color 3" default="orange"}. Smoke rises vertically from the chimney. Soft, wet-on-wet watercolor technique.
+एक मज़ेदार और मनमोहक प्रिंट करने योग्य क्रिसमस कार्ड डिज़ाइन, आस्पेक्ट रेशियो 1:1.4। बैकग्राउंड एक ठोस, साफ पेस्टल मिंट ग्रीन है। चित्रण में पाँच प्यारे जिंजरब्रेड पुरुषों के कुकीज़ की "योग क्लास" दिखाई गई है। बीच वाला जिंजरब्रेड आदमी "ट्री पोज़" में एक पैर पर खड़ा है, ध्यानमग्न भाव से अपने सिर पर एक गमड्रॉप को संतुलित कर रहा है। उसके बाईं ओर, एक और कुकी "डाउनवर्ड डॉग" पोज़ करने की कोशिश कर रहा है, लेकिन उसकी बांह थोड़ी टूट गई है, जिससे स्वादिष्ट कुकी के टुकड़े दिख रहे हैं। दाईं ओर, एक जिंजरब्रेड आदमी अपनी आइसिंग वाली आँखें बंद करके "लोटस पोज़" में ध्यान कर रहा है। उन सभी में सफेद आइसिंग के विवरण और लाल रेड-हॉट कैंडी बटन हैं। शैली एक साफ, सपाट वेक्टर चित्रण है जिसमें हल्की छायाएं हैं। शीर्ष पर टेक्स्ट लिखा है: {argument name="text" default="Find Your Inner Piece"} एक चंचल, गोल सफेद फ़ॉन्ट में।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -421,7 +352,7 @@ A serene watercolor landscape, --ar 10:14. A lonely cabin in a vast snowy field 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640542662_il05z4_1765635182535-9ggafe-o6rQAAAAASUVORK5CYII_" width="600" alt="Watercolor Snowy Cabin Landscape - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640780963_w8tis9_1765640041792-ya1lsk-kYut4TGuYNPXl4D3U4NlBYnZnxEwH_L7GY8tY3qO5QAAAAAElFTkSuQmCC" width="600" alt="जिंजरब्रेड योगा क्लास क्रिसमस कार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -431,23 +362,56 @@ A serene watercolor landscape, --ar 10:14. A lonely cabin in a vast snowy field 
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20serene%20watercolor%20landscape%2C%20--ar%2010%3A14.%20A%20lonely%20cabin%20in%20a%20vast%20snowy%20field%20at%20sunset.%20The%20sky%20is%20a%20gradient%20of%20%7Bargument%20name%3D%22sky%20color%201%22%20default%3D%22purple%22%7D%2C%20%7Bargument%20name%3D%22sky%20color%202%22%20default%3D%22pink%22%7D%2C%20and%20%7Bargument%20name%3D%22sky%20color%203%22%20default%3D%22orange%22%7D.%20Smoke%20rises%20vertically%20from%20the%20chimney.%20Soft%2C%20wet-on-wet%20watercolor%20technique.)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%AE%E0%A4%9C%E0%A4%BC%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%20%E0%A4%94%E0%A4%B0%20%E0%A4%AE%E0%A4%A8%E0%A4%AE%E0%A5%8B%E0%A4%B9%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%A8%2C%20%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%20%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A5%8B%201%3A1.4%E0%A5%A4%20%E0%A4%AC%E0%A5%88%E0%A4%95%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%89%E0%A4%82%E0%A4%A1%20%E0%A4%8F%E0%A4%95%20%E0%A4%A0%E0%A5%8B%E0%A4%B8%2C%20%E0%A4%B8%E0%A4%BE%E0%A4%AB%20%E0%A4%AA%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B2%20%E0%A4%AE%E0%A4%BF%E0%A4%82%E0%A4%9F%20%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A3%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AA%E0%A4%BE%E0%A4%81%E0%A4%9A%20%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%87%20%E0%A4%9C%E0%A4%BF%E0%A4%82%E0%A4%9C%E0%A4%B0%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A1%20%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%B7%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%95%E0%A5%81%E0%A4%95%E0%A5%80%E0%A4%9C%E0%A4%BC%20%E0%A4%95%E0%A5%80%20%22%E0%A4%AF%E0%A5%8B%E0%A4%97%20%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%22%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%BE%E0%A4%88%20%E0%A4%97%E0%A4%88%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AC%E0%A5%80%E0%A4%9A%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%9C%E0%A4%BF%E0%A4%82%E0%A4%9C%E0%A4%B0%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A1%20%E0%A4%86%E0%A4%A6%E0%A4%AE%E0%A5%80%20%22%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%AA%E0%A5%8B%E0%A4%9C%E0%A4%BC%22%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A5%88%E0%A4%B0%20%E0%A4%AA%E0%A4%B0%20%E0%A4%96%E0%A4%A1%E0%A4%BC%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%A8%20%E0%A4%AD%E0%A4%BE%E0%A4%B5%20%E0%A4%B8%E0%A5%87%20%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87%20%E0%A4%B8%E0%A4%BF%E0%A4%B0%20%E0%A4%AA%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%97%E0%A4%AE%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%AA%20%E0%A4%95%E0%A5%8B%20%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%A4%20%E0%A4%95%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87%20%E0%A4%AC%E0%A4%BE%E0%A4%88%E0%A4%82%20%E0%A4%93%E0%A4%B0%2C%20%E0%A4%8F%E0%A4%95%20%E0%A4%94%E0%A4%B0%20%E0%A4%95%E0%A5%81%E0%A4%95%E0%A5%80%20%22%E0%A4%A1%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%A1%E0%A5%89%E0%A4%97%22%20%E0%A4%AA%E0%A5%8B%E0%A4%9C%E0%A4%BC%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A5%8B%E0%A4%B6%E0%A4%BF%E0%A4%B6%20%E0%A4%95%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8%20%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A4%BE%E0%A4%82%E0%A4%B9%20%E0%A4%A5%E0%A5%8B%E0%A4%A1%E0%A4%BC%E0%A5%80%20%E0%A4%9F%E0%A5%82%E0%A4%9F%20%E0%A4%97%E0%A4%88%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%B8%E0%A5%87%20%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F%20%E0%A4%95%E0%A5%81%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A5%87%20%E0%A4%9F%E0%A5%81%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%A6%E0%A4%BF%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%A6%E0%A4%BE%E0%A4%88%E0%A4%82%20%E0%A4%93%E0%A4%B0%2C%20%E0%A4%8F%E0%A4%95%20%E0%A4%9C%E0%A4%BF%E0%A4%82%E0%A4%9C%E0%A4%B0%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A1%20%E0%A4%86%E0%A4%A6%E0%A4%AE%E0%A5%80%20%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%80%20%E0%A4%86%E0%A4%87%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%86%E0%A4%81%E0%A4%96%E0%A5%87%E0%A4%82%20%E0%A4%AC%E0%A4%82%E0%A4%A6%20%E0%A4%95%E0%A4%B0%E0%A4%95%E0%A5%87%20%22%E0%A4%B2%E0%A5%8B%E0%A4%9F%E0%A4%B8%20%E0%A4%AA%E0%A5%8B%E0%A4%9C%E0%A4%BC%22%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%20%E0%A4%95%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%89%E0%A4%A8%20%E0%A4%B8%E0%A4%AD%E0%A5%80%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%86%E0%A4%87%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97%20%E0%A4%95%E0%A5%87%20%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3%20%E0%A4%94%E0%A4%B0%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%B0%E0%A5%87%E0%A4%A1-%E0%A4%B9%E0%A5%89%E0%A4%9F%20%E0%A4%95%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A5%80%20%E0%A4%AC%E0%A4%9F%E0%A4%A8%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A4%BE%E0%A4%AB%2C%20%E0%A4%B8%E0%A4%AA%E0%A4%BE%E0%A4%9F%20%E0%A4%B5%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%B0%20%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A3%20%E0%A4%B9%E0%A5%88%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%80%20%E0%A4%9B%E0%A4%BE%E0%A4%AF%E0%A4%BE%E0%A4%8F%E0%A4%82%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%B6%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%B7%20%E0%A4%AA%E0%A4%B0%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A4%BE%20%E0%A4%B9%E0%A5%88%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Find%20Your%20Inner%20Piece%22%7D%20%E0%A4%8F%E0%A4%95%20%E0%A4%9A%E0%A4%82%E0%A4%9A%E0%A4%B2%2C%20%E0%A4%97%E0%A5%8B%E0%A4%B2%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%AB%E0%A4%BC%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%9F%20%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A5%A4)**
 
 ---
 
-### No. 11: Luxury Navy Snowflake Mandala Card
+### No. 9: ध्रुवीय भालू और पेंग्विन स्कार्फ क्रिसमस कार्ड
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+एक दिल को छू लेने वाला और अनोखा क्रिसमस कार्ड कवर, जिसमें एक विशाल ध्रुवीय भालू और एक छोटे पेंग्विन के बीच एक अजीब दोस्ती को दर्शाया गया है, जो एक हास्यास्पद रूप से बड़े स्कार्फ से जुड़े हुए हैं। छुट्टियों के दौरान दोस्ती और गर्मजोशी के विषयों को व्यक्त करने के लिए आदर्श।
+
+#### 📝 प्रॉम्पट
+
+```
+एक दिल को छू लेने वाला और मनमोहक क्रिसमस कार्ड कवर, आस्पेक्ट रेश्यो 1:1.4। एक विशाल, रोमिल सफेद ध्रुवीय भालू बाईं ओर बैठा है, और एक छोटा, गोल पेंग्विन एक साफ, बर्फीले-नीले बैकग्राउंड के सामने दाईं ओर खड़ा है। वे एक हास्यास्पद रूप से लंबी, बड़े आकार की लाल और हरी बुनी हुई स्कार्फ से जुड़े हुए हैं, जो भालू की गर्दन के चारों ओर कई बार लपेटी गई है और फिर छोटे पेंग्विन के चारों ओर कसकर लपेटने के लिए नीचे की ओर लटक रही है। पेंग्विन भालू को प्रशंसा भरी नज़रों से देख रहा है। फर और बुनी हुई ऊन की बनावट दिखाई दे रही है और मुलायम है। उनके चारों ओर हल्के सफेद बर्फ के टुकड़े धीरे-धीरे गिर रहे हैं। कोई टेक्स्ट नहीं, बस दोस्ती की एक प्यारी सी तस्वीर।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765641085323_jvvhse_image.png" width="600" alt="ध्रुवीय भालू और पेंग्विन स्कार्फ क्रिसमस कार्ड - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **स्रोत:** [Twitter Post](null)
+- **प्रकाशित:** 13 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%A6%E0%A4%BF%E0%A4%B2%20%E0%A4%95%E0%A5%8B%20%E0%A4%9B%E0%A5%82%20%E0%A4%B2%E0%A5%87%E0%A4%A8%E0%A5%87%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%AE%E0%A4%A8%E0%A4%AE%E0%A5%8B%E0%A4%B9%E0%A4%95%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%95%E0%A4%B5%E0%A4%B0%2C%20%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%20%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%201%3A1.4%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B2%2C%20%E0%A4%B0%E0%A5%8B%E0%A4%AE%E0%A4%BF%E0%A4%B2%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%A7%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%B5%E0%A5%80%E0%A4%AF%20%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A5%82%20%E0%A4%AC%E0%A4%BE%E0%A4%88%E0%A4%82%20%E0%A4%93%E0%A4%B0%20%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%94%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A4%BE%2C%20%E0%A4%97%E0%A5%8B%E0%A4%B2%20%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A8%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A4%BE%E0%A4%AB%2C%20%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%AB%E0%A5%80%E0%A4%B2%E0%A5%87-%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A5%87%20%E0%A4%AC%E0%A5%88%E0%A4%95%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%89%E0%A4%82%E0%A4%A1%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%A8%E0%A5%87%20%E0%A4%A6%E0%A4%BE%E0%A4%88%E0%A4%82%20%E0%A4%93%E0%A4%B0%20%E0%A4%96%E0%A4%A1%E0%A4%BC%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B5%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A6%20%E0%A4%B0%E0%A5%82%E0%A4%AA%20%E0%A4%B8%E0%A5%87%20%E0%A4%B2%E0%A4%82%E0%A4%AC%E0%A5%80%2C%20%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%95%E0%A5%80%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%B9%E0%A4%B0%E0%A5%80%20%E0%A4%AC%E0%A5%81%E0%A4%A8%E0%A5%80%20%E0%A4%B9%E0%A5%81%E0%A4%88%20%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AB%20%E0%A4%B8%E0%A5%87%20%E0%A4%9C%E0%A5%81%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%B9%E0%A5%88%E0%A4%82%2C%20%E0%A4%9C%E0%A5%8B%20%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A5%82%20%E0%A4%95%E0%A5%80%20%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82%20%E0%A4%93%E0%A4%B0%20%E0%A4%95%E0%A4%88%20%E0%A4%AC%E0%A4%BE%E0%A4%B0%20%E0%A4%B2%E0%A4%AA%E0%A5%87%E0%A4%9F%E0%A5%80%20%E0%A4%97%E0%A4%88%20%E0%A4%B9%E0%A5%88%20%E0%A4%94%E0%A4%B0%20%E0%A4%AB%E0%A4%BF%E0%A4%B0%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%87%20%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82%20%E0%A4%93%E0%A4%B0%20%E0%A4%95%E0%A4%B8%E0%A4%95%E0%A4%B0%20%E0%A4%B2%E0%A4%AA%E0%A5%87%E0%A4%9F%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%93%E0%A4%B0%20%E0%A4%B2%E0%A4%9F%E0%A4%95%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A8%20%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A5%82%20%E0%A4%95%E0%A5%8B%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%82%E0%A4%B8%E0%A4%BE%20%E0%A4%AD%E0%A4%B0%E0%A5%80%20%E0%A4%A8%E0%A4%9C%E0%A4%BC%E0%A4%B0%E0%A5%8B%E0%A4%82%20%E0%A4%B8%E0%A5%87%20%E0%A4%A6%E0%A5%87%E0%A4%96%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AB%E0%A4%B0%20%E0%A4%94%E0%A4%B0%20%E0%A4%AC%E0%A5%81%E0%A4%A8%E0%A5%80%20%E0%A4%B9%E0%A5%81%E0%A4%88%20%E0%A4%8A%E0%A4%A8%20%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%B5%E0%A4%9F%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%BE%E0%A4%88%20%E0%A4%A6%E0%A5%87%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%20%E0%A4%94%E0%A4%B0%20%E0%A4%AE%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AF%E0%A4%AE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%89%E0%A4%A8%E0%A4%95%E0%A5%87%20%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82%20%E0%A4%93%E0%A4%B0%20%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%AB%20%E0%A4%95%E0%A5%87%20%E0%A4%9F%E0%A5%81%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%87%20%E0%A4%A7%E0%A5%80%E0%A4%B0%E0%A5%87-%E0%A4%A7%E0%A5%80%E0%A4%B0%E0%A5%87%20%E0%A4%97%E0%A4%BF%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%95%E0%A5%8B%E0%A4%88%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82%2C%20%E0%A4%AC%E0%A4%B8%20%E0%A4%A6%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%80%20%E0%A4%95%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E0%A4%B8%E0%A5%80%20%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%B0%E0%A5%A4)**
+
+---
+
+### No. 10: वॉटरकलर बर्फीले केबिन का लैंडस्केप
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-An elegant luxury Christmas card with deep navy velvet texture and an intricate gold foil snowflake mandala design, perfect for premium holiday greetings
+एक शांत वॉटरकलर क्रिसमस कार्ड जिसमें सूर्यास्त के समय बर्फीले खेत में एक अकेली झोपड़ी और सुंदर ढाल वाले आसमान हैं, जो शांतिपूर्ण छुट्टियों की भावनाओं को व्यक्त करने के लिए एकदम सही है।
 
 #### 📝 प्रॉम्पट
 
 ```
-An exquisite luxury card design, --ar 10:14. A deep {argument name="background color" default="navy blue"} velvet texture background. In the center, a large, intricate snowflake mandala is rendered in embossed {argument name="foil color" default="gold"} foil. The {argument name="foil color" default="gold"} looks shiny and metallic.
+एक शांत जलरंग परिदृश्य, --ar 10:14। सूर्यास्त के समय एक विशाल बर्फीले मैदान में एक अकेली झोपड़ी। आकाश {argument name="sky color 1" default="बैंगनी"}, {argument name="sky color 2" default="गुलाबी"} और {argument name="sky color 3" default="नारंगी"} का एक ग्रेडिएंट है। चिमनी से धुआँ सीधा ऊपर उठ रहा है। नरम, वेट-ऑन-वेट जलरंग तकनीक।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -455,7 +419,7 @@ An exquisite luxury card design, --ar 10:14. A deep {argument name="background c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640540780_ipxvdo_1765635134196-lrarow-2kokD3ed6blAAAAAElFTkSuQmCC" width="600" alt="Luxury Navy Snowflake Mandala Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640542662_il05z4_1765635182535-9ggafe-o6rQAAAAASUVORK5CYII_" width="600" alt="वॉटरकलर बर्फीले केबिन का लैंडस्केप - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -465,23 +429,23 @@ An exquisite luxury card design, --ar 10:14. A deep {argument name="background c
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20exquisite%20luxury%20card%20design%2C%20--ar%2010%3A14.%20A%20deep%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22navy%20blue%22%7D%20velvet%20texture%20background.%20In%20the%20center%2C%20a%20large%2C%20intricate%20snowflake%20mandala%20is%20rendered%20in%20embossed%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20foil.%20The%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20looks%20shiny%20and%20metallic.)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%B6%E0%A4%BE%E0%A4%82%E0%A4%A4%20%E0%A4%9C%E0%A4%B2%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF%2C%20--ar%2010%3A14%E0%A5%A4%20%E0%A4%B8%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%AE%E0%A4%AF%20%E0%A4%8F%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B2%20%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%AB%E0%A5%80%E0%A4%B2%E0%A5%87%20%E0%A4%AE%E0%A5%88%E0%A4%A6%E0%A4%BE%E0%A4%A8%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%85%E0%A4%95%E0%A5%87%E0%A4%B2%E0%A5%80%20%E0%A4%9D%E0%A5%8B%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A5%80%E0%A5%A4%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%20%7Bargument%20name%3D%22sky%20color%201%22%20default%3D%22%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A5%80%22%7D%2C%20%7Bargument%20name%3D%22sky%20color%202%22%20default%3D%22%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80%22%7D%20%E0%A4%94%E0%A4%B0%20%7Bargument%20name%3D%22sky%20color%203%22%20default%3D%22%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80%22%7D%20%E0%A4%95%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%8F%E0%A4%82%E0%A4%9F%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%9A%E0%A4%BF%E0%A4%AE%E0%A4%A8%E0%A5%80%20%E0%A4%B8%E0%A5%87%20%E0%A4%A7%E0%A5%81%E0%A4%86%E0%A4%81%20%E0%A4%B8%E0%A5%80%E0%A4%A7%E0%A4%BE%20%E0%A4%8A%E0%A4%AA%E0%A4%B0%20%E0%A4%89%E0%A4%A0%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%A8%E0%A4%B0%E0%A4%AE%2C%20%E0%A4%B5%E0%A5%87%E0%A4%9F-%E0%A4%91%E0%A4%A8-%E0%A4%B5%E0%A5%87%E0%A4%9F%20%E0%A4%9C%E0%A4%B2%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%A4%E0%A4%95%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A5%A4)**
 
 ---
 
-### No. 12: Vintage Travel Poster Winter Scene
+### No. 11: लक्ज़री नेवी स्नोफ्लेक मंडला कार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A Christmas card designed in vintage travel poster style featuring a snowy mountain lodge with bold flat colors and screen print texture aesthetics
+गहरे नेवी वेलवेट टेक्सचर और जटिल गोल्ड फ़ॉइल स्नोफ़्लेक मंडला डिज़ाइन वाला एक शानदार लक्ज़री क्रिसमस कार्ड, जो प्रीमियम छुट्टियों की शुभकामनाओं के लिए एकदम सही है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A vintage travel poster style Christmas card. A stylized view of a snowy mountain lodge with a skier. Bold flat colors, screen print texture. Text at bottom: "{argument name="message" default="Winter Wonderland"}". --ar 10:14
+एक उत्कृष्ट लक्जरी कार्ड डिज़ाइन, --ar 10:14। एक गहरा {argument name="background color" default="navy blue"} मखमली बनावट वाला बैकग्राउंड। केंद्र में, एक बड़ा, जटिल स्नोफ्लेक मंडला उभरे हुए {argument name="foil color" default="gold"} फ़ॉइल में प्रस्तुत किया गया है। {argument name="foil color" default="gold"} चमकदार और धात्विक दिखता है।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -489,7 +453,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640539963_cytycj_1765635109580-9y3we0-pA7TteiD0AAAAASUVORK5CYII_" width="600" alt="Vintage Travel Poster Winter Scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640540780_ipxvdo_1765635134196-lrarow-2kokD3ed6blAAAAAElFTkSuQmCC" width="600" alt="लक्ज़री नेवी स्नोफ्लेक मंडला कार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -499,56 +463,23 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vintage%20travel%20poster%20style%20Christmas%20card.%20A%20stylized%20view%20of%20a%20snowy%20mountain%20lodge%20with%20a%20skier.%20Bold%20flat%20colors%2C%20screen%20print%20texture.%20Text%20at%20bottom%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Winter%20Wonderland%22%7D%22.%20--ar%2010%3A14)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%20%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%9C%E0%A4%B0%E0%A5%80%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%A8%2C%20--ar%2010%3A14%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%97%E0%A4%B9%E0%A4%B0%E0%A4%BE%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22navy%20blue%22%7D%20%E0%A4%AE%E0%A4%96%E0%A4%AE%E0%A4%B2%E0%A5%80%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%B5%E0%A4%9F%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%AC%E0%A5%88%E0%A4%95%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%89%E0%A4%82%E0%A4%A1%E0%A5%A4%20%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%20%E0%A4%AE%E0%A5%87%E0%A4%82%2C%20%E0%A4%8F%E0%A4%95%20%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE%2C%20%E0%A4%9C%E0%A4%9F%E0%A4%BF%E0%A4%B2%20%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A5%8B%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%95%20%E0%A4%AE%E0%A4%82%E0%A4%A1%E0%A4%B2%E0%A4%BE%20%E0%A4%89%E0%A4%AD%E0%A4%B0%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20%E0%A4%AB%E0%A4%BC%E0%A5%89%E0%A4%87%E0%A4%B2%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%A4%20%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%97%E0%A4%AF%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20%E0%A4%9A%E0%A4%AE%E0%A4%95%E0%A4%A6%E0%A4%BE%E0%A4%B0%20%E0%A4%94%E0%A4%B0%20%E0%A4%A7%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%95%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4)**
 
 ---
 
-### No. 13: Nostalgic Toy Shop Window Scene
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-A heartwarming nostalgic illustration of a toy shop window at night with a toy train and tin soldiers, capturing the magic of Christmas through a child's eyes
-
-#### 📝 प्रॉम्पट
-
-```
-A nostalgic illustration of a toy shop window at night. Inside, a toy train circles a tree, and tin soldiers stand guard. The window frame is wood, and snow gathers in the corners. Warm yellow glow from inside.
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640538051_l3wk8q_1765635100465-0itgcp-q3LGyuyZ2kAAAAASUVORK5CYII_" width="600" alt="Nostalgic Toy Shop Window Scene - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **स्रोत:** [Twitter Post](null)
-- **प्रकाशित:** 13 दिसंबर 2025
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20nostalgic%20illustration%20of%20a%20toy%20shop%20window%20at%20night.%20Inside%2C%20a%20toy%20train%20circles%20a%20tree%2C%20and%20tin%20soldiers%20stand%20guard.%20The%20window%20frame%20is%20wood%2C%20and%20snow%20gathers%20in%20the%20corners.%20Warm%20yellow%20glow%20from%20inside.)**
-
----
-
-### No. 14: Mid-Century Modern Christmas Card
+### No. 12: विंटेज ट्रैवल पोस्टर: सर्दियों का दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A retro geometric Christmas design with mid-century modern atomic starbursts and diamond shapes in vibrant colors, perfect for fans of 1950s aesthetic
+एक क्रिसमस कार्ड जिसे विंटेज ट्रैवल पोस्टर शैली में डिज़ाइन किया गया है, जिसमें बर्फीले पहाड़ के लॉज को बोल्ड फ्लैट रंगों और स्क्रीन प्रिंट टेक्सचर एस्थेटिक्स के साथ दर्शाया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and diamond shapes in {argument name="color 1" default="gold"}, {argument name="color 2" default="turquoise"}, and {argument name="color 3" default="orange"} on a {argument name="background color" default="cream"} background. "{argument name="greeting" default="Merry Christmas"}" in a retro 50s font.
+एक विंटेज ट्रैवल पोस्टर शैली का क्रिसमस कार्ड। एक स्कीयर के साथ बर्फीले पहाड़ के लॉज का एक शैलीबद्ध दृश्य। बोल्ड फ्लैट रंग, स्क्रीन प्रिंट टेक्सचर। नीचे टेक्स्ट: "{argument name="message" default="Winter Wonderland"}"। --ar 10:14
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -556,7 +487,7 @@ A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and d
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640534853_4frela_b134e84f62985454897a3a713d0f4096c786ca67f9c4dfb65b4d6a97e7e5bcc8" width="600" alt="Mid-Century Modern Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640539963_cytycj_1765635109580-9y3we0-pA7TteiD0AAAAASUVORK5CYII_" width="600" alt="विंटेज ट्रैवल पोस्टर: सर्दियों का दृश्य - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -566,23 +497,56 @@ A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and d
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20retro%20geometric%20design%2C%20--ar%2010%3A14.%20Mid-century%20modern%20atomic%20starbursts%20and%20diamond%20shapes%20in%20%7Bargument%20name%3D%22color%201%22%20default%3D%22gold%22%7D%2C%20%7Bargument%20name%3D%22color%202%22%20default%3D%22turquoise%22%7D%2C%20and%20%7Bargument%20name%3D%22color%203%22%20default%3D%22orange%22%7D%20on%20a%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22cream%22%7D%20background.%20%22%7Bargument%20name%3D%22greeting%22%20default%3D%22Merry%20Christmas%22%7D%22%20in%20a%20retro%2050s%20font.)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A5%87%E0%A4%9C%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%B5%E0%A4%B2%20%E0%A4%AA%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%80%E0%A4%AF%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%AB%E0%A5%80%E0%A4%B2%E0%A5%87%20%E0%A4%AA%E0%A4%B9%E0%A4%BE%E0%A4%A1%E0%A4%BC%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A5%89%E0%A4%9C%20%E0%A4%95%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%E0%A4%AC%E0%A4%A6%E0%A5%8D%E0%A4%A7%20%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%A4%20%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%20%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A5%88%E0%A4%9F%20%E0%A4%B0%E0%A4%82%E0%A4%97%2C%20%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%9A%E0%A4%B0%E0%A5%A4%20%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Winter%20Wonderland%22%7D%22%E0%A5%A4%20--ar%2010%3A14)**
 
 ---
 
-### No. 15: Victorian Father Christmas Postcard
+### No. 13: नॉस्टैल्जिक खिलौनों की दुकान की खिड़की का दृश्य
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+रात में एक खिलौने की दुकान की खिड़की का एक दिल को छू लेने वाला उदासीन चित्रण, जिसमें एक खिलौना ट्रेन और टिन के सिपाही हैं, जो एक बच्चे की आँखों से क्रिसमस के जादू को दर्शाता है।
+
+#### 📝 प्रॉम्पट
+
+```
+रात में एक खिलौने की दुकान की खिड़की का उदासीन चित्रण। अंदर, एक खिलौना ट्रेन एक पेड़ के चारों ओर घूम रही है, और टिन के सिपाही पहरा दे रहे हैं। खिड़की का फ्रेम लकड़ी का है, और कोनों में बर्फ जमा हो रही है। अंदर से गर्म पीली रोशनी आ रही है।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640538051_l3wk8q_1765635100465-0itgcp-q3LGyuyZ2kAAAAASUVORK5CYII_" width="600" alt="नॉस्टैल्जिक खिलौनों की दुकान की खिड़की का दृश्य - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **स्रोत:** [Twitter Post](null)
+- **प्रकाशित:** 13 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%B0%E0%A4%BE%E0%A4%A4%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%96%E0%A4%BF%E0%A4%B2%E0%A5%8C%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%A6%E0%A5%81%E0%A4%95%E0%A4%BE%E0%A4%A8%20%E0%A4%95%E0%A5%80%20%E0%A4%96%E0%A4%BF%E0%A4%A1%E0%A4%BC%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%89%E0%A4%A6%E0%A4%BE%E0%A4%B8%E0%A5%80%E0%A4%A8%20%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A3%E0%A5%A4%20%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%B0%2C%20%E0%A4%8F%E0%A4%95%20%E0%A4%96%E0%A4%BF%E0%A4%B2%E0%A5%8C%E0%A4%A8%E0%A4%BE%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A8%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A5%87%E0%A4%A1%E0%A4%BC%20%E0%A4%95%E0%A5%87%20%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82%20%E0%A4%93%E0%A4%B0%20%E0%A4%98%E0%A5%82%E0%A4%AE%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%94%E0%A4%B0%20%E0%A4%9F%E0%A4%BF%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A4%BE%E0%A4%B9%E0%A5%80%20%E0%A4%AA%E0%A4%B9%E0%A4%B0%E0%A4%BE%20%E0%A4%A6%E0%A5%87%20%E0%A4%B0%E0%A4%B9%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%96%E0%A4%BF%E0%A4%A1%E0%A4%BC%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%20%E0%A4%B2%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%94%E0%A4%B0%20%E0%A4%95%E0%A5%8B%E0%A4%A8%E0%A5%8B%E0%A4%82%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%AB%20%E0%A4%9C%E0%A4%AE%E0%A4%BE%20%E0%A4%B9%E0%A5%8B%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%B0%20%E0%A4%B8%E0%A5%87%20%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%AE%20%E0%A4%AA%E0%A5%80%E0%A4%B2%E0%A5%80%20%E0%A4%B0%E0%A5%8B%E0%A4%B6%E0%A4%A8%E0%A5%80%20%E0%A4%86%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4)**
+
+---
+
+### No. 14: मिड-सेंचुरी मॉडर्न क्रिसमस कार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A vintage-style Christmas card inspired by Victorian postcards, featuring Father Christmas in traditional robes walking through a snowy village with detailed cross-hatching artwork
+एक रेट्रो ज्यामितीय क्रिसमस डिज़ाइन जिसमें मध्य-शताब्दी के आधुनिक एटॉमिक स्टारबर्स्ट और हीरे के आकार चमकीले रंगों में हैं, जो 1950 के दशक की सौंदर्यशास्त्र के प्रशंसकों के लिए एकदम सही है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic Father Christmas in a long {argument name="robe color" default="green"} robe with {argument name="trim color" default="gold"} trim walks through a snowy village carrying a lantern. Muted colors, aged paper texture, detailed cross-hatching.
+एक रेट्रो ज्यामितीय डिज़ाइन, --ar 10:14। {argument name="color 1" default="gold"}, {argument name="color 2" default="turquoise"}, और {argument name="color 3" default="orange"} में मध्य-शताब्दी के आधुनिक एटॉमिक स्टारबर्स्ट और हीरे के आकार, एक {argument name="background color" default="cream"} पृष्ठभूमि पर। एक रेट्रो 50 के दशक के फ़ॉन्ट में "{argument name="greeting" default="Merry Christmas"}"।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -590,7 +554,7 @@ A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640534049_tgsk25_1765635084662-g11ln5-wFfN5JebHRCEgAAAABJRU5ErkJggg__" width="600" alt="Victorian Father Christmas Postcard - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640534853_4frela_b134e84f62985454897a3a713d0f4096c786ca67f9c4dfb65b4d6a97e7e5bcc8" width="600" alt="मिड-सेंचुरी मॉडर्न क्रिसमस कार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -600,23 +564,23 @@ A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vintage%20Victorian%20Christmas%20postcard%20style%20illustration%2C%20--ar%2010%3A14.%20A%20classic%20Father%20Christmas%20in%20a%20long%20%7Bargument%20name%3D%22robe%20color%22%20default%3D%22green%22%7D%20robe%20with%20%7Bargument%20name%3D%22trim%20color%22%20default%3D%22gold%22%7D%20trim%20walks%20through%20a%20snowy%20village%20carrying%20a%20lantern.%20Muted%20colors%2C%20aged%20paper%20texture%2C%20detailed%20cross-hatching.)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%B0%E0%A5%87%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%8B%20%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%20%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%A8%2C%20--ar%2010%3A14%E0%A5%A4%20%7Bargument%20name%3D%22color%201%22%20default%3D%22gold%22%7D%2C%20%7Bargument%20name%3D%22color%202%22%20default%3D%22turquoise%22%7D%2C%20%E0%A4%94%E0%A4%B0%20%7Bargument%20name%3D%22color%203%22%20default%3D%22orange%22%7D%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AE%E0%A4%A7%E0%A5%8D%E0%A4%AF-%E0%A4%B6%E0%A4%A4%E0%A4%BE%E0%A4%AC%E0%A5%8D%E0%A4%A6%E0%A5%80%20%E0%A4%95%E0%A5%87%20%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95%20%E0%A4%8F%E0%A4%9F%E0%A5%89%E0%A4%AE%E0%A4%BF%E0%A4%95%20%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%94%E0%A4%B0%20%E0%A4%B9%E0%A5%80%E0%A4%B0%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B0%2C%20%E0%A4%8F%E0%A4%95%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22cream%22%7D%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%20%E0%A4%AA%E0%A4%B0%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%B0%E0%A5%87%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%8B%2050%20%E0%A4%95%E0%A5%87%20%E0%A4%A6%E0%A4%B6%E0%A4%95%20%E0%A4%95%E0%A5%87%20%E0%A4%AB%E0%A4%BC%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%9F%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%22%7Bargument%20name%3D%22greeting%22%20default%3D%22Merry%20Christmas%22%7D%22%E0%A5%A4)**
 
 ---
 
-### No. 16: Sleepy Animals Stack Christmas Card
+### No. 15: विक्टोरियन फादर क्रिसमस पोस्टकार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A heartwarming cartoon illustration of three adorable animals hibernating together under a cozy quilt, perfect for conveying comfort and warmth during the holidays
+विक्टोरियन पोस्टकार्ड से प्रेरित एक विंटेज-शैली का क्रिसमस कार्ड, जिसमें पारंपरिक वेशभूषा में फादर क्रिसमस विस्तृत क्रॉस-हैचिंग कलाकृति वाले बर्फीले गाँव से गुज़र रहे हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
-A cute cartoon illustration. A stack of three sleepy animals: a {argument name="bottom animal" default="bear"} at the bottom, a {argument name="middle animal" default="fox"} in the middle, and a {argument name="top animal" default="bunny"} on top, all hibernating together under a patchwork quilt. "{argument name="message" default="Cozy & Bright"}" text in the clouds above. --ar 10:14
+एक विंटेज विक्टोरियन क्रिसमस पोस्टकार्ड शैली का चित्रण, --ar 10:14। एक क्लासिक फादर क्रिसमस एक लंबी {argument name="robe color" default="green"} चोगा में, जिसमें {argument name="trim color" default="gold"} ट्रिम है, बर्फ से ढके गाँव से लालटेन लिए हुए चल रहे हैं। म्यूट रंग, पुरानी कागज़ की बनावट, विस्तृत क्रॉस-हैचिंग।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -624,7 +588,7 @@ A cute cartoon illustration. A stack of three sleepy animals: a {argument name="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640532908_mfv73e_1765635069764-sv27ex-wusdZkTvGMQIAAAAABJRU5ErkJggg__" width="600" alt="Sleepy Animals Stack Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640534049_tgsk25_1765635084662-g11ln5-wFfN5JebHRCEgAAAABJRU5ErkJggg__" width="600" alt="विक्टोरियन फादर क्रिसमस पोस्टकार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -634,23 +598,23 @@ A cute cartoon illustration. A stack of three sleepy animals: a {argument name="
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20cartoon%20illustration.%20A%20stack%20of%20three%20sleepy%20animals%3A%20a%20%7Bargument%20name%3D%22bottom%20animal%22%20default%3D%22bear%22%7D%20at%20the%20bottom%2C%20a%20%7Bargument%20name%3D%22middle%20animal%22%20default%3D%22fox%22%7D%20in%20the%20middle%2C%20and%20a%20%7Bargument%20name%3D%22top%20animal%22%20default%3D%22bunny%22%7D%20on%20top%2C%20all%20hibernating%20together%20under%20a%20patchwork%20quilt.%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Cozy%20%26%20Bright%22%7D%22%20text%20in%20the%20clouds%20above.%20--ar%2010%3A14)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A5%87%E0%A4%9C%20%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%A8%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%AA%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A3%2C%20--ar%2010%3A14%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%95%20%E0%A4%AB%E0%A4%BE%E0%A4%A6%E0%A4%B0%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%8F%E0%A4%95%20%E0%A4%B2%E0%A4%82%E0%A4%AC%E0%A5%80%20%7Bargument%20name%3D%22robe%20color%22%20default%3D%22green%22%7D%20%E0%A4%9A%E0%A5%8B%E0%A4%97%E0%A4%BE%20%E0%A4%AE%E0%A5%87%E0%A4%82%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%7Bargument%20name%3D%22trim%20color%22%20default%3D%22gold%22%7D%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%AB%20%E0%A4%B8%E0%A5%87%20%E0%A4%A2%E0%A4%95%E0%A5%87%20%E0%A4%97%E0%A4%BE%E0%A4%81%E0%A4%B5%20%E0%A4%B8%E0%A5%87%20%E0%A4%B2%E0%A4%BE%E0%A4%B2%E0%A4%9F%E0%A5%87%E0%A4%A8%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%9A%E0%A4%B2%20%E0%A4%B0%E0%A4%B9%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%20%E0%A4%B0%E0%A4%82%E0%A4%97%2C%20%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80%20%E0%A4%95%E0%A4%BE%E0%A4%97%E0%A4%9C%E0%A4%BC%20%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%B5%E0%A4%9F%2C%20%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%83%E0%A4%A4%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%89%E0%A4%B8-%E0%A4%B9%E0%A5%88%E0%A4%9A%E0%A4%BF%E0%A4%82%E0%A4%97%E0%A5%A4)**
 
 ---
 
-### No. 17: Penguin Christmas Lights Struggle Card
+### No. 16: स्लीपी एनिमल्स स्टैक क्रिसमस कार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A humorous Christmas card featuring a cute cartoon penguin struggling with tangled Christmas lights, perfect for adding humor to holiday greetings
+छुट्टियों के दौरान आराम और गर्माहट का एहसास कराने के लिए बिल्कुल सही, तीन प्यारे जानवरों का एक दिल को छू लेने वाला कार्टून चित्रण, जो एक आरामदायक रजाई के नीचे एक साथ हाइबरनेट कर रहे हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
-A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is struggling to untangle a massive ball of colorful Christmas lights. The penguin looks frustrated but adorable. White background with soft blue snow shadows. Text: "{argument name="message" default="It's that time again..."}"
+एक प्यारा कार्टून चित्रण। तीन ऊंघते हुए जानवरों का एक ढेर: सबसे नीचे एक {argument name="bottom animal" default="भालू"}, बीच में एक {argument name="middle animal" default="लोमड़ी"}, और सबसे ऊपर एक {argument name="top animal" default="खरगोश"}, सभी एक साथ एक पैचवर्क रजाई के नीचे शीतनिद्रा में हैं। ऊपर बादलों में "{argument name="message" default="आरामदायक और उज्ज्वल"}" टेक्स्ट। --ar 10:14
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -658,7 +622,7 @@ A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is stru
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640528355_3myo91_1765635017613-5duglp-7YSFQGgTiLwAAAABJRU5ErkJggg__" width="600" alt="Penguin Christmas Lights Struggle Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640532908_mfv73e_1765635069764-sv27ex-wusdZkTvGMQIAAAAABJRU5ErkJggg__" width="600" alt="स्लीपी एनिमल्स स्टैक क्रिसमस कार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -668,23 +632,23 @@ A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is stru
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20funny%20printable%20Christmas%20card%2C%20--ar%2010%3A14.%20A%20cartoon%20penguin%20is%20struggling%20to%20untangle%20a%20massive%20ball%20of%20colorful%20Christmas%20lights.%20The%20penguin%20looks%20frustrated%20but%20adorable.%20White%20background%20with%20soft%20blue%20snow%20shadows.%20Text%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22It's%20that%20time%20again...%22%7D%22)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A4%BE%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%82%E0%A4%A8%20%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A3%E0%A5%A4%20%E0%A4%A4%E0%A5%80%E0%A4%A8%20%E0%A4%8A%E0%A4%82%E0%A4%98%E0%A4%A4%E0%A5%87%20%E0%A4%B9%E0%A5%81%E0%A4%8F%20%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A4%B5%E0%A4%B0%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%A2%E0%A5%87%E0%A4%B0%3A%20%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87%20%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%7Bargument%20name%3D%22bottom%20animal%22%20default%3D%22%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A5%82%22%7D%2C%20%E0%A4%AC%E0%A5%80%E0%A4%9A%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%7Bargument%20name%3D%22middle%20animal%22%20default%3D%22%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A4%A1%E0%A4%BC%E0%A5%80%22%7D%2C%20%E0%A4%94%E0%A4%B0%20%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87%20%E0%A4%8A%E0%A4%AA%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%7Bargument%20name%3D%22top%20animal%22%20default%3D%22%E0%A4%96%E0%A4%B0%E0%A4%97%E0%A5%8B%E0%A4%B6%22%7D%2C%20%E0%A4%B8%E0%A4%AD%E0%A5%80%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A5%88%E0%A4%9A%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95%20%E0%A4%B0%E0%A4%9C%E0%A4%BE%E0%A4%88%20%E0%A4%95%E0%A5%87%20%E0%A4%A8%E0%A5%80%E0%A4%9A%E0%A5%87%20%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%A8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BE%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%8A%E0%A4%AA%E0%A4%B0%20%E0%A4%AC%E0%A4%BE%E0%A4%A6%E0%A4%B2%E0%A5%8B%E0%A4%82%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%22%7Bargument%20name%3D%22message%22%20default%3D%22%E0%A4%86%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A6%E0%A4%BE%E0%A4%AF%E0%A4%95%20%E0%A4%94%E0%A4%B0%20%E0%A4%89%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%B2%22%7D%22%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%A4%20--ar%2010%3A14)**
 
 ---
 
-### No. 18: Modern Typography Christmas Tree Card
+### No. 17: पेंगुइन क्रिसमस लाइट्स स्ट्रगल कार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A minimalist Christmas card design featuring a geometric tree made entirely from holiday typography on a solid background, perfect for modern holiday greetings with clean aesthetics
+एक मज़ेदार क्रिसमस कार्ड जिसमें एक प्यारा कार्टून पेंग्विन उलझी हुई क्रिसमस लाइटों से जूझ रहा है, जो छुट्टियों की शुभकामनाओं में हास्य जोड़ने के लिए एकदम सही है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A modern, flat graphic Christmas card, --ar 10:14. On a solid {argument name="background color" default="matcha green"} background, a geometric Christmas tree is formed entirely by white typography of varying weights and sizes, spelling out holiday words like "{argument name="word 1" default="Joy"}", "{argument name="word 2" default="Love"}", "{argument name="word 3" default="Noel"}", "{argument name="word 4" default="Snow"}". The overall shape is a clean triangle. Minimalist and bold.
+एक प्यारा और मज़ेदार प्रिंट करने योग्य क्रिसमस कार्ड, --ar 10:14। एक कार्टून पेंग्विन रंगीन क्रिसमस लाइटों के एक विशाल गोले को सुलझाने के लिए संघर्ष कर रहा है। पेंग्विन निराश लेकिन प्यारा लग रहा है। नरम नीली बर्फ की छाया के साथ सफेद पृष्ठभूमि। टेक्स्ट: "{argument name="message" default="It's that time again..."}"
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -692,7 +656,7 @@ A modern, flat graphic Christmas card, --ar 10:14. On a solid {argument name="ba
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640527656_l4bqnh_1765634970019-m2ap7w-wXiy8EsMefgSQAAAABJRU5ErkJggg__" width="600" alt="Modern Typography Christmas Tree Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640528355_3myo91_1765635017613-5duglp-7YSFQGgTiLwAAAABJRU5ErkJggg__" width="600" alt="पेंगुइन क्रिसमस लाइट्स स्ट्रगल कार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -702,23 +666,23 @@ A modern, flat graphic Christmas card, --ar 10:14. On a solid {argument name="ba
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20modern%2C%20flat%20graphic%20Christmas%20card%2C%20--ar%2010%3A14.%20On%20a%20solid%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22matcha%20green%22%7D%20background%2C%20a%20geometric%20Christmas%20tree%20is%20formed%20entirely%20by%20white%20typography%20of%20varying%20weights%20and%20sizes%2C%20spelling%20out%20holiday%20words%20like%20%22%7Bargument%20name%3D%22word%201%22%20default%3D%22Joy%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%202%22%20default%3D%22Love%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%203%22%20default%3D%22Noel%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%204%22%20default%3D%22Snow%22%7D%22.%20The%20overall%20shape%20is%20a%20clean%20triangle.%20Minimalist%20and%20bold.)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%AE%E0%A4%9C%E0%A4%BC%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%2C%20--ar%2010%3A14%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%82%E0%A4%A8%20%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A8%20%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80%E0%A4%A8%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%8F%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B2%20%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A5%87%20%E0%A4%95%E0%A5%8B%20%E0%A4%B8%E0%A5%81%E0%A4%B2%E0%A4%9D%E0%A4%BE%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%B8%E0%A4%82%E0%A4%98%E0%A4%B0%E0%A5%8D%E0%A4%B7%20%E0%A4%95%E0%A4%B0%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%AA%E0%A5%87%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A8%20%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%B6%20%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8%20%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A4%BE%20%E0%A4%B2%E0%A4%97%20%E0%A4%B0%E0%A4%B9%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%A8%E0%A4%B0%E0%A4%AE%20%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A5%80%20%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%AB%20%E0%A4%95%E0%A5%80%20%E0%A4%9B%E0%A4%BE%E0%A4%AF%E0%A4%BE%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%E0%A5%A4%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22It's%20that%20time%20again...%22%7D%22)**
 
 ---
 
-### No. 19: Kawaii Hot Cocoa Christmas Card
+### No. 18: मॉडर्न टाइपोग्राफी क्रिसमस ट्री कार्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-An adorable kawaii-style Christmas card featuring a smiling cup of hot cocoa with cute marshmallows, perfect for sending warm holiday wishes
+एक न्यूनतम क्रिसमस कार्ड डिज़ाइन जिसमें एक ठोस पृष्ठभूमि पर पूरी तरह से हॉलिडे टाइपोग्राफी से बना एक ज्यामितीय पेड़ है, जो स्वच्छ सौंदर्यशास्त्र के साथ आधुनिक छुट्टियों की शुभकामनाओं के लिए एकदम सही है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallows bathing in it. The marshmallows have tiny faces. Steam rises in the shape of a heart. Pastel pink background with white polka dots. Text: "{argument name="message" default="Sending you a hug in a mug."}" --ar 10:14
+एक आधुनिक, सपाट ग्राफिक क्रिसमस कार्ड, --ar 10:14। एक ठोस {argument name="background color" default="matcha green"} बैकग्राउंड पर, एक ज्यामितीय क्रिसमस ट्री पूरी तरह से अलग-अलग वज़न और आकार के सफेद टाइपोग्राफी से बना है, जिसमें "{argument name="word 1" default="Joy"}", "{argument name="word 2" default="Love"}", "{argument name="word 3" default="Noel"}", "{argument name="word 4" default="Snow"}" जैसे छुट्टियों के शब्द लिखे हैं। इसका समग्र आकार एक साफ त्रिकोण है। न्यूनतम और बोल्ड।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -726,7 +690,7 @@ A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640527833_kdwtfz_1765635040104-k0xba7-OlzRR9X9TVgAAAABJRU5ErkJggg__" width="600" alt="Kawaii Hot Cocoa Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640527656_l4bqnh_1765634970019-m2ap7w-wXiy8EsMefgSQAAAABJRU5ErkJggg__" width="600" alt="मॉडर्न टाइपोग्राफी क्रिसमस ट्री कार्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -736,7 +700,41 @@ A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallo
 - **प्रकाशित:** 13 दिसंबर 2025
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20kawaii%20style%20Christmas%20card.%20A%20happy%2C%20smiling%20cup%20of%20hot%20cocoa%20with%20marshmallows%20bathing%20in%20it.%20The%20marshmallows%20have%20tiny%20faces.%20Steam%20rises%20in%20the%20shape%20of%20a%20heart.%20Pastel%20pink%20background%20with%20white%20polka%20dots.%20Text%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Sending%20you%20a%20hug%20in%20a%20mug.%22%7D%22%20--ar%2010%3A14)**
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95%2C%20%E0%A4%B8%E0%A4%AA%E0%A4%BE%E0%A4%9F%20%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AB%E0%A4%BF%E0%A4%95%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%2C%20--ar%2010%3A14%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%A0%E0%A5%8B%E0%A4%B8%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22matcha%20green%22%7D%20%E0%A4%AC%E0%A5%88%E0%A4%95%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%89%E0%A4%82%E0%A4%A1%20%E0%A4%AA%E0%A4%B0%2C%20%E0%A4%8F%E0%A4%95%20%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%80%20%E0%A4%A4%E0%A4%B0%E0%A4%B9%20%E0%A4%B8%E0%A5%87%20%E0%A4%85%E0%A4%B2%E0%A4%97-%E0%A4%85%E0%A4%B2%E0%A4%97%20%E0%A4%B5%E0%A5%9B%E0%A4%A8%20%E0%A4%94%E0%A4%B0%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AA%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AB%E0%A5%80%20%E0%A4%B8%E0%A5%87%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%22%7Bargument%20name%3D%22word%201%22%20default%3D%22Joy%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%202%22%20default%3D%22Love%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%203%22%20default%3D%22Noel%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%204%22%20default%3D%22Snow%22%7D%22%20%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A5%87%20%E0%A4%9B%E0%A5%81%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%20%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%87%E0%A4%B8%E0%A4%95%E0%A4%BE%20%E0%A4%B8%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%8F%E0%A4%95%20%E0%A4%B8%E0%A4%BE%E0%A4%AB%20%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%8B%E0%A4%A3%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%A4%E0%A4%AE%20%E0%A4%94%E0%A4%B0%20%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A5%A4)**
+
+---
+
+### No. 19: कवाई हॉट कोकोआ क्रिसमस कार्ड
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+प्यारे मार्शमैलो के साथ हॉट कोको के एक मुस्कुराते हुए कप वाला एक मनमोहक कावई-शैली का क्रिसमस कार्ड, जो छुट्टियों की हार्दिक शुभकामनाएँ भेजने के लिए एकदम सही है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक कवाई शैली का क्रिसमस कार्ड। मार्शमैलो से भरा एक खुश, मुस्कुराता हुआ गर्म कोको का कप। मार्शमैलो के छोटे-छोटे चेहरे हैं। दिल के आकार में भाप उठ रही है। सफेद पोल्का डॉट्स के साथ पेस्टल गुलाबी पृष्ठभूमि। टेक्स्ट: "{argument name="message" default="Sending you a hug in a mug."}" --ar 10:14
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640527833_kdwtfz_1765635040104-k0xba7-OlzRR9X9TVgAAAABJRU5ErkJggg__" width="600" alt="कवाई हॉट कोकोआ क्रिसमस कार्ड - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **स्रोत:** [Twitter Post](null)
+- **प्रकाशित:** 13 दिसंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/tools/christmas-cards-maker?prompt=%E0%A4%8F%E0%A4%95%20%E0%A4%95%E0%A4%B5%E0%A4%BE%E0%A4%88%20%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A4%B8%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%A4%20%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%AE%E0%A5%88%E0%A4%B2%E0%A5%8B%20%E0%A4%B8%E0%A5%87%20%E0%A4%AD%E0%A4%B0%E0%A4%BE%20%E0%A4%8F%E0%A4%95%20%E0%A4%96%E0%A5%81%E0%A4%B6%2C%20%E0%A4%AE%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%81%E0%A4%86%20%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%AE%20%E0%A4%95%E0%A5%8B%E0%A4%95%E0%A5%8B%20%E0%A4%95%E0%A4%BE%20%E0%A4%95%E0%A4%AA%E0%A5%A4%20%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%AE%E0%A5%88%E0%A4%B2%E0%A5%8B%20%E0%A4%95%E0%A5%87%20%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%87-%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A5%87%20%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A5%87%20%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4%20%E0%A4%A6%E0%A4%BF%E0%A4%B2%20%E0%A4%95%E0%A5%87%20%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B0%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AD%E0%A4%BE%E0%A4%AA%20%E0%A4%89%E0%A4%A0%20%E0%A4%B0%E0%A4%B9%E0%A5%80%20%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6%20%E0%A4%AA%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A4%BE%20%E0%A4%A1%E0%A5%89%E0%A4%9F%E0%A5%8D%E0%A4%B8%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%20%E0%A4%AA%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B2%20%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A5%80%20%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF%E0%A5%A4%20%E0%A4%9F%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%9F%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Sending%20you%20a%20hug%20in%20a%20mug.%22%7D%22%20--ar%2010%3A14)**
 
 ---
 
@@ -4076,6 +4074,6 @@ A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallo
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2025-12-14T04:34:42.466Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2025-12-14T07:27:38.331Z</sub>
 
 </div>

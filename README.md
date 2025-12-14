@@ -24,8 +24,6 @@
 
 ![Cover](public/images/christmas-card-prompts-cover-en.png)
 
-![List](public/images/christmas-card-prompts-list-en.png)
-
 </div>
 
 **[👉 Browse on YouMind Christmas Card Prompts Gallery](https://youmind.com/tools/christmas-cards-maker)**
@@ -90,7 +88,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **100** |
 | ⭐ Featured | **0** |
-| 🔄 Last Updated | **Sunday, December 14, 2025 at 4:34:36 AM UTC** |
+| 🔄 Last Updated | **Sunday, December 14, 2025 at 7:27:34 AM UTC** |
 
 </div>
 
@@ -4076,6 +4074,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-12-14T04:34:37.159Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-12-14T07:27:34.973Z</sub>
 
 </div>

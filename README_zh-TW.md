@@ -24,8 +24,6 @@
 
 ![Cover](public/images/christmas-card-prompts-cover-zh.png)
 
-![List](public/images/christmas-card-prompts-list-zh.png)
-
 </div>
 
 **[👉 瀏覽 YouMind 聖誕卡片提示詞圖庫](https://youmind.com/tools/christmas-cards-maker)**
@@ -90,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **100** |
 | ⭐ 精選 | **0** |
-| 🔄 最後更新 | **2025年12月14日 星期日 凌晨4:34:38 [UTC]** |
+| 🔄 最後更新 | **2025年12月14日 星期日 清晨7:27:35 [UTC]** |
 
 </div>
 
@@ -100,18 +98,18 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 按發布日期排序（最新優先）
 
-### No. 1: Santa's Laundry Line Christmas Card
+### No. 1: 聖誕老人的曬衣繩聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A whimsical and domestic Christmas scene featuring Santa's iconic clothes drying on a tinsel clothesline, including a humorous pair of boxer shorts. This prompt offers a unique and funny take on Santa getting ready for the big day.
+一個充滿奇思妙想的居家聖誕場景，聖誕老人的經典服裝掛在閃閃發光的晾衣繩上晾乾，其中還包括一條幽默的四角內褲。這個提示為聖誕老人準備迎接重要日子的過程，提供了一個獨特而有趣的視角。
 
 #### 📝 提示詞
 
 ```
-A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made of festive tinsel is strung across a pale blue snowy sky background. Pinned to the line with wooden clothespins are Santa's iconic clothes: his big red jacket with white fur trim, his red trousers, a pair of red suspenders, and a pair of humorous white boxer shorts covered in a pattern of green holly leaves and red berries. A small bluebird is perched on the clothesline. The style is a clean, flat illustration with a paper-cut texture effect. A unique and funny take on Santa getting ready.
+一個異想天開又充滿居家感的聖誕場景，長寬比為 1:1.4。一條由節慶飾帶製成的曬衣繩，橫跨在淡藍色雪景天空的背景中。用木製衣夾夾在繩子上的是聖誕老人標誌性的服裝：他那件帶有白色毛邊的大紅外套、紅色長褲、一條紅色吊帶，以及一條印有綠色冬青葉和紅色漿果圖案的幽默白色四角內褲。一隻小藍鳥棲息在曬衣繩上。風格是簡潔、扁平的插畫，帶有剪紙紋理效果。這是聖誕老人準備就緒的獨特而有趣的詮釋。
 ```
 
 #### 🖼️ 生成圖片
@@ -119,7 +117,7 @@ A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640793375_1y7v4u_1765640304107-uj3tok-D5EWq0D8IRIBAAAAAElFTkSuQmCC" width="600" alt="Santa's Laundry Line Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640793375_1y7v4u_1765640304107-uj3tok-D5EWq0D8IRIBAAAAAElFTkSuQmCC" width="600" alt="聖誕老人的曬衣繩聖誕卡 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -129,23 +127,188 @@ A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20and%20domestic%20Christmas%20scene%2C%20aspect%20ratio%201%3A1.4.%20A%20clothesline%20made%20of%20festive%20tinsel%20is%20strung%20across%20a%20pale%20blue%20snowy%20sky%20background.%20Pinned%20to%20the%20line%20with%20wooden%20clothespins%20are%20Santa's%20iconic%20clothes%3A%20his%20big%20red%20jacket%20with%20white%20fur%20trim%2C%20his%20red%20trousers%2C%20a%20pair%20of%20red%20suspenders%2C%20and%20a%20pair%20of%20humorous%20white%20boxer%20shorts%20covered%20in%20a%20pattern%20of%20green%20holly%20leaves%20and%20red%20berries.%20A%20small%20bluebird%20is%20perched%20on%20the%20clothesline.%20The%20style%20is%20a%20clean%2C%20flat%20illustration%20with%20a%20paper-cut%20texture%20effect.%20A%20unique%20and%20funny%20take%20on%20Santa%20getting%20ready.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E7%95%B0%E6%83%B3%E5%A4%A9%E9%96%8B%E5%8F%88%E5%85%85%E6%BB%BF%E5%B1%85%E5%AE%B6%E6%84%9F%E7%9A%84%E8%81%96%E8%AA%95%E5%A0%B4%E6%99%AF%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E6%A2%9D%E7%94%B1%E7%AF%80%E6%85%B6%E9%A3%BE%E5%B8%B6%E8%A3%BD%E6%88%90%E7%9A%84%E6%9B%AC%E8%A1%A3%E7%B9%A9%EF%BC%8C%E6%A9%AB%E8%B7%A8%E5%9C%A8%E6%B7%A1%E8%97%8D%E8%89%B2%E9%9B%AA%E6%99%AF%E5%A4%A9%E7%A9%BA%E7%9A%84%E8%83%8C%E6%99%AF%E4%B8%AD%E3%80%82%E7%94%A8%E6%9C%A8%E8%A3%BD%E8%A1%A3%E5%A4%BE%E5%A4%BE%E5%9C%A8%E7%B9%A9%E5%AD%90%E4%B8%8A%E7%9A%84%E6%98%AF%E8%81%96%E8%AA%95%E8%80%81%E4%BA%BA%E6%A8%99%E8%AA%8C%E6%80%A7%E7%9A%84%E6%9C%8D%E8%A3%9D%EF%BC%9A%E4%BB%96%E9%82%A3%E4%BB%B6%E5%B8%B6%E6%9C%89%E7%99%BD%E8%89%B2%E6%AF%9B%E9%82%8A%E7%9A%84%E5%A4%A7%E7%B4%85%E5%A4%96%E5%A5%97%E3%80%81%E7%B4%85%E8%89%B2%E9%95%B7%E8%A4%B2%E3%80%81%E4%B8%80%E6%A2%9D%E7%B4%85%E8%89%B2%E5%90%8A%E5%B8%B6%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E6%A2%9D%E5%8D%B0%E6%9C%89%E7%B6%A0%E8%89%B2%E5%86%AC%E9%9D%92%E8%91%89%E5%92%8C%E7%B4%85%E8%89%B2%E6%BC%BF%E6%9E%9C%E5%9C%96%E6%A1%88%E7%9A%84%E5%B9%BD%E9%BB%98%E7%99%BD%E8%89%B2%E5%9B%9B%E8%A7%92%E5%85%A7%E8%A4%B2%E3%80%82%E4%B8%80%E9%9A%BB%E5%B0%8F%E8%97%8D%E9%B3%A5%E6%A3%B2%E6%81%AF%E5%9C%A8%E6%9B%AC%E8%A1%A3%E7%B9%A9%E4%B8%8A%E3%80%82%E9%A2%A8%E6%A0%BC%E6%98%AF%E7%B0%A1%E6%BD%94%E3%80%81%E6%89%81%E5%B9%B3%E7%9A%84%E6%8F%92%E7%95%AB%EF%BC%8C%E5%B8%B6%E6%9C%89%E5%89%AA%E7%B4%99%E7%B4%8B%E7%90%86%E6%95%88%E6%9E%9C%E3%80%82%E9%80%99%E6%98%AF%E8%81%96%E8%AA%95%E8%80%81%E4%BA%BA%E6%BA%96%E5%82%99%E5%B0%B1%E7%B7%92%E7%9A%84%E7%8D%A8%E7%89%B9%E8%80%8C%E6%9C%89%E8%B6%A3%E7%9A%84%E8%A9%AE%E9%87%8B%E3%80%82)**
 
 ---
 
-### No. 2: Sloth Hanging from Candy Cane Christmas Card
+### No. 2: 掛在拐杖糖上的樹懶聖誕卡
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一張可愛的可列印聖誕卡片設計，內容是一隻行動緩慢的樹懶掛在拐杖糖上，試圖搆到一棵聖誕樹。這個提示非常適合製作獨特又迷人的幽默節日賀卡。
+
+#### 📝 提示詞
+
+```
+一張可愛的可列印聖誕卡片設計，長寬比為 1:1.4。一隻可愛、動作緩慢的樹懶倒掛在卡片頂部橫向延伸的拐杖糖上。這隻樹懶穿著一件帶有像素化雪花圖案的節日醜聖誕毛衣。牠用緩慢的爪子抓著一個星星樹頂裝飾，試圖夠到一棵剛好在畫面外的聖誕樹。背景是實心的深青色，以襯托出樹懶。樹懶下方，文字以輕鬆的手寫字體寫著：「Slowly getting into the Spirit」。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640792570_as7oyl_1765640333881-lkq034-EZMiYLAuMw9pQ64ferde4Pu_d1y3UHlI792dxd75JBOzmGh1ODnaQby1qWlttEk7O5OxGmv9dcmSdyMuSTd96MmYgfF6Gh_BYdr4ZU6ci6sKkXILWADyJjyL1ps4zHLI1UkgGfvIv8BYOpTNrui_hYAAAAASUVORK5CYII_" width="600" alt="掛在拐杖糖上的樹懶聖誕卡 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月13日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E5%8D%A1%E7%89%87%E8%A8%AD%E8%A8%88%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E5%8F%AF%E6%84%9B%E3%80%81%E5%8B%95%E4%BD%9C%E7%B7%A9%E6%85%A2%E7%9A%84%E6%A8%B9%E6%87%B6%E5%80%92%E6%8E%9B%E5%9C%A8%E5%8D%A1%E7%89%87%E9%A0%82%E9%83%A8%E6%A9%AB%E5%90%91%E5%BB%B6%E4%BC%B8%E7%9A%84%E6%8B%90%E6%9D%96%E7%B3%96%E4%B8%8A%E3%80%82%E9%80%99%E9%9A%BB%E6%A8%B9%E6%87%B6%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E5%B8%B6%E6%9C%89%E5%83%8F%E7%B4%A0%E5%8C%96%E9%9B%AA%E8%8A%B1%E5%9C%96%E6%A1%88%E7%9A%84%E7%AF%80%E6%97%A5%E9%86%9C%E8%81%96%E8%AA%95%E6%AF%9B%E8%A1%A3%E3%80%82%E7%89%A0%E7%94%A8%E7%B7%A9%E6%85%A2%E7%9A%84%E7%88%AA%E5%AD%90%E6%8A%93%E8%91%97%E4%B8%80%E5%80%8B%E6%98%9F%E6%98%9F%E6%A8%B9%E9%A0%82%E8%A3%9D%E9%A3%BE%EF%BC%8C%E8%A9%A6%E5%9C%96%E5%A4%A0%E5%88%B0%E4%B8%80%E6%A3%B5%E5%89%9B%E5%A5%BD%E5%9C%A8%E7%95%AB%E9%9D%A2%E5%A4%96%E7%9A%84%E8%81%96%E8%AA%95%E6%A8%B9%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E5%AF%A6%E5%BF%83%E7%9A%84%E6%B7%B1%E9%9D%92%E8%89%B2%EF%BC%8C%E4%BB%A5%E8%A5%AF%E6%89%98%E5%87%BA%E6%A8%B9%E6%87%B6%E3%80%82%E6%A8%B9%E6%87%B6%E4%B8%8B%E6%96%B9%EF%BC%8C%E6%96%87%E5%AD%97%E4%BB%A5%E8%BC%95%E9%AC%86%E7%9A%84%E6%89%8B%E5%AF%AB%E5%AD%97%E9%AB%94%E5%AF%AB%E8%91%97%EF%BC%9A%E3%80%8CSlowly%20getting%20into%20the%20Spirit%E3%80%8D%E3%80%82)**
+
+---
+
+### No. 3: 打扮成小精靈的巴哥犬聖誕卡
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一張有趣、扁平風格的聖誕卡片向量插圖，描繪一隻巴哥犬試圖融入聖誕老人的小精靈之中。這個提示非常適合創作幽默輕鬆的節日問候。
+
+#### 📝 提示詞
+
+```
+一張用於聖誕卡的有趣扁平向量插圖，長寬比為 1:1.4。圖中顯示四個聖誕老人的小精靈橫向排成一列，他們身穿綠色束腰外衣、紅白條紋緊身褲和尖帽子。隊伍中間，一隻米色巴哥犬正試圖融入其中，牠用後腿站立，穿著一模一樣的小精靈服裝。兩旁的小精靈都斜眼懷疑地看著這隻狗，而這隻狗則面無表情、天真無邪地直視前方。背景是純粹的節慶紅色。底部文字以打字機字體寫著：「Day 24: They still suspect nothing.」。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640787455_7y0l1a_1765640309893-18pj8i-B3qh94JBo2i5AAAAAElFTkSuQmCC" width="600" alt="打扮成小精靈的巴哥犬聖誕卡 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月13日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%94%A8%E6%96%BC%E8%81%96%E8%AA%95%E5%8D%A1%E7%9A%84%E6%9C%89%E8%B6%A3%E6%89%81%E5%B9%B3%E5%90%91%E9%87%8F%E6%8F%92%E5%9C%96%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E5%9C%96%E4%B8%AD%E9%A1%AF%E7%A4%BA%E5%9B%9B%E5%80%8B%E8%81%96%E8%AA%95%E8%80%81%E4%BA%BA%E7%9A%84%E5%B0%8F%E7%B2%BE%E9%9D%88%E6%A9%AB%E5%90%91%E6%8E%92%E6%88%90%E4%B8%80%E5%88%97%EF%BC%8C%E4%BB%96%E5%80%91%E8%BA%AB%E7%A9%BF%E7%B6%A0%E8%89%B2%E6%9D%9F%E8%85%B0%E5%A4%96%E8%A1%A3%E3%80%81%E7%B4%85%E7%99%BD%E6%A2%9D%E7%B4%8B%E7%B7%8A%E8%BA%AB%E8%A4%B2%E5%92%8C%E5%B0%96%E5%B8%BD%E5%AD%90%E3%80%82%E9%9A%8A%E4%BC%8D%E4%B8%AD%E9%96%93%EF%BC%8C%E4%B8%80%E9%9A%BB%E7%B1%B3%E8%89%B2%E5%B7%B4%E5%93%A5%E7%8A%AC%E6%AD%A3%E8%A9%A6%E5%9C%96%E8%9E%8D%E5%85%A5%E5%85%B6%E4%B8%AD%EF%BC%8C%E7%89%A0%E7%94%A8%E5%BE%8C%E8%85%BF%E7%AB%99%E7%AB%8B%EF%BC%8C%E7%A9%BF%E8%91%97%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A8%A3%E7%9A%84%E5%B0%8F%E7%B2%BE%E9%9D%88%E6%9C%8D%E8%A3%9D%E3%80%82%E5%85%A9%E6%97%81%E7%9A%84%E5%B0%8F%E7%B2%BE%E9%9D%88%E9%83%BD%E6%96%9C%E7%9C%BC%E6%87%B7%E7%96%91%E5%9C%B0%E7%9C%8B%E8%91%97%E9%80%99%E9%9A%BB%E7%8B%97%EF%BC%8C%E8%80%8C%E9%80%99%E9%9A%BB%E7%8B%97%E5%89%87%E9%9D%A2%E7%84%A1%E8%A1%A8%E6%83%85%E3%80%81%E5%A4%A9%E7%9C%9F%E7%84%A1%E9%82%AA%E5%9C%B0%E7%9B%B4%E8%A6%96%E5%89%8D%E6%96%B9%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E7%B4%94%E7%B2%B9%E7%9A%84%E7%AF%80%E6%85%B6%E7%B4%85%E8%89%B2%E3%80%82%E5%BA%95%E9%83%A8%E6%96%87%E5%AD%97%E4%BB%A5%E6%89%93%E5%AD%97%E6%A9%9F%E5%AD%97%E9%AB%94%E5%AF%AB%E8%91%97%EF%BC%9A%E3%80%8CDay%2024%3A%20They%20still%20suspect%20nothing.%E3%80%8D%E3%80%82)**
+
+---
+
+### No. 4: 馴鹿飛行學校聖誕卡
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一張迷人又有趣的聖誕卡設計，描繪了一隻小馴鹿在小知更鳥的幫助下，笨拙卻堅定地嘗試飛行學校。這個提示非常適合創作異想天開又可愛的節日訊息。
+
+#### 📝 提示詞
+
+```
+一個迷人又有趣的聖誕卡設計，長寬比為 1:1.4。場景描繪了「馴鹿飛行學校」。一隻可愛又笨拙的小馴鹿，鼻子稍微有點大，是紅色的，牠在雪地上方幾英吋處盤旋，四肢向四面八方伸展，看起來既驚慌又堅定。牠戴著復古飛行員護目鏡和棕色皮革頭盔。在牠身後，一隻小小的紅色知更鳥正用牠的鳥喙推著馴鹿的屁股，幫助牠保持飛行。背景是簡潔的淡藍色冬日天空，點綴著蓬鬆的白雲。風格是細緻的彩色鉛筆畫，繪製在有紋理的紙上。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640787943_hq7ga1_1765640065495-37f5mv-8BrHHbyCDq3h0AAAAASUVORK5CYII_" width="600" alt="馴鹿飛行學校聖誕卡 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月13日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E8%BF%B7%E4%BA%BA%E5%8F%88%E6%9C%89%E8%B6%A3%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E8%A8%AD%E8%A8%88%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E5%A0%B4%E6%99%AF%E6%8F%8F%E7%B9%AA%E4%BA%86%E3%80%8C%E9%A6%B4%E9%B9%BF%E9%A3%9B%E8%A1%8C%E5%AD%B8%E6%A0%A1%E3%80%8D%E3%80%82%E4%B8%80%E9%9A%BB%E5%8F%AF%E6%84%9B%E5%8F%88%E7%AC%A8%E6%8B%99%E7%9A%84%E5%B0%8F%E9%A6%B4%E9%B9%BF%EF%BC%8C%E9%BC%BB%E5%AD%90%E7%A8%8D%E5%BE%AE%E6%9C%89%E9%BB%9E%E5%A4%A7%EF%BC%8C%E6%98%AF%E7%B4%85%E8%89%B2%E7%9A%84%EF%BC%8C%E7%89%A0%E5%9C%A8%E9%9B%AA%E5%9C%B0%E4%B8%8A%E6%96%B9%E5%B9%BE%E8%8B%B1%E5%90%8B%E8%99%95%E7%9B%A4%E6%97%8B%EF%BC%8C%E5%9B%9B%E8%82%A2%E5%90%91%E5%9B%9B%E9%9D%A2%E5%85%AB%E6%96%B9%E4%BC%B8%E5%B1%95%EF%BC%8C%E7%9C%8B%E8%B5%B7%E4%BE%86%E6%97%A2%E9%A9%9A%E6%85%8C%E5%8F%88%E5%A0%85%E5%AE%9A%E3%80%82%E7%89%A0%E6%88%B4%E8%91%97%E5%BE%A9%E5%8F%A4%E9%A3%9B%E8%A1%8C%E5%93%A1%E8%AD%B7%E7%9B%AE%E9%8F%A1%E5%92%8C%E6%A3%95%E8%89%B2%E7%9A%AE%E9%9D%A9%E9%A0%AD%E7%9B%94%E3%80%82%E5%9C%A8%E7%89%A0%E8%BA%AB%E5%BE%8C%EF%BC%8C%E4%B8%80%E9%9A%BB%E5%B0%8F%E5%B0%8F%E7%9A%84%E7%B4%85%E8%89%B2%E7%9F%A5%E6%9B%B4%E9%B3%A5%E6%AD%A3%E7%94%A8%E7%89%A0%E7%9A%84%E9%B3%A5%E5%96%99%E6%8E%A8%E8%91%97%E9%A6%B4%E9%B9%BF%E7%9A%84%E5%B1%81%E8%82%A1%EF%BC%8C%E5%B9%AB%E5%8A%A9%E7%89%A0%E4%BF%9D%E6%8C%81%E9%A3%9B%E8%A1%8C%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E7%B0%A1%E6%BD%94%E7%9A%84%E6%B7%A1%E8%97%8D%E8%89%B2%E5%86%AC%E6%97%A5%E5%A4%A9%E7%A9%BA%EF%BC%8C%E9%BB%9E%E7%B6%B4%E8%91%97%E8%93%AC%E9%AC%86%E7%9A%84%E7%99%BD%E9%9B%B2%E3%80%82%E9%A2%A8%E6%A0%BC%E6%98%AF%E7%B4%B0%E7%B7%BB%E7%9A%84%E5%BD%A9%E8%89%B2%E9%89%9B%E7%AD%86%E7%95%AB%EF%BC%8C%E7%B9%AA%E8%A3%BD%E5%9C%A8%E6%9C%89%E7%B4%8B%E7%90%86%E7%9A%84%E7%B4%99%E4%B8%8A%E3%80%82)**
+
+---
+
+### No. 5: 棉花糖熱水浴缸聖誕卡
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一張可愛風格的可列印聖誕卡插圖，描繪了可愛的棉花糖角色在熱巧克力杯中放鬆。這個提示創造了一個有趣又甜蜜的圖像，非常適合愉快的節日問候。
+
+#### 📝 提示詞
+
+```
+一張可愛風格的可列印聖誕卡插圖，長寬比為 1:1.4。視角是俯視一個裝滿濃郁棕色熱巧克力的紅色陶瓷馬克杯。杯中，三個可愛的白色棉花糖角色正在放鬆，就像在泡熱水澡一樣。其中一個棉花糖向後靠著，戴著巧克力糖霜畫的太陽眼鏡。另一個戴著一根小小的拐杖糖呼吸管。第三個則像筏子一樣漂浮在一塊巧克力方塊上。蒸汽以心形向上繚繞。馬克杯外的背景是柔和的粉紅色，帶有白色圓點。高解析度、明亮色彩、向量藝術風格。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640787036_1czg4c_1765640042781-1ksod8-B61Wq24QZe3rAAAAAElFTkSuQmCC" width="600" alt="棉花糖熱水浴缸聖誕卡 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月13日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E9%A2%A8%E6%A0%BC%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E5%8D%A1%E6%8F%92%E5%9C%96%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E8%A6%96%E8%A7%92%E6%98%AF%E4%BF%AF%E8%A6%96%E4%B8%80%E5%80%8B%E8%A3%9D%E6%BB%BF%E6%BF%83%E9%83%81%E6%A3%95%E8%89%B2%E7%86%B1%E5%B7%A7%E5%85%8B%E5%8A%9B%E7%9A%84%E7%B4%85%E8%89%B2%E9%99%B6%E7%93%B7%E9%A6%AC%E5%85%8B%E6%9D%AF%E3%80%82%E6%9D%AF%E4%B8%AD%EF%BC%8C%E4%B8%89%E5%80%8B%E5%8F%AF%E6%84%9B%E7%9A%84%E7%99%BD%E8%89%B2%E6%A3%89%E8%8A%B1%E7%B3%96%E8%A7%92%E8%89%B2%E6%AD%A3%E5%9C%A8%E6%94%BE%E9%AC%86%EF%BC%8C%E5%B0%B1%E5%83%8F%E5%9C%A8%E6%B3%A1%E7%86%B1%E6%B0%B4%E6%BE%A1%E4%B8%80%E6%A8%A3%E3%80%82%E5%85%B6%E4%B8%AD%E4%B8%80%E5%80%8B%E6%A3%89%E8%8A%B1%E7%B3%96%E5%90%91%E5%BE%8C%E9%9D%A0%E8%91%97%EF%BC%8C%E6%88%B4%E8%91%97%E5%B7%A7%E5%85%8B%E5%8A%9B%E7%B3%96%E9%9C%9C%E7%95%AB%E7%9A%84%E5%A4%AA%E9%99%BD%E7%9C%BC%E9%8F%A1%E3%80%82%E5%8F%A6%E4%B8%80%E5%80%8B%E6%88%B4%E8%91%97%E4%B8%80%E6%A0%B9%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%8B%90%E6%9D%96%E7%B3%96%E5%91%BC%E5%90%B8%E7%AE%A1%E3%80%82%E7%AC%AC%E4%B8%89%E5%80%8B%E5%89%87%E5%83%8F%E7%AD%8F%E5%AD%90%E4%B8%80%E6%A8%A3%E6%BC%82%E6%B5%AE%E5%9C%A8%E4%B8%80%E5%A1%8A%E5%B7%A7%E5%85%8B%E5%8A%9B%E6%96%B9%E5%A1%8A%E4%B8%8A%E3%80%82%E8%92%B8%E6%B1%BD%E4%BB%A5%E5%BF%83%E5%BD%A2%E5%90%91%E4%B8%8A%E7%B9%9A%E7%B9%9E%E3%80%82%E9%A6%AC%E5%85%8B%E6%9D%AF%E5%A4%96%E7%9A%84%E8%83%8C%E6%99%AF%E6%98%AF%E6%9F%94%E5%92%8C%E7%9A%84%E7%B2%89%E7%B4%85%E8%89%B2%EF%BC%8C%E5%B8%B6%E6%9C%89%E7%99%BD%E8%89%B2%E5%9C%93%E9%BB%9E%E3%80%82%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%E3%80%81%E6%98%8E%E4%BA%AE%E8%89%B2%E5%BD%A9%E3%80%81%E5%90%91%E9%87%8F%E8%97%9D%E8%A1%93%E9%A2%A8%E6%A0%BC%E3%80%82)**
+
+---
+
+### No. 6: 蔓越莓倉鼠聖誕卡
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一張精美、可列印的聖誕賀卡插圖，採用柔和的童話水彩風格。此提示會生成一幅胖嘟嘟的倉鼠享用蔓越莓的溫馨場景，非常適合溫馨的節日問候。
+
+#### 📝 提示詞
+
+```
+一張精緻、可列印的聖誕賀卡插圖，採用柔和的童話水彩風格，長寬比為 1:1.4。場景是一個特寫微距視角，一隻圓滾滾、金棕色的倉鼠戴著一頂小巧的紅色針織聖誕帽。倉鼠坐在一張用冰棒棍製成的小木桌旁。牠用兩隻爪子捧著一顆鮮紅的蔓越莓，雙頰鼓鼓的，看起來非常開心。桌上，有一個用作杯子的頂針和一個放著一小塊起司的迷你盤子。背景是溫暖、奶油色的米白色紙質紋理，角落有淡淡的水彩冬青葉。氛圍溫馨、小巧而暖心。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640781703_na5jwz_1765640043553-nm924c-v6X3sYZq6ZQlE3UIvAPoabB8Ho4z8Ad4d8qgY2yVkAAAAASUVORK5CYII_" width="600" alt="蔓越莓倉鼠聖誕卡 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月13日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%B2%BE%E7%B7%BB%E3%80%81%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E8%B3%80%E5%8D%A1%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E6%9F%94%E5%92%8C%E7%9A%84%E7%AB%A5%E8%A9%B1%E6%B0%B4%E5%BD%A9%E9%A2%A8%E6%A0%BC%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E5%A0%B4%E6%99%AF%E6%98%AF%E4%B8%80%E5%80%8B%E7%89%B9%E5%AF%AB%E5%BE%AE%E8%B7%9D%E8%A6%96%E8%A7%92%EF%BC%8C%E4%B8%80%E9%9A%BB%E5%9C%93%E6%BB%BE%E6%BB%BE%E3%80%81%E9%87%91%E6%A3%95%E8%89%B2%E7%9A%84%E5%80%89%E9%BC%A0%E6%88%B4%E8%91%97%E4%B8%80%E9%A0%82%E5%B0%8F%E5%B7%A7%E7%9A%84%E7%B4%85%E8%89%B2%E9%87%9D%E7%B9%94%E8%81%96%E8%AA%95%E5%B8%BD%E3%80%82%E5%80%89%E9%BC%A0%E5%9D%90%E5%9C%A8%E4%B8%80%E5%BC%B5%E7%94%A8%E5%86%B0%E6%A3%92%E6%A3%8D%E8%A3%BD%E6%88%90%E7%9A%84%E5%B0%8F%E6%9C%A8%E6%A1%8C%E6%97%81%E3%80%82%E7%89%A0%E7%94%A8%E5%85%A9%E9%9A%BB%E7%88%AA%E5%AD%90%E6%8D%A7%E8%91%97%E4%B8%80%E9%A1%86%E9%AE%AE%E7%B4%85%E7%9A%84%E8%94%93%E8%B6%8A%E8%8E%93%EF%BC%8C%E9%9B%99%E9%A0%B0%E9%BC%93%E9%BC%93%E7%9A%84%EF%BC%8C%E7%9C%8B%E8%B5%B7%E4%BE%86%E9%9D%9E%E5%B8%B8%E9%96%8B%E5%BF%83%E3%80%82%E6%A1%8C%E4%B8%8A%EF%BC%8C%E6%9C%89%E4%B8%80%E5%80%8B%E7%94%A8%E4%BD%9C%E6%9D%AF%E5%AD%90%E7%9A%84%E9%A0%82%E9%87%9D%E5%92%8C%E4%B8%80%E5%80%8B%E6%94%BE%E8%91%97%E4%B8%80%E5%B0%8F%E5%A1%8A%E8%B5%B7%E5%8F%B8%E7%9A%84%E8%BF%B7%E4%BD%A0%E7%9B%A4%E5%AD%90%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E6%BA%AB%E6%9A%96%E3%80%81%E5%A5%B6%E6%B2%B9%E8%89%B2%E7%9A%84%E7%B1%B3%E7%99%BD%E8%89%B2%E7%B4%99%E8%B3%AA%E7%B4%8B%E7%90%86%EF%BC%8C%E8%A7%92%E8%90%BD%E6%9C%89%E6%B7%A1%E6%B7%A1%E7%9A%84%E6%B0%B4%E5%BD%A9%E5%86%AC%E9%9D%92%E8%91%89%E3%80%82%E6%B0%9B%E5%9C%8D%E6%BA%AB%E9%A6%A8%E3%80%81%E5%B0%8F%E5%B7%A7%E8%80%8C%E6%9A%96%E5%BF%83%E3%80%82)**
+
+---
+
+### No. 7: 聖誕燈飾中的貓咪聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-An adorable printable Christmas card design featuring a slow-moving sloth hanging from a candy cane, trying to reach a Christmas tree. This prompt is perfect for creating charming and funny holiday greetings with a unique touch.
+這是一個幽默可愛的可列印卡片設計，內容是一隻調皮的黑貓被五顏六色的復古聖誕燈纏住。這個提示非常適合製作有趣的節日卡片，捕捉寵物在聖誕節期間調皮搗蛋的混亂場面。
 
 #### 📝 提示詞
 
 ```
-An adorable printable Christmas card design, aspect ratio 1:1.4. A cute, slow-moving sloth hangs upside down from a candy cane that stretches horizontally across the top of the card. The sloth is wearing a festive ugly Christmas sweater with a pixelated snowflake pattern. He is holding a star tree topper in his slow claws, trying to reach a Christmas tree that is just out of frame. The background is a solid deep teal color to make the sloth pop. Below the sloth, the text reads: {argument name="text" default="Slowly getting into the Spirit"} in a relaxed, hand-lettered font.
+一張幽默可愛的可列印卡片設計，長寬比為 1:1.4。插圖描繪了一團混亂、纏繞在一起的彩色復古聖誕燈（紅色、綠色、藍色、黃色燈泡），在純白色背景的中央形成一個大致的球形。一隻可愛的黑貓從纏繞的燈串中央探出頭來，牠有著大大的黃色眼睛和調皮的表情。這隻貓伸出一隻爪子，輕拍著一個鬆脫的燈泡。一個「送給/來自」的禮物標籤纏繞在電線上，從貓的耳朵垂下。風格是扁平的平面插圖，線條簡潔，色彩鮮豔。底部文字：{argument name="text" default="我幫忙了。"}，以凌亂、潦草的黑色字體呈現。
 ```
 
 #### 🖼️ 生成圖片
@@ -153,7 +316,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. A cute, slow-mo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640792570_as7oyl_1765640333881-lkq034-EZMiYLAuMw9pQ64ferde4Pu_d1y3UHlI792dxd75JBOzmGh1ODnaQby1qWlttEk7O5OxGmv9dcmSdyMuSTd96MmYgfF6Gh_BYdr4ZU6ci6sKkXILWADyJjyL1ps4zHLI1UkgGfvIv8BYOpTNrui_hYAAAAASUVORK5CYII_" width="600" alt="Sloth Hanging from Candy Cane Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640781919_674amh_1765640041031-9iqp3v-4fNTsfFaeOKTYAAAAASUVORK5CYII_" width="600" alt="聖誕燈飾中的貓咪聖誕卡 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -163,23 +326,23 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. A cute, slow-mo
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20cute%2C%20slow-moving%20sloth%20hangs%20upside%20down%20from%20a%20candy%20cane%20that%20stretches%20horizontally%20across%20the%20top%20of%20the%20card.%20The%20sloth%20is%20wearing%20a%20festive%20ugly%20Christmas%20sweater%20with%20a%20pixelated%20snowflake%20pattern.%20He%20is%20holding%20a%20star%20tree%20topper%20in%20his%20slow%20claws%2C%20trying%20to%20reach%20a%20Christmas%20tree%20that%20is%20just%20out%20of%20frame.%20The%20background%20is%20a%20solid%20deep%20teal%20color%20to%20make%20the%20sloth%20pop.%20Below%20the%20sloth%2C%20the%20text%20reads%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Slowly%20getting%20into%20the%20Spirit%22%7D%20in%20a%20relaxed%2C%20hand-lettered%20font.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%B9%BD%E9%BB%98%E5%8F%AF%E6%84%9B%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E5%8D%A1%E7%89%87%E8%A8%AD%E8%A8%88%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E6%8F%92%E5%9C%96%E6%8F%8F%E7%B9%AA%E4%BA%86%E4%B8%80%E5%9C%98%E6%B7%B7%E4%BA%82%E3%80%81%E7%BA%8F%E7%B9%9E%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%BD%A9%E8%89%B2%E5%BE%A9%E5%8F%A4%E8%81%96%E8%AA%95%E7%87%88%EF%BC%88%E7%B4%85%E8%89%B2%E3%80%81%E7%B6%A0%E8%89%B2%E3%80%81%E8%97%8D%E8%89%B2%E3%80%81%E9%BB%83%E8%89%B2%E7%87%88%E6%B3%A1%EF%BC%89%EF%BC%8C%E5%9C%A8%E7%B4%94%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF%E7%9A%84%E4%B8%AD%E5%A4%AE%E5%BD%A2%E6%88%90%E4%B8%80%E5%80%8B%E5%A4%A7%E8%87%B4%E7%9A%84%E7%90%83%E5%BD%A2%E3%80%82%E4%B8%80%E9%9A%BB%E5%8F%AF%E6%84%9B%E7%9A%84%E9%BB%91%E8%B2%93%E5%BE%9E%E7%BA%8F%E7%B9%9E%E7%9A%84%E7%87%88%E4%B8%B2%E4%B8%AD%E5%A4%AE%E6%8E%A2%E5%87%BA%E9%A0%AD%E4%BE%86%EF%BC%8C%E7%89%A0%E6%9C%89%E8%91%97%E5%A4%A7%E5%A4%A7%E7%9A%84%E9%BB%83%E8%89%B2%E7%9C%BC%E7%9D%9B%E5%92%8C%E8%AA%BF%E7%9A%AE%E7%9A%84%E8%A1%A8%E6%83%85%E3%80%82%E9%80%99%E9%9A%BB%E8%B2%93%E4%BC%B8%E5%87%BA%E4%B8%80%E9%9A%BB%E7%88%AA%E5%AD%90%EF%BC%8C%E8%BC%95%E6%8B%8D%E8%91%97%E4%B8%80%E5%80%8B%E9%AC%86%E8%84%AB%E7%9A%84%E7%87%88%E6%B3%A1%E3%80%82%E4%B8%80%E5%80%8B%E3%80%8C%E9%80%81%E7%B5%A6%2F%E4%BE%86%E8%87%AA%E3%80%8D%E7%9A%84%E7%A6%AE%E7%89%A9%E6%A8%99%E7%B1%A4%E7%BA%8F%E7%B9%9E%E5%9C%A8%E9%9B%BB%E7%B7%9A%E4%B8%8A%EF%BC%8C%E5%BE%9E%E8%B2%93%E7%9A%84%E8%80%B3%E6%9C%B5%E5%9E%82%E4%B8%8B%E3%80%82%E9%A2%A8%E6%A0%BC%E6%98%AF%E6%89%81%E5%B9%B3%E7%9A%84%E5%B9%B3%E9%9D%A2%E6%8F%92%E5%9C%96%EF%BC%8C%E7%B7%9A%E6%A2%9D%E7%B0%A1%E6%BD%94%EF%BC%8C%E8%89%B2%E5%BD%A9%E9%AE%AE%E8%B1%94%E3%80%82%E5%BA%95%E9%83%A8%E6%96%87%E5%AD%97%EF%BC%9A%7Bargument%20name%3D%22text%22%20default%3D%22%E6%88%91%E5%B9%AB%E5%BF%99%E4%BA%86%E3%80%82%22%7D%EF%BC%8C%E4%BB%A5%E5%87%8C%E4%BA%82%E3%80%81%E6%BD%A6%E8%8D%89%E7%9A%84%E9%BB%91%E8%89%B2%E5%AD%97%E9%AB%94%E5%91%88%E7%8F%BE%E3%80%82)**
 
 ---
 
-### No. 3: Pug Disguised as Elf Christmas Card
+### No. 8: 薑餅瑜伽課聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A funny, flat vector illustration for a Christmas card showing a pug dog trying to blend in with Santa's elves. This prompt is perfect for creating humorous and lighthearted holiday greetings.
+這是一款歡樂又可愛的可列印聖誕卡設計，卡片上印有五個正在上「瑜伽課」的可愛薑餅人餅乾。這個提示非常適合製作帶點幽默和可愛的暖心節日問候。
 
 #### 📝 提示詞
 
 ```
-A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The image shows a horizontal lineup of four Santa's elves dressed in green tunics, red and white striped tights, and pointy hats. In the middle of the line, trying to blend in, is a beige Pug dog standing on its hind legs, wearing the exact same elf costume. The elves on either side are looking at the dog with side-eye suspicion, while the dog looks straight ahead with a blank, innocent expression. The background is a solid festive red. Text at the bottom reads: {argument name="text" default="Day 24: They still suspect nothing."} in a typewriter font.
+一張有趣又可愛的聖誕卡片設計，可供列印，長寬比為 1:1.4。背景是純淨的粉彩薄荷綠。插圖描繪了五個可愛薑餅人的「瑜伽課」。中間的薑餅人單腳站立，擺出「樹式」姿勢，專注地用頭頂著一顆軟糖。在他的左邊，另一個薑餅人正嘗試「下犬式」姿勢，但他的手臂稍微碎裂，露出了美味的餅乾屑。右邊的薑餅人則閉著糖霜眼睛，以「蓮花坐」姿勢冥想。他們都有白色的糖霜細節和紅色的肉桂糖鈕扣。風格是簡潔、扁平的向量插圖，帶有柔和的陰影。頂部的文字寫著：{argument name="text" default="Find Your Inner Piece"}，採用俏皮、圓潤的白色字體。
 ```
 
 #### 🖼️ 生成圖片
@@ -187,7 +350,7 @@ A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640787455_7y0l1a_1765640309893-18pj8i-B3qh94JBo2i5AAAAAElFTkSuQmCC" width="600" alt="Pug Disguised as Elf Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640780963_w8tis9_1765640041792-ya1lsk-kYut4TGuYNPXl4D3U4NlBYnZnxEwH_L7GY8tY3qO5QAAAAAElFTkSuQmCC" width="600" alt="薑餅瑜伽課聖誕卡 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -197,22 +360,22 @@ A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The 
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%2C%20flat%20vector%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20The%20image%20shows%20a%20horizontal%20lineup%20of%20four%20Santa's%20elves%20dressed%20in%20green%20tunics%2C%20red%20and%20white%20striped%20tights%2C%20and%20pointy%20hats.%20In%20the%20middle%20of%20the%20line%2C%20trying%20to%20blend%20in%2C%20is%20a%20beige%20Pug%20dog%20standing%20on%20its%20hind%20legs%2C%20wearing%20the%20exact%20same%20elf%20costume.%20The%20elves%20on%20either%20side%20are%20looking%20at%20the%20dog%20with%20side-eye%20suspicion%2C%20while%20the%20dog%20looks%20straight%20ahead%20with%20a%20blank%2C%20innocent%20expression.%20The%20background%20is%20a%20solid%20festive%20red.%20Text%20at%20the%20bottom%20reads%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Day%2024%3A%20They%20still%20suspect%20nothing.%22%7D%20in%20a%20typewriter%20font.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E6%9C%89%E8%B6%A3%E5%8F%88%E5%8F%AF%E6%84%9B%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E7%89%87%E8%A8%AD%E8%A8%88%EF%BC%8C%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E7%B4%94%E6%B7%A8%E7%9A%84%E7%B2%89%E5%BD%A9%E8%96%84%E8%8D%B7%E7%B6%A0%E3%80%82%E6%8F%92%E5%9C%96%E6%8F%8F%E7%B9%AA%E4%BA%86%E4%BA%94%E5%80%8B%E5%8F%AF%E6%84%9B%E8%96%91%E9%A4%85%E4%BA%BA%E7%9A%84%E3%80%8C%E7%91%9C%E4%BC%BD%E8%AA%B2%E3%80%8D%E3%80%82%E4%B8%AD%E9%96%93%E7%9A%84%E8%96%91%E9%A4%85%E4%BA%BA%E5%96%AE%E8%85%B3%E7%AB%99%E7%AB%8B%EF%BC%8C%E6%93%BA%E5%87%BA%E3%80%8C%E6%A8%B9%E5%BC%8F%E3%80%8D%E5%A7%BF%E5%8B%A2%EF%BC%8C%E5%B0%88%E6%B3%A8%E5%9C%B0%E7%94%A8%E9%A0%AD%E9%A0%82%E8%91%97%E4%B8%80%E9%A1%86%E8%BB%9F%E7%B3%96%E3%80%82%E5%9C%A8%E4%BB%96%E7%9A%84%E5%B7%A6%E9%82%8A%EF%BC%8C%E5%8F%A6%E4%B8%80%E5%80%8B%E8%96%91%E9%A4%85%E4%BA%BA%E6%AD%A3%E5%98%97%E8%A9%A6%E3%80%8C%E4%B8%8B%E7%8A%AC%E5%BC%8F%E3%80%8D%E5%A7%BF%E5%8B%A2%EF%BC%8C%E4%BD%86%E4%BB%96%E7%9A%84%E6%89%8B%E8%87%82%E7%A8%8D%E5%BE%AE%E7%A2%8E%E8%A3%82%EF%BC%8C%E9%9C%B2%E5%87%BA%E4%BA%86%E7%BE%8E%E5%91%B3%E7%9A%84%E9%A4%85%E4%B9%BE%E5%B1%91%E3%80%82%E5%8F%B3%E9%82%8A%E7%9A%84%E8%96%91%E9%A4%85%E4%BA%BA%E5%89%87%E9%96%89%E8%91%97%E7%B3%96%E9%9C%9C%E7%9C%BC%E7%9D%9B%EF%BC%8C%E4%BB%A5%E3%80%8C%E8%93%AE%E8%8A%B1%E5%9D%90%E3%80%8D%E5%A7%BF%E5%8B%A2%E5%86%A5%E6%83%B3%E3%80%82%E4%BB%96%E5%80%91%E9%83%BD%E6%9C%89%E7%99%BD%E8%89%B2%E7%9A%84%E7%B3%96%E9%9C%9C%E7%B4%B0%E7%AF%80%E5%92%8C%E7%B4%85%E8%89%B2%E7%9A%84%E8%82%89%E6%A1%82%E7%B3%96%E9%88%95%E6%89%A3%E3%80%82%E9%A2%A8%E6%A0%BC%E6%98%AF%E7%B0%A1%E6%BD%94%E3%80%81%E6%89%81%E5%B9%B3%E7%9A%84%E5%90%91%E9%87%8F%E6%8F%92%E5%9C%96%EF%BC%8C%E5%B8%B6%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E9%99%B0%E5%BD%B1%E3%80%82%E9%A0%82%E9%83%A8%E7%9A%84%E6%96%87%E5%AD%97%E5%AF%AB%E8%91%97%EF%BC%9A%7Bargument%20name%3D%22text%22%20default%3D%22Find%20Your%20Inner%20Piece%22%7D%EF%BC%8C%E6%8E%A1%E7%94%A8%E4%BF%8F%E7%9A%AE%E3%80%81%E5%9C%93%E6%BD%A4%E7%9A%84%E7%99%BD%E8%89%B2%E5%AD%97%E9%AB%94%E3%80%82)**
 
 ---
 
-### No. 4: Reindeer Flight School Christmas Card
+### No. 9: 北極熊與企鵝圍巾聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A charming and funny Christmas card design depicting a baby reindeer's clumsy but determined attempt at flight school, aided by a tiny robin. This prompt is ideal for creating whimsical and endearing holiday messages.
+一張溫馨又奇特的聖誕卡封面，描繪了一隻巨大的北極熊和一隻小企鵝之間，因一條滑稽地過大圍巾而建立的奇特友誼。非常適合在佳節期間傳達友誼與溫暖的主題。
 
 #### 📝 提示詞
 
 ```
-A charming and funny Christmas card design, aspect ratio 1:1.4. The scene depicts a "Reindeer Flight School." A cute, clumsy baby reindeer with a slightly oversized red nose is hovering just a few inches off the snowy ground, legs splayed out in all directions, looking panicked but determined. He is wearing vintage aviator goggles and a brown leather helmet. Behind him, a tiny red robin bird is using its beak to push the reindeer's bottom to help him stay up. The background is a simple, pale blue winter sky with fluffy white clouds. The style is a detailed colored pencil drawing on textured paper.
+一張溫馨又帶點奇思妙想的聖誕卡封面，長寬比為 1:1.4。一隻巨大、毛茸茸的白色北極熊坐在左側，一隻嬌小、圓滾滾的企鵝站在右側，背景是簡潔的冰藍色。牠們被一條滑稽地長、超大的紅綠相間針織圍巾連接起來，圍巾在北極熊的脖子上纏繞了好幾圈，然後垂下來緊緊地裹住小企鵝。企鵝仰視著北極熊，眼神中充滿了欽佩。北極熊的毛髮和針織羊毛的質感清晰可見，柔軟溫暖。簡單的白色雪花輕輕地飄落在牠們周圍。沒有文字，只有一幅關於友誼的甜蜜畫面。
 ```
 
 #### 🖼️ 生成圖片
@@ -220,7 +383,7 @@ A charming and funny Christmas card design, aspect ratio 1:1.4. The scene depict
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640787943_hq7ga1_1765640065495-37f5mv-8BrHHbyCDq3h0AAAAASUVORK5CYII_" width="600" alt="Reindeer Flight School Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765641085323_jvvhse_image.png" width="600" alt="北極熊與企鵝圍巾聖誕卡 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -230,89 +393,23 @@ A charming and funny Christmas card design, aspect ratio 1:1.4. The scene depict
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20and%20funny%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20scene%20depicts%20a%20%22Reindeer%20Flight%20School.%22%20A%20cute%2C%20clumsy%20baby%20reindeer%20with%20a%20slightly%20oversized%20red%20nose%20is%20hovering%20just%20a%20few%20inches%20off%20the%20snowy%20ground%2C%20legs%20splayed%20out%20in%20all%20directions%2C%20looking%20panicked%20but%20determined.%20He%20is%20wearing%20vintage%20aviator%20goggles%20and%20a%20brown%20leather%20helmet.%20Behind%20him%2C%20a%20tiny%20red%20robin%20bird%20is%20using%20its%20beak%20to%20push%20the%20reindeer's%20bottom%20to%20help%20him%20stay%20up.%20The%20background%20is%20a%20simple%2C%20pale%20blue%20winter%20sky%20with%20fluffy%20white%20clouds.%20The%20style%20is%20a%20detailed%20colored%20pencil%20drawing%20on%20textured%20paper.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E6%BA%AB%E9%A6%A8%E5%8F%88%E5%B8%B6%E9%BB%9E%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E5%B0%81%E9%9D%A2%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E5%B7%A8%E5%A4%A7%E3%80%81%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E7%99%BD%E8%89%B2%E5%8C%97%E6%A5%B5%E7%86%8A%E5%9D%90%E5%9C%A8%E5%B7%A6%E5%81%B4%EF%BC%8C%E4%B8%80%E9%9A%BB%E5%AC%8C%E5%B0%8F%E3%80%81%E5%9C%93%E6%BB%BE%E6%BB%BE%E7%9A%84%E4%BC%81%E9%B5%9D%E7%AB%99%E5%9C%A8%E5%8F%B3%E5%81%B4%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E7%B0%A1%E6%BD%94%E7%9A%84%E5%86%B0%E8%97%8D%E8%89%B2%E3%80%82%E7%89%A0%E5%80%91%E8%A2%AB%E4%B8%80%E6%A2%9D%E6%BB%91%E7%A8%BD%E5%9C%B0%E9%95%B7%E3%80%81%E8%B6%85%E5%A4%A7%E7%9A%84%E7%B4%85%E7%B6%A0%E7%9B%B8%E9%96%93%E9%87%9D%E7%B9%94%E5%9C%8D%E5%B7%BE%E9%80%A3%E6%8E%A5%E8%B5%B7%E4%BE%86%EF%BC%8C%E5%9C%8D%E5%B7%BE%E5%9C%A8%E5%8C%97%E6%A5%B5%E7%86%8A%E7%9A%84%E8%84%96%E5%AD%90%E4%B8%8A%E7%BA%8F%E7%B9%9E%E4%BA%86%E5%A5%BD%E5%B9%BE%E5%9C%88%EF%BC%8C%E7%84%B6%E5%BE%8C%E5%9E%82%E4%B8%8B%E4%BE%86%E7%B7%8A%E7%B7%8A%E5%9C%B0%E8%A3%B9%E4%BD%8F%E5%B0%8F%E4%BC%81%E9%B5%9D%E3%80%82%E4%BC%81%E9%B5%9D%E4%BB%B0%E8%A6%96%E8%91%97%E5%8C%97%E6%A5%B5%E7%86%8A%EF%BC%8C%E7%9C%BC%E7%A5%9E%E4%B8%AD%E5%85%85%E6%BB%BF%E4%BA%86%E6%AC%BD%E4%BD%A9%E3%80%82%E5%8C%97%E6%A5%B5%E7%86%8A%E7%9A%84%E6%AF%9B%E9%AB%AE%E5%92%8C%E9%87%9D%E7%B9%94%E7%BE%8A%E6%AF%9B%E7%9A%84%E8%B3%AA%E6%84%9F%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%EF%BC%8C%E6%9F%94%E8%BB%9F%E6%BA%AB%E6%9A%96%E3%80%82%E7%B0%A1%E5%96%AE%E7%9A%84%E7%99%BD%E8%89%B2%E9%9B%AA%E8%8A%B1%E8%BC%95%E8%BC%95%E5%9C%B0%E9%A3%84%E8%90%BD%E5%9C%A8%E7%89%A0%E5%80%91%E5%91%A8%E5%9C%8D%E3%80%82%E6%B2%92%E6%9C%89%E6%96%87%E5%AD%97%EF%BC%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E5%B9%85%E9%97%9C%E6%96%BC%E5%8F%8B%E8%AA%BC%E7%9A%84%E7%94%9C%E8%9C%9C%E7%95%AB%E9%9D%A2%E3%80%82)**
 
 ---
 
-### No. 5: Marshmallow Hot Tub Christmas Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-A kawaii style printable Christmas card illustration featuring adorable marshmallow characters relaxing in a mug of hot chocolate. This prompt creates a fun and sweet image, perfect for delightful holiday greetings.
-
-#### 📝 提示詞
-
-```
-A kawaii style printable Christmas card illustration, aspect ratio 1:1.4. The view is a top-down perspective looking into a red ceramic mug filled with rich, brown hot chocolate. Inside the mug, three adorable white marshmallow characters are relaxing as if it's a hot tub. One marshmallow is leaning back with drawn-on sunglasses made of chocolate icing. Another is wearing a tiny candy cane snorkel. The third is floating on a square of chocolate bar like a raft. Steam swirls rise up in the shape of hearts. The background outside the mug is a soft pink with white polka dots. High resolution, bright colors, vector art style.
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640787036_1czg4c_1765640042781-1ksod8-B61Wq24QZe3rAAAAAElFTkSuQmCC" width="600" alt="Marshmallow Hot Tub Christmas Card - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20kawaii%20style%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20The%20view%20is%20a%20top-down%20perspective%20looking%20into%20a%20red%20ceramic%20mug%20filled%20with%20rich%2C%20brown%20hot%20chocolate.%20Inside%20the%20mug%2C%20three%20adorable%20white%20marshmallow%20characters%20are%20relaxing%20as%20if%20it's%20a%20hot%20tub.%20One%20marshmallow%20is%20leaning%20back%20with%20drawn-on%20sunglasses%20made%20of%20chocolate%20icing.%20Another%20is%20wearing%20a%20tiny%20candy%20cane%20snorkel.%20The%20third%20is%20floating%20on%20a%20square%20of%20chocolate%20bar%20like%20a%20raft.%20Steam%20swirls%20rise%20up%20in%20the%20shape%20of%20hearts.%20The%20background%20outside%20the%20mug%20is%20a%20soft%20pink%20with%20white%20polka%20dots.%20High%20resolution%2C%20bright%20colors%2C%20vector%20art%20style.)**
-
----
-
-### No. 6: Hamster with Cranberry Christmas Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-An exquisite, printable Christmas greeting card illustration in a soft, storybook watercolor style. This prompt generates a heartwarming scene of a chubby hamster enjoying a cranberry, perfect for cozy holiday greetings.
-
-#### 📝 提示詞
-
-```
-An exquisite, printable Christmas greeting card illustration in a soft, storybook watercolor style, aspect ratio 1:1.4. The scene is a close-up macro view of a chubby, golden-brown hamster wearing a tiny, knitted red Santa hat. The hamster sits at a miniature wooden table made from a popsicle stick. He is holding a single, bright red cranberry with both paws, looking absolutely delighted with stuffed cheeks. On the table, there is a thimble serving as a cup and a tiny plate with a crumb of cheese. The background is a warm, creamy off-white paper texture with faint watercolor holly leaves in the corners. The mood is cozy, tiny, and heartwarming.
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640781703_na5jwz_1765640043553-nm924c-v6X3sYZq6ZQlE3UIvAPoabB8Ho4z8Ad4d8qgY2yVkAAAAASUVORK5CYII_" width="600" alt="Hamster with Cranberry Christmas Card - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20exquisite%2C%20printable%20Christmas%20greeting%20card%20illustration%20in%20a%20soft%2C%20storybook%20watercolor%20style%2C%20aspect%20ratio%201%3A1.4.%20The%20scene%20is%20a%20close-up%20macro%20view%20of%20a%20chubby%2C%20golden-brown%20hamster%20wearing%20a%20tiny%2C%20knitted%20red%20Santa%20hat.%20The%20hamster%20sits%20at%20a%20miniature%20wooden%20table%20made%20from%20a%20popsicle%20stick.%20He%20is%20holding%20a%20single%2C%20bright%20red%20cranberry%20with%20both%20paws%2C%20looking%20absolutely%20delighted%20with%20stuffed%20cheeks.%20On%20the%20table%2C%20there%20is%20a%20thimble%20serving%20as%20a%20cup%20and%20a%20tiny%20plate%20with%20a%20crumb%20of%20cheese.%20The%20background%20is%20a%20warm%2C%20creamy%20off-white%20paper%20texture%20with%20faint%20watercolor%20holly%20leaves%20in%20the%20corners.%20The%20mood%20is%20cozy%2C%20tiny%2C%20and%20heartwarming.)**
-
----
-
-### No. 7: Cat in Christmas Lights Christmas Card
+### No. 10: 水彩雪景小屋風景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A humorous and cute printable card design featuring a mischievous black cat tangled in a mess of colorful vintage Christmas lights. This prompt is perfect for creating funny holiday cards that capture the playful chaos of pets during Christmas.
+一張寧靜的水彩聖誕卡，描繪了日落時白雪皚皚的田野中，一間孤獨的小木屋，配以美麗的漸層天空，非常適合傳達寧靜的節日情懷。
 
 #### 📝 提示詞
 
 ```
-A humorous and cute printable card design, aspect ratio 1:1.4. The illustration features a chaotic, tangled mess of colorful vintage Christmas lights (red, green, blue, yellow bulbs) forming a rough ball shape in the center of a solid white background. Emerging from the center of the tangle is a cute black cat with wide, yellow eyes and a mischievous expression. The cat has one paw stuck out, batting at a loose bulb. A "To/From" gift tag is tangled in the wire, dangling from the cat's ear. The style is a flat graphic illustration with clean lines and vibrant colors. Text at the bottom: {argument name="text" default="I Helped."} in a messy, scratchy black font.
+一幅寧靜的水彩風景畫，長寬比為 10:14。夕陽下，廣闊雪地中有一間孤獨的小木屋。天空是 {argument name="sky color 1" default="purple"}、{argument name="sky color 2" default="pink"} 和 {argument name="sky color 3" default="orange"} 的漸變色。煙囪冒出縷縷炊煙。柔和的濕中濕水彩技法。
 ```
 
 #### 🖼️ 生成圖片
@@ -320,7 +417,7 @@ A humorous and cute printable card design, aspect ratio 1:1.4. The illustration 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640781919_674amh_1765640041031-9iqp3v-4fNTsfFaeOKTYAAAAASUVORK5CYII_" width="600" alt="Cat in Christmas Lights Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640542662_il05z4_1765635182535-9ggafe-o6rQAAAAASUVORK5CYII_" width="600" alt="水彩雪景小屋風景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -330,23 +427,23 @@ A humorous and cute printable card design, aspect ratio 1:1.4. The illustration 
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20humorous%20and%20cute%20printable%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20illustration%20features%20a%20chaotic%2C%20tangled%20mess%20of%20colorful%20vintage%20Christmas%20lights%20(red%2C%20green%2C%20blue%2C%20yellow%20bulbs)%20forming%20a%20rough%20ball%20shape%20in%20the%20center%20of%20a%20solid%20white%20background.%20Emerging%20from%20the%20center%20of%20the%20tangle%20is%20a%20cute%20black%20cat%20with%20wide%2C%20yellow%20eyes%20and%20a%20mischievous%20expression.%20The%20cat%20has%20one%20paw%20stuck%20out%2C%20batting%20at%20a%20loose%20bulb.%20A%20%22To%2FFrom%22%20gift%20tag%20is%20tangled%20in%20the%20wire%2C%20dangling%20from%20the%20cat's%20ear.%20The%20style%20is%20a%20flat%20graphic%20illustration%20with%20clean%20lines%20and%20vibrant%20colors.%20Text%20at%20the%20bottom%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22I%20Helped.%22%7D%20in%20a%20messy%2C%20scratchy%20black%20font.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%B9%85%E5%AF%A7%E9%9D%9C%E7%9A%84%E6%B0%B4%E5%BD%A9%E9%A2%A8%E6%99%AF%E7%95%AB%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%2010%3A14%E3%80%82%E5%A4%95%E9%99%BD%E4%B8%8B%EF%BC%8C%E5%BB%A3%E9%97%8A%E9%9B%AA%E5%9C%B0%E4%B8%AD%E6%9C%89%E4%B8%80%E9%96%93%E5%AD%A4%E7%8D%A8%E7%9A%84%E5%B0%8F%E6%9C%A8%E5%B1%8B%E3%80%82%E5%A4%A9%E7%A9%BA%E6%98%AF%20%7Bargument%20name%3D%22sky%20color%201%22%20default%3D%22purple%22%7D%E3%80%81%7Bargument%20name%3D%22sky%20color%202%22%20default%3D%22pink%22%7D%20%E5%92%8C%20%7Bargument%20name%3D%22sky%20color%203%22%20default%3D%22orange%22%7D%20%E7%9A%84%E6%BC%B8%E8%AE%8A%E8%89%B2%E3%80%82%E7%85%99%E5%9B%AA%E5%86%92%E5%87%BA%E7%B8%B7%E7%B8%B7%E7%82%8A%E7%85%99%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E6%BF%95%E4%B8%AD%E6%BF%95%E6%B0%B4%E5%BD%A9%E6%8A%80%E6%B3%95%E3%80%82)**
 
 ---
 
-### No. 8: Gingerbread Yoga Class Christmas Card
+### No. 11: 奢華海軍藍雪花曼陀羅卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A cheerful and adorable printable Christmas card design featuring five cute gingerbread men cookies in a 'Yoga Class'. This prompt is perfect for creating heartwarming holiday greetings with a touch of humor and cuteness.
+一張優雅奢華的聖誕卡，採用深海軍藍絲絨紋理，搭配精緻的燙金雪花曼陀羅圖案，是您傳遞高端節日問候的完美選擇。
 
 #### 📝 提示詞
 
 ```
-A funny and adorable printable Christmas card design, aspect ratio 1:1.4. The background is a solid, clean pastel mint green. The illustration features a "Yoga Class" of five cute gingerbread men cookies. The central gingerbread man is standing on one leg in a "Tree Pose," balancing a gumdrop on his head with a focused expression. To his left, another cookie is attempting a "Downward Dog" pose but his arm has crumbled slightly, revealing delicious cookie crumbs. To the right, a gingerbread man is meditating in "Lotus position" with his icing eyes closed. They all have white icing details and red red-hot candy buttons. The style is a clean, flat vector illustration with soft shadows. Text at the top reads: {argument name="text" default="Find Your Inner Piece"} in a playful, rounded white font.
+一張精緻奢華的卡片設計，--ar 10:14。深邃的 {argument name="background color" default="navy blue"} 絲絨質感背景。中央是一個大型、複雜的雪花曼陀羅，以浮雕的 {argument name="foil color" default="gold"} 燙金呈現。該 {argument name="foil color" default="gold"} 呈現閃亮金屬光澤。
 ```
 
 #### 🖼️ 生成圖片
@@ -354,7 +451,7 @@ A funny and adorable printable Christmas card design, aspect ratio 1:1.4. The ba
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640780963_w8tis9_1765640041792-ya1lsk-kYut4TGuYNPXl4D3U4NlBYnZnxEwH_L7GY8tY3qO5QAAAAAElFTkSuQmCC" width="600" alt="Gingerbread Yoga Class Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640540780_ipxvdo_1765635134196-lrarow-2kokD3ed6blAAAAAElFTkSuQmCC" width="600" alt="奢華海軍藍雪花曼陀羅卡片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -364,56 +461,23 @@ A funny and adorable printable Christmas card design, aspect ratio 1:1.4. The ba
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20and%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20background%20is%20a%20solid%2C%20clean%20pastel%20mint%20green.%20The%20illustration%20features%20a%20%22Yoga%20Class%22%20of%20five%20cute%20gingerbread%20men%20cookies.%20The%20central%20gingerbread%20man%20is%20standing%20on%20one%20leg%20in%20a%20%22Tree%20Pose%2C%22%20balancing%20a%20gumdrop%20on%20his%20head%20with%20a%20focused%20expression.%20To%20his%20left%2C%20another%20cookie%20is%20attempting%20a%20%22Downward%20Dog%22%20pose%20but%20his%20arm%20has%20crumbled%20slightly%2C%20revealing%20delicious%20cookie%20crumbs.%20To%20the%20right%2C%20a%20gingerbread%20man%20is%20meditating%20in%20%22Lotus%20position%22%20with%20his%20icing%20eyes%20closed.%20They%20all%20have%20white%20icing%20details%20and%20red%20red-hot%20candy%20buttons.%20The%20style%20is%20a%20clean%2C%20flat%20vector%20illustration%20with%20soft%20shadows.%20Text%20at%20the%20top%20reads%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Find%20Your%20Inner%20Piece%22%7D%20in%20a%20playful%2C%20rounded%20white%20font.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%B2%BE%E7%B7%BB%E5%A5%A2%E8%8F%AF%E7%9A%84%E5%8D%A1%E7%89%87%E8%A8%AD%E8%A8%88%EF%BC%8C--ar%2010%3A14%E3%80%82%E6%B7%B1%E9%82%83%E7%9A%84%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22navy%20blue%22%7D%20%E7%B5%B2%E7%B5%A8%E8%B3%AA%E6%84%9F%E8%83%8C%E6%99%AF%E3%80%82%E4%B8%AD%E5%A4%AE%E6%98%AF%E4%B8%80%E5%80%8B%E5%A4%A7%E5%9E%8B%E3%80%81%E8%A4%87%E9%9B%9C%E7%9A%84%E9%9B%AA%E8%8A%B1%E6%9B%BC%E9%99%80%E7%BE%85%EF%BC%8C%E4%BB%A5%E6%B5%AE%E9%9B%95%E7%9A%84%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20%E7%87%99%E9%87%91%E5%91%88%E7%8F%BE%E3%80%82%E8%A9%B2%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20%E5%91%88%E7%8F%BE%E9%96%83%E4%BA%AE%E9%87%91%E5%B1%AC%E5%85%89%E6%BE%A4%E3%80%82)**
 
 ---
 
-### No. 9: Polar Bear and Penguin Scarf Christmas Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-A heartwarming and whimsical Christmas card cover depicting an unlikely friendship between a massive polar bear and a tiny penguin, connected by a comically oversized scarf. Ideal for conveying themes of friendship and warmth during the holidays.
-
-#### 📝 提示詞
-
-```
-A heartwarming and whimsical Christmas card cover, aspect ratio 1:1.4. A massive, fluffy white polar bear sits on the left, and a tiny, round penguin stands on the right against a clean, ice-blue background. They are connected by a comically long, oversized red and green knitted scarf that is wrapped multiple times around the bear's neck and then loops down to wrap snugly around the tiny penguin. The penguin is looking up at the bear with admiration. The texture of the fur and the knit wool is visible and soft. Simple white snowflakes fall gently around them. No text, just a sweet image of friendship.
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765641085323_jvvhse_image.png" width="600" alt="Polar Bear and Penguin Scarf Christmas Card - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20heartwarming%20and%20whimsical%20Christmas%20card%20cover%2C%20aspect%20ratio%201%3A1.4.%20A%20massive%2C%20fluffy%20white%20polar%20bear%20sits%20on%20the%20left%2C%20and%20a%20tiny%2C%20round%20penguin%20stands%20on%20the%20right%20against%20a%20clean%2C%20ice-blue%20background.%20They%20are%20connected%20by%20a%20comically%20long%2C%20oversized%20red%20and%20green%20knitted%20scarf%20that%20is%20wrapped%20multiple%20times%20around%20the%20bear's%20neck%20and%20then%20loops%20down%20to%20wrap%20snugly%20around%20the%20tiny%20penguin.%20The%20penguin%20is%20looking%20up%20at%20the%20bear%20with%20admiration.%20The%20texture%20of%20the%20fur%20and%20the%20knit%20wool%20is%20visible%20and%20soft.%20Simple%20white%20snowflakes%20fall%20gently%20around%20them.%20No%20text%2C%20just%20a%20sweet%20image%20of%20friendship.)**
-
----
-
-### No. 10: Watercolor Snowy Cabin Landscape
+### No. 12: 復古冬季旅行海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A serene watercolor Christmas card featuring a lonely cabin in a snowy field at sunset with beautiful gradient skies, perfect for conveying peaceful holiday sentiments
+一張聖誕卡，設計風格為復古旅遊海報，特色是白雪皚皚的山間小屋，搭配大膽的平面色彩和網版印刷紋理美學。
 
 #### 📝 提示詞
 
 ```
-A serene watercolor landscape, --ar 10:14. A lonely cabin in a vast snowy field at sunset. The sky is a gradient of {argument name="sky color 1" default="purple"}, {argument name="sky color 2" default="pink"}, and {argument name="sky color 3" default="orange"}. Smoke rises vertically from the chimney. Soft, wet-on-wet watercolor technique.
+一張復古旅行海報風格的聖誕卡。風格化的雪山小屋景觀，配有一名滑雪者。大膽的平面色彩，絲網印刷紋理。底部文字：「{argument name="message" default="Winter Wonderland"}」。--ar 10:14
 ```
 
 #### 🖼️ 生成圖片
@@ -421,7 +485,7 @@ A serene watercolor landscape, --ar 10:14. A lonely cabin in a vast snowy field 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640542662_il05z4_1765635182535-9ggafe-o6rQAAAAASUVORK5CYII_" width="600" alt="Watercolor Snowy Cabin Landscape - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640539963_cytycj_1765635109580-9y3we0-pA7TteiD0AAAAASUVORK5CYII_" width="600" alt="復古冬季旅行海報 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -431,23 +495,56 @@ A serene watercolor landscape, --ar 10:14. A lonely cabin in a vast snowy field 
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20serene%20watercolor%20landscape%2C%20--ar%2010%3A14.%20A%20lonely%20cabin%20in%20a%20vast%20snowy%20field%20at%20sunset.%20The%20sky%20is%20a%20gradient%20of%20%7Bargument%20name%3D%22sky%20color%201%22%20default%3D%22purple%22%7D%2C%20%7Bargument%20name%3D%22sky%20color%202%22%20default%3D%22pink%22%7D%2C%20and%20%7Bargument%20name%3D%22sky%20color%203%22%20default%3D%22orange%22%7D.%20Smoke%20rises%20vertically%20from%20the%20chimney.%20Soft%2C%20wet-on-wet%20watercolor%20technique.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%BE%A9%E5%8F%A4%E6%97%85%E8%A1%8C%E6%B5%B7%E5%A0%B1%E9%A2%A8%E6%A0%BC%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E3%80%82%E9%A2%A8%E6%A0%BC%E5%8C%96%E7%9A%84%E9%9B%AA%E5%B1%B1%E5%B0%8F%E5%B1%8B%E6%99%AF%E8%A7%80%EF%BC%8C%E9%85%8D%E6%9C%89%E4%B8%80%E5%90%8D%E6%BB%91%E9%9B%AA%E8%80%85%E3%80%82%E5%A4%A7%E8%86%BD%E7%9A%84%E5%B9%B3%E9%9D%A2%E8%89%B2%E5%BD%A9%EF%BC%8C%E7%B5%B2%E7%B6%B2%E5%8D%B0%E5%88%B7%E7%B4%8B%E7%90%86%E3%80%82%E5%BA%95%E9%83%A8%E6%96%87%E5%AD%97%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22message%22%20default%3D%22Winter%20Wonderland%22%7D%E3%80%8D%E3%80%82--ar%2010%3A14)**
 
 ---
 
-### No. 11: Luxury Navy Snowflake Mandala Card
+### No. 13: 懷舊玩具店櫥窗場景
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一幅溫馨懷舊的插畫，描繪了夜晚玩具店櫥窗裡的玩具火車和錫兵，透過孩子的眼睛捕捉聖誕節的魔幻時刻
+
+#### 📝 提示詞
+
+```
+一幅懷舊的插畫，描繪了夜晚玩具店的櫥窗。櫥窗內，一列玩具火車繞著一棵樹行駛，錫兵們則站崗守衛。窗框是木製的，角落裡積著雪。店內透出溫暖的黃色光芒。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640538051_l3wk8q_1765635100465-0itgcp-q3LGyuyZ2kAAAAASUVORK5CYII_" width="600" alt="懷舊玩具店櫥窗場景 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月13日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%B9%85%E6%87%B7%E8%88%8A%E7%9A%84%E6%8F%92%E7%95%AB%EF%BC%8C%E6%8F%8F%E7%B9%AA%E4%BA%86%E5%A4%9C%E6%99%9A%E7%8E%A9%E5%85%B7%E5%BA%97%E7%9A%84%E6%AB%A5%E7%AA%97%E3%80%82%E6%AB%A5%E7%AA%97%E5%85%A7%EF%BC%8C%E4%B8%80%E5%88%97%E7%8E%A9%E5%85%B7%E7%81%AB%E8%BB%8A%E7%B9%9E%E8%91%97%E4%B8%80%E6%A3%B5%E6%A8%B9%E8%A1%8C%E9%A7%9B%EF%BC%8C%E9%8C%AB%E5%85%B5%E5%80%91%E5%89%87%E7%AB%99%E5%B4%97%E5%AE%88%E8%A1%9B%E3%80%82%E7%AA%97%E6%A1%86%E6%98%AF%E6%9C%A8%E8%A3%BD%E7%9A%84%EF%BC%8C%E8%A7%92%E8%90%BD%E8%A3%A1%E7%A9%8D%E8%91%97%E9%9B%AA%E3%80%82%E5%BA%97%E5%85%A7%E9%80%8F%E5%87%BA%E6%BA%AB%E6%9A%96%E7%9A%84%E9%BB%83%E8%89%B2%E5%85%89%E8%8A%92%E3%80%82)**
+
+---
+
+### No. 14: 世紀中期現代聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-An elegant luxury Christmas card with deep navy velvet texture and an intricate gold foil snowflake mandala design, perfect for premium holiday greetings
+復古幾何聖誕設計，以中世紀現代原子星爆和鑽石形狀呈現鮮豔色彩，非常適合 1950 年代美學的愛好者。
 
 #### 📝 提示詞
 
 ```
-An exquisite luxury card design, --ar 10:14. A deep {argument name="background color" default="navy blue"} velvet texture background. In the center, a large, intricate snowflake mandala is rendered in embossed {argument name="foil color" default="gold"} foil. The {argument name="foil color" default="gold"} looks shiny and metallic.
+復古幾何設計，--ar 10:14。中世紀現代的原子星爆和菱形圖案，顏色為 {argument name="color 1" default="gold"}、{argument name="color 2" default="turquoise"} 和 {argument name="color 3" default="orange"}，背景為 {argument name="background color" default="cream"} 色。「{argument name="greeting" default="Merry Christmas"}」字樣採用復古 50 年代字體。
 ```
 
 #### 🖼️ 生成圖片
@@ -455,7 +552,7 @@ An exquisite luxury card design, --ar 10:14. A deep {argument name="background c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640540780_ipxvdo_1765635134196-lrarow-2kokD3ed6blAAAAAElFTkSuQmCC" width="600" alt="Luxury Navy Snowflake Mandala Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640534853_4frela_b134e84f62985454897a3a713d0f4096c786ca67f9c4dfb65b4d6a97e7e5bcc8" width="600" alt="世紀中期現代聖誕卡 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -465,23 +562,23 @@ An exquisite luxury card design, --ar 10:14. A deep {argument name="background c
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20exquisite%20luxury%20card%20design%2C%20--ar%2010%3A14.%20A%20deep%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22navy%20blue%22%7D%20velvet%20texture%20background.%20In%20the%20center%2C%20a%20large%2C%20intricate%20snowflake%20mandala%20is%20rendered%20in%20embossed%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20foil.%20The%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20looks%20shiny%20and%20metallic.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E5%BE%A9%E5%8F%A4%E5%B9%BE%E4%BD%95%E8%A8%AD%E8%A8%88%EF%BC%8C--ar%2010%3A14%E3%80%82%E4%B8%AD%E4%B8%96%E7%B4%80%E7%8F%BE%E4%BB%A3%E7%9A%84%E5%8E%9F%E5%AD%90%E6%98%9F%E7%88%86%E5%92%8C%E8%8F%B1%E5%BD%A2%E5%9C%96%E6%A1%88%EF%BC%8C%E9%A1%8F%E8%89%B2%E7%82%BA%20%7Bargument%20name%3D%22color%201%22%20default%3D%22gold%22%7D%E3%80%81%7Bargument%20name%3D%22color%202%22%20default%3D%22turquoise%22%7D%20%E5%92%8C%20%7Bargument%20name%3D%22color%203%22%20default%3D%22orange%22%7D%EF%BC%8C%E8%83%8C%E6%99%AF%E7%82%BA%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22cream%22%7D%20%E8%89%B2%E3%80%82%E3%80%8C%7Bargument%20name%3D%22greeting%22%20default%3D%22Merry%20Christmas%22%7D%E3%80%8D%E5%AD%97%E6%A8%A3%E6%8E%A1%E7%94%A8%E5%BE%A9%E5%8F%A4%2050%20%E5%B9%B4%E4%BB%A3%E5%AD%97%E9%AB%94%E3%80%82)**
 
 ---
 
-### No. 12: Vintage Travel Poster Winter Scene
+### No. 15: 維多利亞時代的聖誕老人明信片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A Christmas card designed in vintage travel poster style featuring a snowy mountain lodge with bold flat colors and screen print texture aesthetics
+一張復古風格的聖誕卡，靈感來自維多利亞時代的明信片，卡片上描繪了身穿傳統長袍的聖誕老人，漫步於白雪皚皚的村莊，並以精緻的交叉影線藝術呈現。
 
 #### 📝 提示詞
 
 ```
-A vintage travel poster style Christmas card. A stylized view of a snowy mountain lodge with a skier. Bold flat colors, screen print texture. Text at bottom: "{argument name="message" default="Winter Wonderland"}". --ar 10:14
+一張復古維多利亞風格的聖誕明信片插圖，比例為 --ar 10:14。一位經典的聖誕老人，身穿長長的 {argument name="robe color" default="green"} 長袍，邊緣飾有 {argument name="trim color" default="gold"} 飾邊，提著燈籠走過白雪皚皚的村莊。柔和的色彩，仿舊紙張紋理，精緻的交叉陰影。
 ```
 
 #### 🖼️ 生成圖片
@@ -489,7 +586,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640539963_cytycj_1765635109580-9y3we0-pA7TteiD0AAAAASUVORK5CYII_" width="600" alt="Vintage Travel Poster Winter Scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640534049_tgsk25_1765635084662-g11ln5-wFfN5JebHRCEgAAAABJRU5ErkJggg__" width="600" alt="維多利亞時代的聖誕老人明信片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -499,56 +596,23 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vintage%20travel%20poster%20style%20Christmas%20card.%20A%20stylized%20view%20of%20a%20snowy%20mountain%20lodge%20with%20a%20skier.%20Bold%20flat%20colors%2C%20screen%20print%20texture.%20Text%20at%20bottom%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Winter%20Wonderland%22%7D%22.%20--ar%2010%3A14)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%BE%A9%E5%8F%A4%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E%E9%A2%A8%E6%A0%BC%E7%9A%84%E8%81%96%E8%AA%95%E6%98%8E%E4%BF%A1%E7%89%87%E6%8F%92%E5%9C%96%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%20--ar%2010%3A14%E3%80%82%E4%B8%80%E4%BD%8D%E7%B6%93%E5%85%B8%E7%9A%84%E8%81%96%E8%AA%95%E8%80%81%E4%BA%BA%EF%BC%8C%E8%BA%AB%E7%A9%BF%E9%95%B7%E9%95%B7%E7%9A%84%20%7Bargument%20name%3D%22robe%20color%22%20default%3D%22green%22%7D%20%E9%95%B7%E8%A2%8D%EF%BC%8C%E9%82%8A%E7%B7%A3%E9%A3%BE%E6%9C%89%20%7Bargument%20name%3D%22trim%20color%22%20default%3D%22gold%22%7D%20%E9%A3%BE%E9%82%8A%EF%BC%8C%E6%8F%90%E8%91%97%E7%87%88%E7%B1%A0%E8%B5%B0%E9%81%8E%E7%99%BD%E9%9B%AA%E7%9A%9A%E7%9A%9A%E7%9A%84%E6%9D%91%E8%8E%8A%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E8%89%B2%E5%BD%A9%EF%BC%8C%E4%BB%BF%E8%88%8A%E7%B4%99%E5%BC%B5%E7%B4%8B%E7%90%86%EF%BC%8C%E7%B2%BE%E7%B7%BB%E7%9A%84%E4%BA%A4%E5%8F%89%E9%99%B0%E5%BD%B1%E3%80%82)**
 
 ---
 
-### No. 13: Nostalgic Toy Shop Window Scene
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-A heartwarming nostalgic illustration of a toy shop window at night with a toy train and tin soldiers, capturing the magic of Christmas through a child's eyes
-
-#### 📝 提示詞
-
-```
-A nostalgic illustration of a toy shop window at night. Inside, a toy train circles a tree, and tin soldiers stand guard. The window frame is wood, and snow gathers in the corners. Warm yellow glow from inside.
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640538051_l3wk8q_1765635100465-0itgcp-q3LGyuyZ2kAAAAASUVORK5CYII_" width="600" alt="Nostalgic Toy Shop Window Scene - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20nostalgic%20illustration%20of%20a%20toy%20shop%20window%20at%20night.%20Inside%2C%20a%20toy%20train%20circles%20a%20tree%2C%20and%20tin%20soldiers%20stand%20guard.%20The%20window%20frame%20is%20wood%2C%20and%20snow%20gathers%20in%20the%20corners.%20Warm%20yellow%20glow%20from%20inside.)**
-
----
-
-### No. 14: Mid-Century Modern Christmas Card
+### No. 16: 熟睡動物疊疊樂聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A retro geometric Christmas design with mid-century modern atomic starbursts and diamond shapes in vibrant colors, perfect for fans of 1950s aesthetic
+一張溫馨的卡通插畫，描繪三隻可愛的動物在舒適的棉被下一起冬眠，非常適合在假期傳達舒適和溫暖的感受。
 
 #### 📝 提示詞
 
 ```
-A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and diamond shapes in {argument name="color 1" default="gold"}, {argument name="color 2" default="turquoise"}, and {argument name="color 3" default="orange"} on a {argument name="background color" default="cream"} background. "{argument name="greeting" default="Merry Christmas"}" in a retro 50s font.
+可愛的卡通插圖。三隻睡眼惺忪的動物疊在一起：一隻 {argument name="bottom animal" default="熊"} 在最下面，一隻 {argument name="middle animal" default="狐狸"} 在中間，一隻 {argument name="top animal" default="兔子"} 在最上面，牠們都蓋著拼布被子一起冬眠。上方雲朵中有文字：「{argument name="message" default="溫馨明亮"}」。--ar 10:14
 ```
 
 #### 🖼️ 生成圖片
@@ -556,7 +620,7 @@ A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and d
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640534853_4frela_b134e84f62985454897a3a713d0f4096c786ca67f9c4dfb65b4d6a97e7e5bcc8" width="600" alt="Mid-Century Modern Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640532908_mfv73e_1765635069764-sv27ex-wusdZkTvGMQIAAAAABJRU5ErkJggg__" width="600" alt="熟睡動物疊疊樂聖誕卡 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -566,23 +630,23 @@ A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and d
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20retro%20geometric%20design%2C%20--ar%2010%3A14.%20Mid-century%20modern%20atomic%20starbursts%20and%20diamond%20shapes%20in%20%7Bargument%20name%3D%22color%201%22%20default%3D%22gold%22%7D%2C%20%7Bargument%20name%3D%22color%202%22%20default%3D%22turquoise%22%7D%2C%20and%20%7Bargument%20name%3D%22color%203%22%20default%3D%22orange%22%7D%20on%20a%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22cream%22%7D%20background.%20%22%7Bargument%20name%3D%22greeting%22%20default%3D%22Merry%20Christmas%22%7D%22%20in%20a%20retro%2050s%20font.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E5%8F%AF%E6%84%9B%E7%9A%84%E5%8D%A1%E9%80%9A%E6%8F%92%E5%9C%96%E3%80%82%E4%B8%89%E9%9A%BB%E7%9D%A1%E7%9C%BC%E6%83%BA%E5%BF%AA%E7%9A%84%E5%8B%95%E7%89%A9%E7%96%8A%E5%9C%A8%E4%B8%80%E8%B5%B7%EF%BC%9A%E4%B8%80%E9%9A%BB%20%7Bargument%20name%3D%22bottom%20animal%22%20default%3D%22%E7%86%8A%22%7D%20%E5%9C%A8%E6%9C%80%E4%B8%8B%E9%9D%A2%EF%BC%8C%E4%B8%80%E9%9A%BB%20%7Bargument%20name%3D%22middle%20animal%22%20default%3D%22%E7%8B%90%E7%8B%B8%22%7D%20%E5%9C%A8%E4%B8%AD%E9%96%93%EF%BC%8C%E4%B8%80%E9%9A%BB%20%7Bargument%20name%3D%22top%20animal%22%20default%3D%22%E5%85%94%E5%AD%90%22%7D%20%E5%9C%A8%E6%9C%80%E4%B8%8A%E9%9D%A2%EF%BC%8C%E7%89%A0%E5%80%91%E9%83%BD%E8%93%8B%E8%91%97%E6%8B%BC%E5%B8%83%E8%A2%AB%E5%AD%90%E4%B8%80%E8%B5%B7%E5%86%AC%E7%9C%A0%E3%80%82%E4%B8%8A%E6%96%B9%E9%9B%B2%E6%9C%B5%E4%B8%AD%E6%9C%89%E6%96%87%E5%AD%97%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22message%22%20default%3D%22%E6%BA%AB%E9%A6%A8%E6%98%8E%E4%BA%AE%22%7D%E3%80%8D%E3%80%82--ar%2010%3A14)**
 
 ---
 
-### No. 15: Victorian Father Christmas Postcard
+### No. 17: 企鵝聖誕燈飾掙扎卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A vintage-style Christmas card inspired by Victorian postcards, featuring Father Christmas in traditional robes walking through a snowy village with detailed cross-hatching artwork
+一張幽默的聖誕卡片，上面有一隻可愛的卡通企鵝，正努力解開纏繞的聖誕燈飾，非常適合為您的節日問候增添幽默感。
 
 #### 📝 提示詞
 
 ```
-A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic Father Christmas in a long {argument name="robe color" default="green"} robe with {argument name="trim color" default="gold"} trim walks through a snowy village carrying a lantern. Muted colors, aged paper texture, detailed cross-hatching.
+一張可愛又有趣的聖誕節可列印卡片，--ar 10:14。一隻卡通企鵝正努力解開一大團五顏六色的聖誕燈飾。這隻企鵝看起來很沮喪但又很可愛。白色背景帶有柔和的藍色雪影。文字：「{argument name="message" default="又到這個時候了..."}」
 ```
 
 #### 🖼️ 生成圖片
@@ -590,7 +654,7 @@ A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640534049_tgsk25_1765635084662-g11ln5-wFfN5JebHRCEgAAAABJRU5ErkJggg__" width="600" alt="Victorian Father Christmas Postcard - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640528355_3myo91_1765635017613-5duglp-7YSFQGgTiLwAAAABJRU5ErkJggg__" width="600" alt="企鵝聖誕燈飾掙扎卡 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -600,23 +664,23 @@ A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vintage%20Victorian%20Christmas%20postcard%20style%20illustration%2C%20--ar%2010%3A14.%20A%20classic%20Father%20Christmas%20in%20a%20long%20%7Bargument%20name%3D%22robe%20color%22%20default%3D%22green%22%7D%20robe%20with%20%7Bargument%20name%3D%22trim%20color%22%20default%3D%22gold%22%7D%20trim%20walks%20through%20a%20snowy%20village%20carrying%20a%20lantern.%20Muted%20colors%2C%20aged%20paper%20texture%2C%20detailed%20cross-hatching.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E5%8F%88%E6%9C%89%E8%B6%A3%E7%9A%84%E8%81%96%E8%AA%95%E7%AF%80%E5%8F%AF%E5%88%97%E5%8D%B0%E5%8D%A1%E7%89%87%EF%BC%8C--ar%2010%3A14%E3%80%82%E4%B8%80%E9%9A%BB%E5%8D%A1%E9%80%9A%E4%BC%81%E9%B5%9D%E6%AD%A3%E5%8A%AA%E5%8A%9B%E8%A7%A3%E9%96%8B%E4%B8%80%E5%A4%A7%E5%9C%98%E4%BA%94%E9%A1%8F%E5%85%AD%E8%89%B2%E7%9A%84%E8%81%96%E8%AA%95%E7%87%88%E9%A3%BE%E3%80%82%E9%80%99%E9%9A%BB%E4%BC%81%E9%B5%9D%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%BE%88%E6%B2%AE%E5%96%AA%E4%BD%86%E5%8F%88%E5%BE%88%E5%8F%AF%E6%84%9B%E3%80%82%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF%E5%B8%B6%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E8%97%8D%E8%89%B2%E9%9B%AA%E5%BD%B1%E3%80%82%E6%96%87%E5%AD%97%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22message%22%20default%3D%22%E5%8F%88%E5%88%B0%E9%80%99%E5%80%8B%E6%99%82%E5%80%99%E4%BA%86...%22%7D%E3%80%8D)**
 
 ---
 
-### No. 16: Sleepy Animals Stack Christmas Card
+### No. 18: 現代排版聖誕樹卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A heartwarming cartoon illustration of three adorable animals hibernating together under a cozy quilt, perfect for conveying comfort and warmth during the holidays
+一張極簡風格的聖誕卡設計，以純色背景襯托出完全由節慶字體構成的幾何樹，非常適合追求簡潔美學的現代節日問候。
 
 #### 📝 提示詞
 
 ```
-A cute cartoon illustration. A stack of three sleepy animals: a {argument name="bottom animal" default="bear"} at the bottom, a {argument name="middle animal" default="fox"} in the middle, and a {argument name="top animal" default="bunny"} on top, all hibernating together under a patchwork quilt. "{argument name="message" default="Cozy & Bright"}" text in the clouds above. --ar 10:14
+一張現代、扁平風格的聖誕卡片，--ar 10:14。在純色 {argument name="background color" default="抹茶綠"} 背景上，一棵幾何形狀的聖誕樹完全由不同粗細和大小的白色字體構成，拼寫出節日詞彙，例如「{argument name="word 1" default="Joy"}」、「{argument name="word 2" default="Love"}」、「{argument name="word 3" default="Noel"}」、「{argument name="word 4" default="Snow"}」。整體形狀是一個簡潔的三角形。極簡且大膽。
 ```
 
 #### 🖼️ 生成圖片
@@ -624,7 +688,7 @@ A cute cartoon illustration. A stack of three sleepy animals: a {argument name="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640532908_mfv73e_1765635069764-sv27ex-wusdZkTvGMQIAAAAABJRU5ErkJggg__" width="600" alt="Sleepy Animals Stack Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640527656_l4bqnh_1765634970019-m2ap7w-wXiy8EsMefgSQAAAABJRU5ErkJggg__" width="600" alt="現代排版聖誕樹卡片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -634,23 +698,23 @@ A cute cartoon illustration. A stack of three sleepy animals: a {argument name="
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20cartoon%20illustration.%20A%20stack%20of%20three%20sleepy%20animals%3A%20a%20%7Bargument%20name%3D%22bottom%20animal%22%20default%3D%22bear%22%7D%20at%20the%20bottom%2C%20a%20%7Bargument%20name%3D%22middle%20animal%22%20default%3D%22fox%22%7D%20in%20the%20middle%2C%20and%20a%20%7Bargument%20name%3D%22top%20animal%22%20default%3D%22bunny%22%7D%20on%20top%2C%20all%20hibernating%20together%20under%20a%20patchwork%20quilt.%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Cozy%20%26%20Bright%22%7D%22%20text%20in%20the%20clouds%20above.%20--ar%2010%3A14)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%8F%BE%E4%BB%A3%E3%80%81%E6%89%81%E5%B9%B3%E9%A2%A8%E6%A0%BC%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E7%89%87%EF%BC%8C--ar%2010%3A14%E3%80%82%E5%9C%A8%E7%B4%94%E8%89%B2%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22%E6%8A%B9%E8%8C%B6%E7%B6%A0%22%7D%20%E8%83%8C%E6%99%AF%E4%B8%8A%EF%BC%8C%E4%B8%80%E6%A3%B5%E5%B9%BE%E4%BD%95%E5%BD%A2%E7%8B%80%E7%9A%84%E8%81%96%E8%AA%95%E6%A8%B9%E5%AE%8C%E5%85%A8%E7%94%B1%E4%B8%8D%E5%90%8C%E7%B2%97%E7%B4%B0%E5%92%8C%E5%A4%A7%E5%B0%8F%E7%9A%84%E7%99%BD%E8%89%B2%E5%AD%97%E9%AB%94%E6%A7%8B%E6%88%90%EF%BC%8C%E6%8B%BC%E5%AF%AB%E5%87%BA%E7%AF%80%E6%97%A5%E8%A9%9E%E5%BD%99%EF%BC%8C%E4%BE%8B%E5%A6%82%E3%80%8C%7Bargument%20name%3D%22word%201%22%20default%3D%22Joy%22%7D%E3%80%8D%E3%80%81%E3%80%8C%7Bargument%20name%3D%22word%202%22%20default%3D%22Love%22%7D%E3%80%8D%E3%80%81%E3%80%8C%7Bargument%20name%3D%22word%203%22%20default%3D%22Noel%22%7D%E3%80%8D%E3%80%81%E3%80%8C%7Bargument%20name%3D%22word%204%22%20default%3D%22Snow%22%7D%E3%80%8D%E3%80%82%E6%95%B4%E9%AB%94%E5%BD%A2%E7%8B%80%E6%98%AF%E4%B8%80%E5%80%8B%E7%B0%A1%E6%BD%94%E7%9A%84%E4%B8%89%E8%A7%92%E5%BD%A2%E3%80%82%E6%A5%B5%E7%B0%A1%E4%B8%94%E5%A4%A7%E8%86%BD%E3%80%82)**
 
 ---
 
-### No. 17: Penguin Christmas Lights Struggle Card
+### No. 19: 可愛熱可可聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A humorous Christmas card featuring a cute cartoon penguin struggling with tangled Christmas lights, perfect for adding humor to holiday greetings
+一張可愛的卡哇伊風格聖誕卡，上面印著一杯微笑的熱可可和可愛的棉花糖，非常適合傳遞溫馨的節日祝福。
 
 #### 📝 提示詞
 
 ```
-A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is struggling to untangle a massive ball of colorful Christmas lights. The penguin looks frustrated but adorable. White background with soft blue snow shadows. Text: "{argument name="message" default="It's that time again..."}"
+一張可愛風格的聖誕卡片。一個快樂、微笑的熱可可杯，裡面泡著棉花糖。棉花糖有著小小的臉。蒸汽呈心形升起。柔和的粉紅色背景，帶有白色圓點。文字：「{argument name="message" default="為您送上杯中溫暖的擁抱。"}」 --ar 10:14
 ```
 
 #### 🖼️ 生成圖片
@@ -658,7 +722,7 @@ A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is stru
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640528355_3myo91_1765635017613-5duglp-7YSFQGgTiLwAAAABJRU5ErkJggg__" width="600" alt="Penguin Christmas Lights Struggle Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640527833_kdwtfz_1765635040104-k0xba7-OlzRR9X9TVgAAAABJRU5ErkJggg__" width="600" alt="可愛熱可可聖誕卡 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -668,75 +732,7 @@ A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is stru
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20funny%20printable%20Christmas%20card%2C%20--ar%2010%3A14.%20A%20cartoon%20penguin%20is%20struggling%20to%20untangle%20a%20massive%20ball%20of%20colorful%20Christmas%20lights.%20The%20penguin%20looks%20frustrated%20but%20adorable.%20White%20background%20with%20soft%20blue%20snow%20shadows.%20Text%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22It's%20that%20time%20again...%22%7D%22)**
-
----
-
-### No. 18: Modern Typography Christmas Tree Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-A minimalist Christmas card design featuring a geometric tree made entirely from holiday typography on a solid background, perfect for modern holiday greetings with clean aesthetics
-
-#### 📝 提示詞
-
-```
-A modern, flat graphic Christmas card, --ar 10:14. On a solid {argument name="background color" default="matcha green"} background, a geometric Christmas tree is formed entirely by white typography of varying weights and sizes, spelling out holiday words like "{argument name="word 1" default="Joy"}", "{argument name="word 2" default="Love"}", "{argument name="word 3" default="Noel"}", "{argument name="word 4" default="Snow"}". The overall shape is a clean triangle. Minimalist and bold.
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640527656_l4bqnh_1765634970019-m2ap7w-wXiy8EsMefgSQAAAABJRU5ErkJggg__" width="600" alt="Modern Typography Christmas Tree Card - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20modern%2C%20flat%20graphic%20Christmas%20card%2C%20--ar%2010%3A14.%20On%20a%20solid%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22matcha%20green%22%7D%20background%2C%20a%20geometric%20Christmas%20tree%20is%20formed%20entirely%20by%20white%20typography%20of%20varying%20weights%20and%20sizes%2C%20spelling%20out%20holiday%20words%20like%20%22%7Bargument%20name%3D%22word%201%22%20default%3D%22Joy%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%202%22%20default%3D%22Love%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%203%22%20default%3D%22Noel%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%204%22%20default%3D%22Snow%22%7D%22.%20The%20overall%20shape%20is%20a%20clean%20triangle.%20Minimalist%20and%20bold.)**
-
----
-
-### No. 19: Kawaii Hot Cocoa Christmas Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-An adorable kawaii-style Christmas card featuring a smiling cup of hot cocoa with cute marshmallows, perfect for sending warm holiday wishes
-
-#### 📝 提示詞
-
-```
-A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallows bathing in it. The marshmallows have tiny faces. Steam rises in the shape of a heart. Pastel pink background with white polka dots. Text: "{argument name="message" default="Sending you a hug in a mug."}" --ar 10:14
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640527833_kdwtfz_1765635040104-k0xba7-OlzRR9X9TVgAAAABJRU5ErkJggg__" width="600" alt="Kawaii Hot Cocoa Christmas Card - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20kawaii%20style%20Christmas%20card.%20A%20happy%2C%20smiling%20cup%20of%20hot%20cocoa%20with%20marshmallows%20bathing%20in%20it.%20The%20marshmallows%20have%20tiny%20faces.%20Steam%20rises%20in%20the%20shape%20of%20a%20heart.%20Pastel%20pink%20background%20with%20white%20polka%20dots.%20Text%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Sending%20you%20a%20hug%20in%20a%20mug.%22%7D%22%20--ar%2010%3A14)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E9%A2%A8%E6%A0%BC%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E7%89%87%E3%80%82%E4%B8%80%E5%80%8B%E5%BF%AB%E6%A8%82%E3%80%81%E5%BE%AE%E7%AC%91%E7%9A%84%E7%86%B1%E5%8F%AF%E5%8F%AF%E6%9D%AF%EF%BC%8C%E8%A3%A1%E9%9D%A2%E6%B3%A1%E8%91%97%E6%A3%89%E8%8A%B1%E7%B3%96%E3%80%82%E6%A3%89%E8%8A%B1%E7%B3%96%E6%9C%89%E8%91%97%E5%B0%8F%E5%B0%8F%E7%9A%84%E8%87%89%E3%80%82%E8%92%B8%E6%B1%BD%E5%91%88%E5%BF%83%E5%BD%A2%E5%8D%87%E8%B5%B7%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E7%B2%89%E7%B4%85%E8%89%B2%E8%83%8C%E6%99%AF%EF%BC%8C%E5%B8%B6%E6%9C%89%E7%99%BD%E8%89%B2%E5%9C%93%E9%BB%9E%E3%80%82%E6%96%87%E5%AD%97%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22message%22%20default%3D%22%E7%82%BA%E6%82%A8%E9%80%81%E4%B8%8A%E6%9D%AF%E4%B8%AD%E6%BA%AB%E6%9A%96%E7%9A%84%E6%93%81%E6%8A%B1%E3%80%82%22%7D%E3%80%8D%20--ar%2010%3A14)**
 
 ---
 
@@ -4073,6 +4069,6 @@ A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallo
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-14T04:34:38.957Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-14T07:27:35.860Z</sub>
 
 </div>

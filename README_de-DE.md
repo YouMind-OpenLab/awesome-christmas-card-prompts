@@ -24,8 +24,6 @@
 
 ![Cover](public/images/christmas-card-prompts-cover-en.png)
 
-![List](public/images/christmas-card-prompts-list-en.png)
-
 </div>
 
 **[👉 Auf YouMind Weihnachtskarten Prompt-Galerie stöbern](https://youmind.com/tools/christmas-cards-maker)**
@@ -90,7 +88,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **100** |
 | ⭐ Ausgewählt | **0** |
-| 🔄 Zuletzt aktualisiert | **Sonntag, 14. Dezember 2025 um 04:34:45 UTC** |
+| 🔄 Zuletzt aktualisiert | **Sonntag, 14. Dezember 2025 um 07:27:39 UTC** |
 
 </div>
 
@@ -100,18 +98,18 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
-### No. 1: Santa's Laundry Line Christmas Card
+### No. 1: Weihnachtskarte „Santas Wäscheleine“
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A whimsical and domestic Christmas scene featuring Santa's iconic clothes drying on a tinsel clothesline, including a humorous pair of boxer shorts. This prompt offers a unique and funny take on Santa getting ready for the big day.
+Eine skurrile und häusliche Weihnachtsszene, die Santas ikonische Kleidung – einschließlich einer humorvollen Boxershorts – auf einer Lametta-Wäscheleine trocknend zeigt. Dieser Prompt bietet eine einzigartige und lustige Perspektive auf Santa, wie er sich auf den großen Tag vorbereitet.
 
 #### 📝 Prompt
 
 ```
-A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made of festive tinsel is strung across a pale blue snowy sky background. Pinned to the line with wooden clothespins are Santa's iconic clothes: his big red jacket with white fur trim, his red trousers, a pair of red suspenders, and a pair of humorous white boxer shorts covered in a pattern of green holly leaves and red berries. A small bluebird is perched on the clothesline. The style is a clean, flat illustration with a paper-cut texture effect. A unique and funny take on Santa getting ready.
+Eine skurrile und häusliche Weihnachtsszene, Seitenverhältnis 1:1,4. Eine Wäscheleine aus festlichem Lametta ist vor einem hellblauen, verschneiten Himmel gespannt. Mit hölzernen Wäscheklammern sind daran die ikonischen Kleidungsstücke des Weihnachtsmanns befestigt: seine große rote Jacke mit weißem Pelzbesatz, seine rote Hose, ein Paar rote Hosenträger und eine humorvolle weiße Boxershorts mit einem Muster aus grünen Stechpalmenblättern und roten Beeren. Ein kleiner Blaumeise sitzt auf der Wäscheleine. Der Stil ist eine klare, flache Illustration mit einem Scherenschnitt-Textureffekt. Eine einzigartige und lustige Interpretation, wie sich der Weihnachtsmann vorbereitet.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -119,7 +117,7 @@ A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640793375_1y7v4u_1765640304107-uj3tok-D5EWq0D8IRIBAAAAAElFTkSuQmCC" width="600" alt="Santa's Laundry Line Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640793375_1y7v4u_1765640304107-uj3tok-D5EWq0D8IRIBAAAAAElFTkSuQmCC" width="600" alt="Weihnachtskarte „Santas Wäscheleine“ - Image 1">
 </div>
 
 #### 📌 Details
@@ -129,23 +127,23 @@ A whimsical and domestic Christmas scene, aspect ratio 1:1.4. A clothesline made
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20and%20domestic%20Christmas%20scene%2C%20aspect%20ratio%201%3A1.4.%20A%20clothesline%20made%20of%20festive%20tinsel%20is%20strung%20across%20a%20pale%20blue%20snowy%20sky%20background.%20Pinned%20to%20the%20line%20with%20wooden%20clothespins%20are%20Santa's%20iconic%20clothes%3A%20his%20big%20red%20jacket%20with%20white%20fur%20trim%2C%20his%20red%20trousers%2C%20a%20pair%20of%20red%20suspenders%2C%20and%20a%20pair%20of%20humorous%20white%20boxer%20shorts%20covered%20in%20a%20pattern%20of%20green%20holly%20leaves%20and%20red%20berries.%20A%20small%20bluebird%20is%20perched%20on%20the%20clothesline.%20The%20style%20is%20a%20clean%2C%20flat%20illustration%20with%20a%20paper-cut%20texture%20effect.%20A%20unique%20and%20funny%20take%20on%20Santa%20getting%20ready.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20skurrile%20und%20h%C3%A4usliche%20Weihnachtsszene%2C%20Seitenverh%C3%A4ltnis%201%3A1%2C4.%20Eine%20W%C3%A4scheleine%20aus%20festlichem%20Lametta%20ist%20vor%20einem%20hellblauen%2C%20verschneiten%20Himmel%20gespannt.%20Mit%20h%C3%B6lzernen%20W%C3%A4scheklammern%20sind%20daran%20die%20ikonischen%20Kleidungsst%C3%BCcke%20des%20Weihnachtsmanns%20befestigt%3A%20seine%20gro%C3%9Fe%20rote%20Jacke%20mit%20wei%C3%9Fem%20Pelzbesatz%2C%20seine%20rote%20Hose%2C%20ein%20Paar%20rote%20Hosentr%C3%A4ger%20und%20eine%20humorvolle%20wei%C3%9Fe%20Boxershorts%20mit%20einem%20Muster%20aus%20gr%C3%BCnen%20Stechpalmenbl%C3%A4ttern%20und%20roten%20Beeren.%20Ein%20kleiner%20Blaumeise%20sitzt%20auf%20der%20W%C3%A4scheleine.%20Der%20Stil%20ist%20eine%20klare%2C%20flache%20Illustration%20mit%20einem%20Scherenschnitt-Textureffekt.%20Eine%20einzigartige%20und%20lustige%20Interpretation%2C%20wie%20sich%20der%20Weihnachtsmann%20vorbereitet.)**
 
 ---
 
-### No. 2: Sloth Hanging from Candy Cane Christmas Card
+### No. 2: Faultier hängt an Zuckerstange Weihnachtskarte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-An adorable printable Christmas card design featuring a slow-moving sloth hanging from a candy cane, trying to reach a Christmas tree. This prompt is perfect for creating charming and funny holiday greetings with a unique touch.
+Ein bezauberndes druckbares Weihnachtskartendesign mit einem sich langsam bewegenden Faultier, das an einem Zuckerstangen hängt und versucht, einen Weihnachtsbaum zu erreichen. Dieser Prompt ist perfekt, um charmante und lustige Weihnachtsgrüße mit einer einzigartigen Note zu erstellen.
 
 #### 📝 Prompt
 
 ```
-An adorable printable Christmas card design, aspect ratio 1:1.4. A cute, slow-moving sloth hangs upside down from a candy cane that stretches horizontally across the top of the card. The sloth is wearing a festive ugly Christmas sweater with a pixelated snowflake pattern. He is holding a star tree topper in his slow claws, trying to reach a Christmas tree that is just out of frame. The background is a solid deep teal color to make the sloth pop. Below the sloth, the text reads: {argument name="text" default="Slowly getting into the Spirit"} in a relaxed, hand-lettered font.
+Ein bezauberndes, druckbares Weihnachtskartendesign im Seitenverhältnis 1:1,4. Ein niedliches, sich langsam bewegendes Faultier hängt kopfüber an einem Zuckerstangen-Bogen, der sich horizontal über die Oberseite der Karte erstreckt. Das Faultier trägt einen festlichen, hässlichen Weihnachtspullover mit einem verpixelten Schneeflockenmuster. Es hält eine Sternspitze in seinen langsamen Krallen und versucht, einen Weihnachtsbaum zu erreichen, der gerade außerhalb des Bildausschnitts liegt. Der Hintergrund ist ein einfarbiges, tiefes Türkis, um das Faultier hervorzuheben. Unter dem Faultier steht der Text: {argument name="text" default="Slowly getting into the Spirit"} in einer entspannten, handgeschriebenen Schriftart.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -153,7 +151,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. A cute, slow-mo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640792570_as7oyl_1765640333881-lkq034-EZMiYLAuMw9pQ64ferde4Pu_d1y3UHlI792dxd75JBOzmGh1ODnaQby1qWlttEk7O5OxGmv9dcmSdyMuSTd96MmYgfF6Gh_BYdr4ZU6ci6sKkXILWADyJjyL1ps4zHLI1UkgGfvIv8BYOpTNrui_hYAAAAASUVORK5CYII_" width="600" alt="Sloth Hanging from Candy Cane Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640792570_as7oyl_1765640333881-lkq034-EZMiYLAuMw9pQ64ferde4Pu_d1y3UHlI792dxd75JBOzmGh1ODnaQby1qWlttEk7O5OxGmv9dcmSdyMuSTd96MmYgfF6Gh_BYdr4ZU6ci6sKkXILWADyJjyL1ps4zHLI1UkgGfvIv8BYOpTNrui_hYAAAAASUVORK5CYII_" width="600" alt="Faultier hängt an Zuckerstange Weihnachtskarte - Image 1">
 </div>
 
 #### 📌 Details
@@ -163,23 +161,155 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. A cute, slow-mo
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20cute%2C%20slow-moving%20sloth%20hangs%20upside%20down%20from%20a%20candy%20cane%20that%20stretches%20horizontally%20across%20the%20top%20of%20the%20card.%20The%20sloth%20is%20wearing%20a%20festive%20ugly%20Christmas%20sweater%20with%20a%20pixelated%20snowflake%20pattern.%20He%20is%20holding%20a%20star%20tree%20topper%20in%20his%20slow%20claws%2C%20trying%20to%20reach%20a%20Christmas%20tree%20that%20is%20just%20out%20of%20frame.%20The%20background%20is%20a%20solid%20deep%20teal%20color%20to%20make%20the%20sloth%20pop.%20Below%20the%20sloth%2C%20the%20text%20reads%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Slowly%20getting%20into%20the%20Spirit%22%7D%20in%20a%20relaxed%2C%20hand-lettered%20font.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20bezauberndes%2C%20druckbares%20Weihnachtskartendesign%20im%20Seitenverh%C3%A4ltnis%201%3A1%2C4.%20Ein%20niedliches%2C%20sich%20langsam%20bewegendes%20Faultier%20h%C3%A4ngt%20kopf%C3%BCber%20an%20einem%20Zuckerstangen-Bogen%2C%20der%20sich%20horizontal%20%C3%BCber%20die%20Oberseite%20der%20Karte%20erstreckt.%20Das%20Faultier%20tr%C3%A4gt%20einen%20festlichen%2C%20h%C3%A4sslichen%20Weihnachtspullover%20mit%20einem%20verpixelten%20Schneeflockenmuster.%20Es%20h%C3%A4lt%20eine%20Sternspitze%20in%20seinen%20langsamen%20Krallen%20und%20versucht%2C%20einen%20Weihnachtsbaum%20zu%20erreichen%2C%20der%20gerade%20au%C3%9Ferhalb%20des%20Bildausschnitts%20liegt.%20Der%20Hintergrund%20ist%20ein%20einfarbiges%2C%20tiefes%20T%C3%BCrkis%2C%20um%20das%20Faultier%20hervorzuheben.%20Unter%20dem%20Faultier%20steht%20der%20Text%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Slowly%20getting%20into%20the%20Spirit%22%7D%20in%20einer%20entspannten%2C%20handgeschriebenen%20Schriftart.)**
 
 ---
 
-### No. 3: Pug Disguised as Elf Christmas Card
+### No. 3: Mops als Elf verkleidet Weihnachtskarte
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Eine lustige, flache Vektorillustration für eine Weihnachtskarte, die einen Mops zeigt, der versucht, sich unter die Elfen des Weihnachtsmanns zu mischen. Dieser Prompt ist perfekt, um humorvolle und unbeschwerte Weihnachtsgrüße zu erstellen.
+
+#### 📝 Prompt
+
+```
+Eine lustige, flache Vektorillustration für eine Weihnachtskarte, Seitenverhältnis 1:1,4. Das Bild zeigt eine horizontale Reihe von vier Weihnachtselfen, gekleidet in grüne Tuniken, rot-weiß gestreifte Strumpfhosen und spitze Hüte. In der Mitte der Reihe, versucht sich ein beiger Mops, der auf den Hinterbeinen steht und genau dasselbe Elfenkostüm trägt, unauffällig einzufügen. Die Elfen auf beiden Seiten beäugen den Hund misstrauisch von der Seite, während der Hund mit einem leeren, unschuldigen Ausdruck geradeaus schaut. Der Hintergrund ist ein einfarbiges festliches Rot. Unten steht in einer Schreibmaschinenschrift der Text: „Tag 24: Sie schöpfen immer noch keinen Verdacht.“
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640787455_7y0l1a_1765640309893-18pj8i-B3qh94JBo2i5AAAAAElFTkSuQmCC" width="600" alt="Mops als Elf verkleidet Weihnachtskarte - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Quelle:** [Twitter Post](null)
+- **Veröffentlicht:** 13. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20lustige%2C%20flache%20Vektorillustration%20f%C3%BCr%20eine%20Weihnachtskarte%2C%20Seitenverh%C3%A4ltnis%201%3A1%2C4.%20Das%20Bild%20zeigt%20eine%20horizontale%20Reihe%20von%20vier%20Weihnachtselfen%2C%20gekleidet%20in%20gr%C3%BCne%20Tuniken%2C%20rot-wei%C3%9F%20gestreifte%20Strumpfhosen%20und%20spitze%20H%C3%BCte.%20In%20der%20Mitte%20der%20Reihe%2C%20versucht%20sich%20ein%20beiger%20Mops%2C%20der%20auf%20den%20Hinterbeinen%20steht%20und%20genau%20dasselbe%20Elfenkost%C3%BCm%20tr%C3%A4gt%2C%20unauff%C3%A4llig%20einzuf%C3%BCgen.%20Die%20Elfen%20auf%20beiden%20Seiten%20be%C3%A4ugen%20den%20Hund%20misstrauisch%20von%20der%20Seite%2C%20w%C3%A4hrend%20der%20Hund%20mit%20einem%20leeren%2C%20unschuldigen%20Ausdruck%20geradeaus%20schaut.%20Der%20Hintergrund%20ist%20ein%20einfarbiges%20festliches%20Rot.%20Unten%20steht%20in%20einer%20Schreibmaschinenschrift%20der%20Text%3A%20%E2%80%9ETag%2024%3A%20Sie%20sch%C3%B6pfen%20immer%20noch%20keinen%20Verdacht.%E2%80%9C)**
+
+---
+
+### No. 4: Rentier-Flugschule Weihnachtskarte
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein bezauberndes und lustiges Weihnachtskartendesign, das den tollpatschigen, aber entschlossenen Flugschulversuch eines Baby-Rentiers zeigt, unterstützt von einem winzigen Rotkehlchen. Dieser Prompt ist ideal, um skurrile und liebenswerte Weihnachtsbotschaften zu erstellen.
+
+#### 📝 Prompt
+
+```
+Ein charmantes und lustiges Weihnachtskartendesign im Seitenverhältnis 1:1,4. Die Szene zeigt eine „Rentier-Flugschule“. Ein süßes, tollpatschiges Baby-Rentier mit einer leicht überdimensionierten roten Nase schwebt nur wenige Zentimeter über dem verschneiten Boden, die Beine in alle Richtungen gespreizt, panisch, aber entschlossen blickend. Es trägt eine Vintage-Fliegerbrille und einen braunen Lederhelm. Hinter ihm schiebt ein winziges Rotkehlchen mit seinem Schnabel das Hinterteil des Rentiers, um ihm beim Obenbleiben zu helfen. Der Hintergrund ist ein einfacher, hellblauer Winterhimmel mit flauschigen weißen Wolken. Der Stil ist eine detaillierte Buntstiftzeichnung auf strukturiertem Papier.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640787943_hq7ga1_1765640065495-37f5mv-8BrHHbyCDq3h0AAAAASUVORK5CYII_" width="600" alt="Rentier-Flugschule Weihnachtskarte - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Quelle:** [Twitter Post](null)
+- **Veröffentlicht:** 13. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20charmantes%20und%20lustiges%20Weihnachtskartendesign%20im%20Seitenverh%C3%A4ltnis%201%3A1%2C4.%20Die%20Szene%20zeigt%20eine%20%E2%80%9ERentier-Flugschule%E2%80%9C.%20Ein%20s%C3%BC%C3%9Fes%2C%20tollpatschiges%20Baby-Rentier%20mit%20einer%20leicht%20%C3%BCberdimensionierten%20roten%20Nase%20schwebt%20nur%20wenige%20Zentimeter%20%C3%BCber%20dem%20verschneiten%20Boden%2C%20die%20Beine%20in%20alle%20Richtungen%20gespreizt%2C%20panisch%2C%20aber%20entschlossen%20blickend.%20Es%20tr%C3%A4gt%20eine%20Vintage-Fliegerbrille%20und%20einen%20braunen%20Lederhelm.%20Hinter%20ihm%20schiebt%20ein%20winziges%20Rotkehlchen%20mit%20seinem%20Schnabel%20das%20Hinterteil%20des%20Rentiers%2C%20um%20ihm%20beim%20Obenbleiben%20zu%20helfen.%20Der%20Hintergrund%20ist%20ein%20einfacher%2C%20hellblauer%20Winterhimmel%20mit%20flauschigen%20wei%C3%9Fen%20Wolken.%20Der%20Stil%20ist%20eine%20detaillierte%20Buntstiftzeichnung%20auf%20strukturiertem%20Papier.)**
+
+---
+
+### No. 5: Marshmallow Hot Tub Weihnachtskarte
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Eine druckbare Weihnachtskarten-Illustration im Kawaii-Stil mit entzückenden Marshmallow-Charakteren, die in einer Tasse heißer Schokolade entspannen. Dieser Prompt erzeugt ein lustiges und süßes Bild, perfekt für bezaubernde Weihnachtsgrüße.
+
+#### 📝 Prompt
+
+```
+Eine druckbare Weihnachtskarte im Kawaii-Stil, Illustration, Seitenverhältnis 1:1,4. Die Ansicht ist eine Top-Down-Perspektive, die in eine rote Keramiktasse mit reichhaltiger, brauner heißer Schokolade blickt. In der Tasse entspannen sich drei entzückende weiße Marshmallow-Figuren, als wäre es ein Whirlpool. Ein Marshmallow lehnt sich zurück mit aufgemalter Sonnenbrille aus Schokoladenglasur. Ein anderer trägt einen winzigen Zuckerstangen-Schnorchel. Der dritte schwimmt auf einem Stück Schokoriegel wie auf einem Floß. Dampfschwaden steigen in Herzform auf. Der Hintergrund außerhalb der Tasse ist ein zartes Rosa mit weißen Punkten. Hohe Auflösung, leuchtende Farben, Vektorgrafik-Stil.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640787036_1czg4c_1765640042781-1ksod8-B61Wq24QZe3rAAAAAElFTkSuQmCC" width="600" alt="Marshmallow Hot Tub Weihnachtskarte - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Quelle:** [Twitter Post](null)
+- **Veröffentlicht:** 13. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachtskarte%20im%20Kawaii-Stil%2C%20Illustration%2C%20Seitenverh%C3%A4ltnis%201%3A1%2C4.%20Die%20Ansicht%20ist%20eine%20Top-Down-Perspektive%2C%20die%20in%20eine%20rote%20Keramiktasse%20mit%20reichhaltiger%2C%20brauner%20hei%C3%9Fer%20Schokolade%20blickt.%20In%20der%20Tasse%20entspannen%20sich%20drei%20entz%C3%BCckende%20wei%C3%9Fe%20Marshmallow-Figuren%2C%20als%20w%C3%A4re%20es%20ein%20Whirlpool.%20Ein%20Marshmallow%20lehnt%20sich%20zur%C3%BCck%20mit%20aufgemalter%20Sonnenbrille%20aus%20Schokoladenglasur.%20Ein%20anderer%20tr%C3%A4gt%20einen%20winzigen%20Zuckerstangen-Schnorchel.%20Der%20dritte%20schwimmt%20auf%20einem%20St%C3%BCck%20Schokoriegel%20wie%20auf%20einem%20Flo%C3%9F.%20Dampfschwaden%20steigen%20in%20Herzform%20auf.%20Der%20Hintergrund%20au%C3%9Ferhalb%20der%20Tasse%20ist%20ein%20zartes%20Rosa%20mit%20wei%C3%9Fen%20Punkten.%20Hohe%20Aufl%C3%B6sung%2C%20leuchtende%20Farben%2C%20Vektorgrafik-Stil.)**
+
+---
+
+### No. 6: Hamster mit Cranberry-Weihnachtskarte
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Eine exquisite, druckbare Weihnachtsgrußkarten-Illustration im sanften, märchenhaften Aquarellstil. Dieser Prompt erzeugt eine herzerwärmende Szene eines pummeligen Hamsters, der eine Cranberry genießt – perfekt für gemütliche Weihnachtsgrüße.
+
+#### 📝 Prompt
+
+```
+Eine exquisite, druckbare Weihnachtsgrußkarten-Illustration im sanften, märchenhaften Aquarellstil, Seitenverhältnis 1:1,4. Die Szene zeigt eine Makroaufnahme eines pummeligen, goldbraunen Hamsters, der eine winzige, gestrickte rote Weihnachtsmannmütze trägt. Der Hamster sitzt an einem Miniatur-Holztisch aus einem Eisstiel. Er hält eine einzelne, leuchtend rote Cranberry mit beiden Pfoten und sieht mit gefüllten Backen absolut entzückt aus. Auf dem Tisch stehen ein Fingerhut, der als Tasse dient, und ein winziger Teller mit einem Käsestückchen. Der Hintergrund ist eine warme, cremefarbene, leicht gebrochene Papiertextur mit zarten Aquarell-Stechpalmenblättern in den Ecken. Die Stimmung ist gemütlich, winzig und herzerwärmend.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640781703_na5jwz_1765640043553-nm924c-v6X3sYZq6ZQlE3UIvAPoabB8Ho4z8Ad4d8qgY2yVkAAAAASUVORK5CYII_" width="600" alt="Hamster mit Cranberry-Weihnachtskarte - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Quelle:** [Twitter Post](null)
+- **Veröffentlicht:** 13. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20exquisite%2C%20druckbare%20Weihnachtsgru%C3%9Fkarten-Illustration%20im%20sanften%2C%20m%C3%A4rchenhaften%20Aquarellstil%2C%20Seitenverh%C3%A4ltnis%201%3A1%2C4.%20Die%20Szene%20zeigt%20eine%20Makroaufnahme%20eines%20pummeligen%2C%20goldbraunen%20Hamsters%2C%20der%20eine%20winzige%2C%20gestrickte%20rote%20Weihnachtsmannm%C3%BCtze%20tr%C3%A4gt.%20Der%20Hamster%20sitzt%20an%20einem%20Miniatur-Holztisch%20aus%20einem%20Eisstiel.%20Er%20h%C3%A4lt%20eine%20einzelne%2C%20leuchtend%20rote%20Cranberry%20mit%20beiden%20Pfoten%20und%20sieht%20mit%20gef%C3%BCllten%20Backen%20absolut%20entz%C3%BCckt%20aus.%20Auf%20dem%20Tisch%20stehen%20ein%20Fingerhut%2C%20der%20als%20Tasse%20dient%2C%20und%20ein%20winziger%20Teller%20mit%20einem%20K%C3%A4sest%C3%BCckchen.%20Der%20Hintergrund%20ist%20eine%20warme%2C%20cremefarbene%2C%20leicht%20gebrochene%20Papiertextur%20mit%20zarten%20Aquarell-Stechpalmenbl%C3%A4ttern%20in%20den%20Ecken.%20Die%20Stimmung%20ist%20gem%C3%BCtlich%2C%20winzig%20und%20herzerw%C3%A4rmend.)**
+
+---
+
+### No. 7: Katze in Weihnachtsbeleuchtung Weihnachtskarte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A funny, flat vector illustration for a Christmas card showing a pug dog trying to blend in with Santa's elves. This prompt is perfect for creating humorous and lighthearted holiday greetings.
+Ein humorvolles und niedliches druckbares Kartendesign mit einer schelmischen schwarzen Katze, die sich in einem Durcheinander aus bunten Vintage-Weihnachtslichtern verheddert hat. Dieser Prompt ist perfekt, um lustige Weihnachtskarten zu erstellen, die das spielerische Chaos von Haustieren während der Weihnachtszeit einfangen.
 
 #### 📝 Prompt
 
 ```
-A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The image shows a horizontal lineup of four Santa's elves dressed in green tunics, red and white striped tights, and pointy hats. In the middle of the line, trying to blend in, is a beige Pug dog standing on its hind legs, wearing the exact same elf costume. The elves on either side are looking at the dog with side-eye suspicion, while the dog looks straight ahead with a blank, innocent expression. The background is a solid festive red. Text at the bottom reads: {argument name="text" default="Day 24: They still suspect nothing."} in a typewriter font.
+Ein humorvolles und niedliches druckbares Kartendesign im Seitenverhältnis 1:1,4. Die Illustration zeigt ein chaotisches, verheddertes Durcheinander bunter Vintage-Weihnachtslichter (rote, grüne, blaue, gelbe Glühbirnen), die in der Mitte eines reinweißen Hintergrunds eine grobe Kugelform bilden. Aus der Mitte des Gewirrs taucht eine niedliche schwarze Katze mit großen, gelben Augen und einem schelmischen Ausdruck auf. Die Katze streckt eine Pfote aus und schlägt nach einer losen Glühbirne. Ein „An/Von“-Geschenkanhänger ist im Kabel verheddert und baumelt am Ohr der Katze. Der Stil ist eine flache grafische Illustration mit klaren Linien und lebendigen Farben. Text unten: {argument name="text" default="I Helped."} in einer unordentlichen, kratzigen schwarzen Schrift.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -187,7 +317,7 @@ A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640787455_7y0l1a_1765640309893-18pj8i-B3qh94JBo2i5AAAAAElFTkSuQmCC" width="600" alt="Pug Disguised as Elf Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640781919_674amh_1765640041031-9iqp3v-4fNTsfFaeOKTYAAAAASUVORK5CYII_" width="600" alt="Katze in Weihnachtsbeleuchtung Weihnachtskarte - Image 1">
 </div>
 
 #### 📌 Details
@@ -197,122 +327,23 @@ A funny, flat vector illustration for a Christmas card, aspect ratio 1:1.4. The 
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%2C%20flat%20vector%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20The%20image%20shows%20a%20horizontal%20lineup%20of%20four%20Santa's%20elves%20dressed%20in%20green%20tunics%2C%20red%20and%20white%20striped%20tights%2C%20and%20pointy%20hats.%20In%20the%20middle%20of%20the%20line%2C%20trying%20to%20blend%20in%2C%20is%20a%20beige%20Pug%20dog%20standing%20on%20its%20hind%20legs%2C%20wearing%20the%20exact%20same%20elf%20costume.%20The%20elves%20on%20either%20side%20are%20looking%20at%20the%20dog%20with%20side-eye%20suspicion%2C%20while%20the%20dog%20looks%20straight%20ahead%20with%20a%20blank%2C%20innocent%20expression.%20The%20background%20is%20a%20solid%20festive%20red.%20Text%20at%20the%20bottom%20reads%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Day%2024%3A%20They%20still%20suspect%20nothing.%22%7D%20in%20a%20typewriter%20font.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20humorvolles%20und%20niedliches%20druckbares%20Kartendesign%20im%20Seitenverh%C3%A4ltnis%201%3A1%2C4.%20Die%20Illustration%20zeigt%20ein%20chaotisches%2C%20verheddertes%20Durcheinander%20bunter%20Vintage-Weihnachtslichter%20(rote%2C%20gr%C3%BCne%2C%20blaue%2C%20gelbe%20Gl%C3%BChbirnen)%2C%20die%20in%20der%20Mitte%20eines%20reinwei%C3%9Fen%20Hintergrunds%20eine%20grobe%20Kugelform%20bilden.%20Aus%20der%20Mitte%20des%20Gewirrs%20taucht%20eine%20niedliche%20schwarze%20Katze%20mit%20gro%C3%9Fen%2C%20gelben%20Augen%20und%20einem%20schelmischen%20Ausdruck%20auf.%20Die%20Katze%20streckt%20eine%20Pfote%20aus%20und%20schl%C3%A4gt%20nach%20einer%20losen%20Gl%C3%BChbirne.%20Ein%20%E2%80%9EAn%2FVon%E2%80%9C-Geschenkanh%C3%A4nger%20ist%20im%20Kabel%20verheddert%20und%20baumelt%20am%20Ohr%20der%20Katze.%20Der%20Stil%20ist%20eine%20flache%20grafische%20Illustration%20mit%20klaren%20Linien%20und%20lebendigen%20Farben.%20Text%20unten%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22I%20Helped.%22%7D%20in%20einer%20unordentlichen%2C%20kratzigen%20schwarzen%20Schrift.)**
 
 ---
 
-### No. 4: Reindeer Flight School Christmas Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-A charming and funny Christmas card design depicting a baby reindeer's clumsy but determined attempt at flight school, aided by a tiny robin. This prompt is ideal for creating whimsical and endearing holiday messages.
-
-#### 📝 Prompt
-
-```
-A charming and funny Christmas card design, aspect ratio 1:1.4. The scene depicts a "Reindeer Flight School." A cute, clumsy baby reindeer with a slightly oversized red nose is hovering just a few inches off the snowy ground, legs splayed out in all directions, looking panicked but determined. He is wearing vintage aviator goggles and a brown leather helmet. Behind him, a tiny red robin bird is using its beak to push the reindeer's bottom to help him stay up. The background is a simple, pale blue winter sky with fluffy white clouds. The style is a detailed colored pencil drawing on textured paper.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640787943_hq7ga1_1765640065495-37f5mv-8BrHHbyCDq3h0AAAAASUVORK5CYII_" width="600" alt="Reindeer Flight School Christmas Card - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Quelle:** [Twitter Post](null)
-- **Veröffentlicht:** 13. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20and%20funny%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20scene%20depicts%20a%20%22Reindeer%20Flight%20School.%22%20A%20cute%2C%20clumsy%20baby%20reindeer%20with%20a%20slightly%20oversized%20red%20nose%20is%20hovering%20just%20a%20few%20inches%20off%20the%20snowy%20ground%2C%20legs%20splayed%20out%20in%20all%20directions%2C%20looking%20panicked%20but%20determined.%20He%20is%20wearing%20vintage%20aviator%20goggles%20and%20a%20brown%20leather%20helmet.%20Behind%20him%2C%20a%20tiny%20red%20robin%20bird%20is%20using%20its%20beak%20to%20push%20the%20reindeer's%20bottom%20to%20help%20him%20stay%20up.%20The%20background%20is%20a%20simple%2C%20pale%20blue%20winter%20sky%20with%20fluffy%20white%20clouds.%20The%20style%20is%20a%20detailed%20colored%20pencil%20drawing%20on%20textured%20paper.)**
-
----
-
-### No. 5: Marshmallow Hot Tub Christmas Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-A kawaii style printable Christmas card illustration featuring adorable marshmallow characters relaxing in a mug of hot chocolate. This prompt creates a fun and sweet image, perfect for delightful holiday greetings.
-
-#### 📝 Prompt
-
-```
-A kawaii style printable Christmas card illustration, aspect ratio 1:1.4. The view is a top-down perspective looking into a red ceramic mug filled with rich, brown hot chocolate. Inside the mug, three adorable white marshmallow characters are relaxing as if it's a hot tub. One marshmallow is leaning back with drawn-on sunglasses made of chocolate icing. Another is wearing a tiny candy cane snorkel. The third is floating on a square of chocolate bar like a raft. Steam swirls rise up in the shape of hearts. The background outside the mug is a soft pink with white polka dots. High resolution, bright colors, vector art style.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640787036_1czg4c_1765640042781-1ksod8-B61Wq24QZe3rAAAAAElFTkSuQmCC" width="600" alt="Marshmallow Hot Tub Christmas Card - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Quelle:** [Twitter Post](null)
-- **Veröffentlicht:** 13. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20kawaii%20style%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20The%20view%20is%20a%20top-down%20perspective%20looking%20into%20a%20red%20ceramic%20mug%20filled%20with%20rich%2C%20brown%20hot%20chocolate.%20Inside%20the%20mug%2C%20three%20adorable%20white%20marshmallow%20characters%20are%20relaxing%20as%20if%20it's%20a%20hot%20tub.%20One%20marshmallow%20is%20leaning%20back%20with%20drawn-on%20sunglasses%20made%20of%20chocolate%20icing.%20Another%20is%20wearing%20a%20tiny%20candy%20cane%20snorkel.%20The%20third%20is%20floating%20on%20a%20square%20of%20chocolate%20bar%20like%20a%20raft.%20Steam%20swirls%20rise%20up%20in%20the%20shape%20of%20hearts.%20The%20background%20outside%20the%20mug%20is%20a%20soft%20pink%20with%20white%20polka%20dots.%20High%20resolution%2C%20bright%20colors%2C%20vector%20art%20style.)**
-
----
-
-### No. 6: Hamster with Cranberry Christmas Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-An exquisite, printable Christmas greeting card illustration in a soft, storybook watercolor style. This prompt generates a heartwarming scene of a chubby hamster enjoying a cranberry, perfect for cozy holiday greetings.
-
-#### 📝 Prompt
-
-```
-An exquisite, printable Christmas greeting card illustration in a soft, storybook watercolor style, aspect ratio 1:1.4. The scene is a close-up macro view of a chubby, golden-brown hamster wearing a tiny, knitted red Santa hat. The hamster sits at a miniature wooden table made from a popsicle stick. He is holding a single, bright red cranberry with both paws, looking absolutely delighted with stuffed cheeks. On the table, there is a thimble serving as a cup and a tiny plate with a crumb of cheese. The background is a warm, creamy off-white paper texture with faint watercolor holly leaves in the corners. The mood is cozy, tiny, and heartwarming.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640781703_na5jwz_1765640043553-nm924c-v6X3sYZq6ZQlE3UIvAPoabB8Ho4z8Ad4d8qgY2yVkAAAAASUVORK5CYII_" width="600" alt="Hamster with Cranberry Christmas Card - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Quelle:** [Twitter Post](null)
-- **Veröffentlicht:** 13. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20exquisite%2C%20printable%20Christmas%20greeting%20card%20illustration%20in%20a%20soft%2C%20storybook%20watercolor%20style%2C%20aspect%20ratio%201%3A1.4.%20The%20scene%20is%20a%20close-up%20macro%20view%20of%20a%20chubby%2C%20golden-brown%20hamster%20wearing%20a%20tiny%2C%20knitted%20red%20Santa%20hat.%20The%20hamster%20sits%20at%20a%20miniature%20wooden%20table%20made%20from%20a%20popsicle%20stick.%20He%20is%20holding%20a%20single%2C%20bright%20red%20cranberry%20with%20both%20paws%2C%20looking%20absolutely%20delighted%20with%20stuffed%20cheeks.%20On%20the%20table%2C%20there%20is%20a%20thimble%20serving%20as%20a%20cup%20and%20a%20tiny%20plate%20with%20a%20crumb%20of%20cheese.%20The%20background%20is%20a%20warm%2C%20creamy%20off-white%20paper%20texture%20with%20faint%20watercolor%20holly%20leaves%20in%20the%20corners.%20The%20mood%20is%20cozy%2C%20tiny%2C%20and%20heartwarming.)**
-
----
-
-### No. 7: Cat in Christmas Lights Christmas Card
+### No. 8: Lebkuchen-Yoga-Kurs Weihnachtskarte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A humorous and cute printable card design featuring a mischievous black cat tangled in a mess of colorful vintage Christmas lights. This prompt is perfect for creating funny holiday cards that capture the playful chaos of pets during Christmas.
+Ein fröhliches und bezauberndes druckbares Weihnachtskartendesign mit fünf niedlichen Lebkuchenmännern in einer „Yogastunde“. Dieser Prompt ist perfekt, um herzerwärmende Weihnachtsgrüße mit einem Hauch von Humor und Niedlichkeit zu gestalten.
 
 #### 📝 Prompt
 
 ```
-A humorous and cute printable card design, aspect ratio 1:1.4. The illustration features a chaotic, tangled mess of colorful vintage Christmas lights (red, green, blue, yellow bulbs) forming a rough ball shape in the center of a solid white background. Emerging from the center of the tangle is a cute black cat with wide, yellow eyes and a mischievous expression. The cat has one paw stuck out, batting at a loose bulb. A "To/From" gift tag is tangled in the wire, dangling from the cat's ear. The style is a flat graphic illustration with clean lines and vibrant colors. Text at the bottom: {argument name="text" default="I Helped."} in a messy, scratchy black font.
+Ein lustiges und bezauberndes druckbares Weihnachtskartendesign im Seitenverhältnis 1:1,4. Der Hintergrund ist einfarbig, ein sauberes Pastell-Mintgrün. Die Illustration zeigt eine „Yoga-Klasse“ von fünf niedlichen Lebkuchenmännchen-Keksen. Das zentrale Lebkuchenmännchen steht auf einem Bein in einer „Baum-Pose“ und balanciert mit konzentriertem Ausdruck einen Gummibonbon auf seinem Kopf. Links von ihm versucht ein anderer Keks eine „Downward Dog“-Pose, aber sein Arm ist leicht zerbröselt, wodurch köstliche Keksbrösel sichtbar werden. Rechts meditiert ein Lebkuchenmännchen im „Lotussitz“ mit geschlossenen Zuckergussaugen. Sie alle haben weiße Zuckergussdetails und rote Red-Hot-Bonbonknöpfe. Der Stil ist eine saubere, flache Vektorillustration mit weichen Schatten. Der Text oben lautet: {argument name="text" default="Find Your Inner Piece"} in einer verspielten, abgerundeten weißen Schriftart.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -320,7 +351,7 @@ A humorous and cute printable card design, aspect ratio 1:1.4. The illustration 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640781919_674amh_1765640041031-9iqp3v-4fNTsfFaeOKTYAAAAASUVORK5CYII_" width="600" alt="Cat in Christmas Lights Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640780963_w8tis9_1765640041792-ya1lsk-kYut4TGuYNPXl4D3U4NlBYnZnxEwH_L7GY8tY3qO5QAAAAAElFTkSuQmCC" width="600" alt="Lebkuchen-Yoga-Kurs Weihnachtskarte - Image 1">
 </div>
 
 #### 📌 Details
@@ -330,23 +361,56 @@ A humorous and cute printable card design, aspect ratio 1:1.4. The illustration 
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20humorous%20and%20cute%20printable%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20illustration%20features%20a%20chaotic%2C%20tangled%20mess%20of%20colorful%20vintage%20Christmas%20lights%20(red%2C%20green%2C%20blue%2C%20yellow%20bulbs)%20forming%20a%20rough%20ball%20shape%20in%20the%20center%20of%20a%20solid%20white%20background.%20Emerging%20from%20the%20center%20of%20the%20tangle%20is%20a%20cute%20black%20cat%20with%20wide%2C%20yellow%20eyes%20and%20a%20mischievous%20expression.%20The%20cat%20has%20one%20paw%20stuck%20out%2C%20batting%20at%20a%20loose%20bulb.%20A%20%22To%2FFrom%22%20gift%20tag%20is%20tangled%20in%20the%20wire%2C%20dangling%20from%20the%20cat's%20ear.%20The%20style%20is%20a%20flat%20graphic%20illustration%20with%20clean%20lines%20and%20vibrant%20colors.%20Text%20at%20the%20bottom%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22I%20Helped.%22%7D%20in%20a%20messy%2C%20scratchy%20black%20font.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20lustiges%20und%20bezauberndes%20druckbares%20Weihnachtskartendesign%20im%20Seitenverh%C3%A4ltnis%201%3A1%2C4.%20Der%20Hintergrund%20ist%20einfarbig%2C%20ein%20sauberes%20Pastell-Mintgr%C3%BCn.%20Die%20Illustration%20zeigt%20eine%20%E2%80%9EYoga-Klasse%E2%80%9C%20von%20f%C3%BCnf%20niedlichen%20Lebkuchenm%C3%A4nnchen-Keksen.%20Das%20zentrale%20Lebkuchenm%C3%A4nnchen%20steht%20auf%20einem%20Bein%20in%20einer%20%E2%80%9EBaum-Pose%E2%80%9C%20und%20balanciert%20mit%20konzentriertem%20Ausdruck%20einen%20Gummibonbon%20auf%20seinem%20Kopf.%20Links%20von%20ihm%20versucht%20ein%20anderer%20Keks%20eine%20%E2%80%9EDownward%20Dog%E2%80%9C-Pose%2C%20aber%20sein%20Arm%20ist%20leicht%20zerbr%C3%B6selt%2C%20wodurch%20k%C3%B6stliche%20Keksbr%C3%B6sel%20sichtbar%20werden.%20Rechts%20meditiert%20ein%20Lebkuchenm%C3%A4nnchen%20im%20%E2%80%9ELotussitz%E2%80%9C%20mit%20geschlossenen%20Zuckergussaugen.%20Sie%20alle%20haben%20wei%C3%9Fe%20Zuckergussdetails%20und%20rote%20Red-Hot-Bonbonkn%C3%B6pfe.%20Der%20Stil%20ist%20eine%20saubere%2C%20flache%20Vektorillustration%20mit%20weichen%20Schatten.%20Der%20Text%20oben%20lautet%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Find%20Your%20Inner%20Piece%22%7D%20in%20einer%20verspielten%2C%20abgerundeten%20wei%C3%9Fen%20Schriftart.)**
 
 ---
 
-### No. 8: Gingerbread Yoga Class Christmas Card
+### No. 9: Weihnachtskarte mit Eisbär- und Pinguin-Schal
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein herzerwärmendes und skurriles Weihnachtskartenmotiv, das eine unwahrscheinliche Freundschaft zwischen einem riesigen Eisbären und einem winzigen Pinguin zeigt, die durch einen komisch überdimensionierten Schal verbunden sind. Ideal, um in der Weihnachtszeit Themen wie Freundschaft und Wärme zu vermitteln.
+
+#### 📝 Prompt
+
+```
+Ein herzerwärmendes und skurriles Weihnachtskarten-Cover im Seitenverhältnis 1:1,4. Ein riesiger, flauschiger weißer Eisbär sitzt links, und ein winziger, runder Pinguin steht rechts vor einem sauberen, eisblauen Hintergrund. Sie sind durch einen komisch langen, überdimensionierten rot-grün gestrickten Schal verbunden, der mehrfach um den Hals des Bären gewickelt ist und sich dann nach unten schlängelt, um den winzigen Pinguin eng zu umschließen. Der Pinguin blickt bewundernd zum Bären auf. Die Textur des Fells und der Strickwolle ist sichtbar und weich. Einfache weiße Schneeflocken fallen sanft um sie herum. Kein Text, nur ein süßes Bild der Freundschaft.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765641085323_jvvhse_image.png" width="600" alt="Weihnachtskarte mit Eisbär- und Pinguin-Schal - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Quelle:** [Twitter Post](null)
+- **Veröffentlicht:** 13. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20herzerw%C3%A4rmendes%20und%20skurriles%20Weihnachtskarten-Cover%20im%20Seitenverh%C3%A4ltnis%201%3A1%2C4.%20Ein%20riesiger%2C%20flauschiger%20wei%C3%9Fer%20Eisb%C3%A4r%20sitzt%20links%2C%20und%20ein%20winziger%2C%20runder%20Pinguin%20steht%20rechts%20vor%20einem%20sauberen%2C%20eisblauen%20Hintergrund.%20Sie%20sind%20durch%20einen%20komisch%20langen%2C%20%C3%BCberdimensionierten%20rot-gr%C3%BCn%20gestrickten%20Schal%20verbunden%2C%20der%20mehrfach%20um%20den%20Hals%20des%20B%C3%A4ren%20gewickelt%20ist%20und%20sich%20dann%20nach%20unten%20schl%C3%A4ngelt%2C%20um%20den%20winzigen%20Pinguin%20eng%20zu%20umschlie%C3%9Fen.%20Der%20Pinguin%20blickt%20bewundernd%20zum%20B%C3%A4ren%20auf.%20Die%20Textur%20des%20Fells%20und%20der%20Strickwolle%20ist%20sichtbar%20und%20weich.%20Einfache%20wei%C3%9Fe%20Schneeflocken%20fallen%20sanft%20um%20sie%20herum.%20Kein%20Text%2C%20nur%20ein%20s%C3%BC%C3%9Fes%20Bild%20der%20Freundschaft.)**
+
+---
+
+### No. 10: Aquarell-Schneehüttenlandschaft
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A cheerful and adorable printable Christmas card design featuring five cute gingerbread men cookies in a 'Yoga Class'. This prompt is perfect for creating heartwarming holiday greetings with a touch of humor and cuteness.
+Eine ruhige Aquarell-Weihnachtskarte mit einer einsamen Hütte in einem verschneiten Feld bei Sonnenuntergang und wunderschön abgestuften Himmelsfarben, perfekt, um friedliche Weihnachtsgefühle zu vermitteln.
 
 #### 📝 Prompt
 
 ```
-A funny and adorable printable Christmas card design, aspect ratio 1:1.4. The background is a solid, clean pastel mint green. The illustration features a "Yoga Class" of five cute gingerbread men cookies. The central gingerbread man is standing on one leg in a "Tree Pose," balancing a gumdrop on his head with a focused expression. To his left, another cookie is attempting a "Downward Dog" pose but his arm has crumbled slightly, revealing delicious cookie crumbs. To the right, a gingerbread man is meditating in "Lotus position" with his icing eyes closed. They all have white icing details and red red-hot candy buttons. The style is a clean, flat vector illustration with soft shadows. Text at the top reads: {argument name="text" default="Find Your Inner Piece"} in a playful, rounded white font.
+Eine ruhige Aquarelllandschaft, --ar 10:14. Eine einsame Hütte in einem weiten Schneefeld bei Sonnenuntergang. Der Himmel ist ein Farbverlauf aus {argument name="sky color 1" default="purple"}, {argument name="sky color 2" default="pink"} und {argument name="sky color 3" default="orange"}. Rauch steigt senkrecht aus dem Schornstein auf. Weiche Nass-in-Nass-Aquarelltechnik.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -354,7 +418,7 @@ A funny and adorable printable Christmas card design, aspect ratio 1:1.4. The ba
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640780963_w8tis9_1765640041792-ya1lsk-kYut4TGuYNPXl4D3U4NlBYnZnxEwH_L7GY8tY3qO5QAAAAAElFTkSuQmCC" width="600" alt="Gingerbread Yoga Class Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640542662_il05z4_1765635182535-9ggafe-o6rQAAAAASUVORK5CYII_" width="600" alt="Aquarell-Schneehüttenlandschaft - Image 1">
 </div>
 
 #### 📌 Details
@@ -364,22 +428,22 @@ A funny and adorable printable Christmas card design, aspect ratio 1:1.4. The ba
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20and%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20background%20is%20a%20solid%2C%20clean%20pastel%20mint%20green.%20The%20illustration%20features%20a%20%22Yoga%20Class%22%20of%20five%20cute%20gingerbread%20men%20cookies.%20The%20central%20gingerbread%20man%20is%20standing%20on%20one%20leg%20in%20a%20%22Tree%20Pose%2C%22%20balancing%20a%20gumdrop%20on%20his%20head%20with%20a%20focused%20expression.%20To%20his%20left%2C%20another%20cookie%20is%20attempting%20a%20%22Downward%20Dog%22%20pose%20but%20his%20arm%20has%20crumbled%20slightly%2C%20revealing%20delicious%20cookie%20crumbs.%20To%20the%20right%2C%20a%20gingerbread%20man%20is%20meditating%20in%20%22Lotus%20position%22%20with%20his%20icing%20eyes%20closed.%20They%20all%20have%20white%20icing%20details%20and%20red%20red-hot%20candy%20buttons.%20The%20style%20is%20a%20clean%2C%20flat%20vector%20illustration%20with%20soft%20shadows.%20Text%20at%20the%20top%20reads%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Find%20Your%20Inner%20Piece%22%7D%20in%20a%20playful%2C%20rounded%20white%20font.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20ruhige%20Aquarelllandschaft%2C%20--ar%2010%3A14.%20Eine%20einsame%20H%C3%BCtte%20in%20einem%20weiten%20Schneefeld%20bei%20Sonnenuntergang.%20Der%20Himmel%20ist%20ein%20Farbverlauf%20aus%20%7Bargument%20name%3D%22sky%20color%201%22%20default%3D%22purple%22%7D%2C%20%7Bargument%20name%3D%22sky%20color%202%22%20default%3D%22pink%22%7D%20und%20%7Bargument%20name%3D%22sky%20color%203%22%20default%3D%22orange%22%7D.%20Rauch%20steigt%20senkrecht%20aus%20dem%20Schornstein%20auf.%20Weiche%20Nass-in-Nass-Aquarelltechnik.)**
 
 ---
 
-### No. 9: Polar Bear and Penguin Scarf Christmas Card
+### No. 11: Luxuriöse marineblaue Schneeflocken-Mandala-Karte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A heartwarming and whimsical Christmas card cover depicting an unlikely friendship between a massive polar bear and a tiny penguin, connected by a comically oversized scarf. Ideal for conveying themes of friendship and warmth during the holidays.
+Eine elegante, luxuriöse Weihnachtskarte mit tiefblauer Samttextur und einem aufwendigen Schneeflocken-Mandala-Design aus Goldfolie, perfekt für hochwertige Weihnachtsgrüße.
 
 #### 📝 Prompt
 
 ```
-A heartwarming and whimsical Christmas card cover, aspect ratio 1:1.4. A massive, fluffy white polar bear sits on the left, and a tiny, round penguin stands on the right against a clean, ice-blue background. They are connected by a comically long, oversized red and green knitted scarf that is wrapped multiple times around the bear's neck and then loops down to wrap snugly around the tiny penguin. The penguin is looking up at the bear with admiration. The texture of the fur and the knit wool is visible and soft. Simple white snowflakes fall gently around them. No text, just a sweet image of friendship.
+Ein exquisites Luxus-Kartendesign, --ar 10:14. Ein tiefblauer Samthintergrund. In der Mitte ein großes, aufwendiges Schneeflocken-Mandala, das in geprägter Goldfolie dargestellt ist. Die Goldfolie wirkt glänzend und metallisch.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -387,7 +451,7 @@ A heartwarming and whimsical Christmas card cover, aspect ratio 1:1.4. A massive
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765641085323_jvvhse_image.png" width="600" alt="Polar Bear and Penguin Scarf Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640540780_ipxvdo_1765635134196-lrarow-2kokD3ed6blAAAAAElFTkSuQmCC" width="600" alt="Luxuriöse marineblaue Schneeflocken-Mandala-Karte - Image 1">
 </div>
 
 #### 📌 Details
@@ -397,57 +461,23 @@ A heartwarming and whimsical Christmas card cover, aspect ratio 1:1.4. A massive
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20heartwarming%20and%20whimsical%20Christmas%20card%20cover%2C%20aspect%20ratio%201%3A1.4.%20A%20massive%2C%20fluffy%20white%20polar%20bear%20sits%20on%20the%20left%2C%20and%20a%20tiny%2C%20round%20penguin%20stands%20on%20the%20right%20against%20a%20clean%2C%20ice-blue%20background.%20They%20are%20connected%20by%20a%20comically%20long%2C%20oversized%20red%20and%20green%20knitted%20scarf%20that%20is%20wrapped%20multiple%20times%20around%20the%20bear's%20neck%20and%20then%20loops%20down%20to%20wrap%20snugly%20around%20the%20tiny%20penguin.%20The%20penguin%20is%20looking%20up%20at%20the%20bear%20with%20admiration.%20The%20texture%20of%20the%20fur%20and%20the%20knit%20wool%20is%20visible%20and%20soft.%20Simple%20white%20snowflakes%20fall%20gently%20around%20them.%20No%20text%2C%20just%20a%20sweet%20image%20of%20friendship.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20exquisites%20Luxus-Kartendesign%2C%20--ar%2010%3A14.%20Ein%20tiefblauer%20Samthintergrund.%20In%20der%20Mitte%20ein%20gro%C3%9Fes%2C%20aufwendiges%20Schneeflocken-Mandala%2C%20das%20in%20gepr%C3%A4gter%20Goldfolie%20dargestellt%20ist.%20Die%20Goldfolie%20wirkt%20gl%C3%A4nzend%20und%20metallisch.)**
 
 ---
 
-### No. 10: Watercolor Snowy Cabin Landscape
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-A serene watercolor Christmas card featuring a lonely cabin in a snowy field at sunset with beautiful gradient skies, perfect for conveying peaceful holiday sentiments
-
-#### 📝 Prompt
-
-```
-A serene watercolor landscape, --ar 10:14. A lonely cabin in a vast snowy field at sunset. The sky is a gradient of {argument name="sky color 1" default="purple"}, {argument name="sky color 2" default="pink"}, and {argument name="sky color 3" default="orange"}. Smoke rises vertically from the chimney. Soft, wet-on-wet watercolor technique.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640542662_il05z4_1765635182535-9ggafe-o6rQAAAAASUVORK5CYII_" width="600" alt="Watercolor Snowy Cabin Landscape - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Quelle:** [Twitter Post](null)
-- **Veröffentlicht:** 13. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20serene%20watercolor%20landscape%2C%20--ar%2010%3A14.%20A%20lonely%20cabin%20in%20a%20vast%20snowy%20field%20at%20sunset.%20The%20sky%20is%20a%20gradient%20of%20%7Bargument%20name%3D%22sky%20color%201%22%20default%3D%22purple%22%7D%2C%20%7Bargument%20name%3D%22sky%20color%202%22%20default%3D%22pink%22%7D%2C%20and%20%7Bargument%20name%3D%22sky%20color%203%22%20default%3D%22orange%22%7D.%20Smoke%20rises%20vertically%20from%20the%20chimney.%20Soft%2C%20wet-on-wet%20watercolor%20technique.)**
-
----
-
-### No. 11: Luxury Navy Snowflake Mandala Card
+### No. 12: Vintage-Reiseposter: Winterszene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-An elegant luxury Christmas card with deep navy velvet texture and an intricate gold foil snowflake mandala design, perfect for premium holiday greetings
+Eine Weihnachtskarte im Stil eines Vintage-Reiseposters, die eine verschneite Berghütte mit kräftigen, flachen Farben und Siebdruck-Ästhetik zeigt
 
 #### 📝 Prompt
 
 ```
-An exquisite luxury card design, --ar 10:14. A deep {argument name="background color" default="navy blue"} velvet texture background. In the center, a large, intricate snowflake mandala is rendered in embossed {argument name="foil color" default="gold"} foil. The {argument name="foil color" default="gold"} looks shiny and metallic.
+Eine Weihnachtskarte im Stil eines Vintage-Reiseplakats. Eine stilisierte Ansicht einer verschneiten Berghütte mit einem Skifahrer. Kräftige, flache Farben, Siebdrucktextur. Text unten: „{argument name="message" default="Winter Wonderland"}“. --ar 10:14
 ```
 
 #### 🖼️ Generierte Bilder
@@ -455,7 +485,7 @@ An exquisite luxury card design, --ar 10:14. A deep {argument name="background c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640540780_ipxvdo_1765635134196-lrarow-2kokD3ed6blAAAAAElFTkSuQmCC" width="600" alt="Luxury Navy Snowflake Mandala Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640539963_cytycj_1765635109580-9y3we0-pA7TteiD0AAAAASUVORK5CYII_" width="600" alt="Vintage-Reiseposter: Winterszene - Image 1">
 </div>
 
 #### 📌 Details
@@ -465,23 +495,56 @@ An exquisite luxury card design, --ar 10:14. A deep {argument name="background c
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20exquisite%20luxury%20card%20design%2C%20--ar%2010%3A14.%20A%20deep%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22navy%20blue%22%7D%20velvet%20texture%20background.%20In%20the%20center%2C%20a%20large%2C%20intricate%20snowflake%20mandala%20is%20rendered%20in%20embossed%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20foil.%20The%20%7Bargument%20name%3D%22foil%20color%22%20default%3D%22gold%22%7D%20looks%20shiny%20and%20metallic.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20Weihnachtskarte%20im%20Stil%20eines%20Vintage-Reiseplakats.%20Eine%20stilisierte%20Ansicht%20einer%20verschneiten%20Bergh%C3%BCtte%20mit%20einem%20Skifahrer.%20Kr%C3%A4ftige%2C%20flache%20Farben%2C%20Siebdrucktextur.%20Text%20unten%3A%20%E2%80%9E%7Bargument%20name%3D%22message%22%20default%3D%22Winter%20Wonderland%22%7D%E2%80%9C.%20--ar%2010%3A14)**
 
 ---
 
-### No. 12: Vintage Travel Poster Winter Scene
+### No. 13: Nostalgische Spielzeugladen-Schaufensterszene
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Eine herzerwärmende, nostalgische Illustration eines Spielzeugladenfensters bei Nacht mit einem Spielzeugeisenbahn und Zinnsoldaten, die den Zauber von Weihnachten durch Kinderaugen einfängt.
+
+#### 📝 Prompt
+
+```
+Eine nostalgische Illustration eines Spielzeugladenfensters bei Nacht. Im Inneren umkreist ein Spielzeugeisenbahn einen Baum, und Zinnsoldaten halten Wache. Der Fensterrahmen ist aus Holz, und Schnee sammelt sich in den Ecken. Ein warmes gelbes Licht scheint von innen.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640538051_l3wk8q_1765635100465-0itgcp-q3LGyuyZ2kAAAAASUVORK5CYII_" width="600" alt="Nostalgische Spielzeugladen-Schaufensterszene - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Quelle:** [Twitter Post](null)
+- **Veröffentlicht:** 13. Dezember 2025
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20nostalgische%20Illustration%20eines%20Spielzeugladenfensters%20bei%20Nacht.%20Im%20Inneren%20umkreist%20ein%20Spielzeugeisenbahn%20einen%20Baum%2C%20und%20Zinnsoldaten%20halten%20Wache.%20Der%20Fensterrahmen%20ist%20aus%20Holz%2C%20und%20Schnee%20sammelt%20sich%20in%20den%20Ecken.%20Ein%20warmes%20gelbes%20Licht%20scheint%20von%20innen.)**
+
+---
+
+### No. 14: Weihnachtskarte im Mid-Century Modern Stil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A Christmas card designed in vintage travel poster style featuring a snowy mountain lodge with bold flat colors and screen print texture aesthetics
+Ein retro-geometrisches Weihnachtsdesign mit Mid-Century Modern Atomic Starbursts und Rautenformen in leuchtenden Farben, perfekt für Fans der Ästhetik der 1950er Jahre.
 
 #### 📝 Prompt
 
 ```
-A vintage travel poster style Christmas card. A stylized view of a snowy mountain lodge with a skier. Bold flat colors, screen print texture. Text at bottom: "{argument name="message" default="Winter Wonderland"}". --ar 10:14
+Ein retro-geometrisches Design, --ar 10:14. Mid-Century-Modern-Atom-Starbursts und Rautenformen in {argument name="color 1" default="gold"}, {argument name="color 2" default="türkis"} und {argument name="color 3" default="orange"} auf einem {argument name="background color" default="cremefarbenen"} Hintergrund. „{argument name="greeting" default="Frohe Weihnachten"}“ in einer Retro-50er-Jahre-Schriftart.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -489,7 +552,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640539963_cytycj_1765635109580-9y3we0-pA7TteiD0AAAAASUVORK5CYII_" width="600" alt="Vintage Travel Poster Winter Scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640534853_4frela_b134e84f62985454897a3a713d0f4096c786ca67f9c4dfb65b4d6a97e7e5bcc8" width="600" alt="Weihnachtskarte im Mid-Century Modern Stil - Image 1">
 </div>
 
 #### 📌 Details
@@ -499,56 +562,23 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vintage%20travel%20poster%20style%20Christmas%20card.%20A%20stylized%20view%20of%20a%20snowy%20mountain%20lodge%20with%20a%20skier.%20Bold%20flat%20colors%2C%20screen%20print%20texture.%20Text%20at%20bottom%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Winter%20Wonderland%22%7D%22.%20--ar%2010%3A14)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20retro-geometrisches%20Design%2C%20--ar%2010%3A14.%20Mid-Century-Modern-Atom-Starbursts%20und%20Rautenformen%20in%20%7Bargument%20name%3D%22color%201%22%20default%3D%22gold%22%7D%2C%20%7Bargument%20name%3D%22color%202%22%20default%3D%22t%C3%BCrkis%22%7D%20und%20%7Bargument%20name%3D%22color%203%22%20default%3D%22orange%22%7D%20auf%20einem%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22cremefarbenen%22%7D%20Hintergrund.%20%E2%80%9E%7Bargument%20name%3D%22greeting%22%20default%3D%22Frohe%20Weihnachten%22%7D%E2%80%9C%20in%20einer%20Retro-50er-Jahre-Schriftart.)**
 
 ---
 
-### No. 13: Nostalgic Toy Shop Window Scene
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-A heartwarming nostalgic illustration of a toy shop window at night with a toy train and tin soldiers, capturing the magic of Christmas through a child's eyes
-
-#### 📝 Prompt
-
-```
-A nostalgic illustration of a toy shop window at night. Inside, a toy train circles a tree, and tin soldiers stand guard. The window frame is wood, and snow gathers in the corners. Warm yellow glow from inside.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640538051_l3wk8q_1765635100465-0itgcp-q3LGyuyZ2kAAAAASUVORK5CYII_" width="600" alt="Nostalgic Toy Shop Window Scene - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Quelle:** [Twitter Post](null)
-- **Veröffentlicht:** 13. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20nostalgic%20illustration%20of%20a%20toy%20shop%20window%20at%20night.%20Inside%2C%20a%20toy%20train%20circles%20a%20tree%2C%20and%20tin%20soldiers%20stand%20guard.%20The%20window%20frame%20is%20wood%2C%20and%20snow%20gathers%20in%20the%20corners.%20Warm%20yellow%20glow%20from%20inside.)**
-
----
-
-### No. 14: Mid-Century Modern Christmas Card
+### No. 15: Viktorianische Weihnachtsmann-Postkarte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A retro geometric Christmas design with mid-century modern atomic starbursts and diamond shapes in vibrant colors, perfect for fans of 1950s aesthetic
+Eine Weihnachtskarte im Vintage-Stil, inspiriert von viktorianischen Postkarten, die den Weihnachtsmann in traditioneller Robe zeigt, wie er durch ein verschneites Dorf geht, mit detaillierten Kreuzschraffuren.
 
 #### 📝 Prompt
 
 ```
-A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and diamond shapes in {argument name="color 1" default="gold"}, {argument name="color 2" default="turquoise"}, and {argument name="color 3" default="orange"} on a {argument name="background color" default="cream"} background. "{argument name="greeting" default="Merry Christmas"}" in a retro 50s font.
+Eine Illustration im Stil einer viktorianischen Weihnachtspostkarte, --ar 10:14. Ein klassischer Weihnachtsmann in einem langen {argument name="robe color" default="green"} Gewand mit {argument name="trim color" default="gold"} Besatz geht mit einer Laterne durch ein verschneites Dorf. Gedämpfte Farben, gealterte Papiertextur, detaillierte Kreuzschraffur.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -556,7 +586,7 @@ A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and d
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640534853_4frela_b134e84f62985454897a3a713d0f4096c786ca67f9c4dfb65b4d6a97e7e5bcc8" width="600" alt="Mid-Century Modern Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640534049_tgsk25_1765635084662-g11ln5-wFfN5JebHRCEgAAAABJRU5ErkJggg__" width="600" alt="Viktorianische Weihnachtsmann-Postkarte - Image 1">
 </div>
 
 #### 📌 Details
@@ -566,23 +596,23 @@ A retro geometric design, --ar 10:14. Mid-century modern atomic starbursts and d
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20retro%20geometric%20design%2C%20--ar%2010%3A14.%20Mid-century%20modern%20atomic%20starbursts%20and%20diamond%20shapes%20in%20%7Bargument%20name%3D%22color%201%22%20default%3D%22gold%22%7D%2C%20%7Bargument%20name%3D%22color%202%22%20default%3D%22turquoise%22%7D%2C%20and%20%7Bargument%20name%3D%22color%203%22%20default%3D%22orange%22%7D%20on%20a%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22cream%22%7D%20background.%20%22%7Bargument%20name%3D%22greeting%22%20default%3D%22Merry%20Christmas%22%7D%22%20in%20a%20retro%2050s%20font.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20Illustration%20im%20Stil%20einer%20viktorianischen%20Weihnachtspostkarte%2C%20--ar%2010%3A14.%20Ein%20klassischer%20Weihnachtsmann%20in%20einem%20langen%20%7Bargument%20name%3D%22robe%20color%22%20default%3D%22green%22%7D%20Gewand%20mit%20%7Bargument%20name%3D%22trim%20color%22%20default%3D%22gold%22%7D%20Besatz%20geht%20mit%20einer%20Laterne%20durch%20ein%20verschneites%20Dorf.%20Ged%C3%A4mpfte%20Farben%2C%20gealterte%20Papiertextur%2C%20detaillierte%20Kreuzschraffur.)**
 
 ---
 
-### No. 15: Victorian Father Christmas Postcard
+### No. 16: Schlafende Tiere Stapel Weihnachtskarte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A vintage-style Christmas card inspired by Victorian postcards, featuring Father Christmas in traditional robes walking through a snowy village with detailed cross-hatching artwork
+Eine herzerwärmende Cartoon-Illustration von drei niedlichen Tieren, die gemeinsam unter einer gemütlichen Decke Winterschlaf halten – perfekt, um in der Weihnachtszeit Behaglichkeit und Wärme zu vermitteln.
 
 #### 📝 Prompt
 
 ```
-A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic Father Christmas in a long {argument name="robe color" default="green"} robe with {argument name="trim color" default="gold"} trim walks through a snowy village carrying a lantern. Muted colors, aged paper texture, detailed cross-hatching.
+Eine niedliche Cartoon-Illustration. Ein Stapel aus drei schläfrigen Tieren: ein {argument name="bottom animal" default="Bär"} unten, ein {argument name="middle animal" default="Fuchs"} in der Mitte und ein {argument name="top animal" default="Hase"} oben, die alle zusammen unter einer Patchwork-Decke Winterschlaf halten. Der Text „{argument name="message" default="Cozy & Bright"}“ in den Wolken darüber. --ar 10:14
 ```
 
 #### 🖼️ Generierte Bilder
@@ -590,7 +620,7 @@ A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640534049_tgsk25_1765635084662-g11ln5-wFfN5JebHRCEgAAAABJRU5ErkJggg__" width="600" alt="Victorian Father Christmas Postcard - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640532908_mfv73e_1765635069764-sv27ex-wusdZkTvGMQIAAAAABJRU5ErkJggg__" width="600" alt="Schlafende Tiere Stapel Weihnachtskarte - Image 1">
 </div>
 
 #### 📌 Details
@@ -600,23 +630,23 @@ A vintage Victorian Christmas postcard style illustration, --ar 10:14. A classic
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vintage%20Victorian%20Christmas%20postcard%20style%20illustration%2C%20--ar%2010%3A14.%20A%20classic%20Father%20Christmas%20in%20a%20long%20%7Bargument%20name%3D%22robe%20color%22%20default%3D%22green%22%7D%20robe%20with%20%7Bargument%20name%3D%22trim%20color%22%20default%3D%22gold%22%7D%20trim%20walks%20through%20a%20snowy%20village%20carrying%20a%20lantern.%20Muted%20colors%2C%20aged%20paper%20texture%2C%20detailed%20cross-hatching.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20niedliche%20Cartoon-Illustration.%20Ein%20Stapel%20aus%20drei%20schl%C3%A4frigen%20Tieren%3A%20ein%20%7Bargument%20name%3D%22bottom%20animal%22%20default%3D%22B%C3%A4r%22%7D%20unten%2C%20ein%20%7Bargument%20name%3D%22middle%20animal%22%20default%3D%22Fuchs%22%7D%20in%20der%20Mitte%20und%20ein%20%7Bargument%20name%3D%22top%20animal%22%20default%3D%22Hase%22%7D%20oben%2C%20die%20alle%20zusammen%20unter%20einer%20Patchwork-Decke%20Winterschlaf%20halten.%20Der%20Text%20%E2%80%9E%7Bargument%20name%3D%22message%22%20default%3D%22Cozy%20%26%20Bright%22%7D%E2%80%9C%20in%20den%20Wolken%20dar%C3%BCber.%20--ar%2010%3A14)**
 
 ---
 
-### No. 16: Sleepy Animals Stack Christmas Card
+### No. 17: Pinguin-Weihnachtsbeleuchtung-Kampfkarte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A heartwarming cartoon illustration of three adorable animals hibernating together under a cozy quilt, perfect for conveying comfort and warmth during the holidays
+Eine humorvolle Weihnachtskarte mit einem niedlichen Cartoon-Pinguin, der mit verhedderten Weihnachtslichtern kämpft – perfekt, um Weihnachtsgrußkarten mit Humor zu versehen
 
 #### 📝 Prompt
 
 ```
-A cute cartoon illustration. A stack of three sleepy animals: a {argument name="bottom animal" default="bear"} at the bottom, a {argument name="middle animal" default="fox"} in the middle, and a {argument name="top animal" default="bunny"} on top, all hibernating together under a patchwork quilt. "{argument name="message" default="Cozy & Bright"}" text in the clouds above. --ar 10:14
+Eine niedliche und lustige druckbare Weihnachtskarte, --ar 10:14. Ein Cartoon-Pinguin müht sich ab, einen riesigen Knäuel bunter Weihnachtslichter zu entwirren. Der Pinguin sieht frustriert, aber liebenswert aus. Weißer Hintergrund mit sanften blauen Schneeschatten. Text: „{argument name="message" default="Es ist wieder soweit..."}“
 ```
 
 #### 🖼️ Generierte Bilder
@@ -624,7 +654,7 @@ A cute cartoon illustration. A stack of three sleepy animals: a {argument name="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640532908_mfv73e_1765635069764-sv27ex-wusdZkTvGMQIAAAAABJRU5ErkJggg__" width="600" alt="Sleepy Animals Stack Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640528355_3myo91_1765635017613-5duglp-7YSFQGgTiLwAAAABJRU5ErkJggg__" width="600" alt="Pinguin-Weihnachtsbeleuchtung-Kampfkarte - Image 1">
 </div>
 
 #### 📌 Details
@@ -634,23 +664,23 @@ A cute cartoon illustration. A stack of three sleepy animals: a {argument name="
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20cartoon%20illustration.%20A%20stack%20of%20three%20sleepy%20animals%3A%20a%20%7Bargument%20name%3D%22bottom%20animal%22%20default%3D%22bear%22%7D%20at%20the%20bottom%2C%20a%20%7Bargument%20name%3D%22middle%20animal%22%20default%3D%22fox%22%7D%20in%20the%20middle%2C%20and%20a%20%7Bargument%20name%3D%22top%20animal%22%20default%3D%22bunny%22%7D%20on%20top%2C%20all%20hibernating%20together%20under%20a%20patchwork%20quilt.%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Cozy%20%26%20Bright%22%7D%22%20text%20in%20the%20clouds%20above.%20--ar%2010%3A14)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20niedliche%20und%20lustige%20druckbare%20Weihnachtskarte%2C%20--ar%2010%3A14.%20Ein%20Cartoon-Pinguin%20m%C3%BCht%20sich%20ab%2C%20einen%20riesigen%20Kn%C3%A4uel%20bunter%20Weihnachtslichter%20zu%20entwirren.%20Der%20Pinguin%20sieht%20frustriert%2C%20aber%20liebenswert%20aus.%20Wei%C3%9Fer%20Hintergrund%20mit%20sanften%20blauen%20Schneeschatten.%20Text%3A%20%E2%80%9E%7Bargument%20name%3D%22message%22%20default%3D%22Es%20ist%20wieder%20soweit...%22%7D%E2%80%9C)**
 
 ---
 
-### No. 17: Penguin Christmas Lights Struggle Card
+### No. 18: Weihnachtskarte mit modernem Typografie-Weihnachtsbaum
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A humorous Christmas card featuring a cute cartoon penguin struggling with tangled Christmas lights, perfect for adding humor to holiday greetings
+Ein minimalistisches Weihnachtskartendesign mit einem geometrischen Baum, der vollständig aus festlicher Typografie auf einem einfarbigen Hintergrund besteht – perfekt für moderne Weihnachtsgrüße mit klarer Ästhetik.
 
 #### 📝 Prompt
 
 ```
-A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is struggling to untangle a massive ball of colorful Christmas lights. The penguin looks frustrated but adorable. White background with soft blue snow shadows. Text: "{argument name="message" default="It's that time again..."}"
+Eine moderne, flache grafische Weihnachtskarte, --ar 10:14. Auf einem einfarbigen {argument name="background color" default="matcha green"} Hintergrund bildet eine geometrische Weihnachtstanne, die vollständig aus weißer Typografie unterschiedlicher Stärken und Größen besteht, Feiertagswörter wie „{argument name="word 1" default="Joy"}“, „{argument name="word 2" default="Love"}“, „{argument name="word 3" default="Noel"}“, „{argument name="word 4" default="Snow"}“. Die Gesamtform ist ein klares Dreieck. Minimalistisch und kühn.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -658,7 +688,7 @@ A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is stru
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640528355_3myo91_1765635017613-5duglp-7YSFQGgTiLwAAAABJRU5ErkJggg__" width="600" alt="Penguin Christmas Lights Struggle Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640527656_l4bqnh_1765634970019-m2ap7w-wXiy8EsMefgSQAAAABJRU5ErkJggg__" width="600" alt="Weihnachtskarte mit modernem Typografie-Weihnachtsbaum - Image 1">
 </div>
 
 #### 📌 Details
@@ -668,23 +698,23 @@ A cute and funny printable Christmas card, --ar 10:14. A cartoon penguin is stru
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20funny%20printable%20Christmas%20card%2C%20--ar%2010%3A14.%20A%20cartoon%20penguin%20is%20struggling%20to%20untangle%20a%20massive%20ball%20of%20colorful%20Christmas%20lights.%20The%20penguin%20looks%20frustrated%20but%20adorable.%20White%20background%20with%20soft%20blue%20snow%20shadows.%20Text%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22It's%20that%20time%20again...%22%7D%22)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20moderne%2C%20flache%20grafische%20Weihnachtskarte%2C%20--ar%2010%3A14.%20Auf%20einem%20einfarbigen%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22matcha%20green%22%7D%20Hintergrund%20bildet%20eine%20geometrische%20Weihnachtstanne%2C%20die%20vollst%C3%A4ndig%20aus%20wei%C3%9Fer%20Typografie%20unterschiedlicher%20St%C3%A4rken%20und%20Gr%C3%B6%C3%9Fen%20besteht%2C%20Feiertagsw%C3%B6rter%20wie%20%E2%80%9E%7Bargument%20name%3D%22word%201%22%20default%3D%22Joy%22%7D%E2%80%9C%2C%20%E2%80%9E%7Bargument%20name%3D%22word%202%22%20default%3D%22Love%22%7D%E2%80%9C%2C%20%E2%80%9E%7Bargument%20name%3D%22word%203%22%20default%3D%22Noel%22%7D%E2%80%9C%2C%20%E2%80%9E%7Bargument%20name%3D%22word%204%22%20default%3D%22Snow%22%7D%E2%80%9C.%20Die%20Gesamtform%20ist%20ein%20klares%20Dreieck.%20Minimalistisch%20und%20k%C3%BChn.)**
 
 ---
 
-### No. 18: Modern Typography Christmas Tree Card
+### No. 19: Kawaii-Kakao-Weihnachtskarte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A minimalist Christmas card design featuring a geometric tree made entirely from holiday typography on a solid background, perfect for modern holiday greetings with clean aesthetics
+Eine bezaubernde Weihnachtskarte im Kawaii-Stil mit einer lächelnden Tasse heißer Schokolade und niedlichen Marshmallows, perfekt, um herzliche Weihnachtsgrüße zu versenden
 
 #### 📝 Prompt
 
 ```
-A modern, flat graphic Christmas card, --ar 10:14. On a solid {argument name="background color" default="matcha green"} background, a geometric Christmas tree is formed entirely by white typography of varying weights and sizes, spelling out holiday words like "{argument name="word 1" default="Joy"}", "{argument name="word 2" default="Love"}", "{argument name="word 3" default="Noel"}", "{argument name="word 4" default="Snow"}". The overall shape is a clean triangle. Minimalist and bold.
+Eine Weihnachtskarte im Kawaii-Stil. Eine fröhliche, lächelnde Tasse heißer Kakao mit darin badenden Marshmallows. Die Marshmallows haben winzige Gesichter. Dampf steigt in Herzform auf. Pastellrosa Hintergrund mit weißen Tupfen. Text: „{argument name="message" default="Sending you a hug in a mug."}“ --ar 10:14
 ```
 
 #### 🖼️ Generierte Bilder
@@ -692,7 +722,7 @@ A modern, flat graphic Christmas card, --ar 10:14. On a solid {argument name="ba
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640527656_l4bqnh_1765634970019-m2ap7w-wXiy8EsMefgSQAAAABJRU5ErkJggg__" width="600" alt="Modern Typography Christmas Tree Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640527833_kdwtfz_1765635040104-k0xba7-OlzRR9X9TVgAAAABJRU5ErkJggg__" width="600" alt="Kawaii-Kakao-Weihnachtskarte - Image 1">
 </div>
 
 #### 📌 Details
@@ -702,41 +732,7 @@ A modern, flat graphic Christmas card, --ar 10:14. On a solid {argument name="ba
 - **Veröffentlicht:** 13. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20modern%2C%20flat%20graphic%20Christmas%20card%2C%20--ar%2010%3A14.%20On%20a%20solid%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22matcha%20green%22%7D%20background%2C%20a%20geometric%20Christmas%20tree%20is%20formed%20entirely%20by%20white%20typography%20of%20varying%20weights%20and%20sizes%2C%20spelling%20out%20holiday%20words%20like%20%22%7Bargument%20name%3D%22word%201%22%20default%3D%22Joy%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%202%22%20default%3D%22Love%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%203%22%20default%3D%22Noel%22%7D%22%2C%20%22%7Bargument%20name%3D%22word%204%22%20default%3D%22Snow%22%7D%22.%20The%20overall%20shape%20is%20a%20clean%20triangle.%20Minimalist%20and%20bold.)**
-
----
-
-### No. 19: Kawaii Hot Cocoa Christmas Card
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-An adorable kawaii-style Christmas card featuring a smiling cup of hot cocoa with cute marshmallows, perfect for sending warm holiday wishes
-
-#### 📝 Prompt
-
-```
-A kawaii style Christmas card. A happy, smiling cup of hot cocoa with marshmallows bathing in it. The marshmallows have tiny faces. Steam rises in the shape of a heart. Pastel pink background with white polka dots. Text: "{argument name="message" default="Sending you a hug in a mug."}" --ar 10:14
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640527833_kdwtfz_1765635040104-k0xba7-OlzRR9X9TVgAAAABJRU5ErkJggg__" width="600" alt="Kawaii Hot Cocoa Christmas Card - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Quelle:** [Twitter Post](null)
-- **Veröffentlicht:** 13. Dezember 2025
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20kawaii%20style%20Christmas%20card.%20A%20happy%2C%20smiling%20cup%20of%20hot%20cocoa%20with%20marshmallows%20bathing%20in%20it.%20The%20marshmallows%20have%20tiny%20faces.%20Steam%20rises%20in%20the%20shape%20of%20a%20heart.%20Pastel%20pink%20background%20with%20white%20polka%20dots.%20Text%3A%20%22%7Bargument%20name%3D%22message%22%20default%3D%22Sending%20you%20a%20hug%20in%20a%20mug.%22%7D%22%20--ar%2010%3A14)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20Weihnachtskarte%20im%20Kawaii-Stil.%20Eine%20fr%C3%B6hliche%2C%20l%C3%A4chelnde%20Tasse%20hei%C3%9Fer%20Kakao%20mit%20darin%20badenden%20Marshmallows.%20Die%20Marshmallows%20haben%20winzige%20Gesichter.%20Dampf%20steigt%20in%20Herzform%20auf.%20Pastellrosa%20Hintergrund%20mit%20wei%C3%9Fen%20Tupfen.%20Text%3A%20%E2%80%9E%7Bargument%20name%3D%22message%22%20default%3D%22Sending%20you%20a%20hug%20in%20a%20mug.%22%7D%E2%80%9C%20--ar%2010%3A14)**
 
 ---
 
@@ -4075,6 +4071,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-14T04:34:45.303Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-14T07:27:39.689Z</sub>
 
 </div>
