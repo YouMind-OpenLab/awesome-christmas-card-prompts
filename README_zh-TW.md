@@ -86,11 +86,220 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **125** |
-| ⭐ 精選 | **0** |
-| 🔄 最後更新 | **2025年12月15日 星期一 上午8:29:20 [UTC]** |
+| 📝 提示詞總數 | **140** |
+| ⭐ 精選 | **6** |
+| 🔄 最後更新 | **2025年12月15日 星期一 中午12:41:56 [UTC]** |
 
 </div>
+
+---
+
+## 🔥 精選提示詞
+
+> ⭐ 由我們的團隊精心挑選，具有卓越的質量和創造力
+
+### No. 1: 掛在拐杖糖上的樹懶聖誕卡
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+一張可愛的可列印聖誕卡片設計，內容是一隻行動緩慢的樹懶掛在拐杖糖上，試圖搆到一棵聖誕樹。這個提示非常適合製作獨特又迷人的幽默節日賀卡。
+
+#### 📝 提示詞
+
+```
+一張可愛的可列印聖誕卡片設計，長寬比為 1:1.4。一隻可愛、動作緩慢的樹懶倒掛在卡片頂部橫向延伸的拐杖糖上。這隻樹懶穿著一件帶有像素化雪花圖案的節日醜聖誕毛衣。牠用緩慢的爪子抓著一個星星樹頂裝飾，試圖夠到一棵剛好在畫面外的聖誕樹。背景是實心的深青色，以襯托出樹懶。樹懶下方，文字以輕鬆的手寫字體寫著：「Slowly getting into the Spirit」。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640792570_as7oyl_1765640333881-lkq034-EZMiYLAuMw9pQ64ferde4Pu_d1y3UHlI792dxd75JBOzmGh1ODnaQby1qWlttEk7O5OxGmv9dcmSdyMuSTd96MmYgfF6Gh_BYdr4ZU6ci6sKkXILWADyJjyL1ps4zHLI1UkgGfvIv8BYOpTNrui_hYAAAAASUVORK5CYII_" width="700" alt="掛在拐杖糖上的樹懶聖誕卡 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月13日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E5%8D%A1%E7%89%87%E8%A8%AD%E8%A8%88%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E5%8F%AF%E6%84%9B%E3%80%81%E5%8B%95%E4%BD%9C%E7%B7%A9%E6%85%A2%E7%9A%84%E6%A8%B9%E6%87%B6%E5%80%92%E6%8E%9B%E5%9C%A8%E5%8D%A1%E7%89%87%E9%A0%82%E9%83%A8%E6%A9%AB%E5%90%91%E5%BB%B6%E4%BC%B8%E7%9A%84%E6%8B%90%E6%9D%96%E7%B3%96%E4%B8%8A%E3%80%82%E9%80%99%E9%9A%BB%E6%A8%B9%E6%87%B6%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E5%B8%B6%E6%9C%89%E5%83%8F%E7%B4%A0%E5%8C%96%E9%9B%AA%E8%8A%B1%E5%9C%96%E6%A1%88%E7%9A%84%E7%AF%80%E6%97%A5%E9%86%9C%E8%81%96%E8%AA%95%E6%AF%9B%E8%A1%A3%E3%80%82%E7%89%A0%E7%94%A8%E7%B7%A9%E6%85%A2%E7%9A%84%E7%88%AA%E5%AD%90%E6%8A%93%E8%91%97%E4%B8%80%E5%80%8B%E6%98%9F%E6%98%9F%E6%A8%B9%E9%A0%82%E8%A3%9D%E9%A3%BE%EF%BC%8C%E8%A9%A6%E5%9C%96%E5%A4%A0%E5%88%B0%E4%B8%80%E6%A3%B5%E5%89%9B%E5%A5%BD%E5%9C%A8%E7%95%AB%E9%9D%A2%E5%A4%96%E7%9A%84%E8%81%96%E8%AA%95%E6%A8%B9%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E5%AF%A6%E5%BF%83%E7%9A%84%E6%B7%B1%E9%9D%92%E8%89%B2%EF%BC%8C%E4%BB%A5%E8%A5%AF%E6%89%98%E5%87%BA%E6%A8%B9%E6%87%B6%E3%80%82%E6%A8%B9%E6%87%B6%E4%B8%8B%E6%96%B9%EF%BC%8C%E6%96%87%E5%AD%97%E4%BB%A5%E8%BC%95%E9%AC%86%E7%9A%84%E6%89%8B%E5%AF%AB%E5%AD%97%E9%AB%94%E5%AF%AB%E8%91%97%EF%BC%9A%E3%80%8CSlowly%20getting%20into%20the%20Spirit%E3%80%8D%E3%80%82)**
+
+---
+
+### No. 2: 北極熊與企鵝圍巾聖誕卡
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+一張溫馨又奇特的聖誕卡封面，描繪了一隻巨大的北極熊和一隻小企鵝之間，因一條滑稽地過大圍巾而建立的奇特友誼。非常適合在佳節期間傳達友誼與溫暖的主題。
+
+#### 📝 提示詞
+
+```
+一張溫馨又帶點奇思妙想的聖誕卡封面，長寬比為 1:1.4。一隻巨大、毛茸茸的白色北極熊坐在左側，一隻嬌小、圓滾滾的企鵝站在右側，背景是簡潔的冰藍色。牠們被一條滑稽地長、超大的紅綠相間針織圍巾連接起來，圍巾在北極熊的脖子上纏繞了好幾圈，然後垂下來緊緊地裹住小企鵝。企鵝仰視著北極熊，眼神中充滿了欽佩。北極熊的毛髮和針織羊毛的質感清晰可見，柔軟溫暖。簡單的白色雪花輕輕地飄落在牠們周圍。沒有文字，只有一幅關於友誼的甜蜜畫面。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765641085323_jvvhse_image.png" width="700" alt="北極熊與企鵝圍巾聖誕卡 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月13日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E6%BA%AB%E9%A6%A8%E5%8F%88%E5%B8%B6%E9%BB%9E%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E5%B0%81%E9%9D%A2%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E5%B7%A8%E5%A4%A7%E3%80%81%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E7%99%BD%E8%89%B2%E5%8C%97%E6%A5%B5%E7%86%8A%E5%9D%90%E5%9C%A8%E5%B7%A6%E5%81%B4%EF%BC%8C%E4%B8%80%E9%9A%BB%E5%AC%8C%E5%B0%8F%E3%80%81%E5%9C%93%E6%BB%BE%E6%BB%BE%E7%9A%84%E4%BC%81%E9%B5%9D%E7%AB%99%E5%9C%A8%E5%8F%B3%E5%81%B4%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E7%B0%A1%E6%BD%94%E7%9A%84%E5%86%B0%E8%97%8D%E8%89%B2%E3%80%82%E7%89%A0%E5%80%91%E8%A2%AB%E4%B8%80%E6%A2%9D%E6%BB%91%E7%A8%BD%E5%9C%B0%E9%95%B7%E3%80%81%E8%B6%85%E5%A4%A7%E7%9A%84%E7%B4%85%E7%B6%A0%E7%9B%B8%E9%96%93%E9%87%9D%E7%B9%94%E5%9C%8D%E5%B7%BE%E9%80%A3%E6%8E%A5%E8%B5%B7%E4%BE%86%EF%BC%8C%E5%9C%8D%E5%B7%BE%E5%9C%A8%E5%8C%97%E6%A5%B5%E7%86%8A%E7%9A%84%E8%84%96%E5%AD%90%E4%B8%8A%E7%BA%8F%E7%B9%9E%E4%BA%86%E5%A5%BD%E5%B9%BE%E5%9C%88%EF%BC%8C%E7%84%B6%E5%BE%8C%E5%9E%82%E4%B8%8B%E4%BE%86%E7%B7%8A%E7%B7%8A%E5%9C%B0%E8%A3%B9%E4%BD%8F%E5%B0%8F%E4%BC%81%E9%B5%9D%E3%80%82%E4%BC%81%E9%B5%9D%E4%BB%B0%E8%A6%96%E8%91%97%E5%8C%97%E6%A5%B5%E7%86%8A%EF%BC%8C%E7%9C%BC%E7%A5%9E%E4%B8%AD%E5%85%85%E6%BB%BF%E4%BA%86%E6%AC%BD%E4%BD%A9%E3%80%82%E5%8C%97%E6%A5%B5%E7%86%8A%E7%9A%84%E6%AF%9B%E9%AB%AE%E5%92%8C%E9%87%9D%E7%B9%94%E7%BE%8A%E6%AF%9B%E7%9A%84%E8%B3%AA%E6%84%9F%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%EF%BC%8C%E6%9F%94%E8%BB%9F%E6%BA%AB%E6%9A%96%E3%80%82%E7%B0%A1%E5%96%AE%E7%9A%84%E7%99%BD%E8%89%B2%E9%9B%AA%E8%8A%B1%E8%BC%95%E8%BC%95%E5%9C%B0%E9%A3%84%E8%90%BD%E5%9C%A8%E7%89%A0%E5%80%91%E5%91%A8%E5%9C%8D%E3%80%82%E6%B2%92%E6%9C%89%E6%96%87%E5%AD%97%EF%BC%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E5%B9%85%E9%97%9C%E6%96%BC%E5%8F%8B%E8%AA%BC%E7%9A%84%E7%94%9C%E8%9C%9C%E7%95%AB%E9%9D%A2%E3%80%82)**
+
+---
+
+### No. 3: 薑餅瑜伽課聖誕卡
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一款歡樂又可愛的可列印聖誕卡設計，卡片上印有五個正在上「瑜伽課」的可愛薑餅人餅乾。這個提示非常適合製作帶點幽默和可愛的暖心節日問候。
+
+#### 📝 提示詞
+
+```
+一張有趣又可愛的聖誕卡片設計，可供列印，長寬比為 1:1.4。背景是純淨的粉彩薄荷綠。插圖描繪了五個可愛薑餅人的「瑜伽課」。中間的薑餅人單腳站立，擺出「樹式」姿勢，專注地用頭頂著一顆軟糖。在他的左邊，另一個薑餅人正嘗試「下犬式」姿勢，但他的手臂稍微碎裂，露出了美味的餅乾屑。右邊的薑餅人則閉著糖霜眼睛，以「蓮花坐」姿勢冥想。他們都有白色的糖霜細節和紅色的肉桂糖鈕扣。風格是簡潔、扁平的向量插圖，帶有柔和的陰影。頂部的文字寫著：{argument name="text" default="Find Your Inner Piece"}，採用俏皮、圓潤的白色字體。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640780963_w8tis9_1765640041792-ya1lsk-kYut4TGuYNPXl4D3U4NlBYnZnxEwH_L7GY8tY3qO5QAAAAAElFTkSuQmCC" width="700" alt="薑餅瑜伽課聖誕卡 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月13日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E6%9C%89%E8%B6%A3%E5%8F%88%E5%8F%AF%E6%84%9B%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E7%89%87%E8%A8%AD%E8%A8%88%EF%BC%8C%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E7%B4%94%E6%B7%A8%E7%9A%84%E7%B2%89%E5%BD%A9%E8%96%84%E8%8D%B7%E7%B6%A0%E3%80%82%E6%8F%92%E5%9C%96%E6%8F%8F%E7%B9%AA%E4%BA%86%E4%BA%94%E5%80%8B%E5%8F%AF%E6%84%9B%E8%96%91%E9%A4%85%E4%BA%BA%E7%9A%84%E3%80%8C%E7%91%9C%E4%BC%BD%E8%AA%B2%E3%80%8D%E3%80%82%E4%B8%AD%E9%96%93%E7%9A%84%E8%96%91%E9%A4%85%E4%BA%BA%E5%96%AE%E8%85%B3%E7%AB%99%E7%AB%8B%EF%BC%8C%E6%93%BA%E5%87%BA%E3%80%8C%E6%A8%B9%E5%BC%8F%E3%80%8D%E5%A7%BF%E5%8B%A2%EF%BC%8C%E5%B0%88%E6%B3%A8%E5%9C%B0%E7%94%A8%E9%A0%AD%E9%A0%82%E8%91%97%E4%B8%80%E9%A1%86%E8%BB%9F%E7%B3%96%E3%80%82%E5%9C%A8%E4%BB%96%E7%9A%84%E5%B7%A6%E9%82%8A%EF%BC%8C%E5%8F%A6%E4%B8%80%E5%80%8B%E8%96%91%E9%A4%85%E4%BA%BA%E6%AD%A3%E5%98%97%E8%A9%A6%E3%80%8C%E4%B8%8B%E7%8A%AC%E5%BC%8F%E3%80%8D%E5%A7%BF%E5%8B%A2%EF%BC%8C%E4%BD%86%E4%BB%96%E7%9A%84%E6%89%8B%E8%87%82%E7%A8%8D%E5%BE%AE%E7%A2%8E%E8%A3%82%EF%BC%8C%E9%9C%B2%E5%87%BA%E4%BA%86%E7%BE%8E%E5%91%B3%E7%9A%84%E9%A4%85%E4%B9%BE%E5%B1%91%E3%80%82%E5%8F%B3%E9%82%8A%E7%9A%84%E8%96%91%E9%A4%85%E4%BA%BA%E5%89%87%E9%96%89%E8%91%97%E7%B3%96%E9%9C%9C%E7%9C%BC%E7%9D%9B%EF%BC%8C%E4%BB%A5%E3%80%8C%E8%93%AE%E8%8A%B1%E5%9D%90%E3%80%8D%E5%A7%BF%E5%8B%A2%E5%86%A5%E6%83%B3%E3%80%82%E4%BB%96%E5%80%91%E9%83%BD%E6%9C%89%E7%99%BD%E8%89%B2%E7%9A%84%E7%B3%96%E9%9C%9C%E7%B4%B0%E7%AF%80%E5%92%8C%E7%B4%85%E8%89%B2%E7%9A%84%E8%82%89%E6%A1%82%E7%B3%96%E9%88%95%E6%89%A3%E3%80%82%E9%A2%A8%E6%A0%BC%E6%98%AF%E7%B0%A1%E6%BD%94%E3%80%81%E6%89%81%E5%B9%B3%E7%9A%84%E5%90%91%E9%87%8F%E6%8F%92%E5%9C%96%EF%BC%8C%E5%B8%B6%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E9%99%B0%E5%BD%B1%E3%80%82%E9%A0%82%E9%83%A8%E7%9A%84%E6%96%87%E5%AD%97%E5%AF%AB%E8%91%97%EF%BC%9A%7Bargument%20name%3D%22text%22%20default%3D%22Find%20Your%20Inner%20Piece%22%7D%EF%BC%8C%E6%8E%A1%E7%94%A8%E4%BF%8F%E7%9A%AE%E3%80%81%E5%9C%93%E6%BD%A4%E7%9A%84%E7%99%BD%E8%89%B2%E5%AD%97%E9%AB%94%E3%80%82)**
+
+---
+
+### No. 4: 毛氈貼花小狐狸
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+此提示能設計出溫馨、觸感十足的聖誕卡片，呈現手工毛氈貼花縫製的效果，卡片上有一隻可愛的小狐狸在雪景中。非常適合獨特且充滿巧思的節慶視覺設計。
+
+#### 📝 提示詞
+
+```
+一張溫馨、觸感豐富的聖誕卡設計，長寬比為 1:1.4。插圖看起來完全像是手工氈布貼花縫製的。一隻可愛的橘色小狐狸幼崽，由毛茸茸的氈布製成，坐落在層層白色氈布雪中，抬頭望著一棵裝飾著彩色鈕扣飾品的氈布聖誕樹。羊毛纖維的紋理和邊緣的縫線清晰可見。背景是柔和的藍色氈布天空。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780125142_vqwzrz_1765765736932-w6b2ti-joqONxdrcec4p_fHzcEeMYCEAsu1E12RDxtS4WrUoVzk5TxaZ73RChrBtc45DncUB98QQAca0k5v8fyjkmeojjTpMAAAAASUVORK5CYII_" width="700" alt="毛氈貼花小狐狸 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E6%BA%AB%E9%A6%A8%E3%80%81%E8%A7%B8%E6%84%9F%E8%B1%90%E5%AF%8C%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E8%A8%AD%E8%A8%88%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E6%8F%92%E5%9C%96%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%AE%8C%E5%85%A8%E5%83%8F%E6%98%AF%E6%89%8B%E5%B7%A5%E6%B0%88%E5%B8%83%E8%B2%BC%E8%8A%B1%E7%B8%AB%E8%A3%BD%E7%9A%84%E3%80%82%E4%B8%80%E9%9A%BB%E5%8F%AF%E6%84%9B%E7%9A%84%E6%A9%98%E8%89%B2%E5%B0%8F%E7%8B%90%E7%8B%B8%E5%B9%BC%E5%B4%BD%EF%BC%8C%E7%94%B1%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E6%B0%88%E5%B8%83%E8%A3%BD%E6%88%90%EF%BC%8C%E5%9D%90%E8%90%BD%E5%9C%A8%E5%B1%A4%E5%B1%A4%E7%99%BD%E8%89%B2%E6%B0%88%E5%B8%83%E9%9B%AA%E4%B8%AD%EF%BC%8C%E6%8A%AC%E9%A0%AD%E6%9C%9B%E8%91%97%E4%B8%80%E6%A3%B5%E8%A3%9D%E9%A3%BE%E8%91%97%E5%BD%A9%E8%89%B2%E9%88%95%E6%89%A3%E9%A3%BE%E5%93%81%E7%9A%84%E6%B0%88%E5%B8%83%E8%81%96%E8%AA%95%E6%A8%B9%E3%80%82%E7%BE%8A%E6%AF%9B%E7%BA%96%E7%B6%AD%E7%9A%84%E7%B4%8B%E7%90%86%E5%92%8C%E9%82%8A%E7%B7%A3%E7%9A%84%E7%B8%AB%E7%B7%9A%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E6%9F%94%E5%92%8C%E7%9A%84%E8%97%8D%E8%89%B2%E6%B0%88%E5%B8%83%E5%A4%A9%E7%A9%BA%E3%80%82)**
+
+---
+
+### No. 5: 戴著馴鹿角和小丑鼻子的巴哥犬
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+此提示會生成一張有趣又可愛的可列印卡片，內容為一隻巴哥犬不情願地戴著馴鹿角和發光的紅色小丑鼻子，以特寫攝影肖像呈現。非常適合幽默搞怪的節日問候。
+
+#### 📝 提示詞
+
+```
+一張有趣又可愛的可列印卡片，長寬比為 1:1.4。特寫鏡頭拍攝了一隻胖嘟嘟的巴哥犬的臉部。牠不情願地戴著一個帶有棕色毛氈馴鹿角的頭帶，以及一個非常明亮、發光的紅色小丑鼻子，蓋在牠自己的鼻子上。這隻巴哥犬表情嚴肅，略帶評判意味，直視著鏡頭。背景是模糊的節日紅色燈光。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780150716_6iohh6_1765693108405-xs5mi7-8HDdKJRZ26cGoAAAAASUVORK5CYII_" width="700" alt="戴著馴鹿角和小丑鼻子的巴哥犬 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E6%9C%89%E8%B6%A3%E5%8F%88%E5%8F%AF%E6%84%9B%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E5%8D%A1%E7%89%87%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E7%89%B9%E5%AF%AB%E9%8F%A1%E9%A0%AD%E6%8B%8D%E6%94%9D%E4%BA%86%E4%B8%80%E9%9A%BB%E8%83%96%E5%98%9F%E5%98%9F%E7%9A%84%E5%B7%B4%E5%93%A5%E7%8A%AC%E7%9A%84%E8%87%89%E9%83%A8%E3%80%82%E7%89%A0%E4%B8%8D%E6%83%85%E9%A1%98%E5%9C%B0%E6%88%B4%E8%91%97%E4%B8%80%E5%80%8B%E5%B8%B6%E6%9C%89%E6%A3%95%E8%89%B2%E6%AF%9B%E6%B0%88%E9%A6%B4%E9%B9%BF%E8%A7%92%E7%9A%84%E9%A0%AD%E5%B8%B6%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E5%80%8B%E9%9D%9E%E5%B8%B8%E6%98%8E%E4%BA%AE%E3%80%81%E7%99%BC%E5%85%89%E7%9A%84%E7%B4%85%E8%89%B2%E5%B0%8F%E4%B8%91%E9%BC%BB%E5%AD%90%EF%BC%8C%E8%93%8B%E5%9C%A8%E7%89%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E9%BC%BB%E5%AD%90%E4%B8%8A%E3%80%82%E9%80%99%E9%9A%BB%E5%B7%B4%E5%93%A5%E7%8A%AC%E8%A1%A8%E6%83%85%E5%9A%B4%E8%82%85%EF%BC%8C%E7%95%A5%E5%B8%B6%E8%A9%95%E5%88%A4%E6%84%8F%E5%91%B3%EF%BC%8C%E7%9B%B4%E8%A6%96%E8%91%97%E9%8F%A1%E9%A0%AD%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E6%A8%A1%E7%B3%8A%E7%9A%84%E7%AF%80%E6%97%A5%E7%B4%85%E8%89%B2%E7%87%88%E5%85%89%E3%80%82)**
+
+---
+
+### No. 6: 羊駝被禮物淹沒了
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 描述
+
+此提示會建立一張可愛又帶點混亂的聖誕卡片，卡片上有一隻毛茸茸的羊駝，身上堆滿了搖搖欲墜的聖誕禮物。非常適合幽默又迷人的節日問候。
+
+#### 📝 提示詞
+
+```
+一張可愛又混亂的聖誕卡，長寬比為 1:1.4。一隻毛茸茸的白色羊駝站在純薄荷綠的背景前。牠的背上堆滿了高得不可思議、搖搖欲墜的彩色包裝聖誕禮物，禮物上的蝴蝶結劇烈晃動著。這隻羊駝表情耐心，略帶吃力，細長的腿在重壓下微微顫抖。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780142631_uo5vj6_1765765458317-2gfkgs-N8AAAAASUVORK5CYII_" width="700" alt="羊駝被禮物淹沒了 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E5%8F%88%E6%B7%B7%E4%BA%82%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E7%99%BD%E8%89%B2%E7%BE%8A%E9%A7%9D%E7%AB%99%E5%9C%A8%E7%B4%94%E8%96%84%E8%8D%B7%E7%B6%A0%E7%9A%84%E8%83%8C%E6%99%AF%E5%89%8D%E3%80%82%E7%89%A0%E7%9A%84%E8%83%8C%E4%B8%8A%E5%A0%86%E6%BB%BF%E4%BA%86%E9%AB%98%E5%BE%97%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0%E3%80%81%E6%90%96%E6%90%96%E6%AC%B2%E5%A2%9C%E7%9A%84%E5%BD%A9%E8%89%B2%E5%8C%85%E8%A3%9D%E8%81%96%E8%AA%95%E7%A6%AE%E7%89%A9%EF%BC%8C%E7%A6%AE%E7%89%A9%E4%B8%8A%E7%9A%84%E8%9D%B4%E8%9D%B6%E7%B5%90%E5%8A%87%E7%83%88%E6%99%83%E5%8B%95%E8%91%97%E3%80%82%E9%80%99%E9%9A%BB%E7%BE%8A%E9%A7%9D%E8%A1%A8%E6%83%85%E8%80%90%E5%BF%83%EF%BC%8C%E7%95%A5%E5%B8%B6%E5%90%83%E5%8A%9B%EF%BC%8C%E7%B4%B0%E9%95%B7%E7%9A%84%E8%85%BF%E5%9C%A8%E9%87%8D%E5%A3%93%E4%B8%8B%E5%BE%AE%E5%BE%AE%E9%A1%AB%E6%8A%96%E3%80%82)**
 
 ---
 
@@ -98,26 +307,26 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 按發布日期排序（最新優先）
 
-### No. 1: Clumsy Penguins Children's Book Animation Photo Frame
+### No. 1: 聖誕海狸 · 建築狂人頭像框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt creates a vertical, printable Christmas photo frame illustrated in a charming, humorous children's book animation style featuring clumsy penguins. The design focuses entirely on the frame itself with a blank photo placeholder, providing a joyful, funny, and animated look for print.
+此提示會生成一個垂直 1:1.4 比例的俏皮動畫風格聖誕相框。邊框顯示卡通海狸們熱情地建造和過度設計節慶裝飾，帶著誇張的嚴肅感，創造出一個幽默且針對印刷優化的設計。
 
 #### 📝 提示詞
 
 ```
-A vertical 1:1.4 printable Christmas photo frame illustrated in a charming, humorous children’s book animation style.
+一個垂直的 1:1.4 可列印聖誕相框，以俏皮的動畫風格呈現。
 
-The design focuses entirely on the frame itself, with flat illustration and no background environment.
+無背景，僅有相框。
 
-A large blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 portrait ratio and 70% of the frame width, intentionally empty and clearly separated from all decorations.
+中央有一個空白的照片佔位符，比例為 1:1.4，寬度為 70%，完全乾淨。
 
-The surrounding border features clumsy cartoon penguins slipping, stacking ornaments, holding oversized stars, and interacting playfully with festive elements around the edges.
+邊框顯示卡通海狸熱情地建造、敲打並過度設計節日裝飾，表情誇張而嚴肅。
 
-The overall style is joyful, funny, animated, and print-friendly, with no text or lettering.
+扁平化、幽默、針對列印優化，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -125,7 +334,7 @@ The overall style is joyful, funny, animated, and print-friendly, with no text o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__" width="600" alt="Clumsy Penguins Children's Book Animation Photo Frame - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788305465_26xq8b_1765784485322-36atj1-wHnfa3VL4BApgAAAABJRU5ErkJggg__" width="600" alt="聖誕海狸 · 建築狂人頭像框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -135,30 +344,30 @@ The overall style is joyful, funny, animated, and print-friendly, with no text o
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vertical%201%3A1.4%20printable%20Christmas%20photo%20frame%20illustrated%20in%20a%20charming%2C%20humorous%20children%E2%80%99s%20book%20animation%20style.%0A%0AThe%20design%20focuses%20entirely%20on%20the%20frame%20itself%2C%20with%20flat%20illustration%20and%20no%20background%20environment.%0A%0AA%20large%20blank%20photo%20placeholder%20is%20reserved%20at%20the%20exact%20horizontal%20and%20vertical%20center%2C%20with%20a%201%3A1.4%20portrait%20ratio%20and%2070%25%20of%20the%20frame%20width%2C%20intentionally%20empty%20and%20clearly%20separated%20from%20all%20decorations.%0A%0AThe%20surrounding%20border%20features%20clumsy%20cartoon%20penguins%20slipping%2C%20stacking%20ornaments%2C%20holding%20oversized%20stars%2C%20and%20interacting%20playfully%20with%20festive%20elements%20around%20the%20edges.%0A%0AThe%20overall%20style%20is%20joyful%2C%20funny%2C%20animated%2C%20and%20print-friendly%2C%20with%20no%20text%20or%20lettering.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E4%BF%8F%E7%9A%AE%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E7%84%A1%E8%83%8C%E6%99%AF%EF%BC%8C%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E3%80%82%0A%0A%E4%B8%AD%E5%A4%AE%E6%9C%89%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E4%B9%BE%E6%B7%A8%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A1%AF%E7%A4%BA%E5%8D%A1%E9%80%9A%E6%B5%B7%E7%8B%B8%E7%86%B1%E6%83%85%E5%9C%B0%E5%BB%BA%E9%80%A0%E3%80%81%E6%95%B2%E6%89%93%E4%B8%A6%E9%81%8E%E5%BA%A6%E8%A8%AD%E8%A8%88%E7%AF%80%E6%97%A5%E8%A3%9D%E9%A3%BE%EF%BC%8C%E8%A1%A8%E6%83%85%E8%AA%87%E5%BC%B5%E8%80%8C%E5%9A%B4%E8%82%85%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E5%B9%BD%E9%BB%98%E3%80%81%E9%87%9D%E5%B0%8D%E5%88%97%E5%8D%B0%E5%84%AA%E5%8C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 2: Funny Gingerbread Animated Illustration Photo Frame
+### No. 2: 聖誕樹熊 · 愛不釋手相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt creates a printable Christmas photo frame illustration in a humorous animated storybook style featuring funny gingerbread characters. The design shows only the frame with a blank photo placeholder, offering a humorous, cozy, and whimsical aesthetic for printing.
+此提示會建立一個垂直 1:1.4 比例的動畫聖誕相框。邊框飾有卡通無尾熊抱著飾品和花環不放，為可供列印的設計增添了溫馨、柔和的幽默感。
 
 #### 📝 提示詞
 
 ```
-A printable Christmas photo frame illustration in a vertical 1:1.4 aspect ratio, created in a humorous animated storybook style.
+一個可列印的動畫聖誕相框，採用垂直 1:1.4 格式。
 
-The illustration shows only the frame design, without any external environment or background scenery. The colors are warm and festive with soft paper texture.
+僅有相框設計。
 
-At the exact center, reserve a blank photo placeholder that is horizontally and vertically centered, maintaining a 1:1.4 aspect ratio and 70% of the total frame width, completely blank and unobstructed.
+一個空白的相片預留位置，水平和垂直居中，比例為 1:1.4，寬度為 70%，完全未經處理。
 
-The frame border is decorated with playful gingerbread characters striking silly poses, partially broken cookies, frosting details, and candy decorations, all drawn with expressive cartoon faces.
+邊框飾有卡通無尾熊抱著飾品、花環和拐杖糖，不肯放手，營造出溫馨、舒適的幽默感。
 
-The mood is humorous, cozy, and whimsical, fully optimized for printing, with no typography.
+扁平化、溫暖、可供列印，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -166,7 +375,7 @@ The mood is humorous, cozy, and whimsical, fully optimized for printing, with no
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784310981_hlrjof_1765780294344-8suld3-nw38D6_lD8WBy0bTPa2E6DCNqhxc3ZAVzQg5N2eB1mBa0YUupvbF257bbb7r7rztXly4898dTdt5_wksUMiaSIA7ajkXM0yQDW5oIugT1rLlmBsfExT0IuzTiXnXUWtf8PrWnOlBF9AScAAAAASUVORK5CYII_" width="600" alt="Funny Gingerbread Animated Illustration Photo Frame - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788204234_ce1l17_1765784200508-t4uk0f-B9o2xFjunQjTAAAAAElFTkSuQmCC" width="600" alt="聖誕樹熊 · 愛不釋手相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -176,30 +385,30 @@ The mood is humorous, cozy, and whimsical, fully optimized for printing, with no
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20Christmas%20photo%20frame%20illustration%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20created%20in%20a%20humorous%20animated%20storybook%20style.%0A%0AThe%20illustration%20shows%20only%20the%20frame%20design%2C%20without%20any%20external%20environment%20or%20background%20scenery.%20The%20colors%20are%20warm%20and%20festive%20with%20soft%20paper%20texture.%0A%0AAt%20the%20exact%20center%2C%20reserve%20a%20blank%20photo%20placeholder%20that%20is%20horizontally%20and%20vertically%20centered%2C%20maintaining%20a%201%3A1.4%20aspect%20ratio%20and%2070%25%20of%20the%20total%20frame%20width%2C%20completely%20blank%20and%20unobstructed.%0A%0AThe%20frame%20border%20is%20decorated%20with%20playful%20gingerbread%20characters%20striking%20silly%20poses%2C%20partially%20broken%20cookies%2C%20frosting%20details%2C%20and%20candy%20decorations%2C%20all%20drawn%20with%20expressive%20cartoon%20faces.%0A%0AThe%20mood%20is%20humorous%2C%20cozy%2C%20and%20whimsical%2C%20fully%20optimized%20for%20printing%2C%20with%20no%20typography.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E5%8B%95%E7%95%AB%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%A0%BC%E5%BC%8F%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%9B%B8%E7%89%87%E9%A0%90%E7%95%99%E4%BD%8D%E7%BD%AE%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E6%9C%AA%E7%B6%93%E8%99%95%E7%90%86%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E5%8D%A1%E9%80%9A%E7%84%A1%E5%B0%BE%E7%86%8A%E6%8A%B1%E8%91%97%E9%A3%BE%E5%93%81%E3%80%81%E8%8A%B1%E7%92%B0%E5%92%8C%E6%8B%90%E6%9D%96%E7%B3%96%EF%BC%8C%E4%B8%8D%E8%82%AF%E6%94%BE%E6%89%8B%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E6%BA%AB%E9%A6%A8%E3%80%81%E8%88%92%E9%81%A9%E7%9A%84%E5%B9%BD%E9%BB%98%E6%84%9F%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E6%BA%AB%E6%9A%96%E3%80%81%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 3: Lazy Sloth Style Animated Christmas Photo Frame
+### No. 3: 聖誕刺蝟 + 松鼠 · 聯合災難框架
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates a printable Christmas photo frame illustration in a humorous animated storybook style featuring lazy sloths. It's designed as a standalone frame with a blank photo placeholder, perfect for high-quality printing and adding a lighthearted, cozy, and humorous touch to holiday photos.
+此提示會生成一個幽默的動畫風格聖誕相框，採用垂直 1:1.4 格式。相框邊緣飾有卡通刺蝟和松鼠，牠們正在爭奪裝飾品，不經意間在相框邊緣製造了節日混亂。
 
 #### 📝 提示詞
 
 ```
-A printable Christmas photo frame illustration designed exclusively as a standalone frame, in a vertical 1:1.4 aspect ratio, suitable for high-quality print.
+一個垂直的 1:1.4 可列印聖誕相框，以幽默的動畫風格呈現。
 
-The illustration focuses only on the frame itself, with no external environment or background scene. The style is a humorous animated storybook illustration with soft textures, clean outlines, and warm colors.
+僅有相框本身。
 
-At the exact center of the frame, reserve a blank photo placeholder area that is horizontally and vertically centered. The placeholder has a 1:1.4 portrait aspect ratio, with its width equal to 70% of the total frame width, and must remain completely empty and untouched.
+正中央留有空白照片佔位符，比例為 1:1.4，寬度為 70%，乾淨且空白。
 
-The surrounding frame border features playful cartoon sloths hanging from candy canes, evergreen branches, and festive hooks. The sloths wear cozy knitted sweaters and scarves, striking relaxed, funny poses.
+邊框上繪有卡通刺蝟和松鼠競相收集裝飾品，不經意間在邊緣製造了節日混亂。
 
-The illustration feels lighthearted, cozy, and humorous, with flat composition and print-friendly colors, no text or typography.
+平面構圖，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -207,7 +416,7 @@ The illustration feels lighthearted, cozy, and humorous, with flat composition a
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="Lazy Sloth Style Animated Christmas Photo Frame - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788202576_2wfuzq_1765783647682-r45pga-fD2rQlsAAAAASUVORK5CYII_" width="600" alt="聖誕刺蝟 + 松鼠 · 聯合災難框架 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -217,30 +426,30 @@ The illustration feels lighthearted, cozy, and humorous, with flat composition a
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20Christmas%20photo%20frame%20illustration%20designed%20exclusively%20as%20a%20standalone%20frame%2C%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20suitable%20for%20high-quality%20print.%0A%0AThe%20illustration%20focuses%20only%20on%20the%20frame%20itself%2C%20with%20no%20external%20environment%20or%20background%20scene.%20The%20style%20is%20a%20humorous%20animated%20storybook%20illustration%20with%20soft%20textures%2C%20clean%20outlines%2C%20and%20warm%20colors.%0A%0AAt%20the%20exact%20center%20of%20the%20frame%2C%20reserve%20a%20blank%20photo%20placeholder%20area%20that%20is%20horizontally%20and%20vertically%20centered.%20The%20placeholder%20has%20a%201%3A1.4%20portrait%20aspect%20ratio%2C%20with%20its%20width%20equal%20to%2070%25%20of%20the%20total%20frame%20width%2C%20and%20must%20remain%20completely%20empty%20and%20untouched.%0A%0AThe%20surrounding%20frame%20border%20features%20playful%20cartoon%20sloths%20hanging%20from%20candy%20canes%2C%20evergreen%20branches%2C%20and%20festive%20hooks.%20The%20sloths%20wear%20cozy%20knitted%20sweaters%20and%20scarves%2C%20striking%20relaxed%2C%20funny%20poses.%0A%0AThe%20illustration%20feels%20lighthearted%2C%20cozy%2C%20and%20humorous%2C%20with%20flat%20composition%20and%20print-friendly%20colors%2C%20no%20text%20or%20typography.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%E3%80%82%0A%0A%E6%AD%A3%E4%B8%AD%E5%A4%AE%E7%95%99%E6%9C%89%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E4%B9%BE%E6%B7%A8%E4%B8%94%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E4%B8%8A%E7%B9%AA%E6%9C%89%E5%8D%A1%E9%80%9A%E5%88%BA%E8%9D%9F%E5%92%8C%E6%9D%BE%E9%BC%A0%E7%AB%B6%E7%9B%B8%E6%94%B6%E9%9B%86%E8%A3%9D%E9%A3%BE%E5%93%81%EF%BC%8C%E4%B8%8D%E7%B6%93%E6%84%8F%E9%96%93%E5%9C%A8%E9%82%8A%E7%B7%A3%E8%A3%BD%E9%80%A0%E4%BA%86%E7%AF%80%E6%97%A5%E6%B7%B7%E4%BA%82%E3%80%82%0A%0A%E5%B9%B3%E9%9D%A2%E6%A7%8B%E5%9C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 4: Playful Polar Bear Cartoon Christmas Photo Frame
+### No. 4: 聖誕變色龍 · 偽裝失敗畫框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt creates a printable animated Christmas photo frame in a humorous cartoon style featuring playful polar bears. It's designed solely as a frame illustration for print, with a blank photo placeholder, offering a cheerful, funny, and friendly aesthetic for holiday pictures.
+此提示會建立一個幽默卡通風格的聖誕相框，採用垂直 1:1.4 的比例。邊框上繪有卡通變色龍，牠們未能成功融入裝飾中，清晰可見且一臉困惑，為這款適合印刷的設計增添了微妙的視覺幽默感。
 
 #### 📝 提示詞
 
 ```
-A printable animated Christmas photo frame in a vertical 1:1.4 aspect ratio, designed solely as a frame illustration for print.
+一張可列印的聖誕相框，垂直比例為 1:1.4，幽默卡通風格。
 
-The frame is illustrated in a humorous cartoon style with rounded shapes, expressive characters, and soft shading. No environment, no background scene, only the frame design.
+僅相框插圖。
 
-A blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 aspect ratio and 70% of the frame width, completely empty and clean.
+置中空白照片佔位符，比例為 1:1.4，寬度為 70%，未經處理。
 
-The border is decorated with playful polar bears sliding, peeking, and clinging to the edges of the frame, interacting with candy canes, ornaments, and snowballs in a silly, exaggerated way.
+邊框飾有卡通變色龍，牠們未能成功融入飾品、燈飾和花環中，清晰可見且一臉困惑，增添了微妙的視覺幽默感。
 
-The overall mood is cheerful, funny, and friendly, optimized for flat printable illustration, with no text.
+扁平化、便於列印，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -248,7 +457,7 @@ The overall mood is cheerful, funny, and friendly, optimized for flat printable 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="Playful Polar Bear Cartoon Christmas Photo Frame - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788201283_5hpzxv_1765783637947-37zcm3-L03mwdyBuPoGAAAAAElFTkSuQmCC" width="600" alt="聖誕變色龍 · 偽裝失敗畫框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -258,30 +467,30 @@ The overall mood is cheerful, funny, and friendly, optimized for flat printable 
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20animated%20Christmas%20photo%20frame%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20designed%20solely%20as%20a%20frame%20illustration%20for%20print.%0A%0AThe%20frame%20is%20illustrated%20in%20a%20humorous%20cartoon%20style%20with%20rounded%20shapes%2C%20expressive%20characters%2C%20and%20soft%20shading.%20No%20environment%2C%20no%20background%20scene%2C%20only%20the%20frame%20design.%0A%0AA%20blank%20photo%20placeholder%20is%20reserved%20at%20the%20exact%20horizontal%20and%20vertical%20center%2C%20with%20a%201%3A1.4%20aspect%20ratio%20and%2070%25%20of%20the%20frame%20width%2C%20completely%20empty%20and%20clean.%0A%0AThe%20border%20is%20decorated%20with%20playful%20polar%20bears%20sliding%2C%20peeking%2C%20and%20clinging%20to%20the%20edges%20of%20the%20frame%2C%20interacting%20with%20candy%20canes%2C%20ornaments%2C%20and%20snowballs%20in%20a%20silly%2C%20exaggerated%20way.%0A%0AThe%20overall%20mood%20is%20cheerful%2C%20funny%2C%20and%20friendly%2C%20optimized%20for%20flat%20printable%20illustration%2C%20with%20no%20text.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E5%9E%82%E7%9B%B4%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%B9%BD%E9%BB%98%E5%8D%A1%E9%80%9A%E9%A2%A8%E6%A0%BC%E3%80%82%0A%0A%E5%83%85%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%E3%80%82%0A%0A%E7%BD%AE%E4%B8%AD%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E6%9C%AA%E7%B6%93%E8%99%95%E7%90%86%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E5%8D%A1%E9%80%9A%E8%AE%8A%E8%89%B2%E9%BE%8D%EF%BC%8C%E7%89%A0%E5%80%91%E6%9C%AA%E8%83%BD%E6%88%90%E5%8A%9F%E8%9E%8D%E5%85%A5%E9%A3%BE%E5%93%81%E3%80%81%E7%87%88%E9%A3%BE%E5%92%8C%E8%8A%B1%E7%92%B0%E4%B8%AD%EF%BC%8C%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%E4%B8%94%E4%B8%80%E8%87%89%E5%9B%B0%E6%83%91%EF%BC%8C%E5%A2%9E%E6%B7%BB%E4%BA%86%E5%BE%AE%E5%A6%99%E7%9A%84%E8%A6%96%E8%A6%BA%E5%B9%BD%E9%BB%98%E6%84%9F%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E4%BE%BF%E6%96%BC%E5%88%97%E5%8D%B0%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 5: Mischievous Cats Christmas Sticker Style Photo Frame
+### No. 5: 聖誕貓頭鷹 · 過於嚴肅的框架
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates a vertical, printable Christmas photo frame illustrated in a cute, humorous animated sticker style featuring mischievous cats. The design focuses solely on the frame itself with bold outlines, soft colors, and a blank photo placeholder, creating a playful and chaotic holiday feel.
+此提示會建立一個垂直 1:1.4 比例的動畫故事書風格聖誕邊框。邊框上會有卡通貓頭鷹，牠們以懷疑的眼神凝視著凌亂的裝飾品，並以冷幽默的態度評判著節日的混亂。
 
 #### 📝 提示詞
 
 ```
-A vertical 1:1.4 printable Christmas photo frame illustrated in a cute, humorous animated sticker style.
+一個可列印的聖誕節邊框插圖，垂直 1:1.4 比例，動畫故事書風格。
 
-The design focuses only on the frame itself, with no room, wall, or environmental context. The illustration uses bold outlines, soft colors, and expressive cartoon characters.
+僅有邊框構圖。
 
-In the exact center, a blank photo placeholder area is horizontally and vertically centered, with a 1:1.4 portrait ratio and 70% width of the frame, completely empty and clearly defined.
+置中空白照片佔位符，1:1.4 比例，寬度 70%，未經修改。
 
-The surrounding border features mischievous cartoon cats tangled in Christmas lights, knocking over ornaments, climbing garlands, and peeking from the corners, creating a playful and chaotic holiday feel.
+邊框飾有卡通貓頭鷹，牠們戴著圍巾和帽子，懷疑地盯著凌亂的裝飾品，手持剪貼板，以冷幽默的態度評判著節日混亂。
 
-The composition remains flat, balanced, and print-ready, with no text elements.
+扁平插圖，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -289,7 +498,7 @@ The composition remains flat, balanced, and print-ready, with no text elements.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC" width="600" alt="Mischievous Cats Christmas Sticker Style Photo Frame - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788199406_laq4zp_1765784189761-bd5rom-A4qlDwrbnbqJAAAAAElFTkSuQmCC" width="600" alt="聖誕貓頭鷹 · 過於嚴肅的框架 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -299,22 +508,30 @@ The composition remains flat, balanced, and print-ready, with no text elements.
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vertical%201%3A1.4%20printable%20Christmas%20photo%20frame%20illustrated%20in%20a%20cute%2C%20humorous%20animated%20sticker%20style.%0A%0AThe%20design%20focuses%20only%20on%20the%20frame%20itself%2C%20with%20no%20room%2C%20wall%2C%20or%20environmental%20context.%20The%20illustration%20uses%20bold%20outlines%2C%20soft%20colors%2C%20and%20expressive%20cartoon%20characters.%0A%0AIn%20the%20exact%20center%2C%20a%20blank%20photo%20placeholder%20area%20is%20horizontally%20and%20vertically%20centered%2C%20with%20a%201%3A1.4%20portrait%20ratio%20and%2070%25%20width%20of%20the%20frame%2C%20completely%20empty%20and%20clearly%20defined.%0A%0AThe%20surrounding%20border%20features%20mischievous%20cartoon%20cats%20tangled%20in%20Christmas%20lights%2C%20knocking%20over%20ornaments%2C%20climbing%20garlands%2C%20and%20peeking%20from%20the%20corners%2C%20creating%20a%20playful%20and%20chaotic%20holiday%20feel.%0A%0AThe%20composition%20remains%20flat%2C%20balanced%2C%20and%20print-ready%2C%20with%20no%20text%20elements.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%AF%80%E9%82%8A%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E9%A2%A8%E6%A0%BC%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E9%82%8A%E6%A1%86%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%E7%BD%AE%E4%B8%AD%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C1%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E5%AF%AC%E5%BA%A6%2070%25%EF%BC%8C%E6%9C%AA%E7%B6%93%E4%BF%AE%E6%94%B9%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E5%8D%A1%E9%80%9A%E8%B2%93%E9%A0%AD%E9%B7%B9%EF%BC%8C%E7%89%A0%E5%80%91%E6%88%B4%E8%91%97%E5%9C%8D%E5%B7%BE%E5%92%8C%E5%B8%BD%E5%AD%90%EF%BC%8C%E6%87%B7%E7%96%91%E5%9C%B0%E7%9B%AF%E8%91%97%E5%87%8C%E4%BA%82%E7%9A%84%E8%A3%9D%E9%A3%BE%E5%93%81%EF%BC%8C%E6%89%8B%E6%8C%81%E5%89%AA%E8%B2%BC%E6%9D%BF%EF%BC%8C%E4%BB%A5%E5%86%B7%E5%B9%BD%E9%BB%98%E7%9A%84%E6%85%8B%E5%BA%A6%E8%A9%95%E5%88%A4%E8%91%97%E7%AF%80%E6%97%A5%E6%B7%B7%E4%BA%82%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E6%8F%92%E5%9C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 6: Koala Clinging to Christmas Tree
+### No. 6: 聖誕章魚 · 八爪狂熱相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates a cute printable Christmas card design featuring a grey koala bear clinging to a decorated Christmas tree. It's perfect for sweet and endearing holiday greetings with a soft, crayon-drawing texture.
+此提示會產生一張幽默的卡通動畫風格聖誕相框，採用垂直 1:1.4 比例。邊框上有一隻卡通章魚，牠用所有的觸手來裝飾，營造出歡樂又混亂的節慶氛圍。
 
 #### 📝 提示詞
 
 ```
-A cute printable Christmas card design, aspect ratio 1:1.4. A grey koala bear is clinging tightly to the trunk of a small, decorated Christmas tree instead of a eucalyptus tree, looking content and sleepy. The tree is covered in shiny silver tinsel and colorful baubles. The koala wears a tiny red bow tie. Solid pastel green background. Soft, crayon drawing texture.
+一個垂直的 1:1.4 可列印聖誕相框，以幽默的卡通動畫風格繪製。
+
+只有相框設計，沒有環境。
+
+一個空白的相片佔位符完美置中，比例為 1:1.4，寬度為 70%，完全空白。
+
+邊框描繪了一隻卡通章魚，牠用所有的觸手同時裝飾著飾品、燈飾、拐杖糖和星星，營造出俏皮的節日混亂感。
+
+扁平、簡潔、可供列印，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -322,7 +539,7 @@ A cute printable Christmas card design, aspect ratio 1:1.4. A grey koala bear is
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780157326_ckp21g_1765693121569-apj76v-v_H31t5QXhilrDAAAAAElFTkSuQmCC" width="600" alt="Koala Clinging to Christmas Tree - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_" width="600" alt="聖誕章魚 · 八爪狂熱相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -332,22 +549,30 @@ A cute printable Christmas card design, aspect ratio 1:1.4. A grey koala bear is
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20grey%20koala%20bear%20is%20clinging%20tightly%20to%20the%20trunk%20of%20a%20small%2C%20decorated%20Christmas%20tree%20instead%20of%20a%20eucalyptus%20tree%2C%20looking%20content%20and%20sleepy.%20The%20tree%20is%20covered%20in%20shiny%20silver%20tinsel%20and%20colorful%20baubles.%20The%20koala%20wears%20a%20tiny%20red%20bow%20tie.%20Solid%20pastel%20green%20background.%20Soft%2C%20crayon%20drawing%20texture.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8D%A1%E9%80%9A%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E5%8F%AA%E6%9C%89%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%EF%BC%8C%E6%B2%92%E6%9C%89%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%9B%B8%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%E5%AE%8C%E7%BE%8E%E7%BD%AE%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E6%8F%8F%E7%B9%AA%E4%BA%86%E4%B8%80%E9%9A%BB%E5%8D%A1%E9%80%9A%E7%AB%A0%E9%AD%9A%EF%BC%8C%E7%89%A0%E7%94%A8%E6%89%80%E6%9C%89%E7%9A%84%E8%A7%B8%E6%89%8B%E5%90%8C%E6%99%82%E8%A3%9D%E9%A3%BE%E8%91%97%E9%A3%BE%E5%93%81%E3%80%81%E7%87%88%E9%A3%BE%E3%80%81%E6%8B%90%E6%9D%96%E7%B3%96%E5%92%8C%E6%98%9F%E6%98%9F%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E4%BF%8F%E7%9A%AE%E7%9A%84%E7%AF%80%E6%97%A5%E6%B7%B7%E4%BA%82%E6%84%9F%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E3%80%81%E7%B0%A1%E6%BD%94%E3%80%81%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 7: Bear Baker with Living Gingerbread Men
+### No. 7: 聖誕兔子 · 超忙碌相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt creates a charming illustration of a friendly brown bear baker making gingerbread men, which have come to life and are running around the kitchen. Perfect for warm and storybook-style holiday cards.
+此提示會建立一個垂直 1:1.4 比例的動畫聖誕相框，其中充滿了俏皮的混亂。邊框展示了精力充沛的卡通兔子們，牠們包裝禮物包得太快，結果被緞帶絆倒，增添了活潑幽默的氣息。
 
 #### 📝 提示詞
 
 ```
-A charming illustration of a brown bear baker, aspect ratio 1:1.4. The friendly bear wears a floral apron and a chef's hat, covered in white flour dust. It is happily rolling out dough on a wooden table, surrounded by gingerbread men cookies that have come to life and are running around the kitchen counter laughing. Warm, storybook art style.
+一個可列印的動畫聖誕相框，垂直 1:1.4 格式。
+
+僅相框插圖。
+
+置中空白照片佔位符，水平 + 垂直置中，1:1.4，70% 寬度，未觸動。
+
+邊框特色是精力充沛的卡通兔子們，牠們包禮物包得太快，被緞帶絆倒，玩弄著裝飾品，並在相框邊緣四處奔跑。
+
+俏皮的混亂，扁平插圖，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -355,7 +580,7 @@ A charming illustration of a brown bear baker, aspect ratio 1:1.4. The friendly 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780152259_x9tpgp_1765765754561-emrtgw-w_2W4FWpP9VyAAAAABJRU5ErkJggg__" width="600" alt="Bear Baker with Living Gingerbread Men - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788197086_iih89c_1765783621085-axc899-D8AbWcYcR2jqAAAAAElFTkSuQmCC" width="600" alt="聖誕兔子 · 超忙碌相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -365,22 +590,30 @@ A charming illustration of a brown bear baker, aspect ratio 1:1.4. The friendly 
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20illustration%20of%20a%20brown%20bear%20baker%2C%20aspect%20ratio%201%3A1.4.%20The%20friendly%20bear%20wears%20a%20floral%20apron%20and%20a%20chef's%20hat%2C%20covered%20in%20white%20flour%20dust.%20It%20is%20happily%20rolling%20out%20dough%20on%20a%20wooden%20table%2C%20surrounded%20by%20gingerbread%20men%20cookies%20that%20have%20come%20to%20life%20and%20are%20running%20around%20the%20kitchen%20counter%20laughing.%20Warm%2C%20storybook%20art%20style.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E5%8B%95%E7%95%AB%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%A0%BC%E5%BC%8F%E3%80%82%0A%0A%E5%83%85%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%E3%80%82%0A%0A%E7%BD%AE%E4%B8%AD%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%B0%B4%E5%B9%B3%20%2B%20%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD%EF%BC%8C1%3A1.4%EF%BC%8C70%25%20%E5%AF%AC%E5%BA%A6%EF%BC%8C%E6%9C%AA%E8%A7%B8%E5%8B%95%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E7%89%B9%E8%89%B2%E6%98%AF%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B%E7%9A%84%E5%8D%A1%E9%80%9A%E5%85%94%E5%AD%90%E5%80%91%EF%BC%8C%E7%89%A0%E5%80%91%E5%8C%85%E7%A6%AE%E7%89%A9%E5%8C%85%E5%BE%97%E5%A4%AA%E5%BF%AB%EF%BC%8C%E8%A2%AB%E7%B7%9E%E5%B8%B6%E7%B5%86%E5%80%92%EF%BC%8C%E7%8E%A9%E5%BC%84%E8%91%97%E8%A3%9D%E9%A3%BE%E5%93%81%EF%BC%8C%E4%B8%A6%E5%9C%A8%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E5%9B%9B%E8%99%95%E5%A5%94%E8%B7%91%E3%80%82%0A%0A%E4%BF%8F%E7%9A%AE%E7%9A%84%E6%B7%B7%E4%BA%82%EF%BC%8C%E6%89%81%E5%B9%B3%E6%8F%92%E5%9C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 8: Pug with Reindeer Antlers and Clown Nose
+### No. 8: 聖誕刺蝟 · 飾品收藏框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates a funny and cute printable card featuring a close-up photographic portrait of a pug reluctantly wearing reindeer antlers and a glowing red clown nose. Ideal for humorous and quirky holiday greetings.
+此提示會產生一個幽默的動畫風格聖誕相框，採用垂直 1:1.4 格式。相框邊緣顯示卡通刺蝟不小心將飾品和燈飾收集到牠們的刺上，增添了可愛、誇張的視覺幽默感。
 
 #### 📝 提示詞
 
 ```
-A funny and cute printable card, aspect ratio 1:1.4. A close-up photographic portrait of a chubby pug dog's face. It is reluctantly wearing a headband with brown felt reindeer antlers and a very bright, glowing red clown nose over its own nose. The pug has a serious, slightly judging expression, staring straight at the camera. The background is blurred festive red lights.
+一個垂直的 1:1.4 可列印聖誕相框，以幽默的動畫風格繪製。
+
+無外部環境。
+
+正中央空白照片佔位符，比例為 1:1.4，寬度為 70%，完全乾淨。
+
+相框邊緣顯示卡通刺蝟不小心將飾品、星星和燈飾收集到牠們的刺上，牠們看起來驚訝又困惑，帶有可愛、誇張的表情。
+
+扁平化、針對列印優化，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -388,7 +621,7 @@ A funny and cute printable card, aspect ratio 1:1.4. A close-up photographic por
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780150716_6iohh6_1765693108405-xs5mi7-8HDdKJRZ26cGoAAAAASUVORK5CYII_" width="600" alt="Pug with Reindeer Antlers and Clown Nose - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788195072_7x6vjr_1765783609947-icw1oe-gXUQAAAABJRU5ErkJggg__" width="600" alt="聖誕刺蝟 · 飾品收藏框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -398,22 +631,30 @@ A funny and cute printable card, aspect ratio 1:1.4. A close-up photographic por
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20and%20cute%20printable%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20close-up%20photographic%20portrait%20of%20a%20chubby%20pug%20dog's%20face.%20It%20is%20reluctantly%20wearing%20a%20headband%20with%20brown%20felt%20reindeer%20antlers%20and%20a%20very%20bright%2C%20glowing%20red%20clown%20nose%20over%20its%20own%20nose.%20The%20pug%20has%20a%20serious%2C%20slightly%20judging%20expression%2C%20staring%20straight%20at%20the%20camera.%20The%20background%20is%20blurred%20festive%20red%20lights.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E7%84%A1%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E6%AD%A3%E4%B8%AD%E5%A4%AE%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E4%B9%BE%E6%B7%A8%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E9%A1%AF%E7%A4%BA%E5%8D%A1%E9%80%9A%E5%88%BA%E8%9D%9F%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%B0%87%E9%A3%BE%E5%93%81%E3%80%81%E6%98%9F%E6%98%9F%E5%92%8C%E7%87%88%E9%A3%BE%E6%94%B6%E9%9B%86%E5%88%B0%E7%89%A0%E5%80%91%E7%9A%84%E5%88%BA%E4%B8%8A%EF%BC%8C%E7%89%A0%E5%80%91%E7%9C%8B%E8%B5%B7%E4%BE%86%E9%A9%9A%E8%A8%9D%E5%8F%88%E5%9B%B0%E6%83%91%EF%BC%8C%E5%B8%B6%E6%9C%89%E5%8F%AF%E6%84%9B%E3%80%81%E8%AA%87%E5%BC%B5%E7%9A%84%E8%A1%A8%E6%83%85%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E9%87%9D%E5%B0%8D%E5%88%97%E5%8D%B0%E5%84%AA%E5%8C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 9: Dormouse Asleep in Teacup
+### No. 9: 聖誕熊貓 · 悠閒假日相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates a cozy miniature Christmas illustration of a tiny dormouse curled up asleep inside a festive teacup. Ideal for sweet and delicate holiday card designs.
+此提示會生成一個柔和動畫故事書風格的聖誕相框，採用垂直 1:1.4 格式。邊框飾有慵懶的卡通熊貓，牠們或躺在飾品上，或抱著拐杖糖，營造出溫馨、舒適的幽默感。
 
 #### 📝 提示詞
 
 ```
-A cozy miniature Christmas illustration, aspect ratio 1:1.4. A tiny dormouse is curled up asleep inside a ceramic teacup that is decorated with a festive red and green holly pattern. The mouse is covered by a small green leaf blanket. The teacup sits on a saucer next to a miniature mince pie on a wooden table surface. Watercolor and colored pencil style.
+一張可列印的聖誕相框插圖，垂直 1:1.4 比例，以柔和的動畫故事書風格繪製。
+
+僅包含相框構圖。
+
+一個垂直方向的空白照片佔位符居中，長寬比為 1:1.4，寬度為 70%，完全空白。
+
+邊框特色是慵懶的卡通熊貓，牠們或躺在飾品上，或抱著拐杖糖，半睡半醒地置身於充滿溫和幽默的節慶裝飾中。
+
+扁平化插圖，暖色調，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -421,7 +662,7 @@ A cozy miniature Christmas illustration, aspect ratio 1:1.4. A tiny dormouse is 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780150013_3r2ds8_1765765750332-u6dv2j-f7L6RsJkw3KlnwAAAAAElFTkSuQmCC" width="600" alt="Dormouse Asleep in Teacup - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__" width="600" alt="聖誕熊貓 · 悠閒假日相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -431,22 +672,30 @@ A cozy miniature Christmas illustration, aspect ratio 1:1.4. A tiny dormouse is 
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cozy%20miniature%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20tiny%20dormouse%20is%20curled%20up%20asleep%20inside%20a%20ceramic%20teacup%20that%20is%20decorated%20with%20a%20festive%20red%20and%20green%20holly%20pattern.%20The%20mouse%20is%20covered%20by%20a%20small%20green%20leaf%20blanket.%20The%20teacup%20sits%20on%20a%20saucer%20next%20to%20a%20miniature%20mince%20pie%20on%20a%20wooden%20table%20surface.%20Watercolor%20and%20colored%20pencil%20style.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E4%BB%A5%E6%9F%94%E5%92%8C%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E5%83%85%E5%8C%85%E5%90%AB%E7%9B%B8%E6%A1%86%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E7%9A%84%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%E5%B1%85%E4%B8%AD%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E7%89%B9%E8%89%B2%E6%98%AF%E6%85%B5%E6%87%B6%E7%9A%84%E5%8D%A1%E9%80%9A%E7%86%8A%E8%B2%93%EF%BC%8C%E7%89%A0%E5%80%91%E6%88%96%E8%BA%BA%E5%9C%A8%E9%A3%BE%E5%93%81%E4%B8%8A%EF%BC%8C%E6%88%96%E6%8A%B1%E8%91%97%E6%8B%90%E6%9D%96%E7%B3%96%EF%BC%8C%E5%8D%8A%E7%9D%A1%E5%8D%8A%E9%86%92%E5%9C%B0%E7%BD%AE%E8%BA%AB%E6%96%BC%E5%85%85%E6%BB%BF%E6%BA%AB%E5%92%8C%E5%B9%BD%E9%BB%98%E7%9A%84%E7%AF%80%E6%85%B6%E8%A3%9D%E9%A3%BE%E4%B8%AD%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E6%8F%92%E5%9C%96%EF%BC%8C%E6%9A%96%E8%89%B2%E8%AA%BF%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 10: Octopus Decorating Coral Christmas Tree
+### No. 10: 聖誕烏龜 · 慢活相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt creates a whimsical underwater Christmas card featuring a friendly purple octopus decorating a coral 'Christmas tree'. Perfect for unique and playful aquatic-themed holiday greetings.
+此提示會建立一個垂直的 1:1.4 可列印聖誕相框，風格為平靜又帶點幽默的卡通。邊框飾有悠哉的卡通烏龜，以誇張的慢速移動，為設計增添溫和、寧靜的幽默感。
 
 #### 📝 提示詞
 
 ```
-A whimsical underwater Christmas card, aspect ratio 1:1.4. A friendly purple octopus is using all eight arms to decorate a large piece of branching coral that looks like a Christmas tree. It's hanging shiny seashells, starfish, and strings of pearls on the branches. A Santa hat floats just above its head. Bubbles rise against a deep blue ocean background. Cute cartoon style.
+一個垂直、比例為 1:1.4 的可列印聖誕相框，風格為平靜而幽默的卡通。
+
+僅有相框插圖，無背景場景。
+
+一個空白的照片佔位符完美置中，比例為 1:1.4，寬度為 70%，保持原樣。
+
+邊框裝飾著戴圍巾的悠閒卡通烏龜，牠們平靜地堆疊飾品、伴隨著節日燈光冥想，並以誇張的慢速移動。
+
+扁平化、平衡、適合列印，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -454,7 +703,7 @@ A whimsical underwater Christmas card, aspect ratio 1:1.4. A friendly purple oct
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780144630_0tscw8_1765693091821-qhhkcy-zJJh_aUBJ0oFVKEJRYbqaxivp889_gQSR09EMCDxvoD8Rg0767xzBB2CWUvdpo3J9NqDaUE_1kVMeq5_SXMzP8DXmFImiJYjewAAAAASUVORK5CYII_" width="600" alt="Octopus Decorating Coral Christmas Tree - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788193159_ioxmaa_1765783608149-8brem0-kCAcQJAzIhi0RAIMVp0Kt0wYCn1BUksOO_vgCY6SvGWFFiQCx8b9gjAmwhqYYioemYQIDKA_P8DD9Kp4aKugaMAAAAASUVORK5CYII_" width="600" alt="聖誕烏龜 · 慢活相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -464,22 +713,30 @@ A whimsical underwater Christmas card, aspect ratio 1:1.4. A friendly purple oct
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20underwater%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20friendly%20purple%20octopus%20is%20using%20all%20eight%20arms%20to%20decorate%20a%20large%20piece%20of%20branching%20coral%20that%20looks%20like%20a%20Christmas%20tree.%20It's%20hanging%20shiny%20seashells%2C%20starfish%2C%20and%20strings%20of%20pearls%20on%20the%20branches.%20A%20Santa%20hat%20floats%20just%20above%20its%20head.%20Bubbles%20rise%20against%20a%20deep%20blue%20ocean%20background.%20Cute%20cartoon%20style.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E3%80%81%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%20%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E9%A2%A8%E6%A0%BC%E7%82%BA%E5%B9%B3%E9%9D%9C%E8%80%8C%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8D%A1%E9%80%9A%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E7%84%A1%E8%83%8C%E6%99%AF%E5%A0%B4%E6%99%AF%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%E5%AE%8C%E7%BE%8E%E7%BD%AE%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E4%BF%9D%E6%8C%81%E5%8E%9F%E6%A8%A3%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E8%A3%9D%E9%A3%BE%E8%91%97%E6%88%B4%E5%9C%8D%E5%B7%BE%E7%9A%84%E6%82%A0%E9%96%92%E5%8D%A1%E9%80%9A%E7%83%8F%E9%BE%9C%EF%BC%8C%E7%89%A0%E5%80%91%E5%B9%B3%E9%9D%9C%E5%9C%B0%E5%A0%86%E7%96%8A%E9%A3%BE%E5%93%81%E3%80%81%E4%BC%B4%E9%9A%A8%E8%91%97%E7%AF%80%E6%97%A5%E7%87%88%E5%85%89%E5%86%A5%E6%83%B3%EF%BC%8C%E4%B8%A6%E4%BB%A5%E8%AA%87%E5%BC%B5%E7%9A%84%E6%85%A2%E9%80%9F%E7%A7%BB%E5%8B%95%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E5%B9%B3%E8%A1%A1%E3%80%81%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 11: Alpaca Overloaded with Presents
+### No. 11: 聖誕松鼠 · 囤積狂潮畫框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt creates a cute and chaotic Christmas card featuring a fluffy alpaca overloaded with a precarious stack of Christmas presents. Perfect for humorous and charming holiday greetings.
+此提示會產生一個幽默的動畫聖誕相框，採用垂直 1:1.4 的格式。邊框設計為卡通松鼠們瘋狂地囤積飾品和塞滿聖誕襪，為這款適合列印的設計增添了溫馨的幽默感。
 
 #### 📝 提示詞
 
 ```
-A cute and chaotic Christmas card, aspect ratio 1:1.4. A fluffy white alpaca stands against a solid mint green background. Its back is overloaded with an impossibly tall, precarious stack of colorful wrapped Christmas presents with bows that are wobbling wildly. The alpaca has a patient, slightly strained expression, and its skinny legs are shaking slightly under the weight.
+一張可列印的聖誕相框插圖，採用垂直 1:1.4 比例，以幽默的動畫風格繪製。
+
+僅有相框設計，無背景環境。
+
+置中空白照片佔位符，水平和垂直居中，1:1.4 比例，佔相框寬度 70%，完全空白。
+
+邊框上繪有瘋狂的卡通松鼠，牠們正在囤積飾品、塞滿聖誕襪、將堅果藏在聖誕球中，並從裝飾品後面緊張地偷看。
+
+扁平化插圖，溫馨幽默，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -487,7 +744,7 @@ A cute and chaotic Christmas card, aspect ratio 1:1.4. A fluffy white alpaca sta
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780142631_uo5vj6_1765765458317-2gfkgs-N8AAAAASUVORK5CYII_" width="600" alt="Alpaca Overloaded with Presents - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788190847_uts5dc_1765784417851-tvxey7-b_RQnrr59P8BW4BdIdd1RXYAAAAASUVORK5CYII_" width="600" alt="聖誕松鼠 · 囤積狂潮畫框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -497,22 +754,30 @@ A cute and chaotic Christmas card, aspect ratio 1:1.4. A fluffy white alpaca sta
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20chaotic%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20fluffy%20white%20alpaca%20stands%20against%20a%20solid%20mint%20green%20background.%20Its%20back%20is%20overloaded%20with%20an%20impossibly%20tall%2C%20precarious%20stack%20of%20colorful%20wrapped%20Christmas%20presents%20with%20bows%20that%20are%20wobbling%20wildly.%20The%20alpaca%20has%20a%20patient%2C%20slightly%20strained%20expression%2C%20and%20its%20skinny%20legs%20are%20shaking%20slightly%20under%20the%20weight.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%EF%BC%8C%E7%84%A1%E8%83%8C%E6%99%AF%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E7%BD%AE%E4%B8%AD%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C1%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E4%B8%8A%E7%B9%AA%E6%9C%89%E7%98%8B%E7%8B%82%E7%9A%84%E5%8D%A1%E9%80%9A%E6%9D%BE%E9%BC%A0%EF%BC%8C%E7%89%A0%E5%80%91%E6%AD%A3%E5%9C%A8%E5%9B%A4%E7%A9%8D%E9%A3%BE%E5%93%81%E3%80%81%E5%A1%9E%E6%BB%BF%E8%81%96%E8%AA%95%E8%A5%AA%E3%80%81%E5%B0%87%E5%A0%85%E6%9E%9C%E8%97%8F%E5%9C%A8%E8%81%96%E8%AA%95%E7%90%83%E4%B8%AD%EF%BC%8C%E4%B8%A6%E5%BE%9E%E8%A3%9D%E9%A3%BE%E5%93%81%E5%BE%8C%E9%9D%A2%E7%B7%8A%E5%BC%B5%E5%9C%B0%E5%81%B7%E7%9C%8B%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E6%8F%92%E5%9C%96%EF%BC%8C%E6%BA%AB%E9%A6%A8%E5%B9%BD%E9%BB%98%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 12: Magical Snowy Owl Delivering Mail
+### No. 12: 聖誕猴子 · 惡作劇相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates a magical Christmas illustration of a snowy owl in flight, carrying a small, elegant red envelope. Ideal for enchanting and whimsical holiday card designs.
+此提示會生成一個垂直的 1:1.4 可列印動畫聖誕相框，充滿俏皮的卡通活力。邊框上繪有頑皮的猴子在花環上盪鞦韆並偷走星星，以生動的動畫風格呈現。
 
 #### 📝 提示詞
 
 ```
-A magical Christmas illustration, aspect ratio 1:1.4. A fluffy white snowy owl with bright yellow eyes is in mid-flight against a dark blue, star-filled night sky. It carries a small, elegant red envelope sealed with a gold wax seal in its beak. A tiny sprig of holly is tucked behind its ear like a feather. The style is detailed and enchanting.
+一個垂直的 1:1.4 可列印動畫聖誕相框，充滿俏皮的卡通活力。
+
+無背景，只有相框本身。
+
+一個大型空白照片佔位符，水平和垂直居中，比例為 1:1.4，寬度為 70%，完全空白。
+
+相框邊緣飾有活潑生動的卡通猴子，牠們在花環上盪鞦韆、偷星星、倒掛著，並做出滑稽的表情，以生動的動畫風格呈現。
+
+扁平化、平衡、可供印刷、無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -520,7 +785,7 @@ A magical Christmas illustration, aspect ratio 1:1.4. A fluffy white snowy owl w
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780138272_3svn17_1765765454815-r02l98-39y3ldSxfTVjYHEu7z6e58eW0dWm0gojHuTEKYhMy9CVualCgiWFmYEOeZiJjb6cPH6LFta5rSVvfacF03UX14_C1AQPVY6_iG5ixRy_G49L2ryc_fL9V3UcvzHA3StFyutw6gQMhMAu4RdVOVkZR795zmOd1uiNHIEHATQCi1sjCRI5IyCQt1FBdiEpEWzYS7U0S0BoAw1qqSmElKb0C" width="600" alt="Magical Snowy Owl Delivering Mail - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788189885_vgajpv_1765783585967-se6gws-P0AAAAASUVORK5CYII_" width="600" alt="聖誕猴子 · 惡作劇相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -530,22 +795,30 @@ A magical Christmas illustration, aspect ratio 1:1.4. A fluffy white snowy owl w
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20magical%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20fluffy%20white%20snowy%20owl%20with%20bright%20yellow%20eyes%20is%20in%20mid-flight%20against%20a%20dark%20blue%2C%20star-filled%20night%20sky.%20It%20carries%20a%20small%2C%20elegant%20red%20envelope%20sealed%20with%20a%20gold%20wax%20seal%20in%20its%20beak.%20A%20tiny%20sprig%20of%20holly%20is%20tucked%20behind%20its%20ear%20like%20a%20feather.%20The%20style%20is%20detailed%20and%20enchanting.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E5%8B%95%E7%95%AB%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E5%85%85%E6%BB%BF%E4%BF%8F%E7%9A%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E6%B4%BB%E5%8A%9B%E3%80%82%0A%0A%E7%84%A1%E8%83%8C%E6%99%AF%EF%BC%8C%E5%8F%AA%E6%9C%89%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E5%A4%A7%E5%9E%8B%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E9%A3%BE%E6%9C%89%E6%B4%BB%E6%BD%91%E7%94%9F%E5%8B%95%E7%9A%84%E5%8D%A1%E9%80%9A%E7%8C%B4%E5%AD%90%EF%BC%8C%E7%89%A0%E5%80%91%E5%9C%A8%E8%8A%B1%E7%92%B0%E4%B8%8A%E7%9B%AA%E9%9E%A6%E9%9F%86%E3%80%81%E5%81%B7%E6%98%9F%E6%98%9F%E3%80%81%E5%80%92%E6%8E%9B%E8%91%97%EF%BC%8C%E4%B8%A6%E5%81%9A%E5%87%BA%E6%BB%91%E7%A8%BD%E7%9A%84%E8%A1%A8%E6%83%85%EF%BC%8C%E4%BB%A5%E7%94%9F%E5%8B%95%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E5%B9%B3%E8%A1%A1%E3%80%81%E5%8F%AF%E4%BE%9B%E5%8D%B0%E5%88%B7%E3%80%81%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 13: Sneaky Raccoons Stealing Santa's Treats
+### No. 13: 慢動作蝸牛 · 聖誕相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt creates a funny Christmas card design depicting two sneaky raccoons caught stealing Santa's milk and cookies by a fireplace. Perfect for mischievous and humorous holiday greetings.
+此提示會建立一個幽默的動畫兒童讀物風格聖誕相框，其中有緩慢移動的卡通蝸牛拖曳著裝飾品並留下閃閃發光的痕跡。它採用垂直 1:1.4 的長寬比，僅專注於相框設計。
 
 #### 📝 提示詞
 
 ```
-A funny Christmas card design, aspect ratio 1:1.4. A scene at night by a fireplace. Two sneaky raccoons wearing their natural "bandit mask" markings and tiny Santa hats are caught in the act. One is lifting a glass of milk, and the other has a chocolate chip cookie in its mouth, taken from a plate labeled 'For Santa'. Only their eyes are illuminated by the firelight. Cute, mischievous illustration style.
+一張可列印的聖誕相框插圖，採用垂直 1:1.4 的長寬比，以幽默的動畫兒童讀物風格繪製。
+
+插圖僅聚焦於相框設計。
+
+在正中央，包含一個空白照片佔位區，水平和垂直居中，長寬比為 1:1.4，佔總寬度的 70%，完全乾淨。
+
+邊框特色是緩慢移動的卡通蝸牛，戴著小小的聖誕帽，拖著飾品，留下閃閃發光的痕跡，並以荒謬悠閒的速度攀爬節日裝飾。
+
+扁平插圖，溫馨幽默，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -553,7 +826,7 @@ A funny Christmas card design, aspect ratio 1:1.4. A scene at night by a firepla
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780135041_hfe6vq_1765693073644-d5i9ho-x9Nt6i6Rt8yVwAAAABJRU5ErkJggg__" width="600" alt="Sneaky Raccoons Stealing Santa's Treats - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788187927_i4a6av_1765783585550-863woz-A8zt1pp7Z9V2AAAAAElFTkSuQmCC" width="600" alt="慢動作蝸牛 · 聖誕相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -563,22 +836,30 @@ A funny Christmas card design, aspect ratio 1:1.4. A scene at night by a firepla
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20scene%20at%20night%20by%20a%20fireplace.%20Two%20sneaky%20raccoons%20wearing%20their%20natural%20%22bandit%20mask%22%20markings%20and%20tiny%20Santa%20hats%20are%20caught%20in%20the%20act.%20One%20is%20lifting%20a%20glass%20of%20milk%2C%20and%20the%20other%20has%20a%20chocolate%20chip%20cookie%20in%20its%20mouth%2C%20taken%20from%20a%20plate%20labeled%20'For%20Santa'.%20Only%20their%20eyes%20are%20illuminated%20by%20the%20firelight.%20Cute%2C%20mischievous%20illustration%20style.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E5%85%92%E7%AB%A5%E8%AE%80%E7%89%A9%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E6%8F%92%E5%9C%96%E5%83%85%E8%81%9A%E7%84%A6%E6%96%BC%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E3%80%82%0A%0A%E5%9C%A8%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E5%8C%85%E5%90%AB%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E5%8D%80%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E4%BD%94%E7%B8%BD%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E4%B9%BE%E6%B7%A8%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E7%89%B9%E8%89%B2%E6%98%AF%E7%B7%A9%E6%85%A2%E7%A7%BB%E5%8B%95%E7%9A%84%E5%8D%A1%E9%80%9A%E8%9D%B8%E7%89%9B%EF%BC%8C%E6%88%B4%E8%91%97%E5%B0%8F%E5%B0%8F%E7%9A%84%E8%81%96%E8%AA%95%E5%B8%BD%EF%BC%8C%E6%8B%96%E8%91%97%E9%A3%BE%E5%93%81%EF%BC%8C%E7%95%99%E4%B8%8B%E9%96%83%E9%96%83%E7%99%BC%E5%85%89%E7%9A%84%E7%97%95%E8%B7%A1%EF%BC%8C%E4%B8%A6%E4%BB%A5%E8%8D%92%E8%AC%AC%E6%82%A0%E9%96%92%E7%9A%84%E9%80%9F%E5%BA%A6%E6%94%80%E7%88%AC%E7%AF%80%E6%97%A5%E8%A3%9D%E9%A3%BE%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E6%8F%92%E5%9C%96%EF%BC%8C%E6%BA%AB%E9%A6%A8%E5%B9%BD%E9%BB%98%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 14: Penguin Skiing with Candy Canes
+### No. 14: 聖誕狗狗 · 失控相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates a whimsical action illustration for a Christmas card, featuring a cheerful penguin skiing down a snowy slope using peppermint candy canes as skis. Ideal for fun and dynamic holiday designs.
+此提示會產生一個幽默、垂直 1:1.4 的可列印聖誕相框，風格為卡通動畫。相框邊緣充滿了興奮的卡通狗，牠們被燈飾纏住並撞倒了裝飾品，營造出歡樂、充滿活力的場景。
 
 #### 📝 提示詞
 
 ```
-A whimsical action illustration for a Christmas card, aspect ratio 1:1.4. A cheerful penguin wearing vintage pilot goggles and a flying red scarf is skiing down a snowy slope. Instead of skis, it is using two large peppermint candy canes. Snow sprays out behind it dynamically. In the background, there are simple cartoon pine trees. Fun, dynamic cartoon style with bold outlines.
+一個垂直的 1:1.4 可列印聖誕相框，以幽默的卡通動畫風格呈現。
+
+設計僅顯示相框本身，沒有背景環境。
+
+在水平和垂直方向的正中央預留了一個空白照片佔位符，其長寬比為 1:1.4，寬度為相框的 70%，完全空白且清晰定義。
+
+相框邊緣充滿了興奮的卡通狗，牠們纏繞在聖誕燈飾中、追逐飾品、打翻裝飾品，並穿著誇張的超大節日毛衣。
+
+歡快、充滿活力、扁平化，並針對列印進行了優化，沒有文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -586,7 +867,7 @@ A whimsical action illustration for a Christmas card, aspect ratio 1:1.4. A chee
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780134351_n4c7z8_1765693058708-rcwygl-7E9Izca_arBPzsQsVeY_tbHB5P_b1XUclaVdeBnWEuIkUpFvsQH9zdkMF2TvwTQTlyJnjrmFRkUYxyJkutsbDX8qES7SzaOysAjokruFaeJFHKuvUskoNoPkHU9yMP6fKJqpiG1VSqsgqVWH7qHP4XtomX4vCKzPcAAAAASUVORK5CYII_" width="600" alt="Penguin Skiing with Candy Canes - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788186415_etmvj2_1765783586949-k560dn-D9r9UuCKmr6RAAAAAElFTkSuQmCC" width="600" alt="聖誕狗狗 · 失控相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -596,22 +877,30 @@ A whimsical action illustration for a Christmas card, aspect ratio 1:1.4. A chee
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20action%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20cheerful%20penguin%20wearing%20vintage%20pilot%20goggles%20and%20a%20flying%20red%20scarf%20is%20skiing%20down%20a%20snowy%20slope.%20Instead%20of%20skis%2C%20it%20is%20using%20two%20large%20peppermint%20candy%20canes.%20Snow%20sprays%20out%20behind%20it%20dynamically.%20In%20the%20background%2C%20there%20are%20simple%20cartoon%20pine%20trees.%20Fun%2C%20dynamic%20cartoon%20style%20with%20bold%20outlines.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8D%A1%E9%80%9A%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E8%A8%AD%E8%A8%88%E5%83%85%E9%A1%AF%E7%A4%BA%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E8%83%8C%E6%99%AF%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E5%9C%A8%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E7%9A%84%E6%AD%A3%E4%B8%AD%E5%A4%AE%E9%A0%90%E7%95%99%E4%BA%86%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E5%85%B6%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%E7%9B%B8%E6%A1%86%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E6%B8%85%E6%99%B0%E5%AE%9A%E7%BE%A9%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E5%85%85%E6%BB%BF%E4%BA%86%E8%88%88%E5%A5%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E7%8B%97%EF%BC%8C%E7%89%A0%E5%80%91%E7%BA%8F%E7%B9%9E%E5%9C%A8%E8%81%96%E8%AA%95%E7%87%88%E9%A3%BE%E4%B8%AD%E3%80%81%E8%BF%BD%E9%80%90%E9%A3%BE%E5%93%81%E3%80%81%E6%89%93%E7%BF%BB%E8%A3%9D%E9%A3%BE%E5%93%81%EF%BC%8C%E4%B8%A6%E7%A9%BF%E8%91%97%E8%AA%87%E5%BC%B5%E7%9A%84%E8%B6%85%E5%A4%A7%E7%AF%80%E6%97%A5%E6%AF%9B%E8%A1%A3%E3%80%82%0A%0A%E6%AD%A1%E5%BF%AB%E3%80%81%E5%85%85%E6%BB%BF%E6%B4%BB%E5%8A%9B%E3%80%81%E6%89%81%E5%B9%B3%E5%8C%96%EF%BC%8C%E4%B8%A6%E9%87%9D%E5%B0%8D%E5%88%97%E5%8D%B0%E9%80%B2%E8%A1%8C%E4%BA%86%E5%84%AA%E5%8C%96%EF%BC%8C%E6%B2%92%E6%9C%89%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 15: Sleeping Polar Bears
+### No. 15: 聖誕節浣熊 · 鬼祟竊盜畫框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt creates a heartwarming printable Christmas card featuring a mother polar bear and her cub sleeping soundly in a snowy drift. It's perfect for tender and soft children's book style holiday greetings.
+此提示會生成一個可列印的聖誕相框插圖，圖中頑皮的浣熊正在偷竊飾品和拐杖糖，營造出俏皮、混亂的節日氛圍。它設計為一個獨立的相框，長寬比為 1:1.4，適合高品質列印。
 
 #### 📝 提示詞
 
 ```
-A heartwarming printable Christmas card, aspect ratio 1:1.4. A large mother polar bear is lying down fast asleep, curled up in a snowy drift. A tiny polar bear cub is sleeping soundly on her broad back, wearing a miniature red and green striped nightcap. A gentle snowfall surrounds them against a soft light blue background. The style is a tender children's book illustration with soft colors.
+一個專為獨立相框設計的可列印聖誕相框插圖，採用垂直 1:1.4 的長寬比，適合高品質列印。
+
+此插圖僅聚焦於相框本身，沒有外部環境或背景場景。風格為幽默的動畫故事書插圖，具有清晰的輪廓和柔和的紋理。
+
+在相框的正中央，保留一個空白的照片佔位區，該區域水平和垂直居中，長寬比為 1:1.4 的肖像模式，佔相框總寬度的 70%，完全空白且未經觸碰。
+
+周圍的相框邊緣描繪著頑皮的卡通浣熊偷竊飾品、藏匿拐杖糖、從角落偷看，以及倒掛在花環上，營造出活潑混亂的節日氛圍。
+
+扁平構圖，適合列印的色彩，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -619,7 +908,7 @@ A heartwarming printable Christmas card, aspect ratio 1:1.4. A large mother pola
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780129271_va78dc_1765693057760-ebc124-wFMsnpfYefmXwAAAABJRU5ErkJggg__" width="600" alt="Sleeping Polar Bears - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788185612_i3bkv5_1765783888394-phn8ds-uZAAAAAElFTkSuQmCC" width="600" alt="聖誕節浣熊 · 鬼祟竊盜畫框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -629,22 +918,30 @@ A heartwarming printable Christmas card, aspect ratio 1:1.4. A large mother pola
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20heartwarming%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20large%20mother%20polar%20bear%20is%20lying%20down%20fast%20asleep%2C%20curled%20up%20in%20a%20snowy%20drift.%20A%20tiny%20polar%20bear%20cub%20is%20sleeping%20soundly%20on%20her%20broad%20back%2C%20wearing%20a%20miniature%20red%20and%20green%20striped%20nightcap.%20A%20gentle%20snowfall%20surrounds%20them%20against%20a%20soft%20light%20blue%20background.%20The%20style%20is%20a%20tender%20children's%20book%20illustration%20with%20soft%20colors.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%B0%88%E7%82%BA%E7%8D%A8%E7%AB%8B%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E9%81%A9%E5%90%88%E9%AB%98%E5%93%81%E8%B3%AA%E5%88%97%E5%8D%B0%E3%80%82%0A%0A%E6%AD%A4%E6%8F%92%E5%9C%96%E5%83%85%E8%81%9A%E7%84%A6%E6%96%BC%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E6%88%96%E8%83%8C%E6%99%AF%E5%A0%B4%E6%99%AF%E3%80%82%E9%A2%A8%E6%A0%BC%E7%82%BA%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E6%8F%92%E5%9C%96%EF%BC%8C%E5%85%B7%E6%9C%89%E6%B8%85%E6%99%B0%E7%9A%84%E8%BC%AA%E5%BB%93%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E7%B4%8B%E7%90%86%E3%80%82%0A%0A%E5%9C%A8%E7%9B%B8%E6%A1%86%E7%9A%84%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E4%BF%9D%E7%95%99%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E5%8D%80%EF%BC%8C%E8%A9%B2%E5%8D%80%E5%9F%9F%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%20%E7%9A%84%E8%82%96%E5%83%8F%E6%A8%A1%E5%BC%8F%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E7%B8%BD%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E6%9C%AA%E7%B6%93%E8%A7%B8%E7%A2%B0%E3%80%82%0A%0A%E5%91%A8%E5%9C%8D%E7%9A%84%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E6%8F%8F%E7%B9%AA%E8%91%97%E9%A0%91%E7%9A%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E6%B5%A3%E7%86%8A%E5%81%B7%E7%AB%8A%E9%A3%BE%E5%93%81%E3%80%81%E8%97%8F%E5%8C%BF%E6%8B%90%E6%9D%96%E7%B3%96%E3%80%81%E5%BE%9E%E8%A7%92%E8%90%BD%E5%81%B7%E7%9C%8B%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%80%92%E6%8E%9B%E5%9C%A8%E8%8A%B1%E7%92%B0%E4%B8%8A%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E6%B4%BB%E6%BD%91%E6%B7%B7%E4%BA%82%E7%9A%84%E7%AF%80%E6%97%A5%E6%B0%9B%E5%9C%8D%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E6%A7%8B%E5%9C%96%EF%BC%8C%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%E7%9A%84%E8%89%B2%E5%BD%A9%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 16: Tuxedo Cat Tangled in Ribbon
+### No. 16: 笨拙企鵝兒童讀物動畫相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates a funny printable Christmas card illustration of a mischievous tuxedo cat hilariously tangled in gift ribbon and wrapping paper. It's great for lighthearted and playful holiday cards.
+此提示會建立一個垂直、可列印的聖誕相框，其插圖採用迷人、幽默的兒童讀物動畫風格，並以笨拙的企鵝為特色。設計完全著重於相框本身，並帶有空白的照片佔位符，為列印提供歡樂、有趣且生動的外觀。
 
 #### 📝 提示詞
 
 ```
-A funny printable Christmas card illustration, aspect ratio 1:1.4. A mischievous black and white tuxedo cat is comically tangled in a massive explosion of red satin gift ribbon and torn festive wrapping paper on a clean white background. Only its wide, surprised green eyes and one paw are visible from the center of the shiny red chaos. A roll of tape is stuck to its tail. Dynamic cartoon sketch style.
+一個垂直的 1:1.4 可列印聖誕相框，以迷人、幽默的兒童讀物動畫風格呈現。
+
+設計完全聚焦於相框本身，採用平面插畫，沒有背景環境。
+
+相框正中央預留了一個大型空白照片佔位符，比例為 1:1.4 的直向，佔相框寬度的 70%，刻意留空並與所有裝飾清晰區隔。
+
+周圍的邊框飾有笨拙的卡通企鵝，牠們正在滑倒、堆疊飾品、手持超大星星，並與邊緣的節慶元素俏皮互動。
+
+整體風格歡樂、有趣、生動且適合列印，沒有任何文字或字樣。
 ```
 
 #### 🖼️ 生成圖片
@@ -652,7 +949,7 @@ A funny printable Christmas card illustration, aspect ratio 1:1.4. A mischievous
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780125816_w7gjzg_1765693040741-mb5eqs-oAAAAASUVORK5CYII_" width="600" alt="Tuxedo Cat Tangled in Ribbon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__" width="600" alt="笨拙企鵝兒童讀物動畫相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -662,22 +959,30 @@ A funny printable Christmas card illustration, aspect ratio 1:1.4. A mischievous
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20mischievous%20black%20and%20white%20tuxedo%20cat%20is%20comically%20tangled%20in%20a%20massive%20explosion%20of%20red%20satin%20gift%20ribbon%20and%20torn%20festive%20wrapping%20paper%20on%20a%20clean%20white%20background.%20Only%20its%20wide%2C%20surprised%20green%20eyes%20and%20one%20paw%20are%20visible%20from%20the%20center%20of%20the%20shiny%20red%20chaos.%20A%20roll%20of%20tape%20is%20stuck%20to%20its%20tail.%20Dynamic%20cartoon%20sketch%20style.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E8%BF%B7%E4%BA%BA%E3%80%81%E5%B9%BD%E9%BB%98%E7%9A%84%E5%85%92%E7%AB%A5%E8%AE%80%E7%89%A9%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E8%A8%AD%E8%A8%88%E5%AE%8C%E5%85%A8%E8%81%9A%E7%84%A6%E6%96%BC%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%B9%B3%E9%9D%A2%E6%8F%92%E7%95%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E8%83%8C%E6%99%AF%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E6%AD%A3%E4%B8%AD%E5%A4%AE%E9%A0%90%E7%95%99%E4%BA%86%E4%B8%80%E5%80%8B%E5%A4%A7%E5%9E%8B%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%20%E7%9A%84%E7%9B%B4%E5%90%91%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%88%BB%E6%84%8F%E7%95%99%E7%A9%BA%E4%B8%A6%E8%88%87%E6%89%80%E6%9C%89%E8%A3%9D%E9%A3%BE%E6%B8%85%E6%99%B0%E5%8D%80%E9%9A%94%E3%80%82%0A%0A%E5%91%A8%E5%9C%8D%E7%9A%84%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E7%AC%A8%E6%8B%99%E7%9A%84%E5%8D%A1%E9%80%9A%E4%BC%81%E9%B5%9D%EF%BC%8C%E7%89%A0%E5%80%91%E6%AD%A3%E5%9C%A8%E6%BB%91%E5%80%92%E3%80%81%E5%A0%86%E7%96%8A%E9%A3%BE%E5%93%81%E3%80%81%E6%89%8B%E6%8C%81%E8%B6%85%E5%A4%A7%E6%98%9F%E6%98%9F%EF%BC%8C%E4%B8%A6%E8%88%87%E9%82%8A%E7%B7%A3%E7%9A%84%E7%AF%80%E6%85%B6%E5%85%83%E7%B4%A0%E4%BF%8F%E7%9A%AE%E4%BA%92%E5%8B%95%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E9%A2%A8%E6%A0%BC%E6%AD%A1%E6%A8%82%E3%80%81%E6%9C%89%E8%B6%A3%E3%80%81%E7%94%9F%E5%8B%95%E4%B8%94%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E6%88%96%E5%AD%97%E6%A8%A3%E3%80%82)**
 
 ---
 
-### No. 17: Felt Appliqué Fox Cub
+### No. 17: 有趣的薑餅人動畫插圖相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt creates a cozy, tactile Christmas card design that looks like handmade felt appliqué stitching, featuring a cute fox cub in a snowy scene. Perfect for unique and crafty holiday visuals.
+此提示會建立一個可列印的聖誕相框插圖，風格為幽默的動畫故事書，其中包含有趣的薑餅人角色。設計僅顯示相框，並留有空白照片佔位符，為列印提供幽默、舒適且異想天開的美感。
 
 #### 📝 提示詞
 
 ```
-A cozy, tactile Christmas card design, aspect ratio 1:1.4. The illustration looks entirely like handmade felt appliqué stitching. A cute orange fox cub made of fuzzy felt fabric sits in layers of white felt snow, looking up at a felt Christmas tree decorated with colorful button ornaments. The texture of the wool fibers and the stitching around the edges is clearly visible. The background is a soft blue felt sky.
+一個可列印的聖誕相框插圖，採用垂直 1:1.4 的長寬比，以幽默的動畫故事書風格創作。
+
+插圖僅顯示相框設計，沒有任何外部環境或背景風景。色彩溫暖且富有節日氣氛，帶有柔和的紙張紋理。
+
+在正中央，預留一個空白的照片佔位符，該佔位符水平和垂直居中，保持 1:1.4 的長寬比，並佔總相框寬度的 70%，完全空白且無遮擋。
+
+相框邊緣裝飾著俏皮的薑餅角色，擺出滑稽的姿勢，還有部分破碎的餅乾、糖霜細節和糖果裝飾，所有這些都繪有富有表現力的卡通臉孔。
+
+整體氛圍幽默、溫馨且異想天開，完全針對列印進行了優化，沒有任何文字排版。
 ```
 
 #### 🖼️ 生成圖片
@@ -685,7 +990,7 @@ A cozy, tactile Christmas card design, aspect ratio 1:1.4. The illustration look
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780125142_vqwzrz_1765765736932-w6b2ti-joqONxdrcec4p_fHzcEeMYCEAsu1E12RDxtS4WrUoVzk5TxaZ73RChrBtc45DncUB98QQAca0k5v8fyjkmeojjTpMAAAAASUVORK5CYII_" width="600" alt="Felt Appliqué Fox Cub - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784310981_hlrjof_1765780294344-8suld3-nw38D6_lD8WBy0bTPa2E6DCNqhxc3ZAVzQg5N2eB1mBa0YUupvbF257bbb7r7rztXly4898dTdt5_wksUMiaSIA7ajkXM0yQDW5oIugT1rLlmBsfExT0IuzTiXnXUWtf8PrWnOlBF9AScAAAAASUVORK5CYII_" width="600" alt="有趣的薑餅人動畫插圖相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -695,22 +1000,30 @@ A cozy, tactile Christmas card design, aspect ratio 1:1.4. The illustration look
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cozy%2C%20tactile%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20illustration%20looks%20entirely%20like%20handmade%20felt%20appliqu%C3%A9%20stitching.%20A%20cute%20orange%20fox%20cub%20made%20of%20fuzzy%20felt%20fabric%20sits%20in%20layers%20of%20white%20felt%20snow%2C%20looking%20up%20at%20a%20felt%20Christmas%20tree%20decorated%20with%20colorful%20button%20ornaments.%20The%20texture%20of%20the%20wool%20fibers%20and%20the%20stitching%20around%20the%20edges%20is%20clearly%20visible.%20The%20background%20is%20a%20soft%20blue%20felt%20sky.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E9%A2%A8%E6%A0%BC%E5%89%B5%E4%BD%9C%E3%80%82%0A%0A%E6%8F%92%E5%9C%96%E5%83%85%E9%A1%AF%E7%A4%BA%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E6%88%96%E8%83%8C%E6%99%AF%E9%A2%A8%E6%99%AF%E3%80%82%E8%89%B2%E5%BD%A9%E6%BA%AB%E6%9A%96%E4%B8%94%E5%AF%8C%E6%9C%89%E7%AF%80%E6%97%A5%E6%B0%A3%E6%B0%9B%EF%BC%8C%E5%B8%B6%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E7%B4%99%E5%BC%B5%E7%B4%8B%E7%90%86%E3%80%82%0A%0A%E5%9C%A8%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E9%A0%90%E7%95%99%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E8%A9%B2%E4%BD%94%E4%BD%8D%E7%AC%A6%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E4%BF%9D%E6%8C%81%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E4%B8%A6%E4%BD%94%E7%B8%BD%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E7%84%A1%E9%81%AE%E6%93%8B%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E8%A3%9D%E9%A3%BE%E8%91%97%E4%BF%8F%E7%9A%AE%E7%9A%84%E8%96%91%E9%A4%85%E8%A7%92%E8%89%B2%EF%BC%8C%E6%93%BA%E5%87%BA%E6%BB%91%E7%A8%BD%E7%9A%84%E5%A7%BF%E5%8B%A2%EF%BC%8C%E9%82%84%E6%9C%89%E9%83%A8%E5%88%86%E7%A0%B4%E7%A2%8E%E7%9A%84%E9%A4%85%E4%B9%BE%E3%80%81%E7%B3%96%E9%9C%9C%E7%B4%B0%E7%AF%80%E5%92%8C%E7%B3%96%E6%9E%9C%E8%A3%9D%E9%A3%BE%EF%BC%8C%E6%89%80%E6%9C%89%E9%80%99%E4%BA%9B%E9%83%BD%E7%B9%AA%E6%9C%89%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E7%9A%84%E5%8D%A1%E9%80%9A%E8%87%89%E5%AD%94%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E5%B9%BD%E9%BB%98%E3%80%81%E6%BA%AB%E9%A6%A8%E4%B8%94%E7%95%B0%E6%83%B3%E5%A4%A9%E9%96%8B%EF%BC%8C%E5%AE%8C%E5%85%A8%E9%87%9D%E5%B0%8D%E5%88%97%E5%8D%B0%E9%80%B2%E8%A1%8C%E4%BA%86%E5%84%AA%E5%8C%96%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E6%8E%92%E7%89%88%E3%80%82)**
 
 ---
 
-### No. 18: Capybara in Japanese Hot Spring
+### No. 18: 慵懶樹懶風格聖誕動畫相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates a relaxing and cute Christmas illustration of a capybara enjoying a Japanese hot spring. Ideal for serene and unique holiday card designs.
+此提示會產生一張可列印的聖誕節相框插圖，風格為幽默的動畫故事書，並以懶惰的樹懶為主題。它設計成一個獨立的相框，帶有空白的照片佔位符，非常適合高品質列印，並為節日照片增添輕鬆、溫馨和幽默的氣息。
 
 #### 📝 提示詞
 
 ```
-A relaxing and cute Christmas illustration, aspect ratio 1:1.4. A chill capybara sits peacefully up to its chest in a steaming Japanese hot spring pool (onsen), surrounded by snow-covered rocks. It wears a small folded towel on its head topped with a Santa hat. A yuzu fruit floats next to it. The style is a warm, soft anime illustration with gentle steam rising.
+這是一個專為獨立相框設計的可列印聖誕相框插圖，採用垂直 1:1.4 的長寬比，適合高品質列印。
+
+插圖僅聚焦於相框本身，沒有外部環境或背景場景。風格是幽默的動畫故事書插圖，具有柔和的紋理、清晰的輪廓和溫暖的色彩。
+
+在相框的正中央，保留一個水平和垂直居中的空白照片佔位區。該佔位區具有 1:1.4 的肖像長寬比，其寬度等於相框總寬度的 70%，並且必須保持完全空白和未觸動。
+
+周圍的相框邊緣飾有俏皮的卡通樹懶，牠們掛在拐杖糖、常青樹枝和節日掛鉤上。樹懶們穿著舒適的針織毛衣和圍巾，擺出輕鬆有趣的姿勢。
+
+插圖給人一種輕鬆、舒適和幽默的感覺，採用扁平構圖和適合列印的色彩，沒有任何文字或排版。
 ```
 
 #### 🖼️ 生成圖片
@@ -718,7 +1031,7 @@ A relaxing and cute Christmas illustration, aspect ratio 1:1.4. A chill capybara
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780123056_v02i28_1765693205572-8w5irf-AXqqyI4m5kpHAAAAAElFTkSuQmCC" width="600" alt="Capybara in Japanese Hot Spring - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="慵懶樹懶風格聖誕動畫相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -728,22 +1041,30 @@ A relaxing and cute Christmas illustration, aspect ratio 1:1.4. A chill capybara
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20relaxing%20and%20cute%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20chill%20capybara%20sits%20peacefully%20up%20to%20its%20chest%20in%20a%20steaming%20Japanese%20hot%20spring%20pool%20(onsen)%2C%20surrounded%20by%20snow-covered%20rocks.%20It%20wears%20a%20small%20folded%20towel%20on%20its%20head%20topped%20with%20a%20Santa%20hat.%20A%20yuzu%20fruit%20floats%20next%20to%20it.%20The%20style%20is%20a%20warm%2C%20soft%20anime%20illustration%20with%20gentle%20steam%20rising.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%80%99%E6%98%AF%E4%B8%80%E5%80%8B%E5%B0%88%E7%82%BA%E7%8D%A8%E7%AB%8B%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E9%81%A9%E5%90%88%E9%AB%98%E5%93%81%E8%B3%AA%E5%88%97%E5%8D%B0%E3%80%82%0A%0A%E6%8F%92%E5%9C%96%E5%83%85%E8%81%9A%E7%84%A6%E6%96%BC%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E6%88%96%E8%83%8C%E6%99%AF%E5%A0%B4%E6%99%AF%E3%80%82%E9%A2%A8%E6%A0%BC%E6%98%AF%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E6%8F%92%E5%9C%96%EF%BC%8C%E5%85%B7%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E7%B4%8B%E7%90%86%E3%80%81%E6%B8%85%E6%99%B0%E7%9A%84%E8%BC%AA%E5%BB%93%E5%92%8C%E6%BA%AB%E6%9A%96%E7%9A%84%E8%89%B2%E5%BD%A9%E3%80%82%0A%0A%E5%9C%A8%E7%9B%B8%E6%A1%86%E7%9A%84%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E4%BF%9D%E7%95%99%E4%B8%80%E5%80%8B%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%E7%9A%84%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E5%8D%80%E3%80%82%E8%A9%B2%E4%BD%94%E4%BD%8D%E5%8D%80%E5%85%B7%E6%9C%89%201%3A1.4%20%E7%9A%84%E8%82%96%E5%83%8F%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E5%85%B6%E5%AF%AC%E5%BA%A6%E7%AD%89%E6%96%BC%E7%9B%B8%E6%A1%86%E7%B8%BD%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E4%B8%A6%E4%B8%94%E5%BF%85%E9%A0%88%E4%BF%9D%E6%8C%81%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E5%92%8C%E6%9C%AA%E8%A7%B8%E5%8B%95%E3%80%82%0A%0A%E5%91%A8%E5%9C%8D%E7%9A%84%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E9%A3%BE%E6%9C%89%E4%BF%8F%E7%9A%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E6%A8%B9%E6%87%B6%EF%BC%8C%E7%89%A0%E5%80%91%E6%8E%9B%E5%9C%A8%E6%8B%90%E6%9D%96%E7%B3%96%E3%80%81%E5%B8%B8%E9%9D%92%E6%A8%B9%E6%9E%9D%E5%92%8C%E7%AF%80%E6%97%A5%E6%8E%9B%E9%89%A4%E4%B8%8A%E3%80%82%E6%A8%B9%E6%87%B6%E5%80%91%E7%A9%BF%E8%91%97%E8%88%92%E9%81%A9%E7%9A%84%E9%87%9D%E7%B9%94%E6%AF%9B%E8%A1%A3%E5%92%8C%E5%9C%8D%E5%B7%BE%EF%BC%8C%E6%93%BA%E5%87%BA%E8%BC%95%E9%AC%86%E6%9C%89%E8%B6%A3%E7%9A%84%E5%A7%BF%E5%8B%A2%E3%80%82%0A%0A%E6%8F%92%E5%9C%96%E7%B5%A6%E4%BA%BA%E4%B8%80%E7%A8%AE%E8%BC%95%E9%AC%86%E3%80%81%E8%88%92%E9%81%A9%E5%92%8C%E5%B9%BD%E9%BB%98%E7%9A%84%E6%84%9F%E8%A6%BA%EF%BC%8C%E6%8E%A1%E7%94%A8%E6%89%81%E5%B9%B3%E6%A7%8B%E5%9C%96%E5%92%8C%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%E7%9A%84%E8%89%B2%E5%BD%A9%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E6%88%96%E6%8E%92%E7%89%88%E3%80%82)**
 
 ---
 
-### No. 19: Singing Birds on Holly Branch
+### No. 19: 俏皮北極熊卡通聖誕相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt creates a cute and detailed printable Christmas card featuring five tiny garden birds wearing miniature winter hats and singing on a snow-covered holly branch. Perfect for classic and charming holiday greetings.
+這個提示會建立一個可列印的動畫聖誕相框，採用幽默的卡通風格，並以俏皮的北極熊為特色。它專為列印用途設計，僅作為相框插圖，並留有空白的照片佔位符，為節日照片提供歡樂、有趣且友善的美感。
 
 #### 📝 提示詞
 
 ```
-A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plump garden birds (a robin, a blue tit, a sparrow, a goldfinch, a wren) are perched in a row on a snow-covered holly branch with red berries. Each bird wears a different miniature knitted winter hat (bobble hat, beanie, earflap hat) and they all have their beaks open as if singing. The style is a delicate watercolor and ink drawing on textured paper.
+一個可列印的動畫聖誕相框，採用垂直 1:1.4 的長寬比，專為列印而設計，僅作為相框插圖。
+
+相框以幽默的卡通風格繪製，具有圓潤的形狀、富有表現力的角色和柔和的陰影。沒有環境、沒有背景場景，只有相框設計。
+
+在水平和垂直正中央保留了一個空白的照片佔位符，長寬比為 1:1.4，佔相框寬度的 70%，完全空白且乾淨。
+
+邊框裝飾著頑皮的北極熊，牠們滑行、偷看並攀附在相框邊緣，以一種滑稽、誇張的方式與拐杖糖、裝飾品和雪球互動。
+
+整體氛圍歡快、有趣、友善，針對平面可列印插圖進行了優化，沒有文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -751,7 +1072,7 @@ A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plu
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780118971_iq7hcj_1765693200318-bzuqbb-MpYGTqgUNkpuE6DuZTGYkL_OfNSELavqabdsIGBfbwDUkP8Gi2zVV1lQ1BQAAAAASUVORK5CYII_" width="600" alt="Singing Birds on Holly Branch - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="俏皮北極熊卡通聖誕相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -761,22 +1082,30 @@ A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plu
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20detailed%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20Five%20tiny%2C%20plump%20garden%20birds%20(a%20robin%2C%20a%20blue%20tit%2C%20a%20sparrow%2C%20a%20goldfinch%2C%20a%20wren)%20are%20perched%20in%20a%20row%20on%20a%20snow-covered%20holly%20branch%20with%20red%20berries.%20Each%20bird%20wears%20a%20different%20miniature%20knitted%20winter%20hat%20(bobble%20hat%2C%20beanie%2C%20earflap%20hat)%20and%20they%20all%20have%20their%20beaks%20open%20as%20if%20singing.%20The%20style%20is%20a%20delicate%20watercolor%20and%20ink%20drawing%20on%20textured%20paper.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E5%8B%95%E7%95%AB%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E5%B0%88%E7%82%BA%E5%88%97%E5%8D%B0%E8%80%8C%E8%A8%AD%E8%A8%88%EF%BC%8C%E5%83%85%E4%BD%9C%E7%82%BA%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8D%A1%E9%80%9A%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%EF%BC%8C%E5%85%B7%E6%9C%89%E5%9C%93%E6%BD%A4%E7%9A%84%E5%BD%A2%E7%8B%80%E3%80%81%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E7%9A%84%E8%A7%92%E8%89%B2%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E9%99%B0%E5%BD%B1%E3%80%82%E6%B2%92%E6%9C%89%E7%92%B0%E5%A2%83%E3%80%81%E6%B2%92%E6%9C%89%E8%83%8C%E6%99%AF%E5%A0%B4%E6%99%AF%EF%BC%8C%E5%8F%AA%E6%9C%89%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E3%80%82%0A%0A%E5%9C%A8%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E6%AD%A3%E4%B8%AD%E5%A4%AE%E4%BF%9D%E7%95%99%E4%BA%86%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E4%B9%BE%E6%B7%A8%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E8%A3%9D%E9%A3%BE%E8%91%97%E9%A0%91%E7%9A%AE%E7%9A%84%E5%8C%97%E6%A5%B5%E7%86%8A%EF%BC%8C%E7%89%A0%E5%80%91%E6%BB%91%E8%A1%8C%E3%80%81%E5%81%B7%E7%9C%8B%E4%B8%A6%E6%94%80%E9%99%84%E5%9C%A8%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%EF%BC%8C%E4%BB%A5%E4%B8%80%E7%A8%AE%E6%BB%91%E7%A8%BD%E3%80%81%E8%AA%87%E5%BC%B5%E7%9A%84%E6%96%B9%E5%BC%8F%E8%88%87%E6%8B%90%E6%9D%96%E7%B3%96%E3%80%81%E8%A3%9D%E9%A3%BE%E5%93%81%E5%92%8C%E9%9B%AA%E7%90%83%E4%BA%92%E5%8B%95%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E6%AD%A1%E5%BF%AB%E3%80%81%E6%9C%89%E8%B6%A3%E3%80%81%E5%8F%8B%E5%96%84%EF%BC%8C%E9%87%9D%E5%B0%8D%E5%B9%B3%E9%9D%A2%E5%8F%AF%E5%88%97%E5%8D%B0%E6%8F%92%E5%9C%96%E9%80%B2%E8%A1%8C%E4%BA%86%E5%84%AA%E5%8C%96%EF%BC%8C%E6%B2%92%E6%9C%89%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 20: Squirrel with Wrapped Acorn
+### No. 20: 淘氣貓咪聖誕貼紙風格相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates a whimsical printable Christmas card featuring a busy red squirrel presenting a meticulously wrapped acorn. It's perfect for unique and charming holiday greetings with a touch of woodland magic.
+此提示會產生一個垂直、可列印的聖誕相框，以可愛、幽默的動畫貼紙風格繪製，其中包含頑皮的貓咪。設計僅專注於相框本身，具有粗體輪廓、柔和色彩和空白照片佔位符，營造出俏皮而混亂的節日氛圍。
 
 #### 📝 提示詞
 
 ```
-A whimsical printable Christmas card, aspect ratio 1:1.4. A busy red squirrel with fluffy ear tufts stands on a snow-covered tree branch against a pale winter sky. It is holding a single acorn that is meticulously wrapped in tiny red paper with a gold bow, presenting it forward. Behind it, a pile of similarly wrapped acorns is stacked inside a hollow log. The squirrel wears a tiny green knit scarf. Colored pencil texture style.
+一個垂直的 1:1.4 可列印聖誕相框，以可愛、幽默的動畫貼紙風格呈現。
+
+設計僅專注於相框本身，沒有房間、牆壁或環境背景。插圖採用粗體輪廓、柔和色彩和富有表現力的卡通人物。
+
+在正中央，有一個空白的相片預留位置，水平和垂直居中，比例為 1:1.4 的肖像模式，佔相框寬度的 70%，完全空白且清晰界定。
+
+周圍的邊框飾有調皮的卡通貓咪，牠們纏繞在聖誕燈飾中、打翻裝飾品、攀爬花環，並從角落探出頭來，營造出俏皮而混亂的節日氛圍。
+
+構圖保持扁平、平衡且可供列印，沒有任何文字元素。
 ```
 
 #### 🖼️ 生成圖片
@@ -784,7 +1113,7 @@ A whimsical printable Christmas card, aspect ratio 1:1.4. A busy red squirrel wi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780115837_0c1gkg_1765692973777-uwo85l-gdvX4ybDwKspAAAAABJRU5ErkJggg__" width="600" alt="Squirrel with Wrapped Acorn - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC" width="600" alt="淘氣貓咪聖誕貼紙風格相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -794,22 +1123,22 @@ A whimsical printable Christmas card, aspect ratio 1:1.4. A busy red squirrel wi
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20busy%20red%20squirrel%20with%20fluffy%20ear%20tufts%20stands%20on%20a%20snow-covered%20tree%20branch%20against%20a%20pale%20winter%20sky.%20It%20is%20holding%20a%20single%20acorn%20that%20is%20meticulously%20wrapped%20in%20tiny%20red%20paper%20with%20a%20gold%20bow%2C%20presenting%20it%20forward.%20Behind%20it%2C%20a%20pile%20of%20similarly%20wrapped%20acorns%20is%20stacked%20inside%20a%20hollow%20log.%20The%20squirrel%20wears%20a%20tiny%20green%20knit%20scarf.%20Colored%20pencil%20texture%20style.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%8F%AF%E6%84%9B%E3%80%81%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E8%B2%BC%E7%B4%99%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E8%A8%AD%E8%A8%88%E5%83%85%E5%B0%88%E6%B3%A8%E6%96%BC%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E6%88%BF%E9%96%93%E3%80%81%E7%89%86%E5%A3%81%E6%88%96%E7%92%B0%E5%A2%83%E8%83%8C%E6%99%AF%E3%80%82%E6%8F%92%E5%9C%96%E6%8E%A1%E7%94%A8%E7%B2%97%E9%AB%94%E8%BC%AA%E5%BB%93%E3%80%81%E6%9F%94%E5%92%8C%E8%89%B2%E5%BD%A9%E5%92%8C%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E7%9A%84%E5%8D%A1%E9%80%9A%E4%BA%BA%E7%89%A9%E3%80%82%0A%0A%E5%9C%A8%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E6%9C%89%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%9B%B8%E7%89%87%E9%A0%90%E7%95%99%E4%BD%8D%E7%BD%AE%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%20%E7%9A%84%E8%82%96%E5%83%8F%E6%A8%A1%E5%BC%8F%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E6%B8%85%E6%99%B0%E7%95%8C%E5%AE%9A%E3%80%82%0A%0A%E5%91%A8%E5%9C%8D%E7%9A%84%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E8%AA%BF%E7%9A%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E8%B2%93%E5%92%AA%EF%BC%8C%E7%89%A0%E5%80%91%E7%BA%8F%E7%B9%9E%E5%9C%A8%E8%81%96%E8%AA%95%E7%87%88%E9%A3%BE%E4%B8%AD%E3%80%81%E6%89%93%E7%BF%BB%E8%A3%9D%E9%A3%BE%E5%93%81%E3%80%81%E6%94%80%E7%88%AC%E8%8A%B1%E7%92%B0%EF%BC%8C%E4%B8%A6%E5%BE%9E%E8%A7%92%E8%90%BD%E6%8E%A2%E5%87%BA%E9%A0%AD%E4%BE%86%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E4%BF%8F%E7%9A%AE%E8%80%8C%E6%B7%B7%E4%BA%82%E7%9A%84%E7%AF%80%E6%97%A5%E6%B0%9B%E5%9C%8D%E3%80%82%0A%0A%E6%A7%8B%E5%9C%96%E4%BF%9D%E6%8C%81%E6%89%81%E5%B9%B3%E3%80%81%E5%B9%B3%E8%A1%A1%E4%B8%94%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E5%85%83%E7%B4%A0%E3%80%82)**
 
 ---
 
-### No. 21: Corgi Stuck in Chimney
+### No. 21: 抱著聖誕樹的無尾熊
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates a humorous Christmas card illustration featuring a Corgi dog stuck upside down in a chimney. Ideal for a funny and lighthearted holiday message.
+此提示會產生一張可愛的可列印聖誕卡設計，內容是一隻灰色的無尾熊緊抱著一棵裝飾過的聖誕樹。它非常適合用來傳達溫馨可愛的節日問候，並帶有柔和的蠟筆繪畫質感。
 
 #### 📝 提示詞
 
 ```
-A humorous Christmas card illustration, flat graphic style, aspect ratio 1:1.4. A red brick chimney stack stands against a dark blue night sky with stars. Stuck upside down in the top opening of the chimney is the fluffy orange and white butt of a Corgi dog, with its short back legs wiggling in the air. A tiny Santa hat is falling off one foot. Smoke puffs out around it in the shape of question marks.
+一張可愛的可列印聖誕卡設計，長寬比為 1:1.4。一隻灰色的無尾熊緊緊抱著一棵小小的裝飾聖誕樹，而不是尤加利樹，看起來心滿意足且睡意惺忪。聖誕樹上掛滿了閃亮的銀色金蔥和五顏六色的聖誕球。無尾熊戴著一個小小的紅色領結。純色柔和的淡綠色背景。柔和的蠟筆畫質感。
 ```
 
 #### 🖼️ 生成圖片
@@ -817,7 +1146,7 @@ A humorous Christmas card illustration, flat graphic style, aspect ratio 1:1.4. 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780114922_pdkrnq_1765693026895-9ldmsp-C6BJKp_H09UpAAAAAElFTkSuQmCC" width="600" alt="Corgi Stuck in Chimney - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765780157326_ckp21g_1765693121569-apj76v-v_H31t5QXhilrDAAAAAElFTkSuQmCC" width="600" alt="抱著聖誕樹的無尾熊 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -827,22 +1156,22 @@ A humorous Christmas card illustration, flat graphic style, aspect ratio 1:1.4. 
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20humorous%20Christmas%20card%20illustration%2C%20flat%20graphic%20style%2C%20aspect%20ratio%201%3A1.4.%20A%20red%20brick%20chimney%20stack%20stands%20against%20a%20dark%20blue%20night%20sky%20with%20stars.%20Stuck%20upside%20down%20in%20the%20top%20opening%20of%20the%20chimney%20is%20the%20fluffy%20orange%20and%20white%20butt%20of%20a%20Corgi%20dog%2C%20with%20its%20short%20back%20legs%20wiggling%20in%20the%20air.%20A%20tiny%20Santa%20hat%20is%20falling%20off%20one%20foot.%20Smoke%20puffs%20out%20around%20it%20in%20the%20shape%20of%20question%20marks.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E5%8D%A1%E8%A8%AD%E8%A8%88%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E7%81%B0%E8%89%B2%E7%9A%84%E7%84%A1%E5%B0%BE%E7%86%8A%E7%B7%8A%E7%B7%8A%E6%8A%B1%E8%91%97%E4%B8%80%E6%A3%B5%E5%B0%8F%E5%B0%8F%E7%9A%84%E8%A3%9D%E9%A3%BE%E8%81%96%E8%AA%95%E6%A8%B9%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%B0%A4%E5%8A%A0%E5%88%A9%E6%A8%B9%EF%BC%8C%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%BF%83%E6%BB%BF%E6%84%8F%E8%B6%B3%E4%B8%94%E7%9D%A1%E6%84%8F%E6%83%BA%E5%BF%AA%E3%80%82%E8%81%96%E8%AA%95%E6%A8%B9%E4%B8%8A%E6%8E%9B%E6%BB%BF%E4%BA%86%E9%96%83%E4%BA%AE%E7%9A%84%E9%8A%80%E8%89%B2%E9%87%91%E8%94%A5%E5%92%8C%E4%BA%94%E9%A1%8F%E5%85%AD%E8%89%B2%E7%9A%84%E8%81%96%E8%AA%95%E7%90%83%E3%80%82%E7%84%A1%E5%B0%BE%E7%86%8A%E6%88%B4%E8%91%97%E4%B8%80%E5%80%8B%E5%B0%8F%E5%B0%8F%E7%9A%84%E7%B4%85%E8%89%B2%E9%A0%98%E7%B5%90%E3%80%82%E7%B4%94%E8%89%B2%E6%9F%94%E5%92%8C%E7%9A%84%E6%B7%A1%E7%B6%A0%E8%89%B2%E8%83%8C%E6%99%AF%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E8%A0%9F%E7%AD%86%E7%95%AB%E8%B3%AA%E6%84%9F%E3%80%82)**
 
 ---
 
-### No. 22: Fluffy Highland Cow with Christmas Lights
+### No. 22: 烘焙熊與活跳跳薑餅人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt creates a charming and fuzzy Christmas illustration of a Scottish Highland cow with Christmas lights tangled in its hair and horns. Ideal for rustic and heartwarming holiday designs.
+此提示會生成一張迷人的插圖，描繪一隻友善的棕熊麵包師傅正在製作薑餅人，而這些薑餅人已經活了過來，在廚房裡四處奔跑。非常適合製作溫馨且具有故事書風格的節慶卡片。
 
 #### 📝 提示詞
 
 ```
-A charming and fuzzy Christmas illustration, aspect ratio 1:1.4. A close-up portrait of a super fluffy ginger Scottish Highland cow. Its shaggy hair completely covers its eyes, but colorful tangled Christmas lights that are glowing, and small shiny red baubles, are caught in its bangs and long horns. Light snowflakes dust its fur. The background is a soft, blurred snowy pasture. Painterly, textured style.
+一隻迷人的棕熊麵包師傅插圖，長寬比為 1:1.4。這隻友善的熊穿著花卉圍裙和沾滿白色麵粉的廚師帽。牠正開心地在木桌上擀麵團，周圍是活過來的薑餅人餅乾，牠們在廚房櫃檯上跑來跑去，笑聲不斷。溫暖的童話書藝術風格。
 ```
 
 #### 🖼️ 生成圖片
@@ -850,7 +1179,7 @@ A charming and fuzzy Christmas illustration, aspect ratio 1:1.4. A close-up port
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780111966_dn1z7i_1765692971551-1i3kzo-B7M7DtPmAsUhAAAAAElFTkSuQmCC" width="600" alt="Fluffy Highland Cow with Christmas Lights - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765780152259_x9tpgp_1765765754561-emrtgw-w_2W4FWpP9VyAAAAABJRU5ErkJggg__" width="600" alt="烘焙熊與活跳跳薑餅人 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -860,22 +1189,22 @@ A charming and fuzzy Christmas illustration, aspect ratio 1:1.4. A close-up port
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20and%20fuzzy%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20close-up%20portrait%20of%20a%20super%20fluffy%20ginger%20Scottish%20Highland%20cow.%20Its%20shaggy%20hair%20completely%20covers%20its%20eyes%2C%20but%20colorful%20tangled%20Christmas%20lights%20that%20are%20glowing%2C%20and%20small%20shiny%20red%20baubles%2C%20are%20caught%20in%20its%20bangs%20and%20long%20horns.%20Light%20snowflakes%20dust%20its%20fur.%20The%20background%20is%20a%20soft%2C%20blurred%20snowy%20pasture.%20Painterly%2C%20textured%20style.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E9%9A%BB%E8%BF%B7%E4%BA%BA%E7%9A%84%E6%A3%95%E7%86%8A%E9%BA%B5%E5%8C%85%E5%B8%AB%E5%82%85%E6%8F%92%E5%9C%96%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E9%80%99%E9%9A%BB%E5%8F%8B%E5%96%84%E7%9A%84%E7%86%8A%E7%A9%BF%E8%91%97%E8%8A%B1%E5%8D%89%E5%9C%8D%E8%A3%99%E5%92%8C%E6%B2%BE%E6%BB%BF%E7%99%BD%E8%89%B2%E9%BA%B5%E7%B2%89%E7%9A%84%E5%BB%9A%E5%B8%AB%E5%B8%BD%E3%80%82%E7%89%A0%E6%AD%A3%E9%96%8B%E5%BF%83%E5%9C%B0%E5%9C%A8%E6%9C%A8%E6%A1%8C%E4%B8%8A%E6%93%80%E9%BA%B5%E5%9C%98%EF%BC%8C%E5%91%A8%E5%9C%8D%E6%98%AF%E6%B4%BB%E9%81%8E%E4%BE%86%E7%9A%84%E8%96%91%E9%A4%85%E4%BA%BA%E9%A4%85%E4%B9%BE%EF%BC%8C%E7%89%A0%E5%80%91%E5%9C%A8%E5%BB%9A%E6%88%BF%E6%AB%83%E6%AA%AF%E4%B8%8A%E8%B7%91%E4%BE%86%E8%B7%91%E5%8E%BB%EF%BC%8C%E7%AC%91%E8%81%B2%E4%B8%8D%E6%96%B7%E3%80%82%E6%BA%AB%E6%9A%96%E7%9A%84%E7%AB%A5%E8%A9%B1%E6%9B%B8%E8%97%9D%E8%A1%93%E9%A2%A8%E6%A0%BC%E3%80%82)**
 
 ---
 
-### No. 23: Long Dachshund Christmas Card
+### No. 23: 睡鼠在茶杯中睡著了
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt creates a funny flat vector illustration for a Christmas card, depicting a very long dachshund dog wearing an absurdly long, festive sweater. Ideal for humorous holiday messages and pet-themed cards.
+此提示會生成一張溫馨的迷你聖誕插圖，描繪一隻小睡鼠蜷縮在充滿節日氣氛的茶杯中睡覺。非常適合製作甜美精緻的節日卡片設計。
 
 #### 📝 提示詞
 
 ```
-A funny flat vector illustration for a Christmas card, aspect ratio 1:1.4. A very long brown dachshund dog stretches horizontally across the entire card against a solid pale blue background. It is wearing an absurdly long, red knitted turtleneck sweater with a repeating pattern of white reindeer and snowflakes. The sweater is so long it sags in the middle, touching the ground. The dog looks content. Text below reads: "Longing for Christmas."
+一張溫馨的迷你聖誕插畫，長寬比為 1:1.4。一隻小睡鼠蜷縮在一個陶瓷茶杯裡睡覺，茶杯上裝飾著節慶的紅綠冬青圖案。小睡鼠蓋著一條小小的綠葉毯子。茶杯放在一個碟子上，旁邊的木桌上放著一個迷你肉餡餅。水彩和色鉛筆風格。
 ```
 
 #### 🖼️ 生成圖片
@@ -883,7 +1212,7 @@ A funny flat vector illustration for a Christmas card, aspect ratio 1:1.4. A ver
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780099382_hsgl3l_1765692967267-gejgq8-Bek23XMoiWkxAAAAAElFTkSuQmCC" width="600" alt="Long Dachshund Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765780150013_3r2ds8_1765765750332-u6dv2j-f7L6RsJkw3KlnwAAAAAElFTkSuQmCC" width="600" alt="睡鼠在茶杯中睡著了 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -893,22 +1222,22 @@ A funny flat vector illustration for a Christmas card, aspect ratio 1:1.4. A ver
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20flat%20vector%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20very%20long%20brown%20dachshund%20dog%20stretches%20horizontally%20across%20the%20entire%20card%20against%20a%20solid%20pale%20blue%20background.%20It%20is%20wearing%20an%20absurdly%20long%2C%20red%20knitted%20turtleneck%20sweater%20with%20a%20repeating%20pattern%20of%20white%20reindeer%20and%20snowflakes.%20The%20sweater%20is%20so%20long%20it%20sags%20in%20the%20middle%2C%20touching%20the%20ground.%20The%20dog%20looks%20content.%20Text%20below%20reads%3A%20%22Longing%20for%20Christmas.%22)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E6%BA%AB%E9%A6%A8%E7%9A%84%E8%BF%B7%E4%BD%A0%E8%81%96%E8%AA%95%E6%8F%92%E7%95%AB%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E5%B0%8F%E7%9D%A1%E9%BC%A0%E8%9C%B7%E7%B8%AE%E5%9C%A8%E4%B8%80%E5%80%8B%E9%99%B6%E7%93%B7%E8%8C%B6%E6%9D%AF%E8%A3%A1%E7%9D%A1%E8%A6%BA%EF%BC%8C%E8%8C%B6%E6%9D%AF%E4%B8%8A%E8%A3%9D%E9%A3%BE%E8%91%97%E7%AF%80%E6%85%B6%E7%9A%84%E7%B4%85%E7%B6%A0%E5%86%AC%E9%9D%92%E5%9C%96%E6%A1%88%E3%80%82%E5%B0%8F%E7%9D%A1%E9%BC%A0%E8%93%8B%E8%91%97%E4%B8%80%E6%A2%9D%E5%B0%8F%E5%B0%8F%E7%9A%84%E7%B6%A0%E8%91%89%E6%AF%AF%E5%AD%90%E3%80%82%E8%8C%B6%E6%9D%AF%E6%94%BE%E5%9C%A8%E4%B8%80%E5%80%8B%E7%A2%9F%E5%AD%90%E4%B8%8A%EF%BC%8C%E6%97%81%E9%82%8A%E7%9A%84%E6%9C%A8%E6%A1%8C%E4%B8%8A%E6%94%BE%E8%91%97%E4%B8%80%E5%80%8B%E8%BF%B7%E4%BD%A0%E8%82%89%E9%A4%A1%E9%A4%85%E3%80%82%E6%B0%B4%E5%BD%A9%E5%92%8C%E8%89%B2%E9%89%9B%E7%AD%86%E9%A2%A8%E6%A0%BC%E3%80%82)**
 
 ---
 
-### No. 24: Whimsical Hedgehog Christmas Card
+### No. 24: 章魚裝飾珊瑚聖誕樹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates a whimsical printable Christmas card illustration featuring a small, round hedgehog whose spines are comically adorned with tiny Christmas decorations. It's perfect for creating unique and humorous holiday greetings.
+這個提示能創造一張充滿奇思妙想的海底聖誕卡片，卡片上有一隻友善的紫色章魚正在裝飾一棵珊瑚「聖誕樹」。非常適合獨特又俏皮的海洋主題節日問候。
 
 #### 📝 提示詞
 
 ```
-A whimsical printable Christmas card illustration, aspect ratio 1:1.4. A small, round hedgehog is curled up into a ball on a clean cream background. Its spines are hilariously covered with tiny, colorful Christmas baubles, miniature candy canes, and bits of shiny tinsel that have gotten stuck to them. The hedgehog has a slightly confused but happy expression, with one eye peeking out. The style is a gentle watercolor painting with soft textures.
+一張異想天開的海底聖誕卡，長寬比為 1:1.4。一隻友善的紫色章魚正用牠的八隻手臂裝飾一塊看起來像聖誕樹的大型分枝珊瑚。牠正在樹枝上掛著閃亮的貝殼、海星和珍珠串。一頂聖誕帽正漂浮在牠的頭頂上方。氣泡在深藍色的海洋背景中升起。可愛的卡通風格。
 ```
 
 #### 🖼️ 生成圖片
@@ -916,7 +1245,7 @@ A whimsical printable Christmas card illustration, aspect ratio 1:1.4. A small, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780101179_ywdvzk_1765693039459-1wv8ex-htP1HdLVAAAAAElFTkSuQmCC" width="600" alt="Whimsical Hedgehog Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765780144630_0tscw8_1765693091821-qhhkcy-zJJh_aUBJ0oFVKEJRYbqaxivp889_gQSR09EMCDxvoD8Rg0767xzBB2CWUvdpo3J9NqDaUE_1kVMeq5_SXMzP8DXmFImiJYjewAAAAASUVORK5CYII_" width="600" alt="章魚裝飾珊瑚聖誕樹 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -926,22 +1255,22 @@ A whimsical printable Christmas card illustration, aspect ratio 1:1.4. A small, 
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20small%2C%20round%20hedgehog%20is%20curled%20up%20into%20a%20ball%20on%20a%20clean%20cream%20background.%20Its%20spines%20are%20hilariously%20covered%20with%20tiny%2C%20colorful%20Christmas%20baubles%2C%20miniature%20candy%20canes%2C%20and%20bits%20of%20shiny%20tinsel%20that%20have%20gotten%20stuck%20to%20them.%20The%20hedgehog%20has%20a%20slightly%20confused%20but%20happy%20expression%2C%20with%20one%20eye%20peeking%20out.%20The%20style%20is%20a%20gentle%20watercolor%20painting%20with%20soft%20textures.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%95%B0%E6%83%B3%E5%A4%A9%E9%96%8B%E7%9A%84%E6%B5%B7%E5%BA%95%E8%81%96%E8%AA%95%E5%8D%A1%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E5%8F%8B%E5%96%84%E7%9A%84%E7%B4%AB%E8%89%B2%E7%AB%A0%E9%AD%9A%E6%AD%A3%E7%94%A8%E7%89%A0%E7%9A%84%E5%85%AB%E9%9A%BB%E6%89%8B%E8%87%82%E8%A3%9D%E9%A3%BE%E4%B8%80%E5%A1%8A%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%83%8F%E8%81%96%E8%AA%95%E6%A8%B9%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%88%86%E6%9E%9D%E7%8F%8A%E7%91%9A%E3%80%82%E7%89%A0%E6%AD%A3%E5%9C%A8%E6%A8%B9%E6%9E%9D%E4%B8%8A%E6%8E%9B%E8%91%97%E9%96%83%E4%BA%AE%E7%9A%84%E8%B2%9D%E6%AE%BC%E3%80%81%E6%B5%B7%E6%98%9F%E5%92%8C%E7%8F%8D%E7%8F%A0%E4%B8%B2%E3%80%82%E4%B8%80%E9%A0%82%E8%81%96%E8%AA%95%E5%B8%BD%E6%AD%A3%E6%BC%82%E6%B5%AE%E5%9C%A8%E7%89%A0%E7%9A%84%E9%A0%AD%E9%A0%82%E4%B8%8A%E6%96%B9%E3%80%82%E6%B0%A3%E6%B3%A1%E5%9C%A8%E6%B7%B1%E8%97%8D%E8%89%B2%E7%9A%84%E6%B5%B7%E6%B4%8B%E8%83%8C%E6%99%AF%E4%B8%AD%E5%8D%87%E8%B5%B7%E3%80%82%E5%8F%AF%E6%84%9B%E7%9A%84%E5%8D%A1%E9%80%9A%E9%A2%A8%E6%A0%BC%E3%80%82)**
 
 ---
 
-### No. 25: Kawaii Otters with Candy Cane
+### No. 25: 神奇雪鴞遞送郵件
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This prompt generates an adorable printable Christmas card design featuring two cute furry sea otters floating in icy water and holding a large peppermint candy cane. It's perfect for creating sweet, kawaii-style holiday cards.
+此提示會生成一張神奇的聖誕插畫，描繪一隻雪鴞在飛行中，攜帶著一個小巧精緻的紅色信封。非常適合用於迷人且充滿奇幻感的節日卡片設計。
 
 #### 📝 提示詞
 
 ```
-An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry sea otters are floating on their backs in icy blue water, holding paws. Instead of their usual rock, they are jointly holding a large red and white striped peppermint candy cane across their chests. Both wear tiny Santa hats titled on their heads. Soft white ripples surround them. The style is a kawaii cartoon with soft shading.
+一張神奇的聖誕插畫，長寬比為 1:1.4。一隻毛茸茸的白色雪鴞，有著明亮的黃色眼睛，在深藍色、繁星點點的夜空中展翅飛翔。牠的喙中銜著一個小巧精緻的紅色信封，信封上用金色火漆封口。一小枝冬青葉像羽毛一樣插在牠的耳後。風格細膩而迷人。
 ```
 
 #### 🖼️ 生成圖片
@@ -949,7 +1278,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780100132_xzm77l_1765692974848-ens980-h85hatWrURrnAAAAABJRU5ErkJggg__" width="600" alt="Kawaii Otters with Candy Cane - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765780138272_3svn17_1765765454815-r02l98-39y3ldSxfTVjYHEu7z6e58eW0dWm0gojHuTEKYhMy9CVualCgiWFmYEOeZiJjb6cPH6LFta5rSVvfacF03UX14_C1AQPVY6_iG5ixRy_G49L2ryc_fL9V3UcvzHA3StFyutw6gQMhMAu4RdVOVkZR795zmOd1uiNHIEHATQCi1sjCRI5IyCQt1FBdiEpEWzYS7U0S0BoAw1qqSmElKb0C" width="600" alt="神奇雪鴞遞送郵件 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -959,11 +1288,407 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20Two%20cute%20furry%20sea%20otters%20are%20floating%20on%20their%20backs%20in%20icy%20blue%20water%2C%20holding%20paws.%20Instead%20of%20their%20usual%20rock%2C%20they%20are%20jointly%20holding%20a%20large%20red%20and%20white%20striped%20peppermint%20candy%20cane%20across%20their%20chests.%20Both%20wear%20tiny%20Santa%20hats%20titled%20on%20their%20heads.%20Soft%20white%20ripples%20surround%20them.%20The%20style%20is%20a%20kawaii%20cartoon%20with%20soft%20shading.)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%A5%9E%E5%A5%87%E7%9A%84%E8%81%96%E8%AA%95%E6%8F%92%E7%95%AB%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E7%99%BD%E8%89%B2%E9%9B%AA%E9%B4%9E%EF%BC%8C%E6%9C%89%E8%91%97%E6%98%8E%E4%BA%AE%E7%9A%84%E9%BB%83%E8%89%B2%E7%9C%BC%E7%9D%9B%EF%BC%8C%E5%9C%A8%E6%B7%B1%E8%97%8D%E8%89%B2%E3%80%81%E7%B9%81%E6%98%9F%E9%BB%9E%E9%BB%9E%E7%9A%84%E5%A4%9C%E7%A9%BA%E4%B8%AD%E5%B1%95%E7%BF%85%E9%A3%9B%E7%BF%94%E3%80%82%E7%89%A0%E7%9A%84%E5%96%99%E4%B8%AD%E9%8A%9C%E8%91%97%E4%B8%80%E5%80%8B%E5%B0%8F%E5%B7%A7%E7%B2%BE%E7%B7%BB%E7%9A%84%E7%B4%85%E8%89%B2%E4%BF%A1%E5%B0%81%EF%BC%8C%E4%BF%A1%E5%B0%81%E4%B8%8A%E7%94%A8%E9%87%91%E8%89%B2%E7%81%AB%E6%BC%86%E5%B0%81%E5%8F%A3%E3%80%82%E4%B8%80%E5%B0%8F%E6%9E%9D%E5%86%AC%E9%9D%92%E8%91%89%E5%83%8F%E7%BE%BD%E6%AF%9B%E4%B8%80%E6%A8%A3%E6%8F%92%E5%9C%A8%E7%89%A0%E7%9A%84%E8%80%B3%E5%BE%8C%E3%80%82%E9%A2%A8%E6%A0%BC%E7%B4%B0%E8%86%A9%E8%80%8C%E8%BF%B7%E4%BA%BA%E3%80%82)**
 
 ---
 
-### No. 26: 聖誕老人的曬衣繩聖誕卡
+### No. 26: 狡猾的浣熊偷走聖誕老人的點心
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示會建立一張有趣的聖誕卡設計，描繪兩隻狡猾的浣熊在壁爐旁偷竊聖誕老人的牛奶和餅乾時被抓個正著。非常適合調皮又幽默的節日問候。
+
+#### 📝 提示詞
+
+```
+一張有趣的聖誕卡設計，長寬比為 1:1.4。壁爐旁的夜間場景。兩隻狡猾的浣熊戴著牠們天生的「強盜面罩」斑紋和迷你聖誕帽，被當場抓包。一隻正舉著一杯牛奶，另一隻嘴裡叼著一塊巧克力碎片餅乾，這些都是從標示著「給聖誕老人」的盤子裡拿走的。只有牠們的眼睛被爐火照亮。可愛、淘氣的插畫風格。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780135041_hfe6vq_1765693073644-d5i9ho-x9Nt6i6Rt8yVwAAAABJRU5ErkJggg__" width="600" alt="狡猾的浣熊偷走聖誕老人的點心 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E6%9C%89%E8%B6%A3%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E8%A8%AD%E8%A8%88%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E5%A3%81%E7%88%90%E6%97%81%E7%9A%84%E5%A4%9C%E9%96%93%E5%A0%B4%E6%99%AF%E3%80%82%E5%85%A9%E9%9A%BB%E7%8B%A1%E7%8C%BE%E7%9A%84%E6%B5%A3%E7%86%8A%E6%88%B4%E8%91%97%E7%89%A0%E5%80%91%E5%A4%A9%E7%94%9F%E7%9A%84%E3%80%8C%E5%BC%B7%E7%9B%9C%E9%9D%A2%E7%BD%A9%E3%80%8D%E6%96%91%E7%B4%8B%E5%92%8C%E8%BF%B7%E4%BD%A0%E8%81%96%E8%AA%95%E5%B8%BD%EF%BC%8C%E8%A2%AB%E7%95%B6%E5%A0%B4%E6%8A%93%E5%8C%85%E3%80%82%E4%B8%80%E9%9A%BB%E6%AD%A3%E8%88%89%E8%91%97%E4%B8%80%E6%9D%AF%E7%89%9B%E5%A5%B6%EF%BC%8C%E5%8F%A6%E4%B8%80%E9%9A%BB%E5%98%B4%E8%A3%A1%E5%8F%BC%E8%91%97%E4%B8%80%E5%A1%8A%E5%B7%A7%E5%85%8B%E5%8A%9B%E7%A2%8E%E7%89%87%E9%A4%85%E4%B9%BE%EF%BC%8C%E9%80%99%E4%BA%9B%E9%83%BD%E6%98%AF%E5%BE%9E%E6%A8%99%E7%A4%BA%E8%91%97%E3%80%8C%E7%B5%A6%E8%81%96%E8%AA%95%E8%80%81%E4%BA%BA%E3%80%8D%E7%9A%84%E7%9B%A4%E5%AD%90%E8%A3%A1%E6%8B%BF%E8%B5%B0%E7%9A%84%E3%80%82%E5%8F%AA%E6%9C%89%E7%89%A0%E5%80%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%A2%AB%E7%88%90%E7%81%AB%E7%85%A7%E4%BA%AE%E3%80%82%E5%8F%AF%E6%84%9B%E3%80%81%E6%B7%98%E6%B0%A3%E7%9A%84%E6%8F%92%E7%95%AB%E9%A2%A8%E6%A0%BC%E3%80%82)**
+
+---
+
+### No. 27: 企鵝與拐杖糖滑雪
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示會為聖誕卡片生成一張異想天開的動作插圖，內容是一隻歡快的企鵝，用薄荷糖拐杖當作滑雪板，滑下白雪皚皚的山坡。非常適合有趣且充滿活力的節日設計。
+
+#### 📝 提示詞
+
+```
+一張用於聖誕卡的異想天開動作插圖，長寬比為 1:1.4。一隻戴著復古飛行員護目鏡和飛揚紅圍巾的歡樂企鵝，正沿著白雪皚皚的山坡滑下。牠沒有使用滑雪板，而是用兩根巨大的薄荷拐杖糖。雪花在牠身後動態地飛濺。背景是簡潔的卡通松樹。風格為有趣、動感的卡通風格，帶有粗獷的輪廓。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780134351_n4c7z8_1765693058708-rcwygl-7E9Izca_arBPzsQsVeY_tbHB5P_b1XUclaVdeBnWEuIkUpFvsQH9zdkMF2TvwTQTlyJnjrmFRkUYxyJkutsbDX8qES7SzaOysAjokruFaeJFHKuvUskoNoPkHU9yMP6fKJqpiG1VSqsgqVWH7qHP4XtomX4vCKzPcAAAAASUVORK5CYII_" width="600" alt="企鵝與拐杖糖滑雪 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%94%A8%E6%96%BC%E8%81%96%E8%AA%95%E5%8D%A1%E7%9A%84%E7%95%B0%E6%83%B3%E5%A4%A9%E9%96%8B%E5%8B%95%E4%BD%9C%E6%8F%92%E5%9C%96%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E6%88%B4%E8%91%97%E5%BE%A9%E5%8F%A4%E9%A3%9B%E8%A1%8C%E5%93%A1%E8%AD%B7%E7%9B%AE%E9%8F%A1%E5%92%8C%E9%A3%9B%E6%8F%9A%E7%B4%85%E5%9C%8D%E5%B7%BE%E7%9A%84%E6%AD%A1%E6%A8%82%E4%BC%81%E9%B5%9D%EF%BC%8C%E6%AD%A3%E6%B2%BF%E8%91%97%E7%99%BD%E9%9B%AA%E7%9A%9A%E7%9A%9A%E7%9A%84%E5%B1%B1%E5%9D%A1%E6%BB%91%E4%B8%8B%E3%80%82%E7%89%A0%E6%B2%92%E6%9C%89%E4%BD%BF%E7%94%A8%E6%BB%91%E9%9B%AA%E6%9D%BF%EF%BC%8C%E8%80%8C%E6%98%AF%E7%94%A8%E5%85%A9%E6%A0%B9%E5%B7%A8%E5%A4%A7%E7%9A%84%E8%96%84%E8%8D%B7%E6%8B%90%E6%9D%96%E7%B3%96%E3%80%82%E9%9B%AA%E8%8A%B1%E5%9C%A8%E7%89%A0%E8%BA%AB%E5%BE%8C%E5%8B%95%E6%85%8B%E5%9C%B0%E9%A3%9B%E6%BF%BA%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E7%B0%A1%E6%BD%94%E7%9A%84%E5%8D%A1%E9%80%9A%E6%9D%BE%E6%A8%B9%E3%80%82%E9%A2%A8%E6%A0%BC%E7%82%BA%E6%9C%89%E8%B6%A3%E3%80%81%E5%8B%95%E6%84%9F%E7%9A%84%E5%8D%A1%E9%80%9A%E9%A2%A8%E6%A0%BC%EF%BC%8C%E5%B8%B6%E6%9C%89%E7%B2%97%E7%8D%B7%E7%9A%84%E8%BC%AA%E5%BB%93%E3%80%82)**
+
+---
+
+### No. 28: 熟睡的北極熊
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+這個提示會生成一張溫馨的聖誕卡片，卡片上有一隻北極熊媽媽和她的幼崽在雪堆中酣睡。這張卡片非常適合用來製作柔和、溫馨的兒童繪本風格節日賀卡。
+
+#### 📝 提示詞
+
+```
+一張溫馨的聖誕節可列印卡片，長寬比為 1:1.4。一隻巨大的北極熊媽媽在雪堆中蜷縮著熟睡，一隻小小的北極熊寶寶戴著迷你紅白條紋睡帽，安穩地睡在媽媽寬闊的背上。柔和的淺藍色背景下，溫柔的雪花環繞著牠們。風格是柔和色彩的溫馨兒童繪本插畫。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780129271_va78dc_1765693057760-ebc124-wFMsnpfYefmXwAAAABJRU5ErkJggg__" width="600" alt="熟睡的北極熊 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E6%BA%AB%E9%A6%A8%E7%9A%84%E8%81%96%E8%AA%95%E7%AF%80%E5%8F%AF%E5%88%97%E5%8D%B0%E5%8D%A1%E7%89%87%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E5%B7%A8%E5%A4%A7%E7%9A%84%E5%8C%97%E6%A5%B5%E7%86%8A%E5%AA%BD%E5%AA%BD%E5%9C%A8%E9%9B%AA%E5%A0%86%E4%B8%AD%E8%9C%B7%E7%B8%AE%E8%91%97%E7%86%9F%E7%9D%A1%EF%BC%8C%E4%B8%80%E9%9A%BB%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%8C%97%E6%A5%B5%E7%86%8A%E5%AF%B6%E5%AF%B6%E6%88%B4%E8%91%97%E8%BF%B7%E4%BD%A0%E7%B4%85%E7%99%BD%E6%A2%9D%E7%B4%8B%E7%9D%A1%E5%B8%BD%EF%BC%8C%E5%AE%89%E7%A9%A9%E5%9C%B0%E7%9D%A1%E5%9C%A8%E5%AA%BD%E5%AA%BD%E5%AF%AC%E9%97%8A%E7%9A%84%E8%83%8C%E4%B8%8A%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E6%B7%BA%E8%97%8D%E8%89%B2%E8%83%8C%E6%99%AF%E4%B8%8B%EF%BC%8C%E6%BA%AB%E6%9F%94%E7%9A%84%E9%9B%AA%E8%8A%B1%E7%92%B0%E7%B9%9E%E8%91%97%E7%89%A0%E5%80%91%E3%80%82%E9%A2%A8%E6%A0%BC%E6%98%AF%E6%9F%94%E5%92%8C%E8%89%B2%E5%BD%A9%E7%9A%84%E6%BA%AB%E9%A6%A8%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E6%8F%92%E7%95%AB%E3%80%82)**
+
+---
+
+### No. 29: 被緞帶纏住的燕尾服貓
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示會生成一張有趣的聖誕卡插圖，內容是一隻調皮的燕尾服貓咪，滑稽地纏在禮物緞帶和包裝紙中。非常適合輕鬆愉快的節日卡片。
+
+#### 📝 提示詞
+
+```
+一張有趣的聖誕卡片插圖，可供列印，長寬比為 1:1.4。一隻調皮的黑白燕尾貓被一大團紅色緞帶和撕破的節慶包裝紙滑稽地纏住，背景是乾淨的白色。只有牠睜大的、驚訝的綠色眼睛和一隻爪子從閃亮的紅色混亂中心露出。一捲膠帶黏在牠的尾巴上。動態卡通素描風格。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780125816_w7gjzg_1765693040741-mb5eqs-oAAAAASUVORK5CYII_" width="600" alt="被緞帶纏住的燕尾服貓 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E6%9C%89%E8%B6%A3%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E7%89%87%E6%8F%92%E5%9C%96%EF%BC%8C%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E8%AA%BF%E7%9A%AE%E7%9A%84%E9%BB%91%E7%99%BD%E7%87%95%E5%B0%BE%E8%B2%93%E8%A2%AB%E4%B8%80%E5%A4%A7%E5%9C%98%E7%B4%85%E8%89%B2%E7%B7%9E%E5%B8%B6%E5%92%8C%E6%92%95%E7%A0%B4%E7%9A%84%E7%AF%80%E6%85%B6%E5%8C%85%E8%A3%9D%E7%B4%99%E6%BB%91%E7%A8%BD%E5%9C%B0%E7%BA%8F%E4%BD%8F%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E4%B9%BE%E6%B7%A8%E7%9A%84%E7%99%BD%E8%89%B2%E3%80%82%E5%8F%AA%E6%9C%89%E7%89%A0%E7%9D%9C%E5%A4%A7%E7%9A%84%E3%80%81%E9%A9%9A%E8%A8%9D%E7%9A%84%E7%B6%A0%E8%89%B2%E7%9C%BC%E7%9D%9B%E5%92%8C%E4%B8%80%E9%9A%BB%E7%88%AA%E5%AD%90%E5%BE%9E%E9%96%83%E4%BA%AE%E7%9A%84%E7%B4%85%E8%89%B2%E6%B7%B7%E4%BA%82%E4%B8%AD%E5%BF%83%E9%9C%B2%E5%87%BA%E3%80%82%E4%B8%80%E6%8D%B2%E8%86%A0%E5%B8%B6%E9%BB%8F%E5%9C%A8%E7%89%A0%E7%9A%84%E5%B0%BE%E5%B7%B4%E4%B8%8A%E3%80%82%E5%8B%95%E6%85%8B%E5%8D%A1%E9%80%9A%E7%B4%A0%E6%8F%8F%E9%A2%A8%E6%A0%BC%E3%80%82)**
+
+---
+
+### No. 30: 日式溫泉中的水豚
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示會生成一張水豚在日式溫泉中享受的輕鬆可愛聖誕插圖。非常適合寧靜獨特的節日賀卡設計。
+
+#### 📝 提示詞
+
+```
+一張輕鬆可愛的聖誕插畫，長寬比為 1:1.4。一隻悠閒的水豚平靜地坐在熱氣騰騰的日式溫泉池中，水深及胸，周圍環繞著白雪覆蓋的岩石。牠頭上戴著一條摺疊的小毛巾，上面還戴著一頂聖誕帽。一顆柚子漂浮在牠身旁。風格是溫暖、柔和的動漫插畫，伴隨著輕柔升騰的蒸汽。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780123056_v02i28_1765693205572-8w5irf-AXqqyI4m5kpHAAAAAElFTkSuQmCC" width="600" alt="日式溫泉中的水豚 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E8%BC%95%E9%AC%86%E5%8F%AF%E6%84%9B%E7%9A%84%E8%81%96%E8%AA%95%E6%8F%92%E7%95%AB%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E6%82%A0%E9%96%92%E7%9A%84%E6%B0%B4%E8%B1%9A%E5%B9%B3%E9%9D%9C%E5%9C%B0%E5%9D%90%E5%9C%A8%E7%86%B1%E6%B0%A3%E9%A8%B0%E9%A8%B0%E7%9A%84%E6%97%A5%E5%BC%8F%E6%BA%AB%E6%B3%89%E6%B1%A0%E4%B8%AD%EF%BC%8C%E6%B0%B4%E6%B7%B1%E5%8F%8A%E8%83%B8%EF%BC%8C%E5%91%A8%E5%9C%8D%E7%92%B0%E7%B9%9E%E8%91%97%E7%99%BD%E9%9B%AA%E8%A6%86%E8%93%8B%E7%9A%84%E5%B2%A9%E7%9F%B3%E3%80%82%E7%89%A0%E9%A0%AD%E4%B8%8A%E6%88%B4%E8%91%97%E4%B8%80%E6%A2%9D%E6%91%BA%E7%96%8A%E7%9A%84%E5%B0%8F%E6%AF%9B%E5%B7%BE%EF%BC%8C%E4%B8%8A%E9%9D%A2%E9%82%84%E6%88%B4%E8%91%97%E4%B8%80%E9%A0%82%E8%81%96%E8%AA%95%E5%B8%BD%E3%80%82%E4%B8%80%E9%A1%86%E6%9F%9A%E5%AD%90%E6%BC%82%E6%B5%AE%E5%9C%A8%E7%89%A0%E8%BA%AB%E6%97%81%E3%80%82%E9%A2%A8%E6%A0%BC%E6%98%AF%E6%BA%AB%E6%9A%96%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E5%8B%95%E6%BC%AB%E6%8F%92%E7%95%AB%EF%BC%8C%E4%BC%B4%E9%9A%A8%E8%91%97%E8%BC%95%E6%9F%94%E5%8D%87%E9%A8%B0%E7%9A%84%E8%92%B8%E6%B1%BD%E3%80%82)**
+
+---
+
+### No. 31: 冬青枝頭鳴禽
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示能製作一張可愛又精緻的聖誕卡片，卡片上印有五隻戴著迷你冬帽的小花園鳥，在白雪覆蓋的冬青樹枝上歌唱。非常適合經典迷人的節日問候。
+
+#### 📝 提示詞
+
+```
+一張可愛又精緻的聖誕賀卡，可供列印，長寬比為 1:1.4。五隻小巧圓潤的園林鳥（一隻知更鳥、一隻藍山雀、一隻麻雀、一隻金翅雀、一隻鹪鷯）排成一列，棲息在覆蓋著白雪並結有紅色漿果的冬青樹枝上。每隻鳥都戴著一頂不同的迷你針織冬帽（絨球帽、毛帽、護耳帽），牠們都張開鳥喙，彷彿正在唱歌。風格為在紋理紙上繪製的精緻水彩和墨水畫。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780118971_iq7hcj_1765693200318-bzuqbb-MpYGTqgUNkpuE6DuZTGYkL_OfNSELavqabdsIGBfbwDUkP8Gi2zVV1lQ1BQAAAAASUVORK5CYII_" width="600" alt="冬青枝頭鳴禽 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E5%8F%88%E7%B2%BE%E7%B7%BB%E7%9A%84%E8%81%96%E8%AA%95%E8%B3%80%E5%8D%A1%EF%BC%8C%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%BA%94%E9%9A%BB%E5%B0%8F%E5%B7%A7%E5%9C%93%E6%BD%A4%E7%9A%84%E5%9C%92%E6%9E%97%E9%B3%A5%EF%BC%88%E4%B8%80%E9%9A%BB%E7%9F%A5%E6%9B%B4%E9%B3%A5%E3%80%81%E4%B8%80%E9%9A%BB%E8%97%8D%E5%B1%B1%E9%9B%80%E3%80%81%E4%B8%80%E9%9A%BB%E9%BA%BB%E9%9B%80%E3%80%81%E4%B8%80%E9%9A%BB%E9%87%91%E7%BF%85%E9%9B%80%E3%80%81%E4%B8%80%E9%9A%BB%E9%B9%AA%E9%B7%AF%EF%BC%89%E6%8E%92%E6%88%90%E4%B8%80%E5%88%97%EF%BC%8C%E6%A3%B2%E6%81%AF%E5%9C%A8%E8%A6%86%E8%93%8B%E8%91%97%E7%99%BD%E9%9B%AA%E4%B8%A6%E7%B5%90%E6%9C%89%E7%B4%85%E8%89%B2%E6%BC%BF%E6%9E%9C%E7%9A%84%E5%86%AC%E9%9D%92%E6%A8%B9%E6%9E%9D%E4%B8%8A%E3%80%82%E6%AF%8F%E9%9A%BB%E9%B3%A5%E9%83%BD%E6%88%B4%E8%91%97%E4%B8%80%E9%A0%82%E4%B8%8D%E5%90%8C%E7%9A%84%E8%BF%B7%E4%BD%A0%E9%87%9D%E7%B9%94%E5%86%AC%E5%B8%BD%EF%BC%88%E7%B5%A8%E7%90%83%E5%B8%BD%E3%80%81%E6%AF%9B%E5%B8%BD%E3%80%81%E8%AD%B7%E8%80%B3%E5%B8%BD%EF%BC%89%EF%BC%8C%E7%89%A0%E5%80%91%E9%83%BD%E5%BC%B5%E9%96%8B%E9%B3%A5%E5%96%99%EF%BC%8C%E5%BD%B7%E5%BD%BF%E6%AD%A3%E5%9C%A8%E5%94%B1%E6%AD%8C%E3%80%82%E9%A2%A8%E6%A0%BC%E7%82%BA%E5%9C%A8%E7%B4%8B%E7%90%86%E7%B4%99%E4%B8%8A%E7%B9%AA%E8%A3%BD%E7%9A%84%E7%B2%BE%E7%B7%BB%E6%B0%B4%E5%BD%A9%E5%92%8C%E5%A2%A8%E6%B0%B4%E7%95%AB%E3%80%82)**
+
+---
+
+### No. 32: 抱著橡實的松鼠
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示會生成一張充滿奇思妙想的可列印聖誕卡，卡片上有一隻忙碌的紅色松鼠，正獻上一顆包裝精美的橡實。這張卡片非常適合用於獨特迷人的節日問候，並帶有一絲林地魔法的氣息。
+
+#### 📝 提示詞
+
+```
+一張異想天開的可列印聖誕卡，長寬比為 1:1.4。一隻忙碌的紅色松鼠，耳朵上長著蓬鬆的毛簇，站在白雪覆蓋的樹枝上，背景是蒼白的冬日天空。牠手裡拿著一顆用紅色小紙精心包裹並繫上金色蝴蝶結的橡子，向前呈獻。牠身後，一堆同樣包裝好的橡子堆放在一根空心原木裡。這隻松鼠戴著一條小小的綠色針織圍巾。彩色鉛筆紋理風格。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780115837_0c1gkg_1765692973777-uwo85l-gdvX4ybDwKspAAAAABJRU5ErkJggg__" width="600" alt="抱著橡實的松鼠 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%95%B0%E6%83%B3%E5%A4%A9%E9%96%8B%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E5%8D%A1%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E5%BF%99%E7%A2%8C%E7%9A%84%E7%B4%85%E8%89%B2%E6%9D%BE%E9%BC%A0%EF%BC%8C%E8%80%B3%E6%9C%B5%E4%B8%8A%E9%95%B7%E8%91%97%E8%93%AC%E9%AC%86%E7%9A%84%E6%AF%9B%E7%B0%87%EF%BC%8C%E7%AB%99%E5%9C%A8%E7%99%BD%E9%9B%AA%E8%A6%86%E8%93%8B%E7%9A%84%E6%A8%B9%E6%9E%9D%E4%B8%8A%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E8%92%BC%E7%99%BD%E7%9A%84%E5%86%AC%E6%97%A5%E5%A4%A9%E7%A9%BA%E3%80%82%E7%89%A0%E6%89%8B%E8%A3%A1%E6%8B%BF%E8%91%97%E4%B8%80%E9%A1%86%E7%94%A8%E7%B4%85%E8%89%B2%E5%B0%8F%E7%B4%99%E7%B2%BE%E5%BF%83%E5%8C%85%E8%A3%B9%E4%B8%A6%E7%B9%AB%E4%B8%8A%E9%87%91%E8%89%B2%E8%9D%B4%E8%9D%B6%E7%B5%90%E7%9A%84%E6%A9%A1%E5%AD%90%EF%BC%8C%E5%90%91%E5%89%8D%E5%91%88%E7%8D%BB%E3%80%82%E7%89%A0%E8%BA%AB%E5%BE%8C%EF%BC%8C%E4%B8%80%E5%A0%86%E5%90%8C%E6%A8%A3%E5%8C%85%E8%A3%9D%E5%A5%BD%E7%9A%84%E6%A9%A1%E5%AD%90%E5%A0%86%E6%94%BE%E5%9C%A8%E4%B8%80%E6%A0%B9%E7%A9%BA%E5%BF%83%E5%8E%9F%E6%9C%A8%E8%A3%A1%E3%80%82%E9%80%99%E9%9A%BB%E6%9D%BE%E9%BC%A0%E6%88%B4%E8%91%97%E4%B8%80%E6%A2%9D%E5%B0%8F%E5%B0%8F%E7%9A%84%E7%B6%A0%E8%89%B2%E9%87%9D%E7%B9%94%E5%9C%8D%E5%B7%BE%E3%80%82%E5%BD%A9%E8%89%B2%E9%89%9B%E7%AD%86%E7%B4%8B%E7%90%86%E9%A2%A8%E6%A0%BC%E3%80%82)**
+
+---
+
+### No. 33: 卡哥犬卡在煙囪裡
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示會生成一張幽默的聖誕卡插圖，內容是一隻柯基犬倒栽蔥卡在煙囪裡。非常適合傳遞有趣又輕鬆的節日訊息。
+
+#### 📝 提示詞
+
+```
+一張幽默的聖誕卡插圖，採用扁平圖形風格，長寬比為 1:1.4。深藍色夜空中繁星點點，一座紅磚煙囪矗立其間。一隻柯基犬毛茸茸的橘白色屁股倒栽蔥地卡在煙囪頂部的開口中，短短的後腿在空中擺動。一頂小小的聖誕帽正從其中一隻腳上滑落。煙霧以問號的形狀在周圍冒出。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780114922_pdkrnq_1765693026895-9ldmsp-C6BJKp_H09UpAAAAAElFTkSuQmCC" width="600" alt="卡哥犬卡在煙囪裡 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%B9%BD%E9%BB%98%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E6%89%81%E5%B9%B3%E5%9C%96%E5%BD%A2%E9%A2%A8%E6%A0%BC%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E6%B7%B1%E8%97%8D%E8%89%B2%E5%A4%9C%E7%A9%BA%E4%B8%AD%E7%B9%81%E6%98%9F%E9%BB%9E%E9%BB%9E%EF%BC%8C%E4%B8%80%E5%BA%A7%E7%B4%85%E7%A3%9A%E7%85%99%E5%9B%AA%E7%9F%97%E7%AB%8B%E5%85%B6%E9%96%93%E3%80%82%E4%B8%80%E9%9A%BB%E6%9F%AF%E5%9F%BA%E7%8A%AC%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E6%A9%98%E7%99%BD%E8%89%B2%E5%B1%81%E8%82%A1%E5%80%92%E6%A0%BD%E8%94%A5%E5%9C%B0%E5%8D%A1%E5%9C%A8%E7%85%99%E5%9B%AA%E9%A0%82%E9%83%A8%E7%9A%84%E9%96%8B%E5%8F%A3%E4%B8%AD%EF%BC%8C%E7%9F%AD%E7%9F%AD%E7%9A%84%E5%BE%8C%E8%85%BF%E5%9C%A8%E7%A9%BA%E4%B8%AD%E6%93%BA%E5%8B%95%E3%80%82%E4%B8%80%E9%A0%82%E5%B0%8F%E5%B0%8F%E7%9A%84%E8%81%96%E8%AA%95%E5%B8%BD%E6%AD%A3%E5%BE%9E%E5%85%B6%E4%B8%AD%E4%B8%80%E9%9A%BB%E8%85%B3%E4%B8%8A%E6%BB%91%E8%90%BD%E3%80%82%E7%85%99%E9%9C%A7%E4%BB%A5%E5%95%8F%E8%99%9F%E7%9A%84%E5%BD%A2%E7%8B%80%E5%9C%A8%E5%91%A8%E5%9C%8D%E5%86%92%E5%87%BA%E3%80%82)**
+
+---
+
+### No. 34: 掛滿聖誕燈飾的毛茸茸高地牛
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示可建立一幅迷人又毛茸茸的蘇格蘭高地牛聖誕插圖，牛的毛髮和牛角上纏繞著聖誕燈飾。非常適合鄉村風格和溫馨的節日設計。
+
+#### 📝 提示詞
+
+```
+一幅迷人又毛茸茸的聖誕插畫，長寬比為 1:1.4。特寫一頭超級蓬鬆的薑黃色蘇格蘭高地牛肖像。牠蓬亂的毛髮完全遮住了眼睛，但牠的瀏海和長角上卻纏繞著發光的彩色聖誕燈和閃亮的小紅球。輕柔的雪花灑落在牠的毛皮上。背景是柔和模糊的雪地牧場。畫風具有繪畫感和紋理感。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780111966_dn1z7i_1765692971551-1i3kzo-B7M7DtPmAsUhAAAAAElFTkSuQmCC" width="600" alt="掛滿聖誕燈飾的毛茸茸高地牛 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%B9%85%E8%BF%B7%E4%BA%BA%E5%8F%88%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E8%81%96%E8%AA%95%E6%8F%92%E7%95%AB%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E7%89%B9%E5%AF%AB%E4%B8%80%E9%A0%AD%E8%B6%85%E7%B4%9A%E8%93%AC%E9%AC%86%E7%9A%84%E8%96%91%E9%BB%83%E8%89%B2%E8%98%87%E6%A0%BC%E8%98%AD%E9%AB%98%E5%9C%B0%E7%89%9B%E8%82%96%E5%83%8F%E3%80%82%E7%89%A0%E8%93%AC%E4%BA%82%E7%9A%84%E6%AF%9B%E9%AB%AE%E5%AE%8C%E5%85%A8%E9%81%AE%E4%BD%8F%E4%BA%86%E7%9C%BC%E7%9D%9B%EF%BC%8C%E4%BD%86%E7%89%A0%E7%9A%84%E7%80%8F%E6%B5%B7%E5%92%8C%E9%95%B7%E8%A7%92%E4%B8%8A%E5%8D%BB%E7%BA%8F%E7%B9%9E%E8%91%97%E7%99%BC%E5%85%89%E7%9A%84%E5%BD%A9%E8%89%B2%E8%81%96%E8%AA%95%E7%87%88%E5%92%8C%E9%96%83%E4%BA%AE%E7%9A%84%E5%B0%8F%E7%B4%85%E7%90%83%E3%80%82%E8%BC%95%E6%9F%94%E7%9A%84%E9%9B%AA%E8%8A%B1%E7%81%91%E8%90%BD%E5%9C%A8%E7%89%A0%E7%9A%84%E6%AF%9B%E7%9A%AE%E4%B8%8A%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E6%9F%94%E5%92%8C%E6%A8%A1%E7%B3%8A%E7%9A%84%E9%9B%AA%E5%9C%B0%E7%89%A7%E5%A0%B4%E3%80%82%E7%95%AB%E9%A2%A8%E5%85%B7%E6%9C%89%E7%B9%AA%E7%95%AB%E6%84%9F%E5%92%8C%E7%B4%8B%E7%90%86%E6%84%9F%E3%80%82)**
+
+---
+
+### No. 35: 長身臘腸犬聖誕卡
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示會為聖誕卡片建立一張有趣的扁平向量插圖，描繪一隻穿著超長節慶毛衣的超長臘腸狗。非常適合幽默的節日訊息和寵物主題卡片。
+
+#### 📝 提示詞
+
+```
+一張用於聖誕卡的有趣扁平向量插圖，長寬比為 1:1.4。一隻非常長的棕色臘腸狗橫向伸展，佔據了整張卡片，背景是純淺藍色。牠穿著一件荒謬地長的紅色針織高領毛衣，上面有重複的白色馴鹿和雪花圖案。毛衣太長了，中間下垂到地面。這隻狗看起來很滿足。下面的文字寫著：「渴望聖誕節」。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780099382_hsgl3l_1765692967267-gejgq8-Bek23XMoiWkxAAAAAElFTkSuQmCC" width="600" alt="長身臘腸犬聖誕卡 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%94%A8%E6%96%BC%E8%81%96%E8%AA%95%E5%8D%A1%E7%9A%84%E6%9C%89%E8%B6%A3%E6%89%81%E5%B9%B3%E5%90%91%E9%87%8F%E6%8F%92%E5%9C%96%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E9%9D%9E%E5%B8%B8%E9%95%B7%E7%9A%84%E6%A3%95%E8%89%B2%E8%87%98%E8%85%B8%E7%8B%97%E6%A9%AB%E5%90%91%E4%BC%B8%E5%B1%95%EF%BC%8C%E4%BD%94%E6%93%9A%E4%BA%86%E6%95%B4%E5%BC%B5%E5%8D%A1%E7%89%87%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E7%B4%94%E6%B7%BA%E8%97%8D%E8%89%B2%E3%80%82%E7%89%A0%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E8%8D%92%E8%AC%AC%E5%9C%B0%E9%95%B7%E7%9A%84%E7%B4%85%E8%89%B2%E9%87%9D%E7%B9%94%E9%AB%98%E9%A0%98%E6%AF%9B%E8%A1%A3%EF%BC%8C%E4%B8%8A%E9%9D%A2%E6%9C%89%E9%87%8D%E8%A4%87%E7%9A%84%E7%99%BD%E8%89%B2%E9%A6%B4%E9%B9%BF%E5%92%8C%E9%9B%AA%E8%8A%B1%E5%9C%96%E6%A1%88%E3%80%82%E6%AF%9B%E8%A1%A3%E5%A4%AA%E9%95%B7%E4%BA%86%EF%BC%8C%E4%B8%AD%E9%96%93%E4%B8%8B%E5%9E%82%E5%88%B0%E5%9C%B0%E9%9D%A2%E3%80%82%E9%80%99%E9%9A%BB%E7%8B%97%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%BE%88%E6%BB%BF%E8%B6%B3%E3%80%82%E4%B8%8B%E9%9D%A2%E7%9A%84%E6%96%87%E5%AD%97%E5%AF%AB%E8%91%97%EF%BC%9A%E3%80%8C%E6%B8%B4%E6%9C%9B%E8%81%96%E8%AA%95%E7%AF%80%E3%80%8D%E3%80%82)**
+
+---
+
+### No. 36: 異想天開的刺蝟聖誕卡
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示會生成一張異想天開的可列印聖誕卡插圖，圖中有一隻小巧圓潤的刺蝟，牠的刺上滑稽地裝飾著微型聖誕飾品。這非常適合製作獨特又幽默的節日問候。
+
+#### 📝 提示詞
+
+```
+一張異想天開的可列印聖誕卡插圖，長寬比為 1:1.4。一隻小巧圓潤的刺蝟蜷縮成一團，置於乾淨的米色背景上。牠的刺上滑稽地掛滿了微小、色彩繽紛的聖誕小飾品、迷你拐杖糖和一些閃亮的金屬絲，這些都黏在牠的刺上。這隻刺蝟帶著一絲困惑卻又快樂的表情，一隻眼睛偷偷地張望著。風格為柔和的水彩畫，帶有溫軟的質感。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780101179_ywdvzk_1765693039459-1wv8ex-htP1HdLVAAAAAElFTkSuQmCC" width="600" alt="異想天開的刺蝟聖誕卡 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%95%B0%E6%83%B3%E5%A4%A9%E9%96%8B%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E5%8D%A1%E6%8F%92%E5%9C%96%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E5%B0%8F%E5%B7%A7%E5%9C%93%E6%BD%A4%E7%9A%84%E5%88%BA%E8%9D%9F%E8%9C%B7%E7%B8%AE%E6%88%90%E4%B8%80%E5%9C%98%EF%BC%8C%E7%BD%AE%E6%96%BC%E4%B9%BE%E6%B7%A8%E7%9A%84%E7%B1%B3%E8%89%B2%E8%83%8C%E6%99%AF%E4%B8%8A%E3%80%82%E7%89%A0%E7%9A%84%E5%88%BA%E4%B8%8A%E6%BB%91%E7%A8%BD%E5%9C%B0%E6%8E%9B%E6%BB%BF%E4%BA%86%E5%BE%AE%E5%B0%8F%E3%80%81%E8%89%B2%E5%BD%A9%E7%B9%BD%E7%B4%9B%E7%9A%84%E8%81%96%E8%AA%95%E5%B0%8F%E9%A3%BE%E5%93%81%E3%80%81%E8%BF%B7%E4%BD%A0%E6%8B%90%E6%9D%96%E7%B3%96%E5%92%8C%E4%B8%80%E4%BA%9B%E9%96%83%E4%BA%AE%E7%9A%84%E9%87%91%E5%B1%AC%E7%B5%B2%EF%BC%8C%E9%80%99%E4%BA%9B%E9%83%BD%E9%BB%8F%E5%9C%A8%E7%89%A0%E7%9A%84%E5%88%BA%E4%B8%8A%E3%80%82%E9%80%99%E9%9A%BB%E5%88%BA%E8%9D%9F%E5%B8%B6%E8%91%97%E4%B8%80%E7%B5%B2%E5%9B%B0%E6%83%91%E5%8D%BB%E5%8F%88%E5%BF%AB%E6%A8%82%E7%9A%84%E8%A1%A8%E6%83%85%EF%BC%8C%E4%B8%80%E9%9A%BB%E7%9C%BC%E7%9D%9B%E5%81%B7%E5%81%B7%E5%9C%B0%E5%BC%B5%E6%9C%9B%E8%91%97%E3%80%82%E9%A2%A8%E6%A0%BC%E7%82%BA%E6%9F%94%E5%92%8C%E7%9A%84%E6%B0%B4%E5%BD%A9%E7%95%AB%EF%BC%8C%E5%B8%B6%E6%9C%89%E6%BA%AB%E8%BB%9F%E7%9A%84%E8%B3%AA%E6%84%9F%E3%80%82)**
+
+---
+
+### No. 37: 可愛水獺與拐杖糖
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示會生成一張可愛的可列印聖誕卡設計，卡片上印有兩隻毛茸茸的海獺漂浮在冰冷的水中，並抱著一支大薄荷拐杖糖。這張卡片非常適合製作甜美、卡哇伊風格的節日賀卡。
+
+#### 📝 提示詞
+
+```
+一張可愛的可列印聖誕卡設計，長寬比為 1:1.4。兩隻毛茸茸的可愛海獺仰躺在冰藍色的水中，手牽著手。牠們沒有像往常一樣拿著石頭，而是共同將一根巨大的紅白相間薄荷拐杖糖抱在胸前。兩隻海獺頭上都戴著歪斜的小聖誕帽。柔和的白色漣漪環繞著牠們。風格是柔和陰影的卡哇伊卡通。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780100132_xzm77l_1765692974848-ens980-h85hatWrURrnAAAAABJRU5ErkJggg__" width="600" alt="可愛水獺與拐杖糖 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **來源:** [Twitter Post](null)
+- **發布時間:** 2025年12月15日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E5%8D%A1%E8%A8%AD%E8%A8%88%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E5%85%A9%E9%9A%BB%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E5%8F%AF%E6%84%9B%E6%B5%B7%E7%8D%BA%E4%BB%B0%E8%BA%BA%E5%9C%A8%E5%86%B0%E8%97%8D%E8%89%B2%E7%9A%84%E6%B0%B4%E4%B8%AD%EF%BC%8C%E6%89%8B%E7%89%BD%E8%91%97%E6%89%8B%E3%80%82%E7%89%A0%E5%80%91%E6%B2%92%E6%9C%89%E5%83%8F%E5%BE%80%E5%B8%B8%E4%B8%80%E6%A8%A3%E6%8B%BF%E8%91%97%E7%9F%B3%E9%A0%AD%EF%BC%8C%E8%80%8C%E6%98%AF%E5%85%B1%E5%90%8C%E5%B0%87%E4%B8%80%E6%A0%B9%E5%B7%A8%E5%A4%A7%E7%9A%84%E7%B4%85%E7%99%BD%E7%9B%B8%E9%96%93%E8%96%84%E8%8D%B7%E6%8B%90%E6%9D%96%E7%B3%96%E6%8A%B1%E5%9C%A8%E8%83%B8%E5%89%8D%E3%80%82%E5%85%A9%E9%9A%BB%E6%B5%B7%E7%8D%BA%E9%A0%AD%E4%B8%8A%E9%83%BD%E6%88%B4%E8%91%97%E6%AD%AA%E6%96%9C%E7%9A%84%E5%B0%8F%E8%81%96%E8%AA%95%E5%B8%BD%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E7%99%BD%E8%89%B2%E6%BC%A3%E6%BC%AA%E7%92%B0%E7%B9%9E%E8%91%97%E7%89%A0%E5%80%91%E3%80%82%E9%A2%A8%E6%A0%BC%E6%98%AF%E6%9F%94%E5%92%8C%E9%99%B0%E5%BD%B1%E7%9A%84%E5%8D%A1%E5%93%87%E4%BC%8A%E5%8D%A1%E9%80%9A%E3%80%82)**
+
+---
+
+### No. 38: 聖誕老人的曬衣繩聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -996,40 +1721,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 27: 掛在拐杖糖上的樹懶聖誕卡
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一張可愛的可列印聖誕卡片設計，內容是一隻行動緩慢的樹懶掛在拐杖糖上，試圖搆到一棵聖誕樹。這個提示非常適合製作獨特又迷人的幽默節日賀卡。
-
-#### 📝 提示詞
-
-```
-一張可愛的可列印聖誕卡片設計，長寬比為 1:1.4。一隻可愛、動作緩慢的樹懶倒掛在卡片頂部橫向延伸的拐杖糖上。這隻樹懶穿著一件帶有像素化雪花圖案的節日醜聖誕毛衣。牠用緩慢的爪子抓著一個星星樹頂裝飾，試圖夠到一棵剛好在畫面外的聖誕樹。背景是實心的深青色，以襯托出樹懶。樹懶下方，文字以輕鬆的手寫字體寫著：「Slowly getting into the Spirit」。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640792570_as7oyl_1765640333881-lkq034-EZMiYLAuMw9pQ64ferde4Pu_d1y3UHlI792dxd75JBOzmGh1ODnaQby1qWlttEk7O5OxGmv9dcmSdyMuSTd96MmYgfF6Gh_BYdr4ZU6ci6sKkXILWADyJjyL1ps4zHLI1UkgGfvIv8BYOpTNrui_hYAAAAASUVORK5CYII_" width="600" alt="掛在拐杖糖上的樹懶聖誕卡 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E5%8D%A1%E7%89%87%E8%A8%AD%E8%A8%88%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E5%8F%AF%E6%84%9B%E3%80%81%E5%8B%95%E4%BD%9C%E7%B7%A9%E6%85%A2%E7%9A%84%E6%A8%B9%E6%87%B6%E5%80%92%E6%8E%9B%E5%9C%A8%E5%8D%A1%E7%89%87%E9%A0%82%E9%83%A8%E6%A9%AB%E5%90%91%E5%BB%B6%E4%BC%B8%E7%9A%84%E6%8B%90%E6%9D%96%E7%B3%96%E4%B8%8A%E3%80%82%E9%80%99%E9%9A%BB%E6%A8%B9%E6%87%B6%E7%A9%BF%E8%91%97%E4%B8%80%E4%BB%B6%E5%B8%B6%E6%9C%89%E5%83%8F%E7%B4%A0%E5%8C%96%E9%9B%AA%E8%8A%B1%E5%9C%96%E6%A1%88%E7%9A%84%E7%AF%80%E6%97%A5%E9%86%9C%E8%81%96%E8%AA%95%E6%AF%9B%E8%A1%A3%E3%80%82%E7%89%A0%E7%94%A8%E7%B7%A9%E6%85%A2%E7%9A%84%E7%88%AA%E5%AD%90%E6%8A%93%E8%91%97%E4%B8%80%E5%80%8B%E6%98%9F%E6%98%9F%E6%A8%B9%E9%A0%82%E8%A3%9D%E9%A3%BE%EF%BC%8C%E8%A9%A6%E5%9C%96%E5%A4%A0%E5%88%B0%E4%B8%80%E6%A3%B5%E5%89%9B%E5%A5%BD%E5%9C%A8%E7%95%AB%E9%9D%A2%E5%A4%96%E7%9A%84%E8%81%96%E8%AA%95%E6%A8%B9%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E5%AF%A6%E5%BF%83%E7%9A%84%E6%B7%B1%E9%9D%92%E8%89%B2%EF%BC%8C%E4%BB%A5%E8%A5%AF%E6%89%98%E5%87%BA%E6%A8%B9%E6%87%B6%E3%80%82%E6%A8%B9%E6%87%B6%E4%B8%8B%E6%96%B9%EF%BC%8C%E6%96%87%E5%AD%97%E4%BB%A5%E8%BC%95%E9%AC%86%E7%9A%84%E6%89%8B%E5%AF%AB%E5%AD%97%E9%AB%94%E5%AF%AB%E8%91%97%EF%BC%9A%E3%80%8CSlowly%20getting%20into%20the%20Spirit%E3%80%8D%E3%80%82)**
-
----
-
-### No. 28: 打扮成小精靈的巴哥犬聖誕卡
+### No. 39: 打扮成小精靈的巴哥犬聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1062,7 +1754,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 29: 馴鹿飛行學校聖誕卡
+### No. 40: 馴鹿飛行學校聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1095,7 +1787,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 30: 棉花糖熱水浴缸聖誕卡
+### No. 41: 棉花糖熱水浴缸聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1128,7 +1820,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 31: 蔓越莓倉鼠聖誕卡
+### No. 42: 蔓越莓倉鼠聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1161,7 +1853,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 32: 聖誕燈飾中的貓咪聖誕卡
+### No. 43: 聖誕燈飾中的貓咪聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1195,74 +1887,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 33: 薑餅瑜伽課聖誕卡
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一款歡樂又可愛的可列印聖誕卡設計，卡片上印有五個正在上「瑜伽課」的可愛薑餅人餅乾。這個提示非常適合製作帶點幽默和可愛的暖心節日問候。
-
-#### 📝 提示詞
-
-```
-一張有趣又可愛的聖誕卡片設計，可供列印，長寬比為 1:1.4。背景是純淨的粉彩薄荷綠。插圖描繪了五個可愛薑餅人的「瑜伽課」。中間的薑餅人單腳站立，擺出「樹式」姿勢，專注地用頭頂著一顆軟糖。在他的左邊，另一個薑餅人正嘗試「下犬式」姿勢，但他的手臂稍微碎裂，露出了美味的餅乾屑。右邊的薑餅人則閉著糖霜眼睛，以「蓮花坐」姿勢冥想。他們都有白色的糖霜細節和紅色的肉桂糖鈕扣。風格是簡潔、扁平的向量插圖，帶有柔和的陰影。頂部的文字寫著：{argument name="text" default="Find Your Inner Piece"}，採用俏皮、圓潤的白色字體。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640780963_w8tis9_1765640041792-ya1lsk-kYut4TGuYNPXl4D3U4NlBYnZnxEwH_L7GY8tY3qO5QAAAAAElFTkSuQmCC" width="600" alt="薑餅瑜伽課聖誕卡 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E6%9C%89%E8%B6%A3%E5%8F%88%E5%8F%AF%E6%84%9B%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E7%89%87%E8%A8%AD%E8%A8%88%EF%BC%8C%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E7%B4%94%E6%B7%A8%E7%9A%84%E7%B2%89%E5%BD%A9%E8%96%84%E8%8D%B7%E7%B6%A0%E3%80%82%E6%8F%92%E5%9C%96%E6%8F%8F%E7%B9%AA%E4%BA%86%E4%BA%94%E5%80%8B%E5%8F%AF%E6%84%9B%E8%96%91%E9%A4%85%E4%BA%BA%E7%9A%84%E3%80%8C%E7%91%9C%E4%BC%BD%E8%AA%B2%E3%80%8D%E3%80%82%E4%B8%AD%E9%96%93%E7%9A%84%E8%96%91%E9%A4%85%E4%BA%BA%E5%96%AE%E8%85%B3%E7%AB%99%E7%AB%8B%EF%BC%8C%E6%93%BA%E5%87%BA%E3%80%8C%E6%A8%B9%E5%BC%8F%E3%80%8D%E5%A7%BF%E5%8B%A2%EF%BC%8C%E5%B0%88%E6%B3%A8%E5%9C%B0%E7%94%A8%E9%A0%AD%E9%A0%82%E8%91%97%E4%B8%80%E9%A1%86%E8%BB%9F%E7%B3%96%E3%80%82%E5%9C%A8%E4%BB%96%E7%9A%84%E5%B7%A6%E9%82%8A%EF%BC%8C%E5%8F%A6%E4%B8%80%E5%80%8B%E8%96%91%E9%A4%85%E4%BA%BA%E6%AD%A3%E5%98%97%E8%A9%A6%E3%80%8C%E4%B8%8B%E7%8A%AC%E5%BC%8F%E3%80%8D%E5%A7%BF%E5%8B%A2%EF%BC%8C%E4%BD%86%E4%BB%96%E7%9A%84%E6%89%8B%E8%87%82%E7%A8%8D%E5%BE%AE%E7%A2%8E%E8%A3%82%EF%BC%8C%E9%9C%B2%E5%87%BA%E4%BA%86%E7%BE%8E%E5%91%B3%E7%9A%84%E9%A4%85%E4%B9%BE%E5%B1%91%E3%80%82%E5%8F%B3%E9%82%8A%E7%9A%84%E8%96%91%E9%A4%85%E4%BA%BA%E5%89%87%E9%96%89%E8%91%97%E7%B3%96%E9%9C%9C%E7%9C%BC%E7%9D%9B%EF%BC%8C%E4%BB%A5%E3%80%8C%E8%93%AE%E8%8A%B1%E5%9D%90%E3%80%8D%E5%A7%BF%E5%8B%A2%E5%86%A5%E6%83%B3%E3%80%82%E4%BB%96%E5%80%91%E9%83%BD%E6%9C%89%E7%99%BD%E8%89%B2%E7%9A%84%E7%B3%96%E9%9C%9C%E7%B4%B0%E7%AF%80%E5%92%8C%E7%B4%85%E8%89%B2%E7%9A%84%E8%82%89%E6%A1%82%E7%B3%96%E9%88%95%E6%89%A3%E3%80%82%E9%A2%A8%E6%A0%BC%E6%98%AF%E7%B0%A1%E6%BD%94%E3%80%81%E6%89%81%E5%B9%B3%E7%9A%84%E5%90%91%E9%87%8F%E6%8F%92%E5%9C%96%EF%BC%8C%E5%B8%B6%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E9%99%B0%E5%BD%B1%E3%80%82%E9%A0%82%E9%83%A8%E7%9A%84%E6%96%87%E5%AD%97%E5%AF%AB%E8%91%97%EF%BC%9A%7Bargument%20name%3D%22text%22%20default%3D%22Find%20Your%20Inner%20Piece%22%7D%EF%BC%8C%E6%8E%A1%E7%94%A8%E4%BF%8F%E7%9A%AE%E3%80%81%E5%9C%93%E6%BD%A4%E7%9A%84%E7%99%BD%E8%89%B2%E5%AD%97%E9%AB%94%E3%80%82)**
-
----
-
-### No. 34: 北極熊與企鵝圍巾聖誕卡
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一張溫馨又奇特的聖誕卡封面，描繪了一隻巨大的北極熊和一隻小企鵝之間，因一條滑稽地過大圍巾而建立的奇特友誼。非常適合在佳節期間傳達友誼與溫暖的主題。
-
-#### 📝 提示詞
-
-```
-一張溫馨又帶點奇思妙想的聖誕卡封面，長寬比為 1:1.4。一隻巨大、毛茸茸的白色北極熊坐在左側，一隻嬌小、圓滾滾的企鵝站在右側，背景是簡潔的冰藍色。牠們被一條滑稽地長、超大的紅綠相間針織圍巾連接起來，圍巾在北極熊的脖子上纏繞了好幾圈，然後垂下來緊緊地裹住小企鵝。企鵝仰視著北極熊，眼神中充滿了欽佩。北極熊的毛髮和針織羊毛的質感清晰可見，柔軟溫暖。簡單的白色雪花輕輕地飄落在牠們周圍。沒有文字，只有一幅關於友誼的甜蜜畫面。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765641085323_jvvhse_image.png" width="600" alt="北極熊與企鵝圍巾聖誕卡 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E6%BA%AB%E9%A6%A8%E5%8F%88%E5%B8%B6%E9%BB%9E%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E5%B0%81%E9%9D%A2%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E5%B7%A8%E5%A4%A7%E3%80%81%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E7%99%BD%E8%89%B2%E5%8C%97%E6%A5%B5%E7%86%8A%E5%9D%90%E5%9C%A8%E5%B7%A6%E5%81%B4%EF%BC%8C%E4%B8%80%E9%9A%BB%E5%AC%8C%E5%B0%8F%E3%80%81%E5%9C%93%E6%BB%BE%E6%BB%BE%E7%9A%84%E4%BC%81%E9%B5%9D%E7%AB%99%E5%9C%A8%E5%8F%B3%E5%81%B4%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E7%B0%A1%E6%BD%94%E7%9A%84%E5%86%B0%E8%97%8D%E8%89%B2%E3%80%82%E7%89%A0%E5%80%91%E8%A2%AB%E4%B8%80%E6%A2%9D%E6%BB%91%E7%A8%BD%E5%9C%B0%E9%95%B7%E3%80%81%E8%B6%85%E5%A4%A7%E7%9A%84%E7%B4%85%E7%B6%A0%E7%9B%B8%E9%96%93%E9%87%9D%E7%B9%94%E5%9C%8D%E5%B7%BE%E9%80%A3%E6%8E%A5%E8%B5%B7%E4%BE%86%EF%BC%8C%E5%9C%8D%E5%B7%BE%E5%9C%A8%E5%8C%97%E6%A5%B5%E7%86%8A%E7%9A%84%E8%84%96%E5%AD%90%E4%B8%8A%E7%BA%8F%E7%B9%9E%E4%BA%86%E5%A5%BD%E5%B9%BE%E5%9C%88%EF%BC%8C%E7%84%B6%E5%BE%8C%E5%9E%82%E4%B8%8B%E4%BE%86%E7%B7%8A%E7%B7%8A%E5%9C%B0%E8%A3%B9%E4%BD%8F%E5%B0%8F%E4%BC%81%E9%B5%9D%E3%80%82%E4%BC%81%E9%B5%9D%E4%BB%B0%E8%A6%96%E8%91%97%E5%8C%97%E6%A5%B5%E7%86%8A%EF%BC%8C%E7%9C%BC%E7%A5%9E%E4%B8%AD%E5%85%85%E6%BB%BF%E4%BA%86%E6%AC%BD%E4%BD%A9%E3%80%82%E5%8C%97%E6%A5%B5%E7%86%8A%E7%9A%84%E6%AF%9B%E9%AB%AE%E5%92%8C%E9%87%9D%E7%B9%94%E7%BE%8A%E6%AF%9B%E7%9A%84%E8%B3%AA%E6%84%9F%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%EF%BC%8C%E6%9F%94%E8%BB%9F%E6%BA%AB%E6%9A%96%E3%80%82%E7%B0%A1%E5%96%AE%E7%9A%84%E7%99%BD%E8%89%B2%E9%9B%AA%E8%8A%B1%E8%BC%95%E8%BC%95%E5%9C%B0%E9%A3%84%E8%90%BD%E5%9C%A8%E7%89%A0%E5%80%91%E5%91%A8%E5%9C%8D%E3%80%82%E6%B2%92%E6%9C%89%E6%96%87%E5%AD%97%EF%BC%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E5%B9%85%E9%97%9C%E6%96%BC%E5%8F%8B%E8%AA%BC%E7%9A%84%E7%94%9C%E8%9C%9C%E7%95%AB%E9%9D%A2%E3%80%82)**
-
----
-
-### No. 35: 水彩雪景小屋風景
+### No. 44: 水彩雪景小屋風景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1296,7 +1921,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 36: 奢華海軍藍雪花曼陀羅卡片
+### No. 45: 奢華海軍藍雪花曼陀羅卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1330,19 +1955,19 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 37: 復古冬季旅行海報
+### No. 46: 復古冬季旅行海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一張聖誕卡，設計風格為復古旅遊海報，特色是白雪皚皚的山間小屋，搭配大膽的平面色彩和網版印刷紋理美學。
+一張聖誕卡，設計風格為復古旅遊海報，描繪了白雪皚皚的山間小屋，採用大膽的平面色彩和網版印刷紋理美學。
 
 #### 📝 提示詞
 
 ```
-一張復古旅行海報風格的聖誕卡。風格化的雪山小屋景觀，配有一名滑雪者。大膽的平面色彩，絲網印刷紋理。底部文字：「{argument name="message" default="Winter Wonderland"}」。--ar 10:14
+一張復古旅行海報風格的聖誕卡。圖中描繪了一座白雪皚皚的山間小屋，小屋旁有一位滑雪者，風格化處理。色彩大膽平坦，帶有絲網印刷紋理。底部文字：「{argument name="message" default="Winter Wonderland"}」。--ar 10:14
 ```
 
 #### 🖼️ 生成圖片
@@ -1360,11 +1985,11 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 - **發布時間:** 2025年12月13日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%BE%A9%E5%8F%A4%E6%97%85%E8%A1%8C%E6%B5%B7%E5%A0%B1%E9%A2%A8%E6%A0%BC%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E3%80%82%E9%A2%A8%E6%A0%BC%E5%8C%96%E7%9A%84%E9%9B%AA%E5%B1%B1%E5%B0%8F%E5%B1%8B%E6%99%AF%E8%A7%80%EF%BC%8C%E9%85%8D%E6%9C%89%E4%B8%80%E5%90%8D%E6%BB%91%E9%9B%AA%E8%80%85%E3%80%82%E5%A4%A7%E8%86%BD%E7%9A%84%E5%B9%B3%E9%9D%A2%E8%89%B2%E5%BD%A9%EF%BC%8C%E7%B5%B2%E7%B6%B2%E5%8D%B0%E5%88%B7%E7%B4%8B%E7%90%86%E3%80%82%E5%BA%95%E9%83%A8%E6%96%87%E5%AD%97%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22message%22%20default%3D%22Winter%20Wonderland%22%7D%E3%80%8D%E3%80%82--ar%2010%3A14)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%BE%A9%E5%8F%A4%E6%97%85%E8%A1%8C%E6%B5%B7%E5%A0%B1%E9%A2%A8%E6%A0%BC%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E3%80%82%E5%9C%96%E4%B8%AD%E6%8F%8F%E7%B9%AA%E4%BA%86%E4%B8%80%E5%BA%A7%E7%99%BD%E9%9B%AA%E7%9A%9A%E7%9A%9A%E7%9A%84%E5%B1%B1%E9%96%93%E5%B0%8F%E5%B1%8B%EF%BC%8C%E5%B0%8F%E5%B1%8B%E6%97%81%E6%9C%89%E4%B8%80%E4%BD%8D%E6%BB%91%E9%9B%AA%E8%80%85%EF%BC%8C%E9%A2%A8%E6%A0%BC%E5%8C%96%E8%99%95%E7%90%86%E3%80%82%E8%89%B2%E5%BD%A9%E5%A4%A7%E8%86%BD%E5%B9%B3%E5%9D%A6%EF%BC%8C%E5%B8%B6%E6%9C%89%E7%B5%B2%E7%B6%B2%E5%8D%B0%E5%88%B7%E7%B4%8B%E7%90%86%E3%80%82%E5%BA%95%E9%83%A8%E6%96%87%E5%AD%97%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22message%22%20default%3D%22Winter%20Wonderland%22%7D%E3%80%8D%E3%80%82--ar%2010%3A14)**
 
 ---
 
-### No. 38: 懷舊玩具店櫥窗場景
+### No. 47: 懷舊玩具店櫥窗場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1397,7 +2022,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 39: 世紀中期現代聖誕卡
+### No. 48: 世紀中期現代聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1431,7 +2056,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 40: 維多利亞時代的聖誕老人明信片
+### No. 49: 維多利亞時代的聖誕老人明信片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1465,7 +2090,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 41: 熟睡動物疊疊樂聖誕卡
+### No. 50: 熟睡動物疊疊樂聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1499,7 +2124,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 42: 企鵝聖誕燈飾掙扎卡
+### No. 51: 企鵝聖誕燈飾掙扎卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1533,7 +2158,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 43: 現代排版聖誕樹卡片
+### No. 52: 現代排版聖誕樹卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1567,7 +2192,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 44: 可愛熱可可聖誕卡
+### No. 53: 可愛熱可可聖誕卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1601,7 +2226,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 45: 雪人與公園長椅上的鳥兒
+### No. 54: 雪人與公園長椅上的鳥兒
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1640,7 +2265,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 46: 海軍藍銀絲飾卡
+### No. 55: 海軍藍銀絲飾卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1680,7 +2305,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 47: 炭筆民俗植物藝術卡
+### No. 56: 炭筆民俗植物藝術卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1724,7 +2349,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 48: 水彩雪人家庭肖像
+### No. 57: 水彩雪人家庭肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1770,7 +2395,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 49: 四人家庭客製化雪人
+### No. 58: 四人家庭客製化雪人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1816,7 +2441,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 50: 彩虹瓶刷樹
+### No. 59: 彩虹瓶刷樹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1857,7 +2482,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 51: 優雅的金色花絲樹在綠色背景上
+### No. 60: 優雅的金色花絲樹在綠色背景上
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1899,7 +2524,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 52: 個人化家庭聖誕襪水彩畫
+### No. 61: 個人化家庭聖誕襪水彩畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1941,7 +2566,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 53: 復古迪士尼角色聖誕節
+### No. 62: 復古迪士尼角色聖誕節
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1983,7 +2608,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 54: 維多利亞式模切花束
+### No. 63: 維多利亞式模切花束
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2025,7 +2650,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 55: 溫馨水彩聖誕客廳
+### No. 64: 溫馨水彩聖誕客廳
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2062,7 +2687,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 56: 音符聖誕樹
+### No. 65: 音符聖誕樹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2104,7 +2729,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 57: 1950 年代復古冬青花環
+### No. 66: 1950 年代復古冬青花環
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2146,7 +2771,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 58: 中世紀藍色植絨樹
+### No. 67: 中世紀藍色植絨樹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2186,7 +2811,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 59: 獻給特別親友的民俗藝術襪
+### No. 68: 獻給特別親友的民俗藝術襪
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2228,7 +2853,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 60: 簡約彩虹筆觸樹
+### No. 69: 簡約彩虹筆觸樹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2264,7 +2889,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 61: 梵谷星夜聖誕
+### No. 70: 梵谷星夜聖誕
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2304,7 +2929,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 62: 花生漫畫風格史努比與聖誕襪
+### No. 71: 花生漫畫風格史努比與聖誕襪
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2344,7 +2969,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 63: 奇想水彩聖誕襪花環
+### No. 72: 奇想水彩聖誕襪花環
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2384,7 +3009,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 64: 世紀中期冬日森林與歌詞
+### No. 73: 世紀中期冬日森林與歌詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2430,7 +3055,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 65: 現代彩虹驕傲聖誕樹
+### No. 74: 現代彩虹驕傲聖誕樹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2470,7 +3095,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 66: 植絨樹與紅色飾品和散景
+### No. 75: 植絨樹與紅色飾品和散景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2510,7 +3135,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 67: 奢華勃艮第金色植物樹
+### No. 76: 奢華勃艮第金色植物樹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2550,7 +3175,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 68: 奢華黑金抽象樹
+### No. 77: 奢華黑金抽象樹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2590,7 +3215,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 69: 企業字體樹
+### No. 78: 企業字體樹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2632,7 +3257,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 70: 質樸手繪松樹花圈
+### No. 79: 質樸手繪松樹花圈
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2672,7 +3297,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 71: 復古 1950 年代聖誕城市街景
+### No. 80: 復古 1950 年代聖誕城市街景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2710,7 +3335,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 72: 維多利亞時代的聖誕老人在屋頂陽台
+### No. 81: 維多利亞時代的聖誕老人在屋頂陽台
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2753,7 +3378,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 73: 分層紙藝剪影樹
+### No. 82: 分層紙藝剪影樹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2793,7 +3418,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 74: 可愛塗鴉馴鹿臉
+### No. 83: 可愛塗鴉馴鹿臉
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2832,7 +3457,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 75: 復古雪橇兒童
+### No. 84: 復古雪橇兒童
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2872,7 +3497,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 76: 北極標誌上的幽默聖誕老人
+### No. 85: 北極標誌上的幽默聖誕老人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2912,7 +3537,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 77: 復古中世紀燈飾和花環
+### No. 86: 復古中世紀燈飾和花環
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2954,7 +3579,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 78: 夜間復古噤聲聖誕老人
+### No. 87: 夜間復古噤聲聖誕老人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2996,7 +3621,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 79: 奇幻森林動物聚會
+### No. 88: 奇幻森林動物聚會
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3040,7 +3665,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 80: 奇幻發光森林與雪人
+### No. 89: 奇幻發光森林與雪人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3080,7 +3705,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 81: 世紀中期現代風返校日
+### No. 90: 世紀中期現代風返校日
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3124,7 +3749,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 82: 現代斯堪地那維亞民間藝術馴鹿
+### No. 91: 現代斯堪地那維亞民間藝術馴鹿
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3168,7 +3793,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 83: 裝飾藝術風勃艮第金色卡片
+### No. 92: 裝飾藝術風勃艮第金色卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3210,7 +3835,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 84: 復古雪人冬季場景
+### No. 93: 復古雪人冬季場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3256,7 +3881,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 85: 維多利亞時代的兒童與雪人
+### No. 94: 維多利亞時代的兒童與雪人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3296,7 +3921,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 86: 極簡植物水墨與水彩
+### No. 95: 極簡植物水墨與水彩
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3336,7 +3961,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 87: 復古彩色石版印刷小貓
+### No. 96: 復古彩色石版印刷小貓
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3374,7 +3999,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 88: 現代點彩聖誕樹
+### No. 97: 現代點彩聖誕樹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3413,7 +4038,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 89: 水彩北極熊母子
+### No. 98: 水彩北極熊母子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3453,7 +4078,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 90: 可愛粉紅豬與薑餅塗鴉
+### No. 99: 可愛粉紅豬與薑餅塗鴉
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3492,7 +4117,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 91: 北極光下的北極熊
+### No. 100: 北極光下的北極熊
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3534,7 +4159,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 92: 薑餅人三重奏
+### No. 101: 薑餅人三重奏
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3574,7 +4199,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 93: 奢華黑金企業卡
+### No. 102: 奢華黑金企業卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3614,7 +4239,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 94: 水彩聖誕老人與文案空間
+### No. 103: 水彩聖誕老人與文案空間
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3654,7 +4279,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 95: 簡約水彩節慶狐狸
+### No. 104: 簡約水彩節慶狐狸
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3691,7 +4316,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 96: 幽默的「哎呀，斷了」薑餅人
+### No. 105: 幽默的「哎呀，斷了」薑餅人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3732,7 +4357,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 97: 雪地裡可愛的水彩企鵝
+### No. 106: 雪地裡可愛的水彩企鵝
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3771,7 +4396,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 98: 斯堪地那維亞海軍藍與奶油色民間藝術
+### No. 107: 斯堪地那維亞海軍藍與奶油色民間藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3808,7 +4433,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 99: 簡約海軍藍串燈卡片
+### No. 108: 簡約海軍藍串燈卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3849,7 +4474,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 100: 受傷的搞笑薑餅人
+### No. 109: 受傷的搞笑薑餅人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3891,7 +4516,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 101: 海軍藍水彩弦燈
+### No. 110: 海軍藍水彩弦燈
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3933,7 +4558,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 102: 對稱的民間藝術馴鹿
+### No. 111: 對稱的民間藝術馴鹿
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3974,7 +4599,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 103: 海軍藍和銀色閃光雪花
+### No. 112: 海軍藍和銀色閃光雪花
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4014,7 +4639,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 104: 經典畫風聖誕老人與森林動物
+### No. 113: 經典畫風聖誕老人與森林動物
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4055,7 +4680,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 105: 現代金色圓環花圈搭配燙金文字
+### No. 114: 現代金色圓環花圈搭配燙金文字
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4094,7 +4719,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 106: 紙捲聖誕鈴鐺
+### No. 115: 紙捲聖誕鈴鐺
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4134,7 +4759,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 107: 復古水彩冬日鄉村教堂
+### No. 116: 復古水彩冬日鄉村教堂
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4176,7 +4801,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 108: 夜間寧靜的林地動物
+### No. 117: 夜間寧靜的林地動物
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4217,7 +4842,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 109: 優雅水彩盆栽聖誕樹
+### No. 118: 優雅水彩盆栽聖誕樹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4256,7 +4881,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 110: 簡約水彩雪花卡片
+### No. 119: 簡約水彩雪花卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4298,7 +4923,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 111: 簡約懸掛飾品圖案
+### No. 120: 簡約懸掛飾品圖案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4338,367 +4963,13 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 112: 浮雕冬日景觀與紅色緞帶
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一幅經典的冬季風景畫，畫中有一棵雄偉的常青樹，繫著一個大大的紅色緞帶。設計模仿了觸感浮雕卡片，底部有可自訂的優雅文字。
-
-#### 📝 提示詞
-
-```
-一張精美細緻、可供列印的聖誕卡片設計，呈現寧靜的冬日風景畫，長寬比為 1:1.4。
-
-畫面中央是一棵雄偉的常青樹，深綠色的樹枝上覆蓋著厚厚的潔白積雪。樹上顯眼地繫著一個單一、碩大、鮮紅色的緞帶蝴蝶結。樹後方橫向延伸著一道質樸的深棕色木柵欄，同樣被白雪覆蓋並裝飾著綠色花環。可見的柵欄柱上繫著較小的紅色蝴蝶結。
-
-背景是白雪皚皚的茂密松樹林，逐漸融入朦朧的淡藍色和白色天空，柔和的雪花飄落在整個場景中。前景是厚實蓬鬆、帶有浮雕感的積雪。
-
-整個構圖呈現為繪製在高品質、有紋理的卡紙上的畫作，主場景周圍環繞著微妙的白色浮雕邊框，外緣則有浮雕樹形圖案。底部積雪中，以優雅的紅色草書字體寫著文字 {argument name="text" default="Merry Christmas"}。整體美學經典、寧靜、溫馨，並帶有觸感豐富的浮雕質感。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592727715_sqbpsy_1765541747126-2gqo1a-wdk_EB2UMxsPwAAAABJRU5ErkJggg__" width="600" alt="浮雕冬日景觀與紅色緞帶 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%B2%BE%E7%BE%8E%E7%B4%B0%E7%B7%BB%E3%80%81%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E7%89%87%E8%A8%AD%E8%A8%88%EF%BC%8C%E5%91%88%E7%8F%BE%E5%AF%A7%E9%9D%9C%E7%9A%84%E5%86%AC%E6%97%A5%E9%A2%A8%E6%99%AF%E7%95%AB%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%0A%0A%E7%95%AB%E9%9D%A2%E4%B8%AD%E5%A4%AE%E6%98%AF%E4%B8%80%E6%A3%B5%E9%9B%84%E5%81%89%E7%9A%84%E5%B8%B8%E9%9D%92%E6%A8%B9%EF%BC%8C%E6%B7%B1%E7%B6%A0%E8%89%B2%E7%9A%84%E6%A8%B9%E6%9E%9D%E4%B8%8A%E8%A6%86%E8%93%8B%E8%91%97%E5%8E%9A%E5%8E%9A%E7%9A%84%E6%BD%94%E7%99%BD%E7%A9%8D%E9%9B%AA%E3%80%82%E6%A8%B9%E4%B8%8A%E9%A1%AF%E7%9C%BC%E5%9C%B0%E7%B9%AB%E8%91%97%E4%B8%80%E5%80%8B%E5%96%AE%E4%B8%80%E3%80%81%E7%A2%A9%E5%A4%A7%E3%80%81%E9%AE%AE%E7%B4%85%E8%89%B2%E7%9A%84%E7%B7%9E%E5%B8%B6%E8%9D%B4%E8%9D%B6%E7%B5%90%E3%80%82%E6%A8%B9%E5%BE%8C%E6%96%B9%E6%A9%AB%E5%90%91%E5%BB%B6%E4%BC%B8%E8%91%97%E4%B8%80%E9%81%93%E8%B3%AA%E6%A8%B8%E7%9A%84%E6%B7%B1%E6%A3%95%E8%89%B2%E6%9C%A8%E6%9F%B5%E6%AC%84%EF%BC%8C%E5%90%8C%E6%A8%A3%E8%A2%AB%E7%99%BD%E9%9B%AA%E8%A6%86%E8%93%8B%E4%B8%A6%E8%A3%9D%E9%A3%BE%E8%91%97%E7%B6%A0%E8%89%B2%E8%8A%B1%E7%92%B0%E3%80%82%E5%8F%AF%E8%A6%8B%E7%9A%84%E6%9F%B5%E6%AC%84%E6%9F%B1%E4%B8%8A%E7%B9%AB%E8%91%97%E8%BC%83%E5%B0%8F%E7%9A%84%E7%B4%85%E8%89%B2%E8%9D%B4%E8%9D%B6%E7%B5%90%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E6%98%AF%E7%99%BD%E9%9B%AA%E7%9A%9A%E7%9A%9A%E7%9A%84%E8%8C%82%E5%AF%86%E6%9D%BE%E6%A8%B9%E6%9E%97%EF%BC%8C%E9%80%90%E6%BC%B8%E8%9E%8D%E5%85%A5%E6%9C%A6%E6%9C%A7%E7%9A%84%E6%B7%A1%E8%97%8D%E8%89%B2%E5%92%8C%E7%99%BD%E8%89%B2%E5%A4%A9%E7%A9%BA%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E9%9B%AA%E8%8A%B1%E9%A3%84%E8%90%BD%E5%9C%A8%E6%95%B4%E5%80%8B%E5%A0%B4%E6%99%AF%E4%B8%AD%E3%80%82%E5%89%8D%E6%99%AF%E6%98%AF%E5%8E%9A%E5%AF%A6%E8%93%AC%E9%AC%86%E3%80%81%E5%B8%B6%E6%9C%89%E6%B5%AE%E9%9B%95%E6%84%9F%E7%9A%84%E7%A9%8D%E9%9B%AA%E3%80%82%0A%0A%E6%95%B4%E5%80%8B%E6%A7%8B%E5%9C%96%E5%91%88%E7%8F%BE%E7%82%BA%E7%B9%AA%E8%A3%BD%E5%9C%A8%E9%AB%98%E5%93%81%E8%B3%AA%E3%80%81%E6%9C%89%E7%B4%8B%E7%90%86%E7%9A%84%E5%8D%A1%E7%B4%99%E4%B8%8A%E7%9A%84%E7%95%AB%E4%BD%9C%EF%BC%8C%E4%B8%BB%E5%A0%B4%E6%99%AF%E5%91%A8%E5%9C%8D%E7%92%B0%E7%B9%9E%E8%91%97%E5%BE%AE%E5%A6%99%E7%9A%84%E7%99%BD%E8%89%B2%E6%B5%AE%E9%9B%95%E9%82%8A%E6%A1%86%EF%BC%8C%E5%A4%96%E7%B7%A3%E5%89%87%E6%9C%89%E6%B5%AE%E9%9B%95%E6%A8%B9%E5%BD%A2%E5%9C%96%E6%A1%88%E3%80%82%E5%BA%95%E9%83%A8%E7%A9%8D%E9%9B%AA%E4%B8%AD%EF%BC%8C%E4%BB%A5%E5%84%AA%E9%9B%85%E7%9A%84%E7%B4%85%E8%89%B2%E8%8D%89%E6%9B%B8%E5%AD%97%E9%AB%94%E5%AF%AB%E8%91%97%E6%96%87%E5%AD%97%20%7Bargument%20name%3D%22text%22%20default%3D%22Merry%20Christmas%22%7D%E3%80%82%E6%95%B4%E9%AB%94%E7%BE%8E%E5%AD%B8%E7%B6%93%E5%85%B8%E3%80%81%E5%AF%A7%E9%9D%9C%E3%80%81%E6%BA%AB%E9%A6%A8%EF%BC%8C%E4%B8%A6%E5%B8%B6%E6%9C%89%E8%A7%B8%E6%84%9F%E8%B1%90%E5%AF%8C%E7%9A%84%E6%B5%AE%E9%9B%95%E8%B3%AA%E6%84%9F%E3%80%82)**
-
----
-
-### No. 113: 質樸手繪冬日小屋
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一幅迷人、童趣且樸拙的插畫，描繪了一間紅色小屋，坐落在白雪皚皚的樹林之間。這幅畫的特色是粗獷的輪廓線、類似麥克筆的紋理，以及天空上可自訂的俏皮文字。
-
-#### 📝 提示詞
-
-```
-一張精緻、可列印的節日賀卡，風格迷人、天真爛漫，手繪感十足，營造出溫馨而充滿節慶氛圍的感覺。
-
-場景設定在樸實溫暖的米色紙質背景上。畫面中央，一棟小巧、異想天開的紅色小屋，屋頂覆蓋著白雪，有煙囪和發光的黃色窗戶，坐落在兩棵高大的深綠色聖誕樹之間。
-
-每棵樹的樹枝上都裝飾著厚厚的蓬鬆白雪，樹頂則是一顆明亮閃耀的黃色星星。文字 {argument name="greeting" default="HAPPY: HOLIDAYS:"} 以紅色和綠色圓點組成的俏皮大寫字體，寫在兩棵樹之間的天空中。
-
-前景是緩緩起伏的白色雪坡，點綴著藍色圓點。一條簡單的棕色小徑從底部邊緣蜿蜒而上，通向小屋的門口。
-
-整幅圖像是一幅扁平的 2D 插畫，帶有粗獷的黑色輪廓，讓人聯想到兒童用麥克筆繪製的圖畫。整體感覺歡樂而簡潔。長寬比為 1:1.4。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592723373_q2qr26_1765541744452-3crdkl-Ac8jHTxdkNpeAAAAAElFTkSuQmCC" width="600" alt="質樸手繪冬日小屋 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%B2%BE%E7%B7%BB%E3%80%81%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E7%AF%80%E6%97%A5%E8%B3%80%E5%8D%A1%EF%BC%8C%E9%A2%A8%E6%A0%BC%E8%BF%B7%E4%BA%BA%E3%80%81%E5%A4%A9%E7%9C%9F%E7%88%9B%E6%BC%AB%EF%BC%8C%E6%89%8B%E7%B9%AA%E6%84%9F%E5%8D%81%E8%B6%B3%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E6%BA%AB%E9%A6%A8%E8%80%8C%E5%85%85%E6%BB%BF%E7%AF%80%E6%85%B6%E6%B0%9B%E5%9C%8D%E7%9A%84%E6%84%9F%E8%A6%BA%E3%80%82%0A%0A%E5%A0%B4%E6%99%AF%E8%A8%AD%E5%AE%9A%E5%9C%A8%E6%A8%B8%E5%AF%A6%E6%BA%AB%E6%9A%96%E7%9A%84%E7%B1%B3%E8%89%B2%E7%B4%99%E8%B3%AA%E8%83%8C%E6%99%AF%E4%B8%8A%E3%80%82%E7%95%AB%E9%9D%A2%E4%B8%AD%E5%A4%AE%EF%BC%8C%E4%B8%80%E6%A3%9F%E5%B0%8F%E5%B7%A7%E3%80%81%E7%95%B0%E6%83%B3%E5%A4%A9%E9%96%8B%E7%9A%84%E7%B4%85%E8%89%B2%E5%B0%8F%E5%B1%8B%EF%BC%8C%E5%B1%8B%E9%A0%82%E8%A6%86%E8%93%8B%E8%91%97%E7%99%BD%E9%9B%AA%EF%BC%8C%E6%9C%89%E7%85%99%E5%9B%AA%E5%92%8C%E7%99%BC%E5%85%89%E7%9A%84%E9%BB%83%E8%89%B2%E7%AA%97%E6%88%B6%EF%BC%8C%E5%9D%90%E8%90%BD%E5%9C%A8%E5%85%A9%E6%A3%B5%E9%AB%98%E5%A4%A7%E7%9A%84%E6%B7%B1%E7%B6%A0%E8%89%B2%E8%81%96%E8%AA%95%E6%A8%B9%E4%B9%8B%E9%96%93%E3%80%82%0A%0A%E6%AF%8F%E6%A3%B5%E6%A8%B9%E7%9A%84%E6%A8%B9%E6%9E%9D%E4%B8%8A%E9%83%BD%E8%A3%9D%E9%A3%BE%E8%91%97%E5%8E%9A%E5%8E%9A%E7%9A%84%E8%93%AC%E9%AC%86%E7%99%BD%E9%9B%AA%EF%BC%8C%E6%A8%B9%E9%A0%82%E5%89%87%E6%98%AF%E4%B8%80%E9%A1%86%E6%98%8E%E4%BA%AE%E9%96%83%E8%80%80%E7%9A%84%E9%BB%83%E8%89%B2%E6%98%9F%E6%98%9F%E3%80%82%E6%96%87%E5%AD%97%20%7Bargument%20name%3D%22greeting%22%20default%3D%22HAPPY%3A%20HOLIDAYS%3A%22%7D%20%E4%BB%A5%E7%B4%85%E8%89%B2%E5%92%8C%E7%B6%A0%E8%89%B2%E5%9C%93%E9%BB%9E%E7%B5%84%E6%88%90%E7%9A%84%E4%BF%8F%E7%9A%AE%E5%A4%A7%E5%AF%AB%E5%AD%97%E9%AB%94%EF%BC%8C%E5%AF%AB%E5%9C%A8%E5%85%A9%E6%A3%B5%E6%A8%B9%E4%B9%8B%E9%96%93%E7%9A%84%E5%A4%A9%E7%A9%BA%E4%B8%AD%E3%80%82%0A%0A%E5%89%8D%E6%99%AF%E6%98%AF%E7%B7%A9%E7%B7%A9%E8%B5%B7%E4%BC%8F%E7%9A%84%E7%99%BD%E8%89%B2%E9%9B%AA%E5%9D%A1%EF%BC%8C%E9%BB%9E%E7%B6%B4%E8%91%97%E8%97%8D%E8%89%B2%E5%9C%93%E9%BB%9E%E3%80%82%E4%B8%80%E6%A2%9D%E7%B0%A1%E5%96%AE%E7%9A%84%E6%A3%95%E8%89%B2%E5%B0%8F%E5%BE%91%E5%BE%9E%E5%BA%95%E9%83%A8%E9%82%8A%E7%B7%A3%E8%9C%BF%E8%9C%92%E8%80%8C%E4%B8%8A%EF%BC%8C%E9%80%9A%E5%90%91%E5%B0%8F%E5%B1%8B%E7%9A%84%E9%96%80%E5%8F%A3%E3%80%82%0A%0A%E6%95%B4%E5%B9%85%E5%9C%96%E5%83%8F%E6%98%AF%E4%B8%80%E5%B9%85%E6%89%81%E5%B9%B3%E7%9A%84%202D%20%E6%8F%92%E7%95%AB%EF%BC%8C%E5%B8%B6%E6%9C%89%E7%B2%97%E7%8D%B7%E7%9A%84%E9%BB%91%E8%89%B2%E8%BC%AA%E5%BB%93%EF%BC%8C%E8%AE%93%E4%BA%BA%E8%81%AF%E6%83%B3%E5%88%B0%E5%85%92%E7%AB%A5%E7%94%A8%E9%BA%A5%E5%85%8B%E7%AD%86%E7%B9%AA%E8%A3%BD%E7%9A%84%E5%9C%96%E7%95%AB%E3%80%82%E6%95%B4%E9%AB%94%E6%84%9F%E8%A6%BA%E6%AD%A1%E6%A8%82%E8%80%8C%E7%B0%A1%E6%BD%94%E3%80%82%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82)**
-
----
-
-### No. 114: 時尚藍綠色燙金聖誕樹
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張現代扁平化設計的卡片，以深青色的聖誕樹為主體，樹上裝飾著浮雕燙金細節。鳥兒們銜著一條橫幅，橫幅上的文字可供自訂，營造出節日氣氛濃厚的世紀中期美學風格。
-
-#### 📝 提示詞
-
-```
-一張製作精美、高品質的可列印聖誕卡插圖，長寬比為 1:1.4。設計以一棵深青色的聖誕樹為中心，背景是淡藍色的天空，點綴著精緻的白色閃光和細小的閃亮燙金圓點。
-
-樹頂有一顆醒目、浮雕的燙金星星。兩隻風格化的淺藍色小鳥正銜著一條飄逸的白色橫幅，橫幅垂掛在樹上，上面以優雅的燙金字體寫著「{argument name="text" default="MERRY CHRISTMAS"}」。
-
-活潑的青色和藍色小鳥忙著裝飾聖誕樹，掛上飾品。裝飾品包括戴著紅色聖誕帽的迷人雪人吊飾、復古風格的粉紅色水滴形聖誕球，以及帶有白色幾何圖案的紅色聖誕球。較小的燙金星星和簡約的綠色與金色圓圈散佈在樹枝間。
-
-這幅藝術作品採用現代扁平化設計，帶有微妙的紙張紋理和中世紀美學。調色板是深青色、淡藍色、紅色、粉紅色和閃爍金色的節慶組合。強調啞光色彩與閃亮、浮雕燙金元素之間的美麗對比。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592722180_ydxlsc_1765541712743-ndcs2r-gP5zMTyJxZm11Xr33EkxzkQKhpcRs7x5h_Tzms381W3eUyKh_fVROMUcHTkRbf9m_hETcrMKre8lM0_L5vV4kYzf8Hry074O4VmGMAAAAASUVORK5CYII_" width="600" alt="時尚藍綠色燙金聖誕樹 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E8%A3%BD%E4%BD%9C%E7%B2%BE%E7%BE%8E%E3%80%81%E9%AB%98%E5%93%81%E8%B3%AA%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E5%8D%A1%E6%8F%92%E5%9C%96%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E8%A8%AD%E8%A8%88%E4%BB%A5%E4%B8%80%E6%A3%B5%E6%B7%B1%E9%9D%92%E8%89%B2%E7%9A%84%E8%81%96%E8%AA%95%E6%A8%B9%E7%82%BA%E4%B8%AD%E5%BF%83%EF%BC%8C%E8%83%8C%E6%99%AF%E6%98%AF%E6%B7%A1%E8%97%8D%E8%89%B2%E7%9A%84%E5%A4%A9%E7%A9%BA%EF%BC%8C%E9%BB%9E%E7%B6%B4%E8%91%97%E7%B2%BE%E7%B7%BB%E7%9A%84%E7%99%BD%E8%89%B2%E9%96%83%E5%85%89%E5%92%8C%E7%B4%B0%E5%B0%8F%E7%9A%84%E9%96%83%E4%BA%AE%E7%87%99%E9%87%91%E5%9C%93%E9%BB%9E%E3%80%82%0A%0A%E6%A8%B9%E9%A0%82%E6%9C%89%E4%B8%80%E9%A1%86%E9%86%92%E7%9B%AE%E3%80%81%E6%B5%AE%E9%9B%95%E7%9A%84%E7%87%99%E9%87%91%E6%98%9F%E6%98%9F%E3%80%82%E5%85%A9%E9%9A%BB%E9%A2%A8%E6%A0%BC%E5%8C%96%E7%9A%84%E6%B7%BA%E8%97%8D%E8%89%B2%E5%B0%8F%E9%B3%A5%E6%AD%A3%E9%8A%9C%E8%91%97%E4%B8%80%E6%A2%9D%E9%A3%84%E9%80%B8%E7%9A%84%E7%99%BD%E8%89%B2%E6%A9%AB%E5%B9%85%EF%BC%8C%E6%A9%AB%E5%B9%85%E5%9E%82%E6%8E%9B%E5%9C%A8%E6%A8%B9%E4%B8%8A%EF%BC%8C%E4%B8%8A%E9%9D%A2%E4%BB%A5%E5%84%AA%E9%9B%85%E7%9A%84%E7%87%99%E9%87%91%E5%AD%97%E9%AB%94%E5%AF%AB%E8%91%97%E3%80%8C%7Bargument%20name%3D%22text%22%20default%3D%22MERRY%20CHRISTMAS%22%7D%E3%80%8D%E3%80%82%0A%0A%E6%B4%BB%E6%BD%91%E7%9A%84%E9%9D%92%E8%89%B2%E5%92%8C%E8%97%8D%E8%89%B2%E5%B0%8F%E9%B3%A5%E5%BF%99%E8%91%97%E8%A3%9D%E9%A3%BE%E8%81%96%E8%AA%95%E6%A8%B9%EF%BC%8C%E6%8E%9B%E4%B8%8A%E9%A3%BE%E5%93%81%E3%80%82%E8%A3%9D%E9%A3%BE%E5%93%81%E5%8C%85%E6%8B%AC%E6%88%B4%E8%91%97%E7%B4%85%E8%89%B2%E8%81%96%E8%AA%95%E5%B8%BD%E7%9A%84%E8%BF%B7%E4%BA%BA%E9%9B%AA%E4%BA%BA%E5%90%8A%E9%A3%BE%E3%80%81%E5%BE%A9%E5%8F%A4%E9%A2%A8%E6%A0%BC%E7%9A%84%E7%B2%89%E7%B4%85%E8%89%B2%E6%B0%B4%E6%BB%B4%E5%BD%A2%E8%81%96%E8%AA%95%E7%90%83%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%B8%B6%E6%9C%89%E7%99%BD%E8%89%B2%E5%B9%BE%E4%BD%95%E5%9C%96%E6%A1%88%E7%9A%84%E7%B4%85%E8%89%B2%E8%81%96%E8%AA%95%E7%90%83%E3%80%82%E8%BC%83%E5%B0%8F%E7%9A%84%E7%87%99%E9%87%91%E6%98%9F%E6%98%9F%E5%92%8C%E7%B0%A1%E7%B4%84%E7%9A%84%E7%B6%A0%E8%89%B2%E8%88%87%E9%87%91%E8%89%B2%E5%9C%93%E5%9C%88%E6%95%A3%E4%BD%88%E5%9C%A8%E6%A8%B9%E6%9E%9D%E9%96%93%E3%80%82%0A%0A%E9%80%99%E5%B9%85%E8%97%9D%E8%A1%93%E4%BD%9C%E5%93%81%E6%8E%A1%E7%94%A8%E7%8F%BE%E4%BB%A3%E6%89%81%E5%B9%B3%E5%8C%96%E8%A8%AD%E8%A8%88%EF%BC%8C%E5%B8%B6%E6%9C%89%E5%BE%AE%E5%A6%99%E7%9A%84%E7%B4%99%E5%BC%B5%E7%B4%8B%E7%90%86%E5%92%8C%E4%B8%AD%E4%B8%96%E7%B4%80%E7%BE%8E%E5%AD%B8%E3%80%82%E8%AA%BF%E8%89%B2%E6%9D%BF%E6%98%AF%E6%B7%B1%E9%9D%92%E8%89%B2%E3%80%81%E6%B7%A1%E8%97%8D%E8%89%B2%E3%80%81%E7%B4%85%E8%89%B2%E3%80%81%E7%B2%89%E7%B4%85%E8%89%B2%E5%92%8C%E9%96%83%E7%88%8D%E9%87%91%E8%89%B2%E7%9A%84%E7%AF%80%E6%85%B6%E7%B5%84%E5%90%88%E3%80%82%E5%BC%B7%E8%AA%BF%E5%95%9E%E5%85%89%E8%89%B2%E5%BD%A9%E8%88%87%E9%96%83%E4%BA%AE%E3%80%81%E6%B5%AE%E9%9B%95%E7%87%99%E9%87%91%E5%85%83%E7%B4%A0%E4%B9%8B%E9%96%93%E7%9A%84%E7%BE%8E%E9%BA%97%E5%B0%8D%E6%AF%94%E3%80%82)**
-
----
-
-### No. 115: 抽象潑墨聖誕樹
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一張現代簡約的聖誕卡，以動態的綠色潑墨和紅色滴流構成抽象的聖誕樹，點綴著金色圓點飾物，襯托在簡潔的白色背景上。
-
-#### 📝 提示詞
-
-```
-一張現代簡約的聖誕卡設計，以動態潑墨和滴流技法，創造出抽象的聖誕樹。
-
-聖誕樹由分層的亮綠色和深森林綠色顏料飛濺組成，形成錐形。樹上點綴著小巧、鮮豔的紅色飛濺和精緻、掃掠的紅色線條，模仿著聖誕彩帶。閃閃發光的金屬金色圓圈散落在樹上作為裝飾，樹頂有一個較大的圓圈。
-
-整個構圖以純淨、實心的白色背景為襯托，稀疏、優雅的金色圓點像輕柔的雪花般飄浮。
-
-風格簡潔、節慶且富有藝術感。扁平化圖形插畫，高解析度，非常適合印刷，垂直方向。--ar 10:14
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592709630_pclvjd_1765541718502-lsqra6-e5sgJnnIqyvosoUXmgBn97LICJeHMpvhuXdoMg9Q8pabiVGOSM_MNGu01v2yiyRzOqCCuWISz99UIbYwUeICB7i7XWJT38TyVxMavPhIFtVLcbPbL2dUwlpzGqs0nP7MMmXVc5bHS_qqo1GwDxL6282duUWp5JAAAAAElFTkSuQmCC" width="600" alt="抽象潑墨聖誕樹 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%8F%BE%E4%BB%A3%E7%B0%A1%E7%B4%84%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E8%A8%AD%E8%A8%88%EF%BC%8C%E4%BB%A5%E5%8B%95%E6%85%8B%E6%BD%91%E5%A2%A8%E5%92%8C%E6%BB%B4%E6%B5%81%E6%8A%80%E6%B3%95%EF%BC%8C%E5%89%B5%E9%80%A0%E5%87%BA%E6%8A%BD%E8%B1%A1%E7%9A%84%E8%81%96%E8%AA%95%E6%A8%B9%E3%80%82%0A%0A%E8%81%96%E8%AA%95%E6%A8%B9%E7%94%B1%E5%88%86%E5%B1%A4%E7%9A%84%E4%BA%AE%E7%B6%A0%E8%89%B2%E5%92%8C%E6%B7%B1%E6%A3%AE%E6%9E%97%E7%B6%A0%E8%89%B2%E9%A1%8F%E6%96%99%E9%A3%9B%E6%BF%BA%E7%B5%84%E6%88%90%EF%BC%8C%E5%BD%A2%E6%88%90%E9%8C%90%E5%BD%A2%E3%80%82%E6%A8%B9%E4%B8%8A%E9%BB%9E%E7%B6%B4%E8%91%97%E5%B0%8F%E5%B7%A7%E3%80%81%E9%AE%AE%E8%B1%94%E7%9A%84%E7%B4%85%E8%89%B2%E9%A3%9B%E6%BF%BA%E5%92%8C%E7%B2%BE%E7%B7%BB%E3%80%81%E6%8E%83%E6%8E%A0%E7%9A%84%E7%B4%85%E8%89%B2%E7%B7%9A%E6%A2%9D%EF%BC%8C%E6%A8%A1%E4%BB%BF%E8%91%97%E8%81%96%E8%AA%95%E5%BD%A9%E5%B8%B6%E3%80%82%E9%96%83%E9%96%83%E7%99%BC%E5%85%89%E7%9A%84%E9%87%91%E5%B1%AC%E9%87%91%E8%89%B2%E5%9C%93%E5%9C%88%E6%95%A3%E8%90%BD%E5%9C%A8%E6%A8%B9%E4%B8%8A%E4%BD%9C%E7%82%BA%E8%A3%9D%E9%A3%BE%EF%BC%8C%E6%A8%B9%E9%A0%82%E6%9C%89%E4%B8%80%E5%80%8B%E8%BC%83%E5%A4%A7%E7%9A%84%E5%9C%93%E5%9C%88%E3%80%82%0A%0A%E6%95%B4%E5%80%8B%E6%A7%8B%E5%9C%96%E4%BB%A5%E7%B4%94%E6%B7%A8%E3%80%81%E5%AF%A6%E5%BF%83%E7%9A%84%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF%E7%82%BA%E8%A5%AF%E6%89%98%EF%BC%8C%E7%A8%80%E7%96%8F%E3%80%81%E5%84%AA%E9%9B%85%E7%9A%84%E9%87%91%E8%89%B2%E5%9C%93%E9%BB%9E%E5%83%8F%E8%BC%95%E6%9F%94%E7%9A%84%E9%9B%AA%E8%8A%B1%E8%88%AC%E9%A3%84%E6%B5%AE%E3%80%82%0A%0A%E9%A2%A8%E6%A0%BC%E7%B0%A1%E6%BD%94%E3%80%81%E7%AF%80%E6%85%B6%E4%B8%94%E5%AF%8C%E6%9C%89%E8%97%9D%E8%A1%93%E6%84%9F%E3%80%82%E6%89%81%E5%B9%B3%E5%8C%96%E5%9C%96%E5%BD%A2%E6%8F%92%E7%95%AB%EF%BC%8C%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%EF%BC%8C%E9%9D%9E%E5%B8%B8%E9%81%A9%E5%90%88%E5%8D%B0%E5%88%B7%EF%BC%8C%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E3%80%82--ar%2010%3A14)**
-
----
-
-### No. 116: 簡約水彩馴鹿與知更鳥
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一張簡約的手繪水彩插畫，描繪一隻可愛的馴鹿探頭入畫，鹿角上棲息著一隻小巧的知更鳥。簡潔的白色背景和精緻的線條藝術，營造出高品質的可列印卡片。
-
-#### 📝 提示詞
-
-```
-一張異想天開又溫馨的聖誕卡片設計，特色是手繪水彩插圖。一隻可愛的卡通馴鹿，有著大大的、發光的紅鼻子和好奇的大眼睛，從右下角探頭進入畫面。一隻小巧可愛、有著紅色胸脯的知更鳥棲息在牠灰色的鹿角上。風格簡約，帶有柔和的水彩紋理和精緻的黑色線條藝術，襯托在乾淨、有紋理的白色紙張背景上。精美、高品質、可列印的藝術品，扁平插畫。--ar 1:1.4
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592710481_2t7ywa_17380234cd49b4e4491d69fdf541759f63f9fe6e3e752d8c50933a62b38b2408" width="600" alt="簡約水彩馴鹿與知更鳥 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%95%B0%E6%83%B3%E5%A4%A9%E9%96%8B%E5%8F%88%E6%BA%AB%E9%A6%A8%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E7%89%87%E8%A8%AD%E8%A8%88%EF%BC%8C%E7%89%B9%E8%89%B2%E6%98%AF%E6%89%8B%E7%B9%AA%E6%B0%B4%E5%BD%A9%E6%8F%92%E5%9C%96%E3%80%82%E4%B8%80%E9%9A%BB%E5%8F%AF%E6%84%9B%E7%9A%84%E5%8D%A1%E9%80%9A%E9%A6%B4%E9%B9%BF%EF%BC%8C%E6%9C%89%E8%91%97%E5%A4%A7%E5%A4%A7%E7%9A%84%E3%80%81%E7%99%BC%E5%85%89%E7%9A%84%E7%B4%85%E9%BC%BB%E5%AD%90%E5%92%8C%E5%A5%BD%E5%A5%87%E7%9A%84%E5%A4%A7%E7%9C%BC%E7%9D%9B%EF%BC%8C%E5%BE%9E%E5%8F%B3%E4%B8%8B%E8%A7%92%E6%8E%A2%E9%A0%AD%E9%80%B2%E5%85%A5%E7%95%AB%E9%9D%A2%E3%80%82%E4%B8%80%E9%9A%BB%E5%B0%8F%E5%B7%A7%E5%8F%AF%E6%84%9B%E3%80%81%E6%9C%89%E8%91%97%E7%B4%85%E8%89%B2%E8%83%B8%E8%84%AF%E7%9A%84%E7%9F%A5%E6%9B%B4%E9%B3%A5%E6%A3%B2%E6%81%AF%E5%9C%A8%E7%89%A0%E7%81%B0%E8%89%B2%E7%9A%84%E9%B9%BF%E8%A7%92%E4%B8%8A%E3%80%82%E9%A2%A8%E6%A0%BC%E7%B0%A1%E7%B4%84%EF%BC%8C%E5%B8%B6%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E6%B0%B4%E5%BD%A9%E7%B4%8B%E7%90%86%E5%92%8C%E7%B2%BE%E7%B7%BB%E7%9A%84%E9%BB%91%E8%89%B2%E7%B7%9A%E6%A2%9D%E8%97%9D%E8%A1%93%EF%BC%8C%E8%A5%AF%E6%89%98%E5%9C%A8%E4%B9%BE%E6%B7%A8%E3%80%81%E6%9C%89%E7%B4%8B%E7%90%86%E7%9A%84%E7%99%BD%E8%89%B2%E7%B4%99%E5%BC%B5%E8%83%8C%E6%99%AF%E4%B8%8A%E3%80%82%E7%B2%BE%E7%BE%8E%E3%80%81%E9%AB%98%E5%93%81%E8%B3%AA%E3%80%81%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%97%9D%E8%A1%93%E5%93%81%EF%BC%8C%E6%89%81%E5%B9%B3%E6%8F%92%E7%95%AB%E3%80%82--ar%201%3A1.4)**
-
----
-
-### No. 117: 可愛小馴鹿搭配個人化姓名
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一幅可愛的水彩插畫，描繪了一隻戴著條紋圍巾的馴鹿寶寶，背景是簡潔的白色。它包含一個可自訂的文字欄位，可用於填寫姓名，非常適合個人化的節日問候。
-
-#### 📝 提示詞
-
-```
-一張精美、可列印的聖誕卡設計，高解析度，長寬比為 1:1.4。
-
-設計特色是卡片左側有一幅迷人、扁平的 2D 水彩插畫，描繪了一隻可愛的小馴鹿。馴鹿呈現胸部以上，擁有柔軟的淺棕色毛髮、溫柔的大黑眼睛，脖子上圍著一條舒適的紅白條紋圍巾。牠淺灰色的鹿角上裝飾著兩個懸掛的聖誕球，這些球是圓形的，並飾有紅白條紋。
-
-背景是簡潔的純白色。
-
-卡片右側上方以黑色手寫字體優雅地寫著「Merry Christmas」。下方顯示著「& HAPPY NEW YEAR」，其中「HAPPY NEW YEAR」以粗體紅色無襯線字體呈現。右下角則是以相同的黑色手寫字體顯示可自訂文字 {argument name="Name" default="Any Name"}。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592696500_34usyo_1765541711470-y64a1e-z_7bw9WL27eTgAAAABJRU5ErkJggg__" width="600" alt="可愛小馴鹿搭配個人化姓名 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%B2%BE%E7%BE%8E%E3%80%81%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E8%A8%AD%E8%A8%88%EF%BC%8C%E9%AB%98%E8%A7%A3%E6%9E%90%E5%BA%A6%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%0A%0A%E8%A8%AD%E8%A8%88%E7%89%B9%E8%89%B2%E6%98%AF%E5%8D%A1%E7%89%87%E5%B7%A6%E5%81%B4%E6%9C%89%E4%B8%80%E5%B9%85%E8%BF%B7%E4%BA%BA%E3%80%81%E6%89%81%E5%B9%B3%E7%9A%84%202D%20%E6%B0%B4%E5%BD%A9%E6%8F%92%E7%95%AB%EF%BC%8C%E6%8F%8F%E7%B9%AA%E4%BA%86%E4%B8%80%E9%9A%BB%E5%8F%AF%E6%84%9B%E7%9A%84%E5%B0%8F%E9%A6%B4%E9%B9%BF%E3%80%82%E9%A6%B4%E9%B9%BF%E5%91%88%E7%8F%BE%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%EF%BC%8C%E6%93%81%E6%9C%89%E6%9F%94%E8%BB%9F%E7%9A%84%E6%B7%BA%E6%A3%95%E8%89%B2%E6%AF%9B%E9%AB%AE%E3%80%81%E6%BA%AB%E6%9F%94%E7%9A%84%E5%A4%A7%E9%BB%91%E7%9C%BC%E7%9D%9B%EF%BC%8C%E8%84%96%E5%AD%90%E4%B8%8A%E5%9C%8D%E8%91%97%E4%B8%80%E6%A2%9D%E8%88%92%E9%81%A9%E7%9A%84%E7%B4%85%E7%99%BD%E6%A2%9D%E7%B4%8B%E5%9C%8D%E5%B7%BE%E3%80%82%E7%89%A0%E6%B7%BA%E7%81%B0%E8%89%B2%E7%9A%84%E9%B9%BF%E8%A7%92%E4%B8%8A%E8%A3%9D%E9%A3%BE%E8%91%97%E5%85%A9%E5%80%8B%E6%87%B8%E6%8E%9B%E7%9A%84%E8%81%96%E8%AA%95%E7%90%83%EF%BC%8C%E9%80%99%E4%BA%9B%E7%90%83%E6%98%AF%E5%9C%93%E5%BD%A2%E7%9A%84%EF%BC%8C%E4%B8%A6%E9%A3%BE%E6%9C%89%E7%B4%85%E7%99%BD%E6%A2%9D%E7%B4%8B%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E6%98%AF%E7%B0%A1%E6%BD%94%E7%9A%84%E7%B4%94%E7%99%BD%E8%89%B2%E3%80%82%0A%0A%E5%8D%A1%E7%89%87%E5%8F%B3%E5%81%B4%E4%B8%8A%E6%96%B9%E4%BB%A5%E9%BB%91%E8%89%B2%E6%89%8B%E5%AF%AB%E5%AD%97%E9%AB%94%E5%84%AA%E9%9B%85%E5%9C%B0%E5%AF%AB%E8%91%97%E3%80%8CMerry%20Christmas%E3%80%8D%E3%80%82%E4%B8%8B%E6%96%B9%E9%A1%AF%E7%A4%BA%E8%91%97%E3%80%8C%26%20HAPPY%20NEW%20YEAR%E3%80%8D%EF%BC%8C%E5%85%B6%E4%B8%AD%E3%80%8CHAPPY%20NEW%20YEAR%E3%80%8D%E4%BB%A5%E7%B2%97%E9%AB%94%E7%B4%85%E8%89%B2%E7%84%A1%E8%A5%AF%E7%B7%9A%E5%AD%97%E9%AB%94%E5%91%88%E7%8F%BE%E3%80%82%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%89%87%E6%98%AF%E4%BB%A5%E7%9B%B8%E5%90%8C%E7%9A%84%E9%BB%91%E8%89%B2%E6%89%8B%E5%AF%AB%E5%AD%97%E9%AB%94%E9%A1%AF%E7%A4%BA%E5%8F%AF%E8%87%AA%E8%A8%82%E6%96%87%E5%AD%97%20%7Bargument%20name%3D%22Name%22%20default%3D%22Any%20Name%22%7D%E3%80%82)**
-
----
-
-### No. 118: 原始民間藝術雪人畫作
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一幅迷人的民間藝術畫作，在紋理畫布上描繪了一個在星光熠熠的冬季森林中歡樂的雪人。其原始的風格和寧靜的氛圍，使其成為一張溫馨的節日賀卡設計。
-
-#### 📝 提示詞
-
-```
-一幅迷人的民間藝術畫作，描繪著夜晚冬日森林中，一個快樂的雪人。畫布具有紋理感。雪人是畫面的中心人物，帶著快樂的點狀微笑，紅蘿蔔鼻子朝上，臉頰紅潤，仰望著天空。他圍著一條舒適的紅灰條紋流蘇圍巾，胸前畫著一顆簡單閃亮的銀色愛心。他的樹枝手臂向外伸展。
-
-雪人兩側各有一棵高大纖細的棕色枯樹，樹枝上覆蓋著薄薄的雪。雪人身後是一叢小小的常青樹，綠色的樹枝上堆滿了閃閃發光的白雪。
-
-背景是深邃的黑色夜空，飄落著輕柔的雪花，描繪成柔和的白色和淺藍色圓點及模糊的雪片。一顆巨大、發光、淺藍色的五角星，帶著閃爍的紋理，在夜空中閃耀，位於雪人正上方。
-
-畫風原始、扁平、手繪，營造出溫馨寧靜的氛圍。細節精緻，可列印品質，長寬比為 1:1.4。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592691305_jti3oe_1765542982965-fg4509-z8ktQ0BVT_i7QAAAABJRU5ErkJggg__" width="600" alt="原始民間藝術雪人畫作 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%B9%85%E8%BF%B7%E4%BA%BA%E7%9A%84%E6%B0%91%E9%96%93%E8%97%9D%E8%A1%93%E7%95%AB%E4%BD%9C%EF%BC%8C%E6%8F%8F%E7%B9%AA%E8%91%97%E5%A4%9C%E6%99%9A%E5%86%AC%E6%97%A5%E6%A3%AE%E6%9E%97%E4%B8%AD%EF%BC%8C%E4%B8%80%E5%80%8B%E5%BF%AB%E6%A8%82%E7%9A%84%E9%9B%AA%E4%BA%BA%E3%80%82%E7%95%AB%E5%B8%83%E5%85%B7%E6%9C%89%E7%B4%8B%E7%90%86%E6%84%9F%E3%80%82%E9%9B%AA%E4%BA%BA%E6%98%AF%E7%95%AB%E9%9D%A2%E7%9A%84%E4%B8%AD%E5%BF%83%E4%BA%BA%E7%89%A9%EF%BC%8C%E5%B8%B6%E8%91%97%E5%BF%AB%E6%A8%82%E7%9A%84%E9%BB%9E%E7%8B%80%E5%BE%AE%E7%AC%91%EF%BC%8C%E7%B4%85%E8%98%BF%E8%94%94%E9%BC%BB%E5%AD%90%E6%9C%9D%E4%B8%8A%EF%BC%8C%E8%87%89%E9%A0%B0%E7%B4%85%E6%BD%A4%EF%BC%8C%E4%BB%B0%E6%9C%9B%E8%91%97%E5%A4%A9%E7%A9%BA%E3%80%82%E4%BB%96%E5%9C%8D%E8%91%97%E4%B8%80%E6%A2%9D%E8%88%92%E9%81%A9%E7%9A%84%E7%B4%85%E7%81%B0%E6%A2%9D%E7%B4%8B%E6%B5%81%E8%98%87%E5%9C%8D%E5%B7%BE%EF%BC%8C%E8%83%B8%E5%89%8D%E7%95%AB%E8%91%97%E4%B8%80%E9%A1%86%E7%B0%A1%E5%96%AE%E9%96%83%E4%BA%AE%E7%9A%84%E9%8A%80%E8%89%B2%E6%84%9B%E5%BF%83%E3%80%82%E4%BB%96%E7%9A%84%E6%A8%B9%E6%9E%9D%E6%89%8B%E8%87%82%E5%90%91%E5%A4%96%E4%BC%B8%E5%B1%95%E3%80%82%0A%0A%E9%9B%AA%E4%BA%BA%E5%85%A9%E5%81%B4%E5%90%84%E6%9C%89%E4%B8%80%E6%A3%B5%E9%AB%98%E5%A4%A7%E7%BA%96%E7%B4%B0%E7%9A%84%E6%A3%95%E8%89%B2%E6%9E%AF%E6%A8%B9%EF%BC%8C%E6%A8%B9%E6%9E%9D%E4%B8%8A%E8%A6%86%E8%93%8B%E8%91%97%E8%96%84%E8%96%84%E7%9A%84%E9%9B%AA%E3%80%82%E9%9B%AA%E4%BA%BA%E8%BA%AB%E5%BE%8C%E6%98%AF%E4%B8%80%E5%8F%A2%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%B8%B8%E9%9D%92%E6%A8%B9%EF%BC%8C%E7%B6%A0%E8%89%B2%E7%9A%84%E6%A8%B9%E6%9E%9D%E4%B8%8A%E5%A0%86%E6%BB%BF%E4%BA%86%E9%96%83%E9%96%83%E7%99%BC%E5%85%89%E7%9A%84%E7%99%BD%E9%9B%AA%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E6%98%AF%E6%B7%B1%E9%82%83%E7%9A%84%E9%BB%91%E8%89%B2%E5%A4%9C%E7%A9%BA%EF%BC%8C%E9%A3%84%E8%90%BD%E8%91%97%E8%BC%95%E6%9F%94%E7%9A%84%E9%9B%AA%E8%8A%B1%EF%BC%8C%E6%8F%8F%E7%B9%AA%E6%88%90%E6%9F%94%E5%92%8C%E7%9A%84%E7%99%BD%E8%89%B2%E5%92%8C%E6%B7%BA%E8%97%8D%E8%89%B2%E5%9C%93%E9%BB%9E%E5%8F%8A%E6%A8%A1%E7%B3%8A%E7%9A%84%E9%9B%AA%E7%89%87%E3%80%82%E4%B8%80%E9%A1%86%E5%B7%A8%E5%A4%A7%E3%80%81%E7%99%BC%E5%85%89%E3%80%81%E6%B7%BA%E8%97%8D%E8%89%B2%E7%9A%84%E4%BA%94%E8%A7%92%E6%98%9F%EF%BC%8C%E5%B8%B6%E8%91%97%E9%96%83%E7%88%8D%E7%9A%84%E7%B4%8B%E7%90%86%EF%BC%8C%E5%9C%A8%E5%A4%9C%E7%A9%BA%E4%B8%AD%E9%96%83%E8%80%80%EF%BC%8C%E4%BD%8D%E6%96%BC%E9%9B%AA%E4%BA%BA%E6%AD%A3%E4%B8%8A%E6%96%B9%E3%80%82%0A%0A%E7%95%AB%E9%A2%A8%E5%8E%9F%E5%A7%8B%E3%80%81%E6%89%81%E5%B9%B3%E3%80%81%E6%89%8B%E7%B9%AA%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E6%BA%AB%E9%A6%A8%E5%AF%A7%E9%9D%9C%E7%9A%84%E6%B0%9B%E5%9C%8D%E3%80%82%E7%B4%B0%E7%AF%80%E7%B2%BE%E7%B7%BB%EF%BC%8C%E5%8F%AF%E5%88%97%E5%8D%B0%E5%93%81%E8%B3%AA%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82)**
-
----
-
-### No. 119: 寧靜水彩穀倉與鹿卡片
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一幅寧靜的水彩冬日景象，描繪著一座紅色穀倉和一群鹿，搭配優雅且可自訂的文字。它捕捉了神聖而寧靜的氛圍，非常適合宗教或祥和的聖誕卡片。
-
-#### 📝 提示詞
-
-```
-一張精緻、可列印的聖誕卡片設計，以扁平的 2D 插圖呈現，長寬比為 1:1.4。
-
-風格是寧靜而柔和的水彩畫，置於乾淨的白色背景上，帶有微妙的紙張紋理。插圖描繪了一個溫馨的冬季場景。左側是一座迷人的紅色木製穀倉，屋頂覆蓋著白雪，窗戶鑲著白色玻璃，坐落在柔和、沉穩的綠色水彩松樹之間。在穀倉右側的雪地前景中，一群鹿安詳地站立著：一頭帶角的公鹿、一頭母鹿和一隻小鹿。
-
-在寧靜的場景上方，以深沉、柔和的顏色顯示著優雅的排版。文字是經典襯線字體與流暢、優美的手寫字體巧妙的結合。文字內容為：{argument name="text" default="他名稱為奇妙策士、全能的神、永在的父、和平的君。"}
-
-整體氛圍寧靜而神聖。調色板包括柔和的穀倉紅、鹿的泥土棕色、柔和的森林綠和冷灰色，所有這些都襯托著白雪皚皚的地面。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592690239_564v9s_1765541680088-hyqty7-VWZmsw5e5BRHNOSIiM9bDsd3tj6kPjwhkCQ_zg2gic1l6Jotcr5e5lRIucSw75myjL8KWiGTkakdOlZthbplRR3hf1AxOyUiHgxLubx7eACzsPSY773uLf7J8HfbmzYPZWuGn7RQZZDch2Txtx7H_L9O1nl6sQbE8AAAAAElFTkSuQmCC" width="600" alt="寧靜水彩穀倉與鹿卡片 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%B2%BE%E7%B7%BB%E3%80%81%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E5%8D%A1%E7%89%87%E8%A8%AD%E8%A8%88%EF%BC%8C%E4%BB%A5%E6%89%81%E5%B9%B3%E7%9A%84%202D%20%E6%8F%92%E5%9C%96%E5%91%88%E7%8F%BE%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%0A%0A%E9%A2%A8%E6%A0%BC%E6%98%AF%E5%AF%A7%E9%9D%9C%E8%80%8C%E6%9F%94%E5%92%8C%E7%9A%84%E6%B0%B4%E5%BD%A9%E7%95%AB%EF%BC%8C%E7%BD%AE%E6%96%BC%E4%B9%BE%E6%B7%A8%E7%9A%84%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF%E4%B8%8A%EF%BC%8C%E5%B8%B6%E6%9C%89%E5%BE%AE%E5%A6%99%E7%9A%84%E7%B4%99%E5%BC%B5%E7%B4%8B%E7%90%86%E3%80%82%E6%8F%92%E5%9C%96%E6%8F%8F%E7%B9%AA%E4%BA%86%E4%B8%80%E5%80%8B%E6%BA%AB%E9%A6%A8%E7%9A%84%E5%86%AC%E5%AD%A3%E5%A0%B4%E6%99%AF%E3%80%82%E5%B7%A6%E5%81%B4%E6%98%AF%E4%B8%80%E5%BA%A7%E8%BF%B7%E4%BA%BA%E7%9A%84%E7%B4%85%E8%89%B2%E6%9C%A8%E8%A3%BD%E7%A9%80%E5%80%89%EF%BC%8C%E5%B1%8B%E9%A0%82%E8%A6%86%E8%93%8B%E8%91%97%E7%99%BD%E9%9B%AA%EF%BC%8C%E7%AA%97%E6%88%B6%E9%91%B2%E8%91%97%E7%99%BD%E8%89%B2%E7%8E%BB%E7%92%83%EF%BC%8C%E5%9D%90%E8%90%BD%E5%9C%A8%E6%9F%94%E5%92%8C%E3%80%81%E6%B2%89%E7%A9%A9%E7%9A%84%E7%B6%A0%E8%89%B2%E6%B0%B4%E5%BD%A9%E6%9D%BE%E6%A8%B9%E4%B9%8B%E9%96%93%E3%80%82%E5%9C%A8%E7%A9%80%E5%80%89%E5%8F%B3%E5%81%B4%E7%9A%84%E9%9B%AA%E5%9C%B0%E5%89%8D%E6%99%AF%E4%B8%AD%EF%BC%8C%E4%B8%80%E7%BE%A4%E9%B9%BF%E5%AE%89%E8%A9%B3%E5%9C%B0%E7%AB%99%E7%AB%8B%E8%91%97%EF%BC%9A%E4%B8%80%E9%A0%AD%E5%B8%B6%E8%A7%92%E7%9A%84%E5%85%AC%E9%B9%BF%E3%80%81%E4%B8%80%E9%A0%AD%E6%AF%8D%E9%B9%BF%E5%92%8C%E4%B8%80%E9%9A%BB%E5%B0%8F%E9%B9%BF%E3%80%82%0A%0A%E5%9C%A8%E5%AF%A7%E9%9D%9C%E7%9A%84%E5%A0%B4%E6%99%AF%E4%B8%8A%E6%96%B9%EF%BC%8C%E4%BB%A5%E6%B7%B1%E6%B2%89%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E9%A1%8F%E8%89%B2%E9%A1%AF%E7%A4%BA%E8%91%97%E5%84%AA%E9%9B%85%E7%9A%84%E6%8E%92%E7%89%88%E3%80%82%E6%96%87%E5%AD%97%E6%98%AF%E7%B6%93%E5%85%B8%E8%A5%AF%E7%B7%9A%E5%AD%97%E9%AB%94%E8%88%87%E6%B5%81%E6%9A%A2%E3%80%81%E5%84%AA%E7%BE%8E%E7%9A%84%E6%89%8B%E5%AF%AB%E5%AD%97%E9%AB%94%E5%B7%A7%E5%A6%99%E7%9A%84%E7%B5%90%E5%90%88%E3%80%82%E6%96%87%E5%AD%97%E5%85%A7%E5%AE%B9%E7%82%BA%EF%BC%9A%7Bargument%20name%3D%22text%22%20default%3D%22%E4%BB%96%E5%90%8D%E7%A8%B1%E7%82%BA%E5%A5%87%E5%A6%99%E7%AD%96%E5%A3%AB%E3%80%81%E5%85%A8%E8%83%BD%E7%9A%84%E7%A5%9E%E3%80%81%E6%B0%B8%E5%9C%A8%E7%9A%84%E7%88%B6%E3%80%81%E5%92%8C%E5%B9%B3%E7%9A%84%E5%90%9B%E3%80%82%22%7D%0A%0A%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E5%AF%A7%E9%9D%9C%E8%80%8C%E7%A5%9E%E8%81%96%E3%80%82%E8%AA%BF%E8%89%B2%E6%9D%BF%E5%8C%85%E6%8B%AC%E6%9F%94%E5%92%8C%E7%9A%84%E7%A9%80%E5%80%89%E7%B4%85%E3%80%81%E9%B9%BF%E7%9A%84%E6%B3%A5%E5%9C%9F%E6%A3%95%E8%89%B2%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E6%A3%AE%E6%9E%97%E7%B6%A0%E5%92%8C%E5%86%B7%E7%81%B0%E8%89%B2%EF%BC%8C%E6%89%80%E6%9C%89%E9%80%99%E4%BA%9B%E9%83%BD%E8%A5%AF%E6%89%98%E8%91%97%E7%99%BD%E9%9B%AA%E7%9A%9A%E7%9A%9A%E7%9A%84%E5%9C%B0%E9%9D%A2%E3%80%82)**
-
----
-
-### No. 120: 剪紙和毛氈貼花聖誕老人
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-以手工風格繪製的聖誕老人插圖，採用分層剪紙和毛氈貼花紋理。這款觸感豐富的設計搭配灑滿五彩紙屑的背景，營造出奇幻且略帶復古的氛圍。
-
-#### 📝 提示詞
-
-```
-一張精緻、可列印的聖誕賀卡設計，比例為 1:1.4。
-
-卡片上有一幅迷人的聖誕老人全身插畫，採用手工製作的分層剪紙和毛氈貼花風格。聖誕老人是視覺焦點，佇立在簡潔的背景前。
-
-聖誕老人身穿經典的紅色套裝和帽子，兩者皆由柔軟、絨面般的材質製成，並飾有蓬鬆的白色毛氈邊。他的鬍鬚和鬍子是清晰、分層的白色剪紙，臉上洋溢著歡快的笑容，有著紅潤的雙頰和簡單的點狀眼睛。他戴著黑色手套，穿著白色袖口裝飾的靴子。手中握著一個小巧的青綠色禮物盒，繫著精緻的金色箔紙緞帶和蝴蝶結。
-
-背景是帶有紋理的米白色紙張，輕輕點綴著零星的小紅點、綠點和微小閃爍的金色箔紙雪花圖案，營造出節日般的紙屑效果。
-
-整個場景由一條細緻優雅的雙線金色箔紙邊框所環繞。整體美學風格異想天開、簡潔且略帶復古，將平面設計與觸感、立體的紙藝元素巧妙結合。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592689476_22rrxj_1765541680010-9o23r9-WZBRBH_DJ5sAAAAASUVORK5CYII_" width="600" alt="剪紙和毛氈貼花聖誕老人 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **來源:** [Twitter Post](null)
-- **發布時間:** 2025年12月13日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E7%B2%BE%E7%B7%BB%E3%80%81%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E8%B3%80%E5%8D%A1%E8%A8%AD%E8%A8%88%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%E3%80%82%0A%0A%E5%8D%A1%E7%89%87%E4%B8%8A%E6%9C%89%E4%B8%80%E5%B9%85%E8%BF%B7%E4%BA%BA%E7%9A%84%E8%81%96%E8%AA%95%E8%80%81%E4%BA%BA%E5%85%A8%E8%BA%AB%E6%8F%92%E7%95%AB%EF%BC%8C%E6%8E%A1%E7%94%A8%E6%89%8B%E5%B7%A5%E8%A3%BD%E4%BD%9C%E7%9A%84%E5%88%86%E5%B1%A4%E5%89%AA%E7%B4%99%E5%92%8C%E6%AF%9B%E6%B0%88%E8%B2%BC%E8%8A%B1%E9%A2%A8%E6%A0%BC%E3%80%82%E8%81%96%E8%AA%95%E8%80%81%E4%BA%BA%E6%98%AF%E8%A6%96%E8%A6%BA%E7%84%A6%E9%BB%9E%EF%BC%8C%E4%BD%87%E7%AB%8B%E5%9C%A8%E7%B0%A1%E6%BD%94%E7%9A%84%E8%83%8C%E6%99%AF%E5%89%8D%E3%80%82%0A%0A%E8%81%96%E8%AA%95%E8%80%81%E4%BA%BA%E8%BA%AB%E7%A9%BF%E7%B6%93%E5%85%B8%E7%9A%84%E7%B4%85%E8%89%B2%E5%A5%97%E8%A3%9D%E5%92%8C%E5%B8%BD%E5%AD%90%EF%BC%8C%E5%85%A9%E8%80%85%E7%9A%86%E7%94%B1%E6%9F%94%E8%BB%9F%E3%80%81%E7%B5%A8%E9%9D%A2%E8%88%AC%E7%9A%84%E6%9D%90%E8%B3%AA%E8%A3%BD%E6%88%90%EF%BC%8C%E4%B8%A6%E9%A3%BE%E6%9C%89%E8%93%AC%E9%AC%86%E7%9A%84%E7%99%BD%E8%89%B2%E6%AF%9B%E6%B0%88%E9%82%8A%E3%80%82%E4%BB%96%E7%9A%84%E9%AC%8D%E9%AC%9A%E5%92%8C%E9%AC%8D%E5%AD%90%E6%98%AF%E6%B8%85%E6%99%B0%E3%80%81%E5%88%86%E5%B1%A4%E7%9A%84%E7%99%BD%E8%89%B2%E5%89%AA%E7%B4%99%EF%BC%8C%E8%87%89%E4%B8%8A%E6%B4%8B%E6%BA%A2%E8%91%97%E6%AD%A1%E5%BF%AB%E7%9A%84%E7%AC%91%E5%AE%B9%EF%BC%8C%E6%9C%89%E8%91%97%E7%B4%85%E6%BD%A4%E7%9A%84%E9%9B%99%E9%A0%B0%E5%92%8C%E7%B0%A1%E5%96%AE%E7%9A%84%E9%BB%9E%E7%8B%80%E7%9C%BC%E7%9D%9B%E3%80%82%E4%BB%96%E6%88%B4%E8%91%97%E9%BB%91%E8%89%B2%E6%89%8B%E5%A5%97%EF%BC%8C%E7%A9%BF%E8%91%97%E7%99%BD%E8%89%B2%E8%A2%96%E5%8F%A3%E8%A3%9D%E9%A3%BE%E7%9A%84%E9%9D%B4%E5%AD%90%E3%80%82%E6%89%8B%E4%B8%AD%E6%8F%A1%E8%91%97%E4%B8%80%E5%80%8B%E5%B0%8F%E5%B7%A7%E7%9A%84%E9%9D%92%E7%B6%A0%E8%89%B2%E7%A6%AE%E7%89%A9%E7%9B%92%EF%BC%8C%E7%B9%AB%E8%91%97%E7%B2%BE%E7%B7%BB%E7%9A%84%E9%87%91%E8%89%B2%E7%AE%94%E7%B4%99%E7%B7%9E%E5%B8%B6%E5%92%8C%E8%9D%B4%E8%9D%B6%E7%B5%90%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E6%98%AF%E5%B8%B6%E6%9C%89%E7%B4%8B%E7%90%86%E7%9A%84%E7%B1%B3%E7%99%BD%E8%89%B2%E7%B4%99%E5%BC%B5%EF%BC%8C%E8%BC%95%E8%BC%95%E9%BB%9E%E7%B6%B4%E8%91%97%E9%9B%B6%E6%98%9F%E7%9A%84%E5%B0%8F%E7%B4%85%E9%BB%9E%E3%80%81%E7%B6%A0%E9%BB%9E%E5%92%8C%E5%BE%AE%E5%B0%8F%E9%96%83%E7%88%8D%E7%9A%84%E9%87%91%E8%89%B2%E7%AE%94%E7%B4%99%E9%9B%AA%E8%8A%B1%E5%9C%96%E6%A1%88%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E7%AF%80%E6%97%A5%E8%88%AC%E7%9A%84%E7%B4%99%E5%B1%91%E6%95%88%E6%9E%9C%E3%80%82%0A%0A%E6%95%B4%E5%80%8B%E5%A0%B4%E6%99%AF%E7%94%B1%E4%B8%80%E6%A2%9D%E7%B4%B0%E7%B7%BB%E5%84%AA%E9%9B%85%E7%9A%84%E9%9B%99%E7%B7%9A%E9%87%91%E8%89%B2%E7%AE%94%E7%B4%99%E9%82%8A%E6%A1%86%E6%89%80%E7%92%B0%E7%B9%9E%E3%80%82%E6%95%B4%E9%AB%94%E7%BE%8E%E5%AD%B8%E9%A2%A8%E6%A0%BC%E7%95%B0%E6%83%B3%E5%A4%A9%E9%96%8B%E3%80%81%E7%B0%A1%E6%BD%94%E4%B8%94%E7%95%A5%E5%B8%B6%E5%BE%A9%E5%8F%A4%EF%BC%8C%E5%B0%87%E5%B9%B3%E9%9D%A2%E8%A8%AD%E8%A8%88%E8%88%87%E8%A7%B8%E6%84%9F%E3%80%81%E7%AB%8B%E9%AB%94%E7%9A%84%E7%B4%99%E8%97%9D%E5%85%83%E7%B4%A0%E5%B7%A7%E5%A6%99%E7%B5%90%E5%90%88%E3%80%82)**
-
----
-
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 5 更多提示詞未在此顯示
+### 🎯 14 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -4761,6 +5032,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-15T08:29:20.597Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-15T12:41:56.219Z</sub>
 
 </div>

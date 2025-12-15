@@ -86,11 +86,220 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **125** |
-| ⭐ おすすめ | **0** |
-| 🔄 最終更新 | **2025年12月15日月曜日 8:29:21 UTC** |
+| 📝 プロンプト総数 | **140** |
+| ⭐ おすすめ | **6** |
+| 🔄 最終更新 | **2025年12月15日月曜日 12:41:57 UTC** |
 
 </div>
+
+---
+
+## 🔥 おすすめプロンプト
+
+> ⭐ 優れた品質と創造性のためにチームが厳選
+
+### No. 1: キャンディケインにぶら下がるナマケモノのクリスマスカード
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+ゆっくり動くナマケモノがキャンディケインからぶら下がり、クリスマスツリーに手を伸ばそうとしている、愛らしい印刷可能なクリスマスカードのデザインです。このプロンプトは、ユニークなタッチで魅力的で面白いホリデーグリーティングを作成するのに最適です。
+
+#### 📝 プロンプト
+
+```
+かわいい印刷可能なクリスマスカードのデザイン、アスペクト比 1:1.4。カード上部を横切るように伸びるキャンディケインに、かわいらしい動きの遅いナマケモノが逆さまにぶら下がっています。ナマケモノは、ピクセル化された雪の結晶模様の、お祝いのダサいクリスマスセーターを着ています。彼はゆっくりとした爪で星のツリートップを持っており、フレームの外にあるクリスマスツリーに手を伸ばそうとしています。背景は、ナマケモノが際立つように無地の濃いティール色です。ナマケモノの下には、リラックスした手書き風のフォントで「{argument name="text" default="Slowly getting into the Spirit"}」と書かれています。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640792570_as7oyl_1765640333881-lkq034-EZMiYLAuMw9pQ64ferde4Pu_d1y3UHlI792dxd75JBOzmGh1ODnaQby1qWlttEk7O5OxGmv9dcmSdyMuSTd96MmYgfF6Gh_BYdr4ZU6ci6sKkXILWADyJjyL1ps4zHLI1UkgGfvIv8BYOpTNrui_hYAAAAASUVORK5CYII_" width="700" alt="キャンディケインにぶら下がるナマケモノのクリスマスカード - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E3%82%AB%E3%83%BC%E3%83%89%E4%B8%8A%E9%83%A8%E3%82%92%E6%A8%AA%E5%88%87%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E4%BC%B8%E3%81%B3%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3%E3%81%AB%E3%80%81%E3%81%8B%E3%82%8F%E3%81%84%E3%82%89%E3%81%97%E3%81%84%E5%8B%95%E3%81%8D%E3%81%AE%E9%81%85%E3%81%84%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E%E3%81%8C%E9%80%86%E3%81%95%E3%81%BE%E3%81%AB%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E%E3%81%AF%E3%80%81%E3%83%94%E3%82%AF%E3%82%BB%E3%83%AB%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E9%9B%AA%E3%81%AE%E7%B5%90%E6%99%B6%E6%A8%A1%E6%A7%98%E3%81%AE%E3%80%81%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%AE%E3%83%80%E3%82%B5%E3%81%84%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%BB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E7%9D%80%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%BD%BC%E3%81%AF%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E7%88%AA%E3%81%A7%E6%98%9F%E3%81%AE%E3%83%84%E3%83%AA%E3%83%BC%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E5%A4%96%E3%81%AB%E3%81%82%E3%82%8B%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AB%E6%89%8B%E3%82%92%E4%BC%B8%E3%81%B0%E3%81%9D%E3%81%86%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E3%80%81%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E%E3%81%8C%E9%9A%9B%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%AB%E7%84%A1%E5%9C%B0%E3%81%AE%E6%BF%83%E3%81%84%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E8%89%B2%E3%81%A7%E3%81%99%E3%80%82%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E%E3%81%AE%E4%B8%8B%E3%81%AB%E3%81%AF%E3%80%81%E3%83%AA%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%81%97%E3%81%9F%E6%89%8B%E6%9B%B8%E3%81%8D%E9%A2%A8%E3%81%AE%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%81%A7%E3%80%8C%7Bargument%20name%3D%22text%22%20default%3D%22Slowly%20getting%20into%20the%20Spirit%22%7D%E3%80%8D%E3%81%A8%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)**
+
+---
+
+### No. 2: ホッキョクグマとペンギンのスカーフ クリスマスカード
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 説明
+
+巨大なホッキョクグマと小さなペンギンが、コミカルなほど大きなマフラーでつながれた、ありえない友情を描いた心温まるクリスマスのカードカバー。ホリデーシーズンに友情と温かさを伝えるのに最適です。
+
+#### 📝 プロンプト
+
+```
+心温まる、風変わりなクリスマスカードの表紙、アスペクト比 1:1.4。巨大でふわふわの白いホッキョクグマが左に座り、小さくて丸いペンギンが右に立っており、背景は澄んだアイスブルー。ホッキョクグマの首に何度も巻かれ、その後ループして小さなペンギンにぴったりと巻き付いている、コミカルに長く特大の赤と緑のニットスカーフでつながっている。ペンギンはホッキョクグマを尊敬の眼差しで見上げている。毛皮とニットのウールの質感がはっきりと見え、柔らかい。シンプルな白い雪の結晶が彼らの周りに優しく舞い落ちる。テキストはなく、ただ友情の甘いイメージ。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765641085323_jvvhse_image.png" width="700" alt="ホッキョクグマとペンギンのスカーフ クリスマスカード - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E5%BF%83%E6%B8%A9%E3%81%BE%E3%82%8B%E3%80%81%E9%A2%A8%E5%A4%89%E3%82%8F%E3%82%8A%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E8%A1%A8%E7%B4%99%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E5%B7%A8%E5%A4%A7%E3%81%A7%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%81%AE%E7%99%BD%E3%81%84%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E3%81%8C%E5%B7%A6%E3%81%AB%E5%BA%A7%E3%82%8A%E3%80%81%E5%B0%8F%E3%81%95%E3%81%8F%E3%81%A6%E4%B8%B8%E3%81%84%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%8C%E5%8F%B3%E3%81%AB%E7%AB%8B%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E8%83%8C%E6%99%AF%E3%81%AF%E6%BE%84%E3%82%93%E3%81%A0%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%96%E3%83%AB%E3%83%BC%E3%80%82%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E3%81%AE%E9%A6%96%E3%81%AB%E4%BD%95%E5%BA%A6%E3%82%82%E5%B7%BB%E3%81%8B%E3%82%8C%E3%80%81%E3%81%9D%E3%81%AE%E5%BE%8C%E3%83%AB%E3%83%BC%E3%83%97%E3%81%97%E3%81%A6%E5%B0%8F%E3%81%95%E3%81%AA%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%AB%E3%81%B4%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%A8%E5%B7%BB%E3%81%8D%E4%BB%98%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%80%81%E3%82%B3%E3%83%9F%E3%82%AB%E3%83%AB%E3%81%AB%E9%95%B7%E3%81%8F%E7%89%B9%E5%A4%A7%E3%81%AE%E8%B5%A4%E3%81%A8%E7%B7%91%E3%81%AE%E3%83%8B%E3%83%83%E3%83%88%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%95%E3%81%A7%E3%81%A4%E3%81%AA%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%AF%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E3%82%92%E5%B0%8A%E6%95%AC%E3%81%AE%E7%9C%BC%E5%B7%AE%E3%81%97%E3%81%A7%E8%A6%8B%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E6%AF%9B%E7%9A%AE%E3%81%A8%E3%83%8B%E3%83%83%E3%83%88%E3%81%AE%E3%82%A6%E3%83%BC%E3%83%AB%E3%81%AE%E8%B3%AA%E6%84%9F%E3%81%8C%E3%81%AF%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A8%E8%A6%8B%E3%81%88%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%84%E3%80%82%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E7%99%BD%E3%81%84%E9%9B%AA%E3%81%AE%E7%B5%90%E6%99%B6%E3%81%8C%E5%BD%BC%E3%82%89%E3%81%AE%E5%91%A8%E3%82%8A%E3%81%AB%E5%84%AA%E3%81%97%E3%81%8F%E8%88%9E%E3%81%84%E8%90%BD%E3%81%A1%E3%82%8B%E3%80%82%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%81%9F%E3%81%A0%E5%8F%8B%E6%83%85%E3%81%AE%E7%94%98%E3%81%84%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%80%82)**
+
+---
+
+### No. 3: ジンジャーブレッドヨガクラス クリスマスカード
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 説明
+
+「ヨガクラス」でポーズをとる5匹のかわいいジンジャーブレッドマンクッキーが特徴の、陽気で愛らしい印刷可能なクリスマスカードデザインです。このプロンプトは、ユーモアと可愛らしさを添えた心温まるホリデーグリーティングを作成するのに最適です。
+
+#### 📝 プロンプト
+
+```
+面白くて可愛らしい、印刷可能なクリスマスカードのデザイン。アスペクト比は 1:1.4。背景は無地のすっきりとしたパステルミントグリーン。イラストには、5 匹の可愛いジンジャーブレッドマンクッキーによる「ヨガクラス」が描かれています。中央のジンジャーブレッドマンは「木のポーズ」で片足立ちし、集中した表情で頭の上にガムドロップを乗せてバランスを取っています。彼の左隣のクッキーは「ダウンドッグ」のポーズを試みていますが、腕が少し崩れて美味しいクッキーの破片が見えています。右隣のジンジャーブレッドマンは、アイシングの目を閉じて「蓮華座」で瞑想しています。彼らは皆、白いアイシングのディテールと赤いレッドホットキャンディのボタンを持っています。スタイルは、柔らかな影のあるクリーンでフラットなベクターイラストです。上部のテキストは、遊び心のある丸い白いフォントで「Find Your Inner Piece」と書かれています。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765640780963_w8tis9_1765640041792-ya1lsk-kYut4TGuYNPXl4D3U4NlBYnZnxEwH_L7GY8tY3qO5QAAAAAElFTkSuQmCC" width="700" alt="ジンジャーブレッドヨガクラス クリスマスカード - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%9D%A2%E7%99%BD%E3%81%8F%E3%81%A6%E5%8F%AF%E6%84%9B%E3%82%89%E3%81%97%E3%81%84%E3%80%81%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%82%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%AF%201%3A1.4%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E7%84%A1%E5%9C%B0%E3%81%AE%E3%81%99%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%E3%83%9F%E3%83%B3%E3%83%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%80%82%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AB%E3%81%AF%E3%80%815%20%E5%8C%B9%E3%81%AE%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E3%80%8C%E3%83%A8%E3%82%AC%E3%82%AF%E3%83%A9%E3%82%B9%E3%80%8D%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E4%B8%AD%E5%A4%AE%E3%81%AE%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3%E3%81%AF%E3%80%8C%E6%9C%A8%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BA%E3%80%8D%E3%81%A7%E7%89%87%E8%B6%B3%E7%AB%8B%E3%81%A1%E3%81%97%E3%80%81%E9%9B%86%E4%B8%AD%E3%81%97%E3%81%9F%E8%A1%A8%E6%83%85%E3%81%A7%E9%A0%AD%E3%81%AE%E4%B8%8A%E3%81%AB%E3%82%AC%E3%83%A0%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%92%E4%B9%97%E3%81%9B%E3%81%A6%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%92%E5%8F%96%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%BD%BC%E3%81%AE%E5%B7%A6%E9%9A%A3%E3%81%AE%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%81%AF%E3%80%8C%E3%83%80%E3%82%A6%E3%83%B3%E3%83%89%E3%83%83%E3%82%B0%E3%80%8D%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%92%E8%A9%A6%E3%81%BF%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8C%E3%80%81%E8%85%95%E3%81%8C%E5%B0%91%E3%81%97%E5%B4%A9%E3%82%8C%E3%81%A6%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%81%AE%E7%A0%B4%E7%89%87%E3%81%8C%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%8F%B3%E9%9A%A3%E3%81%AE%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3%E3%81%AF%E3%80%81%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AE%E7%9B%AE%E3%82%92%E9%96%89%E3%81%98%E3%81%A6%E3%80%8C%E8%93%AE%E8%8F%AF%E5%BA%A7%E3%80%8D%E3%81%A7%E7%9E%91%E6%83%B3%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%BD%BC%E3%82%89%E3%81%AF%E7%9A%86%E3%80%81%E7%99%BD%E3%81%84%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%87%E3%82%A3%E3%83%86%E3%83%BC%E3%83%AB%E3%81%A8%E8%B5%A4%E3%81%84%E3%83%AC%E3%83%83%E3%83%89%E3%83%9B%E3%83%83%E3%83%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AF%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E5%BD%B1%E3%81%AE%E3%81%82%E3%82%8B%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%80%82%E4%B8%8A%E9%83%A8%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E3%80%81%E9%81%8A%E3%81%B3%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E4%B8%B8%E3%81%84%E7%99%BD%E3%81%84%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%81%A7%E3%80%8CFind%20Your%20Inner%20Piece%E3%80%8D%E3%81%A8%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)**
+
+---
+
+### No. 4: フェルトアップリケのキツネの赤ちゃん
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 説明
+
+このプロンプトは、手作りのフェルトアップリケのステッチのように見える、居心地の良い触感のあるクリスマスカードのデザインを作成します。雪景色の中にいるかわいいキツネの子が特徴で、ユニークでクラフト感のあるホリデービジュアルに最適です。
+
+#### 📝 プロンプト
+
+```
+アスペクト比 1:1.4 の、居心地が良く、触り心地の良いクリスマスカードのデザイン。イラストは、手作りのフェルトアップリケのステッチのように見えます。ふわふわのフェルト生地で作られたかわいいオレンジ色のキツネの子が、何層にも重なった白いフェルトの雪の中に座り、カラフルなボタンのオーナメントで飾られたフェルトのクリスマスツリーを見上げています。ウール繊維の質感と縁のステッチがはっきりと見えます。背景は柔らかな青いフェルトの空です。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780125142_vqwzrz_1765765736932-w6b2ti-joqONxdrcec4p_fHzcEeMYCEAsu1E12RDxtS4WrUoVzk5TxaZ73RChrBtc45DncUB98QQAca0k5v8fyjkmeojjTpMAAAAASUVORK5CYII_" width="700" alt="フェルトアップリケのキツネの赤ちゃん - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%20%E3%81%AE%E3%80%81%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E8%89%AF%E3%81%8F%E3%80%81%E8%A7%A6%E3%82%8A%E5%BF%83%E5%9C%B0%E3%81%AE%E8%89%AF%E3%81%84%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%82%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AF%E3%80%81%E6%89%8B%E4%BD%9C%E3%82%8A%E3%81%AE%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%AA%E3%82%B1%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%81%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E8%A6%8B%E3%81%88%E3%81%BE%E3%81%99%E3%80%82%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88%E7%94%9F%E5%9C%B0%E3%81%A7%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E8%89%B2%E3%81%AE%E3%82%AD%E3%83%84%E3%83%8D%E3%81%AE%E5%AD%90%E3%81%8C%E3%80%81%E4%BD%95%E5%B1%A4%E3%81%AB%E3%82%82%E9%87%8D%E3%81%AA%E3%81%A3%E3%81%9F%E7%99%BD%E3%81%84%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88%E3%81%AE%E9%9B%AA%E3%81%AE%E4%B8%AD%E3%81%AB%E5%BA%A7%E3%82%8A%E3%80%81%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%81%AA%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%81%A7%E9%A3%BE%E3%82%89%E3%82%8C%E3%81%9F%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%82%92%E8%A6%8B%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%82%A6%E3%83%BC%E3%83%AB%E7%B9%8A%E7%B6%AD%E3%81%AE%E8%B3%AA%E6%84%9F%E3%81%A8%E7%B8%81%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%81%E3%81%8C%E3%81%AF%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A8%E8%A6%8B%E3%81%88%E3%81%BE%E3%81%99%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E9%9D%92%E3%81%84%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88%E3%81%AE%E7%A9%BA%E3%81%A7%E3%81%99%E3%80%82)**
+
+---
+
+### No. 5: トナカイの角とピエロの鼻をつけたパグ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 説明
+
+このプロンプトは、トナカイの角と光る赤いピエロの鼻を嫌々ながら着けているパグのクローズアップ写真ポートレートが特徴の、面白くてかわいい印刷可能なカードを生成します。ユーモラスで風変わりなホリデーグリーティングに最適です。
+
+#### 📝 プロンプト
+
+```
+面白くてかわいい印刷可能なカード、アスペクト比 1:1.4。ふっくらしたパグ犬の顔のクローズアップ写真ポートレート。茶色のフェルト製トナカイの角が付いたヘッドバンドと、自身の鼻の上に非常に明るく光る赤いピエロの鼻を、しぶしぶ身につけている。パグは真剣で、やや批判的な表情で、カメラをまっすぐ見つめている。背景はぼやけたお祝いの赤いライト。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780150716_6iohh6_1765693108405-xs5mi7-8HDdKJRZ26cGoAAAAASUVORK5CYII_" width="700" alt="トナカイの角とピエロの鼻をつけたパグ - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%9D%A2%E7%99%BD%E3%81%8F%E3%81%A6%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AB%E3%83%BC%E3%83%89%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E3%81%B5%E3%81%A3%E3%81%8F%E3%82%89%E3%81%97%E3%81%9F%E3%83%91%E3%82%B0%E7%8A%AC%E3%81%AE%E9%A1%94%E3%81%AE%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%A2%E3%83%83%E3%83%97%E5%86%99%E7%9C%9F%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88%E3%80%82%E8%8C%B6%E8%89%B2%E3%81%AE%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88%E8%A3%BD%E3%83%88%E3%83%8A%E3%82%AB%E3%82%A4%E3%81%AE%E8%A7%92%E3%81%8C%E4%BB%98%E3%81%84%E3%81%9F%E3%83%98%E3%83%83%E3%83%89%E3%83%90%E3%83%B3%E3%83%89%E3%81%A8%E3%80%81%E8%87%AA%E8%BA%AB%E3%81%AE%E9%BC%BB%E3%81%AE%E4%B8%8A%E3%81%AB%E9%9D%9E%E5%B8%B8%E3%81%AB%E6%98%8E%E3%82%8B%E3%81%8F%E5%85%89%E3%82%8B%E8%B5%A4%E3%81%84%E3%83%94%E3%82%A8%E3%83%AD%E3%81%AE%E9%BC%BB%E3%82%92%E3%80%81%E3%81%97%E3%81%B6%E3%81%97%E3%81%B6%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%83%91%E3%82%B0%E3%81%AF%E7%9C%9F%E5%89%A3%E3%81%A7%E3%80%81%E3%82%84%E3%82%84%E6%89%B9%E5%88%A4%E7%9A%84%E3%81%AA%E8%A1%A8%E6%83%85%E3%81%A7%E3%80%81%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%92%E3%81%BE%E3%81%A3%E3%81%99%E3%81%90%E8%A6%8B%E3%81%A4%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E3%81%BC%E3%82%84%E3%81%91%E3%81%9F%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%AE%E8%B5%A4%E3%81%84%E3%83%A9%E3%82%A4%E3%83%88%E3%80%82)**
+
+---
+
+### No. 6: プレゼントでいっぱいのアルパカ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 説明
+
+このプロンプトは、不安定に積み上げられたクリスマスプレゼントを山ほど抱えた、ふわふわのアルパカが主役の、かわいらしくもハチャメチャなクリスマスカードを作成します。ユーモラスで魅力的なホリデーグリーティングにぴったりです。
+
+#### 📝 プロンプト
+
+```
+かわいらしくてカオスなクリスマスカード、アスペクト比 1:1.4。ふわふわの白いアルパカが、ミントグリーンの無地の背景の前に立っています。その背中には、ありえないほど高く、不安定に積み上げられたカラフルなラッピングされたクリスマスプレゼントが、リボンを揺らしながら大きくぐらついています。アルパカは忍耐強く、少し苦しそうな表情を浮かべ、細い脚は重みに耐えかねてわずかに震えています。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780142631_uo5vj6_1765765458317-2gfkgs-N8AAAAASUVORK5CYII_" width="700" alt="プレゼントでいっぱいのアルパカ - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%81%8B%E3%82%8F%E3%81%84%E3%82%89%E3%81%97%E3%81%8F%E3%81%A6%E3%82%AB%E3%82%AA%E3%82%B9%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%81%AE%E7%99%BD%E3%81%84%E3%82%A2%E3%83%AB%E3%83%91%E3%82%AB%E3%81%8C%E3%80%81%E3%83%9F%E3%83%B3%E3%83%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%AE%E7%84%A1%E5%9C%B0%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AE%E5%89%8D%E3%81%AB%E7%AB%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%81%9D%E3%81%AE%E8%83%8C%E4%B8%AD%E3%81%AB%E3%81%AF%E3%80%81%E3%81%82%E3%82%8A%E3%81%88%E3%81%AA%E3%81%84%E3%81%BB%E3%81%A9%E9%AB%98%E3%81%8F%E3%80%81%E4%B8%8D%E5%AE%89%E5%AE%9A%E3%81%AB%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%92%E3%82%89%E3%82%8C%E3%81%9F%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%81%AA%E3%83%A9%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%81%95%E3%82%8C%E3%81%9F%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%E3%81%8C%E3%80%81%E3%83%AA%E3%83%9C%E3%83%B3%E3%82%92%E6%8F%BA%E3%82%89%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E5%A4%A7%E3%81%8D%E3%81%8F%E3%81%90%E3%82%89%E3%81%A4%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%82%A2%E3%83%AB%E3%83%91%E3%82%AB%E3%81%AF%E5%BF%8D%E8%80%90%E5%BC%B7%E3%81%8F%E3%80%81%E5%B0%91%E3%81%97%E8%8B%A6%E3%81%97%E3%81%9D%E3%81%86%E3%81%AA%E8%A1%A8%E6%83%85%E3%82%92%E6%B5%AE%E3%81%8B%E3%81%B9%E3%80%81%E7%B4%B0%E3%81%84%E8%84%9A%E3%81%AF%E9%87%8D%E3%81%BF%E3%81%AB%E8%80%90%E3%81%88%E3%81%8B%E3%81%AD%E3%81%A6%E3%82%8F%E3%81%9A%E3%81%8B%E3%81%AB%E9%9C%87%E3%81%88%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)**
 
 ---
 
@@ -98,26 +307,26 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 > 📝 公開日でソート（新しい順）
 
-### No. 1: Clumsy Penguins Children's Book Animation Photo Frame
+### No. 1: クリスマス ビーバーズ · コンストラクション マニアック フレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt creates a vertical, printable Christmas photo frame illustrated in a charming, humorous children's book animation style featuring clumsy penguins. The design focuses entirely on the frame itself with a blank photo placeholder, providing a joyful, funny, and animated look for print.
+このプロンプトは、縦長 1:1.4 の比率で、遊び心のあるアニメーション スタイルのクリスマス フォト フレームを生成します。ボーダーには、漫画のビーバーが熱心に、そして大真面目に、大げさなクリスマスの飾り付けをしている様子が描かれており、ユーモラスで印刷に最適化されたデザインとなっています。
 
 #### 📝 プロンプト
 
 ```
-A vertical 1:1.4 printable Christmas photo frame illustrated in a charming, humorous children’s book animation style.
+遊び心のあるアニメーションスタイルで描かれた、縦長の 1:1.4 比率で印刷可能なクリスマスフォトフレーム。
 
-The design focuses entirely on the frame itself, with flat illustration and no background environment.
+背景はなく、フレームのみ。
 
-A large blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 portrait ratio and 70% of the frame width, intentionally empty and clearly separated from all decorations.
+中央に 1:1.4 比率の空白のフォトプレースホルダーがあり、幅は 70% で完全にクリーン。
 
-The surrounding border features clumsy cartoon penguins slipping, stacking ornaments, holding oversized stars, and interacting playfully with festive elements around the edges.
+ボーダーには、漫画のビーバーたちが熱心に飾り付けをしたり、ハンマーを振るったり、大げさな真剣さで凝ったお祝いのデコレーションを作ったりしている様子が描かれている。
 
-The overall style is joyful, funny, animated, and print-friendly, with no text or lettering.
+フラットでユーモラス、印刷に最適化されており、テキストはなし。
 ```
 
 #### 🖼️ 生成画像
@@ -125,7 +334,7 @@ The overall style is joyful, funny, animated, and print-friendly, with no text o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__" width="600" alt="Clumsy Penguins Children's Book Animation Photo Frame - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788305465_26xq8b_1765784485322-36atj1-wHnfa3VL4BApgAAAABJRU5ErkJggg__" width="600" alt="クリスマス ビーバーズ · コンストラクション マニアック フレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -135,30 +344,30 @@ The overall style is joyful, funny, animated, and print-friendly, with no text o
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vertical%201%3A1.4%20printable%20Christmas%20photo%20frame%20illustrated%20in%20a%20charming%2C%20humorous%20children%E2%80%99s%20book%20animation%20style.%0A%0AThe%20design%20focuses%20entirely%20on%20the%20frame%20itself%2C%20with%20flat%20illustration%20and%20no%20background%20environment.%0A%0AA%20large%20blank%20photo%20placeholder%20is%20reserved%20at%20the%20exact%20horizontal%20and%20vertical%20center%2C%20with%20a%201%3A1.4%20portrait%20ratio%20and%2070%25%20of%20the%20frame%20width%2C%20intentionally%20empty%20and%20clearly%20separated%20from%20all%20decorations.%0A%0AThe%20surrounding%20border%20features%20clumsy%20cartoon%20penguins%20slipping%2C%20stacking%20ornaments%2C%20holding%20oversized%20stars%2C%20and%20interacting%20playfully%20with%20festive%20elements%20around%20the%20edges.%0A%0AThe%20overall%20style%20is%20joyful%2C%20funny%2C%20animated%2C%20and%20print-friendly%2C%20with%20no%20text%20or%20lettering.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%81%8A%E3%81%B3%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E7%B8%A6%E9%95%B7%E3%81%AE%201%3A1.4%20%E6%AF%94%E7%8E%87%E3%81%A7%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%BF%E3%80%82%0A%0A%E4%B8%AD%E5%A4%AE%E3%81%AB%201%3A1.4%20%E6%AF%94%E7%8E%87%E3%81%AE%E7%A9%BA%E7%99%BD%E3%81%AE%E3%83%95%E3%82%A9%E3%83%88%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%8C%E3%81%82%E3%82%8A%E3%80%81%E5%B9%85%E3%81%AF%2070%25%20%E3%81%A7%E5%AE%8C%E5%85%A8%E3%81%AB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%80%82%0A%0A%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%AF%E3%80%81%E6%BC%AB%E7%94%BB%E3%81%AE%E3%83%93%E3%83%BC%E3%83%90%E3%83%BC%E3%81%9F%E3%81%A1%E3%81%8C%E7%86%B1%E5%BF%83%E3%81%AB%E9%A3%BE%E3%82%8A%E4%BB%98%E3%81%91%E3%82%92%E3%81%97%E3%81%9F%E3%82%8A%E3%80%81%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%92%E6%8C%AF%E3%82%8B%E3%81%A3%E3%81%9F%E3%82%8A%E3%80%81%E5%A4%A7%E3%81%92%E3%81%95%E3%81%AA%E7%9C%9F%E5%89%A3%E3%81%95%E3%81%A7%E5%87%9D%E3%81%A3%E3%81%9F%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%AE%E3%83%87%E3%82%B3%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E6%A7%98%E5%AD%90%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%A7%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%80%81%E5%8D%B0%E5%88%B7%E3%81%AB%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E3%81%AA%E3%81%97%E3%80%82)**
 
 ---
 
-### No. 2: Funny Gingerbread Animated Illustration Photo Frame
+### No. 2: クリスマス・コアラ · 手放せないフレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt creates a printable Christmas photo frame illustration in a humorous animated storybook style featuring funny gingerbread characters. The design shows only the frame with a blank photo placeholder, offering a humorous, cozy, and whimsical aesthetic for printing.
+このプロンプトは、縦型 1:1.4 フォーマットのアニメーション クリスマス フォト フレームを作成します。ボーダーには、オーナメントやガーランドにしがみつき、離れようとしない漫画のコアラが描かれており、印刷対応のデザインに優しく居心地の良いユーモアを生み出しています。
 
 #### 📝 プロンプト
 
 ```
-A printable Christmas photo frame illustration in a vertical 1:1.4 aspect ratio, created in a humorous animated storybook style.
+縦型 1:1.4 フォーマットの印刷可能なアニメーション クリスマス フォト フレーム。
 
-The illustration shows only the frame design, without any external environment or background scenery. The colors are warm and festive with soft paper texture.
+フレームのみのデザインです。
 
-At the exact center, reserve a blank photo placeholder that is horizontally and vertically centered, maintaining a 1:1.4 aspect ratio and 70% of the total frame width, completely blank and unobstructed.
+空白の写真プレースホルダーは、水平方向と垂直方向の両方で中央に配置され、1:1.4 のアスペクト比で幅 70% を占め、完全に手つかずの状態です。
 
-The frame border is decorated with playful gingerbread characters striking silly poses, partially broken cookies, frosting details, and candy decorations, all drawn with expressive cartoon faces.
+ボーダーには、オーナメント、ガーランド、キャンディケインを抱きしめて離さない漫画のコアラが描かれており、優しく心地よいユーモアを生み出しています。
 
-The mood is humorous, cozy, and whimsical, fully optimized for printing, with no typography.
+フラットで暖かく、印刷可能で、テキストはありません。
 ```
 
 #### 🖼️ 生成画像
@@ -166,7 +375,7 @@ The mood is humorous, cozy, and whimsical, fully optimized for printing, with no
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784310981_hlrjof_1765780294344-8suld3-nw38D6_lD8WBy0bTPa2E6DCNqhxc3ZAVzQg5N2eB1mBa0YUupvbF257bbb7r7rztXly4898dTdt5_wksUMiaSIA7ajkXM0yQDW5oIugT1rLlmBsfExT0IuzTiXnXUWtf8PrWnOlBF9AScAAAAASUVORK5CYII_" width="600" alt="Funny Gingerbread Animated Illustration Photo Frame - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788204234_ce1l17_1765784200508-t4uk0f-B9o2xFjunQjTAAAAAElFTkSuQmCC" width="600" alt="クリスマス・コアラ · 手放せないフレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -176,30 +385,30 @@ The mood is humorous, cozy, and whimsical, fully optimized for printing, with no
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20Christmas%20photo%20frame%20illustration%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20created%20in%20a%20humorous%20animated%20storybook%20style.%0A%0AThe%20illustration%20shows%20only%20the%20frame%20design%2C%20without%20any%20external%20environment%20or%20background%20scenery.%20The%20colors%20are%20warm%20and%20festive%20with%20soft%20paper%20texture.%0A%0AAt%20the%20exact%20center%2C%20reserve%20a%20blank%20photo%20placeholder%20that%20is%20horizontally%20and%20vertically%20centered%2C%20maintaining%20a%201%3A1.4%20aspect%20ratio%20and%2070%25%20of%20the%20total%20frame%20width%2C%20completely%20blank%20and%20unobstructed.%0A%0AThe%20frame%20border%20is%20decorated%20with%20playful%20gingerbread%20characters%20striking%20silly%20poses%2C%20partially%20broken%20cookies%2C%20frosting%20details%2C%20and%20candy%20decorations%2C%20all%20drawn%20with%20expressive%20cartoon%20faces.%0A%0AThe%20mood%20is%20humorous%2C%20cozy%2C%20and%20whimsical%2C%20fully%20optimized%20for%20printing%2C%20with%20no%20typography.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B8%A6%E5%9E%8B%201%3A1.4%20%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%81%AE%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%20%E3%83%95%E3%82%A9%E3%83%88%20%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%BF%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%AF%E3%80%81%E6%B0%B4%E5%B9%B3%E6%96%B9%E5%90%91%E3%81%A8%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E3%81%AE%E4%B8%A1%E6%96%B9%E3%81%A7%E4%B8%AD%E5%A4%AE%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%80%811%3A1.4%20%E3%81%AE%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%A7%E5%B9%85%2070%25%20%E3%82%92%E5%8D%A0%E3%82%81%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E6%89%8B%E3%81%A4%E3%81%8B%E3%81%9A%E3%81%AE%E7%8A%B6%E6%85%8B%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%AF%E3%80%81%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81%E3%82%AC%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%80%81%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3%E3%82%92%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%A6%E9%9B%A2%E3%81%95%E3%81%AA%E3%81%84%E6%BC%AB%E7%94%BB%E3%81%AE%E3%82%B3%E3%82%A2%E3%83%A9%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E5%84%AA%E3%81%97%E3%81%8F%E5%BF%83%E5%9C%B0%E3%82%88%E3%81%84%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2%E3%82%92%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%A7%E6%9A%96%E3%81%8B%E3%81%8F%E3%80%81%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%A7%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82)**
 
 ---
 
-### No. 3: Lazy Sloth Style Animated Christmas Photo Frame
+### No. 3: クリスマスハリネズミ + リス · 共同災害フレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates a printable Christmas photo frame illustration in a humorous animated storybook style featuring lazy sloths. It's designed as a standalone frame with a blank photo placeholder, perfect for high-quality printing and adding a lighthearted, cozy, and humorous touch to holiday photos.
+このプロンプトは、縦横比 1:1.4 のユーモラスなアニメーションスタイルのクリスマスフレームを生成します。枠の縁には、漫画のハリネズミとリスが飾り付けを競い合い、誤ってフレームの周りにクリスマスの大混乱を引き起こしている様子が描かれています。
 
 #### 📝 プロンプト
 
 ```
-A printable Christmas photo frame illustration designed exclusively as a standalone frame, in a vertical 1:1.4 aspect ratio, suitable for high-quality print.
+ユーモラスなアニメーションスタイルで描かれた、縦長の 1:1.4 比率で印刷可能なクリスマスフレーム。
 
-The illustration focuses only on the frame itself, with no external environment or background scene. The style is a humorous animated storybook illustration with soft textures, clean outlines, and warm colors.
+フレームのみ。
 
-At the exact center of the frame, reserve a blank photo placeholder area that is horizontally and vertically centered. The placeholder has a 1:1.4 portrait aspect ratio, with its width equal to 70% of the total frame width, and must remain completely empty and untouched.
+中央には、1:1.4 比率で幅 70% の、すっきりとした空白の写真プレースホルダー。
 
-The surrounding frame border features playful cartoon sloths hanging from candy canes, evergreen branches, and festive hooks. The sloths wear cozy knitted sweaters and scarves, striking relaxed, funny poses.
+フレームの縁には、デコレーションを集めようと競い合う漫画のハリネズミとリスが描かれ、意図せずしてフレームの周りにクリスマスの賑やかな混乱を引き起こしている。
 
-The illustration feels lighthearted, cozy, and humorous, with flat composition and print-friendly colors, no text or typography.
+フラットな構図で、テキストなし。
 ```
 
 #### 🖼️ 生成画像
@@ -207,7 +416,7 @@ The illustration feels lighthearted, cozy, and humorous, with flat composition a
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="Lazy Sloth Style Animated Christmas Photo Frame - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788202576_2wfuzq_1765783647682-r45pga-fD2rQlsAAAAASUVORK5CYII_" width="600" alt="クリスマスハリネズミ + リス · 共同災害フレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -217,30 +426,30 @@ The illustration feels lighthearted, cozy, and humorous, with flat composition a
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20Christmas%20photo%20frame%20illustration%20designed%20exclusively%20as%20a%20standalone%20frame%2C%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20suitable%20for%20high-quality%20print.%0A%0AThe%20illustration%20focuses%20only%20on%20the%20frame%20itself%2C%20with%20no%20external%20environment%20or%20background%20scene.%20The%20style%20is%20a%20humorous%20animated%20storybook%20illustration%20with%20soft%20textures%2C%20clean%20outlines%2C%20and%20warm%20colors.%0A%0AAt%20the%20exact%20center%20of%20the%20frame%2C%20reserve%20a%20blank%20photo%20placeholder%20area%20that%20is%20horizontally%20and%20vertically%20centered.%20The%20placeholder%20has%20a%201%3A1.4%20portrait%20aspect%20ratio%2C%20with%20its%20width%20equal%20to%2070%25%20of%20the%20total%20frame%20width%2C%20and%20must%20remain%20completely%20empty%20and%20untouched.%0A%0AThe%20surrounding%20frame%20border%20features%20playful%20cartoon%20sloths%20hanging%20from%20candy%20canes%2C%20evergreen%20branches%2C%20and%20festive%20hooks.%20The%20sloths%20wear%20cozy%20knitted%20sweaters%20and%20scarves%2C%20striking%20relaxed%2C%20funny%20poses.%0A%0AThe%20illustration%20feels%20lighthearted%2C%20cozy%2C%20and%20humorous%2C%20with%20flat%20composition%20and%20print-friendly%20colors%2C%20no%20text%20or%20typography.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E7%B8%A6%E9%95%B7%E3%81%AE%201%3A1.4%20%E6%AF%94%E7%8E%87%E3%81%A7%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%BF%E3%80%82%0A%0A%E4%B8%AD%E5%A4%AE%E3%81%AB%E3%81%AF%E3%80%811%3A1.4%20%E6%AF%94%E7%8E%87%E3%81%A7%E5%B9%85%2070%25%20%E3%81%AE%E3%80%81%E3%81%99%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E7%B8%81%E3%81%AB%E3%81%AF%E3%80%81%E3%83%87%E3%82%B3%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E9%9B%86%E3%82%81%E3%82%88%E3%81%86%E3%81%A8%E7%AB%B6%E3%81%84%E5%90%88%E3%81%86%E6%BC%AB%E7%94%BB%E3%81%AE%E3%83%8F%E3%83%AA%E3%83%8D%E3%82%BA%E3%83%9F%E3%81%A8%E3%83%AA%E3%82%B9%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%80%81%E6%84%8F%E5%9B%B3%E3%81%9B%E3%81%9A%E3%81%97%E3%81%A6%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E5%91%A8%E3%82%8A%E3%81%AB%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%81%AE%E8%B3%91%E3%82%84%E3%81%8B%E3%81%AA%E6%B7%B7%E4%B9%B1%E3%82%92%E5%BC%95%E3%81%8D%E8%B5%B7%E3%81%93%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E6%A7%8B%E5%9B%B3%E3%81%A7%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AA%E3%81%97%E3%80%82)**
 
 ---
 
-### No. 4: Playful Polar Bear Cartoon Christmas Photo Frame
+### No. 4: クリスマス カメレオン · 失敗したカモフラージュ フレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt creates a printable animated Christmas photo frame in a humorous cartoon style featuring playful polar bears. It's designed solely as a frame illustration for print, with a blank photo placeholder, offering a cheerful, funny, and friendly aesthetic for holiday pictures.
+このプロンプトは、縦型 1:1.4 フォーマットのユーモラスな漫画風クリスマス フレームを作成します。ボーダーには、デコレーションに紛れ込もうとして失敗し、はっきりと見えて困惑している漫画のカメレオンが描かれており、印刷に適したデザインにさりげない視覚的なユーモアを加えています。
 
 #### 📝 プロンプト
 
 ```
-A printable animated Christmas photo frame in a vertical 1:1.4 aspect ratio, designed solely as a frame illustration for print.
+縦型 1:1.4 の印刷可能なクリスマス フレーム。ユーモラスなカートゥーン スタイル。
 
-The frame is illustrated in a humorous cartoon style with rounded shapes, expressive characters, and soft shading. No environment, no background scene, only the frame design.
+フレームのみのイラスト。
 
-A blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 aspect ratio and 70% of the frame width, completely empty and clean.
+中央に空白の写真プレースホルダー、1:1.4、幅 70%、未加工。
 
-The border is decorated with playful polar bears sliding, peeking, and clinging to the edges of the frame, interacting with candy canes, ornaments, and snowballs in a silly, exaggerated way.
+ボーダーには、オーナメント、ライト、ガーランドに紛れ込もうとして失敗し、はっきりと見えて困惑しているカートゥーン調のカメレオンが描かれており、さりげない視覚的なユーモアを添えています。
 
-The overall mood is cheerful, funny, and friendly, optimized for flat printable illustration, with no text.
+フラットで印刷に適しており、文字はありません。
 ```
 
 #### 🖼️ 生成画像
@@ -248,7 +457,7 @@ The overall mood is cheerful, funny, and friendly, optimized for flat printable 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="Playful Polar Bear Cartoon Christmas Photo Frame - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788201283_5hpzxv_1765783637947-37zcm3-L03mwdyBuPoGAAAAAElFTkSuQmCC" width="600" alt="クリスマス カメレオン · 失敗したカモフラージュ フレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -258,30 +467,30 @@ The overall mood is cheerful, funny, and friendly, optimized for flat printable 
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20animated%20Christmas%20photo%20frame%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20designed%20solely%20as%20a%20frame%20illustration%20for%20print.%0A%0AThe%20frame%20is%20illustrated%20in%20a%20humorous%20cartoon%20style%20with%20rounded%20shapes%2C%20expressive%20characters%2C%20and%20soft%20shading.%20No%20environment%2C%20no%20background%20scene%2C%20only%20the%20frame%20design.%0A%0AA%20blank%20photo%20placeholder%20is%20reserved%20at%20the%20exact%20horizontal%20and%20vertical%20center%2C%20with%20a%201%3A1.4%20aspect%20ratio%20and%2070%25%20of%20the%20frame%20width%2C%20completely%20empty%20and%20clean.%0A%0AThe%20border%20is%20decorated%20with%20playful%20polar%20bears%20sliding%2C%20peeking%2C%20and%20clinging%20to%20the%20edges%20of%20the%20frame%2C%20interacting%20with%20candy%20canes%2C%20ornaments%2C%20and%20snowballs%20in%20a%20silly%2C%20exaggerated%20way.%0A%0AThe%20overall%20mood%20is%20cheerful%2C%20funny%2C%20and%20friendly%2C%20optimized%20for%20flat%20printable%20illustration%2C%20with%20no%20text.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B8%A6%E5%9E%8B%201%3A1.4%20%E3%81%AE%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%20%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%80%82%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%20%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%BF%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%82%0A%0A%E4%B8%AD%E5%A4%AE%E3%81%AB%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%80%811%3A1.4%E3%80%81%E5%B9%85%2070%25%E3%80%81%E6%9C%AA%E5%8A%A0%E5%B7%A5%E3%80%82%0A%0A%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%AF%E3%80%81%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81%E3%83%A9%E3%82%A4%E3%83%88%E3%80%81%E3%82%AC%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AB%E7%B4%9B%E3%82%8C%E8%BE%BC%E3%82%82%E3%81%86%E3%81%A8%E3%81%97%E3%81%A6%E5%A4%B1%E6%95%97%E3%81%97%E3%80%81%E3%81%AF%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A8%E8%A6%8B%E3%81%88%E3%81%A6%E5%9B%B0%E6%83%91%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%E8%AA%BF%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%AC%E3%82%AA%E3%83%B3%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%81%95%E3%82%8A%E3%81%92%E3%81%AA%E3%81%84%E8%A6%96%E8%A6%9A%E7%9A%84%E3%81%AA%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2%E3%82%92%E6%B7%BB%E3%81%88%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%A7%E5%8D%B0%E5%88%B7%E3%81%AB%E9%81%A9%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E6%96%87%E5%AD%97%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82)**
 
 ---
 
-### No. 5: Mischievous Cats Christmas Sticker Style Photo Frame
+### No. 5: クリスマスフクロウ · 真面目すぎるフレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates a vertical, printable Christmas photo frame illustrated in a cute, humorous animated sticker style featuring mischievous cats. The design focuses solely on the frame itself with bold outlines, soft colors, and a blank photo placeholder, creating a playful and chaotic holiday feel.
+このプロンプトは、縦型 1:1.4 フォーマットのアニメーション絵本スタイルのクリスマスフレームを作成します。ボーダーには、散らかった飾り付けを疑わしげに見つめ、乾いたユーモアでホリデーの混沌を評価する漫画のフクロウが描かれています。
 
 #### 📝 プロンプト
 
 ```
-A vertical 1:1.4 printable Christmas photo frame illustrated in a cute, humorous animated sticker style.
+縦型 1:1.4 の、アニメーション絵本スタイルの印刷可能なクリスマスフレームイラスト。
 
-The design focuses only on the frame itself, with no room, wall, or environmental context. The illustration uses bold outlines, soft colors, and expressive cartoon characters.
+フレームのみの構図。
 
-In the exact center, a blank photo placeholder area is horizontally and vertically centered, with a 1:1.4 portrait ratio and 70% width of the frame, completely empty and clearly defined.
+中央に配置された空白の写真プレースホルダーは 1:1.4、幅 70% で、未加工。
 
-The surrounding border features mischievous cartoon cats tangled in Christmas lights, knocking over ornaments, climbing garlands, and peeking from the corners, creating a playful and chaotic holiday feel.
+縁には、スカーフと帽子を身につけた漫画のフクロウたちが、散らかった飾り付けを疑わしげに見つめ、クリップボードを手に持ち、辛口なユーモアでホリデーの混乱を評価している。
 
-The composition remains flat, balanced, and print-ready, with no text elements.
+フラットイラスト、テキストなし。
 ```
 
 #### 🖼️ 生成画像
@@ -289,7 +498,7 @@ The composition remains flat, balanced, and print-ready, with no text elements.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC" width="600" alt="Mischievous Cats Christmas Sticker Style Photo Frame - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788199406_laq4zp_1765784189761-bd5rom-A4qlDwrbnbqJAAAAAElFTkSuQmCC" width="600" alt="クリスマスフクロウ · 真面目すぎるフレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -299,22 +508,30 @@ The composition remains flat, balanced, and print-ready, with no text elements.
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vertical%201%3A1.4%20printable%20Christmas%20photo%20frame%20illustrated%20in%20a%20cute%2C%20humorous%20animated%20sticker%20style.%0A%0AThe%20design%20focuses%20only%20on%20the%20frame%20itself%2C%20with%20no%20room%2C%20wall%2C%20or%20environmental%20context.%20The%20illustration%20uses%20bold%20outlines%2C%20soft%20colors%2C%20and%20expressive%20cartoon%20characters.%0A%0AIn%20the%20exact%20center%2C%20a%20blank%20photo%20placeholder%20area%20is%20horizontally%20and%20vertically%20centered%2C%20with%20a%201%3A1.4%20portrait%20ratio%20and%2070%25%20width%20of%20the%20frame%2C%20completely%20empty%20and%20clearly%20defined.%0A%0AThe%20surrounding%20border%20features%20mischievous%20cartoon%20cats%20tangled%20in%20Christmas%20lights%2C%20knocking%20over%20ornaments%2C%20climbing%20garlands%2C%20and%20peeking%20from%20the%20corners%2C%20creating%20a%20playful%20and%20chaotic%20holiday%20feel.%0A%0AThe%20composition%20remains%20flat%2C%20balanced%2C%20and%20print-ready%2C%20with%20no%20text%20elements.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B8%A6%E5%9E%8B%201%3A1.4%20%E3%81%AE%E3%80%81%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%B5%B5%E6%9C%AC%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%BF%E3%81%AE%E6%A7%8B%E5%9B%B3%E3%80%82%0A%0A%E4%B8%AD%E5%A4%AE%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%81%9F%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%AF%201%3A1.4%E3%80%81%E5%B9%85%2070%25%20%E3%81%A7%E3%80%81%E6%9C%AA%E5%8A%A0%E5%B7%A5%E3%80%82%0A%0A%E7%B8%81%E3%81%AB%E3%81%AF%E3%80%81%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%95%E3%81%A8%E5%B8%BD%E5%AD%90%E3%82%92%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E6%BC%AB%E7%94%BB%E3%81%AE%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6%E3%81%9F%E3%81%A1%E3%81%8C%E3%80%81%E6%95%A3%E3%82%89%E3%81%8B%E3%81%A3%E3%81%9F%E9%A3%BE%E3%82%8A%E4%BB%98%E3%81%91%E3%82%92%E7%96%91%E3%82%8F%E3%81%97%E3%81%92%E3%81%AB%E8%A6%8B%E3%81%A4%E3%82%81%E3%80%81%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E6%89%8B%E3%81%AB%E6%8C%81%E3%81%A1%E3%80%81%E8%BE%9B%E5%8F%A3%E3%81%AA%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2%E3%81%A7%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC%E3%81%AE%E6%B7%B7%E4%B9%B1%E3%82%92%E8%A9%95%E4%BE%A1%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AA%E3%81%97%E3%80%82)**
 
 ---
 
-### No. 6: Koala Clinging to Christmas Tree
+### No. 6: クリスマス オクトパス · 8本腕の狂乱フレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates a cute printable Christmas card design featuring a grey koala bear clinging to a decorated Christmas tree. It's perfect for sweet and endearing holiday greetings with a soft, crayon-drawing texture.
+このプロンプトは、縦長 1:1.4 フォーマットの、ユーモラスなカートゥーンアニメーションスタイルのクリスマスフォトフレームを生成します。ボーダーには、腕をすべて使って飾り付けをしているカートゥーンのタコが描かれており、遊び心のあるお祭り騒ぎが表現されています。
 
 #### 📝 プロンプト
 
 ```
-A cute printable Christmas card design, aspect ratio 1:1.4. A grey koala bear is clinging tightly to the trunk of a small, decorated Christmas tree instead of a eucalyptus tree, looking content and sleepy. The tree is covered in shiny silver tinsel and colorful baubles. The koala wears a tiny red bow tie. Solid pastel green background. Soft, crayon drawing texture.
+ユーモラスなカートゥーンアニメーションスタイルで描かれた、縦長の 1:1.4 比率で印刷可能なクリスマスフォトフレーム。
+
+フレームのデザインのみで、背景はなし。
+
+空白の写真プレースホルダーは完全に中央に配置され、1:1.4 の比率で幅は 70%、完全に空。
+
+フレームの縁には、カートゥーンのタコがすべての腕を使ってオーナメント、ライト、キャンディケイン、星を同時に飾り付け、遊び心のあるお祭り騒ぎを巻き起こしている。
+
+フラットでクリーン、印刷可能、タイポグラフィなし。
 ```
 
 #### 🖼️ 生成画像
@@ -322,7 +539,7 @@ A cute printable Christmas card design, aspect ratio 1:1.4. A grey koala bear is
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780157326_ckp21g_1765693121569-apj76v-v_H31t5QXhilrDAAAAAElFTkSuQmCC" width="600" alt="Koala Clinging to Christmas Tree - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_" width="600" alt="クリスマス オクトパス · 8本腕の狂乱フレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -332,22 +549,30 @@ A cute printable Christmas card design, aspect ratio 1:1.4. A grey koala bear is
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20grey%20koala%20bear%20is%20clinging%20tightly%20to%20the%20trunk%20of%20a%20small%2C%20decorated%20Christmas%20tree%20instead%20of%20a%20eucalyptus%20tree%2C%20looking%20content%20and%20sleepy.%20The%20tree%20is%20covered%20in%20shiny%20silver%20tinsel%20and%20colorful%20baubles.%20The%20koala%20wears%20a%20tiny%20red%20bow%20tie.%20Solid%20pastel%20green%20background.%20Soft%2C%20crayon%20drawing%20texture.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E7%B8%A6%E9%95%B7%E3%81%AE%201%3A1.4%20%E6%AF%94%E7%8E%87%E3%81%A7%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%BF%E3%81%A7%E3%80%81%E8%83%8C%E6%99%AF%E3%81%AF%E3%81%AA%E3%81%97%E3%80%82%0A%0A%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%AF%E5%AE%8C%E5%85%A8%E3%81%AB%E4%B8%AD%E5%A4%AE%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%80%811%3A1.4%20%E3%81%AE%E6%AF%94%E7%8E%87%E3%81%A7%E5%B9%85%E3%81%AF%2070%25%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E7%A9%BA%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E7%B8%81%E3%81%AB%E3%81%AF%E3%80%81%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%E3%81%AE%E3%82%BF%E3%82%B3%E3%81%8C%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E8%85%95%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81%E3%83%A9%E3%82%A4%E3%83%88%E3%80%81%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3%E3%80%81%E6%98%9F%E3%82%92%E5%90%8C%E6%99%82%E3%81%AB%E9%A3%BE%E3%82%8A%E4%BB%98%E3%81%91%E3%80%81%E9%81%8A%E3%81%B3%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E3%81%8A%E7%A5%AD%E3%82%8A%E9%A8%92%E3%81%8E%E3%82%92%E5%B7%BB%E3%81%8D%E8%B5%B7%E3%81%93%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%A7%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%80%81%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%80%81%E3%82%BF%E3%82%A4%E3%83%9D%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%81%AA%E3%81%97%E3%80%82)**
 
 ---
 
-### No. 7: Bear Baker with Living Gingerbread Men
+### No. 7: クリスマスラビット · ハイパー多忙フレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt creates a charming illustration of a friendly brown bear baker making gingerbread men, which have come to life and are running around the kitchen. Perfect for warm and storybook-style holiday cards.
+このプロンプトは、遊び心のあるカオスを特徴とする、縦長の 1:1.4 フォーマットのアニメーション クリスマス フレームを作成します。ボーダーには、元気な漫画のウサギたちがプレゼントを慌ただしく包装したり、リボンにつまずいたりする様子が描かれ、活気に満ちたユーモラスな雰囲気を添えています。
 
 #### 📝 プロンプト
 
 ```
-A charming illustration of a brown bear baker, aspect ratio 1:1.4. The friendly bear wears a floral apron and a chef's hat, covered in white flour dust. It is happily rolling out dough on a wooden table, surrounded by gingerbread men cookies that have come to life and are running around the kitchen counter laughing. Warm, storybook art style.
+縦型 1:1.4 フォーマットの印刷可能なアニメーション クリスマス フレーム。
+
+フレームのみのイラスト。
+
+中央に配置された空白の写真プレースホルダー、水平方向と垂直方向の中央、1:1.4、幅 70%、未加工。
+
+枠の縁には、元気な漫画のウサギたちが、プレゼントを慌ただしく包んだり、リボンにつまずいたり、オーナメントをジャグリングしたり、フレームの端を走り回ったりする様子が描かれています。
+
+遊び心のあるカオス、フラットなイラスト、テキストなし。
 ```
 
 #### 🖼️ 生成画像
@@ -355,7 +580,7 @@ A charming illustration of a brown bear baker, aspect ratio 1:1.4. The friendly 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780152259_x9tpgp_1765765754561-emrtgw-w_2W4FWpP9VyAAAAABJRU5ErkJggg__" width="600" alt="Bear Baker with Living Gingerbread Men - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788197086_iih89c_1765783621085-axc899-D8AbWcYcR2jqAAAAAElFTkSuQmCC" width="600" alt="クリスマスラビット · ハイパー多忙フレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -365,22 +590,30 @@ A charming illustration of a brown bear baker, aspect ratio 1:1.4. The friendly 
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20illustration%20of%20a%20brown%20bear%20baker%2C%20aspect%20ratio%201%3A1.4.%20The%20friendly%20bear%20wears%20a%20floral%20apron%20and%20a%20chef's%20hat%2C%20covered%20in%20white%20flour%20dust.%20It%20is%20happily%20rolling%20out%20dough%20on%20a%20wooden%20table%2C%20surrounded%20by%20gingerbread%20men%20cookies%20that%20have%20come%20to%20life%20and%20are%20running%20around%20the%20kitchen%20counter%20laughing.%20Warm%2C%20storybook%20art%20style.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B8%A6%E5%9E%8B%201%3A1.4%20%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%81%AE%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%20%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%BF%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%82%0A%0A%E4%B8%AD%E5%A4%AE%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%81%9F%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%80%81%E6%B0%B4%E5%B9%B3%E6%96%B9%E5%90%91%E3%81%A8%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E3%81%AE%E4%B8%AD%E5%A4%AE%E3%80%811%3A1.4%E3%80%81%E5%B9%85%2070%25%E3%80%81%E6%9C%AA%E5%8A%A0%E5%B7%A5%E3%80%82%0A%0A%E6%9E%A0%E3%81%AE%E7%B8%81%E3%81%AB%E3%81%AF%E3%80%81%E5%85%83%E6%B0%97%E3%81%AA%E6%BC%AB%E7%94%BB%E3%81%AE%E3%82%A6%E3%82%B5%E3%82%AE%E3%81%9F%E3%81%A1%E3%81%8C%E3%80%81%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%E3%82%92%E6%85%8C%E3%81%9F%E3%81%A0%E3%81%97%E3%81%8F%E5%8C%85%E3%82%93%E3%81%A0%E3%82%8A%E3%80%81%E3%83%AA%E3%83%9C%E3%83%B3%E3%81%AB%E3%81%A4%E3%81%BE%E3%81%9A%E3%81%84%E3%81%9F%E3%82%8A%E3%80%81%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E3%82%B8%E3%83%A3%E3%82%B0%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%97%E3%81%9F%E3%82%8A%E3%80%81%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E7%AB%AF%E3%82%92%E8%B5%B0%E3%82%8A%E5%9B%9E%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%99%E3%82%8B%E6%A7%98%E5%AD%90%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E9%81%8A%E3%81%B3%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E3%82%AB%E3%82%AA%E3%82%B9%E3%80%81%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AA%E3%81%97%E3%80%82)**
 
 ---
 
-### No. 8: Pug with Reindeer Antlers and Clown Nose
+### No. 8: クリスマス・ヘッジホッグ · オーナメント・コレクター・フレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates a funny and cute printable card featuring a close-up photographic portrait of a pug reluctantly wearing reindeer antlers and a glowing red clown nose. Ideal for humorous and quirky holiday greetings.
+このプロンプトは、縦横比 1:1.4 のユーモラスなアニメーションスタイルのクリスマスフォトフレームを生成します。フレームの縁には、ハリネズミの漫画が誤って飾りやライトを背中に集めてしまい、かわいらしく誇張された視覚的なユーモアを加えています。
 
 #### 📝 プロンプト
 
 ```
-A funny and cute printable card, aspect ratio 1:1.4. A close-up photographic portrait of a chubby pug dog's face. It is reluctantly wearing a headband with brown felt reindeer antlers and a very bright, glowing red clown nose over its own nose. The pug has a serious, slightly judging expression, staring straight at the camera. The background is blurred festive red lights.
+ユーモラスなアニメーションスタイルで描かれた、縦長の 1:1.4 比率で印刷可能なクリスマスフォトフレーム。
+
+外部環境はなし。
+
+中央に空白のフォトプレースホルダーがあり、1:1.4 の比率で幅は 70%、完全にクリーンな状態。
+
+フレームの縁には、漫画風のハリネズミたちが、誤ってオーナメント、星、ライトを背中の針に集めてしまい、可愛らしく大げさに驚きと困惑の表情を浮かべている。
+
+フラットで印刷に最適化されており、文字はなし。
 ```
 
 #### 🖼️ 生成画像
@@ -388,7 +621,7 @@ A funny and cute printable card, aspect ratio 1:1.4. A close-up photographic por
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780150716_6iohh6_1765693108405-xs5mi7-8HDdKJRZ26cGoAAAAASUVORK5CYII_" width="600" alt="Pug with Reindeer Antlers and Clown Nose - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788195072_7x6vjr_1765783609947-icw1oe-gXUQAAAABJRU5ErkJggg__" width="600" alt="クリスマス・ヘッジホッグ · オーナメント・コレクター・フレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -398,22 +631,30 @@ A funny and cute printable card, aspect ratio 1:1.4. A close-up photographic por
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20and%20cute%20printable%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20close-up%20photographic%20portrait%20of%20a%20chubby%20pug%20dog's%20face.%20It%20is%20reluctantly%20wearing%20a%20headband%20with%20brown%20felt%20reindeer%20antlers%20and%20a%20very%20bright%2C%20glowing%20red%20clown%20nose%20over%20its%20own%20nose.%20The%20pug%20has%20a%20serious%2C%20slightly%20judging%20expression%2C%20staring%20straight%20at%20the%20camera.%20The%20background%20is%20blurred%20festive%20red%20lights.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E7%B8%A6%E9%95%B7%E3%81%AE%201%3A1.4%20%E6%AF%94%E7%8E%87%E3%81%A7%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%80%82%0A%0A%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E3%81%AF%E3%81%AA%E3%81%97%E3%80%82%0A%0A%E4%B8%AD%E5%A4%AE%E3%81%AB%E7%A9%BA%E7%99%BD%E3%81%AE%E3%83%95%E3%82%A9%E3%83%88%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%8C%E3%81%82%E3%82%8A%E3%80%811%3A1.4%20%E3%81%AE%E6%AF%94%E7%8E%87%E3%81%A7%E5%B9%85%E3%81%AF%2070%25%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%AA%E7%8A%B6%E6%85%8B%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E7%B8%81%E3%81%AB%E3%81%AF%E3%80%81%E6%BC%AB%E7%94%BB%E9%A2%A8%E3%81%AE%E3%83%8F%E3%83%AA%E3%83%8D%E3%82%BA%E3%83%9F%E3%81%9F%E3%81%A1%E3%81%8C%E3%80%81%E8%AA%A4%E3%81%A3%E3%81%A6%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81%E6%98%9F%E3%80%81%E3%83%A9%E3%82%A4%E3%83%88%E3%82%92%E8%83%8C%E4%B8%AD%E3%81%AE%E9%87%9D%E3%81%AB%E9%9B%86%E3%82%81%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%80%81%E5%8F%AF%E6%84%9B%E3%82%89%E3%81%97%E3%81%8F%E5%A4%A7%E3%81%92%E3%81%95%E3%81%AB%E9%A9%9A%E3%81%8D%E3%81%A8%E5%9B%B0%E6%83%91%E3%81%AE%E8%A1%A8%E6%83%85%E3%82%92%E6%B5%AE%E3%81%8B%E3%81%B9%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%A7%E5%8D%B0%E5%88%B7%E3%81%AB%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E6%96%87%E5%AD%97%E3%81%AF%E3%81%AA%E3%81%97%E3%80%82)**
 
 ---
 
-### No. 9: Dormouse Asleep in Teacup
+### No. 9: クリスマスパンダ · 癒やしのホリデーフレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates a cozy miniature Christmas illustration of a tiny dormouse curled up asleep inside a festive teacup. Ideal for sweet and delicate holiday card designs.
+このプロンプトは、縦長の 1:1.4 フォーマットで、柔らかくアニメーション化された絵本スタイルのクリスマス フォト フレームを生成します。ボーダーには、オーナメントの上でくつろいだり、キャンディケインを抱きしめたりする、のんびりとした漫画のパンダが描かれており、優しく心地よいユーモアを生み出しています。
 
 #### 📝 プロンプト
 
 ```
-A cozy miniature Christmas illustration, aspect ratio 1:1.4. A tiny dormouse is curled up asleep inside a ceramic teacup that is decorated with a festive red and green holly pattern. The mouse is covered by a small green leaf blanket. The teacup sits on a saucer next to a miniature mince pie on a wooden table surface. Watercolor and colored pencil style.
+縦型 1:1.4 の印刷可能なクリスマスフォトフレームイラスト。柔らかなアニメーションの絵本スタイルで描かれています。
+
+フレームのみの構図。
+
+縦向きの空白の写真プレースホルダーが中央に配置されており、アスペクト比は 1:1.4、幅は 70% で、完全に空です。
+
+ボーダーには、オーナメントの上でくつろいだり、キャンディケインを抱きしめたり、お祭りの飾りの中で半分眠っていたりする、のんびりとした漫画のパンダたちが、優しいユーモアを交えて描かれています。
+
+フラットなイラスト、暖色系のパレット、テキストなし。
 ```
 
 #### 🖼️ 生成画像
@@ -421,7 +662,7 @@ A cozy miniature Christmas illustration, aspect ratio 1:1.4. A tiny dormouse is 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780150013_3r2ds8_1765765750332-u6dv2j-f7L6RsJkw3KlnwAAAAAElFTkSuQmCC" width="600" alt="Dormouse Asleep in Teacup - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__" width="600" alt="クリスマスパンダ · 癒やしのホリデーフレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -431,22 +672,30 @@ A cozy miniature Christmas illustration, aspect ratio 1:1.4. A tiny dormouse is 
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cozy%20miniature%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20tiny%20dormouse%20is%20curled%20up%20asleep%20inside%20a%20ceramic%20teacup%20that%20is%20decorated%20with%20a%20festive%20red%20and%20green%20holly%20pattern.%20The%20mouse%20is%20covered%20by%20a%20small%20green%20leaf%20blanket.%20The%20teacup%20sits%20on%20a%20saucer%20next%20to%20a%20miniature%20mince%20pie%20on%20a%20wooden%20table%20surface.%20Watercolor%20and%20colored%20pencil%20style.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B8%A6%E5%9E%8B%201%3A1.4%20%E3%81%AE%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%82%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E7%B5%B5%E6%9C%AC%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%BF%E3%81%AE%E6%A7%8B%E5%9B%B3%E3%80%82%0A%0A%E7%B8%A6%E5%90%91%E3%81%8D%E3%81%AE%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%8C%E4%B8%AD%E5%A4%AE%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%AF%201%3A1.4%E3%80%81%E5%B9%85%E3%81%AF%2070%25%20%E3%81%A7%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E7%A9%BA%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%AF%E3%80%81%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E4%B8%8A%E3%81%A7%E3%81%8F%E3%81%A4%E3%82%8D%E3%81%84%E3%81%A0%E3%82%8A%E3%80%81%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3%E3%82%92%E6%8A%B1%E3%81%8D%E3%81%97%E3%82%81%E3%81%9F%E3%82%8A%E3%80%81%E3%81%8A%E7%A5%AD%E3%82%8A%E3%81%AE%E9%A3%BE%E3%82%8A%E3%81%AE%E4%B8%AD%E3%81%A7%E5%8D%8A%E5%88%86%E7%9C%A0%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%82%8A%E3%81%99%E3%82%8B%E3%80%81%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E6%BC%AB%E7%94%BB%E3%81%AE%E3%83%91%E3%83%B3%E3%83%80%E3%81%9F%E3%81%A1%E3%81%8C%E3%80%81%E5%84%AA%E3%81%97%E3%81%84%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2%E3%82%92%E4%BA%A4%E3%81%88%E3%81%A6%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E6%9A%96%E8%89%B2%E7%B3%BB%E3%81%AE%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AA%E3%81%97%E3%80%82)**
 
 ---
 
-### No. 10: Octopus Decorating Coral Christmas Tree
+### No. 10: クリスマス タートルズ · テイク・イット・スロー フレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt creates a whimsical underwater Christmas card featuring a friendly purple octopus decorating a coral 'Christmas tree'. Perfect for unique and playful aquatic-themed holiday greetings.
+このプロンプトは、穏やかでありながらユーモラスなカートゥーンスタイルで、縦長の 1:1.4 の印刷可能なクリスマスフレームを作成します。ボーダーには、誇張されたゆっくりとしたペースで動くリラックスしたカートゥーンのカメが描かれており、デザインに優しく平和なユーモアを加えています。
 
 #### 📝 プロンプト
 
 ```
-A whimsical underwater Christmas card, aspect ratio 1:1.4. A friendly purple octopus is using all eight arms to decorate a large piece of branching coral that looks like a Christmas tree. It's hanging shiny seashells, starfish, and strings of pearls on the branches. A Santa hat floats just above its head. Bubbles rise against a deep blue ocean background. Cute cartoon style.
+穏やかでありながらユーモラスなカートゥーンスタイルで、縦長の 1:1.4 比率で印刷可能なクリスマスフレーム。
+
+フレームのイラストのみで、背景のシーンはありません。
+
+中央には、1:1.4 の比率で幅 70% の空白の写真プレースホルダーが完璧に配置され、手つかずの状態です。
+
+ボーダーは、スカーフを巻いたのんびりとしたカートゥーン調のカメたちで飾られています。カメたちは、落ち着いてオーナメントを積み重ねたり、ホリデーライトを囲んで瞑想したり、誇張されたゆっくりとしたペースで動いたりしています。
+
+フラットでバランスが取れており、印刷に適しており、テキストはありません。
 ```
 
 #### 🖼️ 生成画像
@@ -454,7 +703,7 @@ A whimsical underwater Christmas card, aspect ratio 1:1.4. A friendly purple oct
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780144630_0tscw8_1765693091821-qhhkcy-zJJh_aUBJ0oFVKEJRYbqaxivp889_gQSR09EMCDxvoD8Rg0767xzBB2CWUvdpo3J9NqDaUE_1kVMeq5_SXMzP8DXmFImiJYjewAAAAASUVORK5CYII_" width="600" alt="Octopus Decorating Coral Christmas Tree - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788193159_ioxmaa_1765783608149-8brem0-kCAcQJAzIhi0RAIMVp0Kt0wYCn1BUksOO_vgCY6SvGWFFiQCx8b9gjAmwhqYYioemYQIDKA_P8DD9Kp4aKugaMAAAAASUVORK5CYII_" width="600" alt="クリスマス タートルズ · テイク・イット・スロー フレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -464,22 +713,30 @@ A whimsical underwater Christmas card, aspect ratio 1:1.4. A friendly purple oct
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20underwater%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20friendly%20purple%20octopus%20is%20using%20all%20eight%20arms%20to%20decorate%20a%20large%20piece%20of%20branching%20coral%20that%20looks%20like%20a%20Christmas%20tree.%20It's%20hanging%20shiny%20seashells%2C%20starfish%2C%20and%20strings%20of%20pearls%20on%20the%20branches.%20A%20Santa%20hat%20floats%20just%20above%20its%20head.%20Bubbles%20rise%20against%20a%20deep%20blue%20ocean%20background.%20Cute%20cartoon%20style.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%A9%8F%E3%82%84%E3%81%8B%E3%81%A7%E3%81%82%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E3%80%81%E7%B8%A6%E9%95%B7%E3%81%AE%201%3A1.4%20%E6%AF%94%E7%8E%87%E3%81%A7%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%BF%E3%81%A7%E3%80%81%E8%83%8C%E6%99%AF%E3%81%AE%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82%0A%0A%E4%B8%AD%E5%A4%AE%E3%81%AB%E3%81%AF%E3%80%811%3A1.4%20%E3%81%AE%E6%AF%94%E7%8E%87%E3%81%A7%E5%B9%85%2070%25%20%E3%81%AE%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%8C%E5%AE%8C%E7%92%A7%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%80%81%E6%89%8B%E3%81%A4%E3%81%8B%E3%81%9A%E3%81%AE%E7%8A%B6%E6%85%8B%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AF%E3%80%81%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%95%E3%82%92%E5%B7%BB%E3%81%84%E3%81%9F%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%E8%AA%BF%E3%81%AE%E3%82%AB%E3%83%A1%E3%81%9F%E3%81%A1%E3%81%A7%E9%A3%BE%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%82%AB%E3%83%A1%E3%81%9F%E3%81%A1%E3%81%AF%E3%80%81%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%84%E3%81%A6%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E7%A9%8D%E3%81%BF%E9%87%8D%E3%81%AD%E3%81%9F%E3%82%8A%E3%80%81%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E3%82%92%E5%9B%B2%E3%82%93%E3%81%A7%E7%9E%91%E6%83%B3%E3%81%97%E3%81%9F%E3%82%8A%E3%80%81%E8%AA%87%E5%BC%B5%E3%81%95%E3%82%8C%E3%81%9F%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E3%83%9A%E3%83%BC%E3%82%B9%E3%81%A7%E5%8B%95%E3%81%84%E3%81%9F%E3%82%8A%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%A7%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%8C%E5%8F%96%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E5%8D%B0%E5%88%B7%E3%81%AB%E9%81%A9%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82)**
 
 ---
 
-### No. 11: Alpaca Overloaded with Presents
+### No. 11: クリスマススクイレルズ · ホーディングフレンジーフレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt creates a cute and chaotic Christmas card featuring a fluffy alpaca overloaded with a precarious stack of Christmas presents. Perfect for humorous and charming holiday greetings.
+このプロンプトは、縦長 1:1.4 フォーマットの、ユーモラスなアニメーション クリスマス フォトフレームを生成します。ボーダーには、オーナメントをため込んだり、靴下を詰め込んだりする慌ただしい漫画のリスたちが描かれており、印刷に適したデザインに居心地の良いユーモアを加えています。
 
 #### 📝 プロンプト
 
 ```
-A cute and chaotic Christmas card, aspect ratio 1:1.4. A fluffy white alpaca stands against a solid mint green background. Its back is overloaded with an impossibly tall, precarious stack of colorful wrapped Christmas presents with bows that are wobbling wildly. The alpaca has a patient, slightly strained expression, and its skinny legs are shaking slightly under the weight.
+縦型 1:1.4 フォーマットの印刷可能なクリスマス フォトフレーム イラスト。ユーモラスなアニメーション スタイルで描かれています。
+
+フレームのみのデザインで、背景はありません。
+
+中央に空白のフォトプレースホルダーがあり、水平方向と垂直方向に中央揃え、アスペクト比 1:1.4、フレーム幅の 70% を占め、完全に空です。
+
+ボーダーには、オーナメントをため込んだり、靴下に詰め込んだり、飾りの中にナッツを隠したり、飾りの後ろからおずおずと覗き込んだりする、慌ただしい漫画のリスが描かれています。
+
+フラットなイラスト、心温まるユーモア、文字なし。
 ```
 
 #### 🖼️ 生成画像
@@ -487,7 +744,7 @@ A cute and chaotic Christmas card, aspect ratio 1:1.4. A fluffy white alpaca sta
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780142631_uo5vj6_1765765458317-2gfkgs-N8AAAAASUVORK5CYII_" width="600" alt="Alpaca Overloaded with Presents - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788190847_uts5dc_1765784417851-tvxey7-b_RQnrr59P8BW4BdIdd1RXYAAAAASUVORK5CYII_" width="600" alt="クリスマススクイレルズ · ホーディングフレンジーフレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -497,22 +754,30 @@ A cute and chaotic Christmas card, aspect ratio 1:1.4. A fluffy white alpaca sta
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20chaotic%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20fluffy%20white%20alpaca%20stands%20against%20a%20solid%20mint%20green%20background.%20Its%20back%20is%20overloaded%20with%20an%20impossibly%20tall%2C%20precarious%20stack%20of%20colorful%20wrapped%20Christmas%20presents%20with%20bows%20that%20are%20wobbling%20wildly.%20The%20alpaca%20has%20a%20patient%2C%20slightly%20strained%20expression%2C%20and%20its%20skinny%20legs%20are%20shaking%20slightly%20under%20the%20weight.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B8%A6%E5%9E%8B%201%3A1.4%20%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%81%AE%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%20%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%20%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%82%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%BF%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A7%E3%80%81%E8%83%8C%E6%99%AF%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82%0A%0A%E4%B8%AD%E5%A4%AE%E3%81%AB%E7%A9%BA%E7%99%BD%E3%81%AE%E3%83%95%E3%82%A9%E3%83%88%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%8C%E3%81%82%E3%82%8A%E3%80%81%E6%B0%B4%E5%B9%B3%E6%96%B9%E5%90%91%E3%81%A8%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E3%81%AB%E4%B8%AD%E5%A4%AE%E6%8F%83%E3%81%88%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%81%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E5%B9%85%E3%81%AE%2070%25%20%E3%82%92%E5%8D%A0%E3%82%81%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E7%A9%BA%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%AF%E3%80%81%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E3%81%9F%E3%82%81%E8%BE%BC%E3%82%93%E3%81%A0%E3%82%8A%E3%80%81%E9%9D%B4%E4%B8%8B%E3%81%AB%E8%A9%B0%E3%82%81%E8%BE%BC%E3%82%93%E3%81%A0%E3%82%8A%E3%80%81%E9%A3%BE%E3%82%8A%E3%81%AE%E4%B8%AD%E3%81%AB%E3%83%8A%E3%83%83%E3%83%84%E3%82%92%E9%9A%A0%E3%81%97%E3%81%9F%E3%82%8A%E3%80%81%E9%A3%BE%E3%82%8A%E3%81%AE%E5%BE%8C%E3%82%8D%E3%81%8B%E3%82%89%E3%81%8A%E3%81%9A%E3%81%8A%E3%81%9A%E3%81%A8%E8%A6%97%E3%81%8D%E8%BE%BC%E3%82%93%E3%81%A0%E3%82%8A%E3%81%99%E3%82%8B%E3%80%81%E6%85%8C%E3%81%9F%E3%81%A0%E3%81%97%E3%81%84%E6%BC%AB%E7%94%BB%E3%81%AE%E3%83%AA%E3%82%B9%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E5%BF%83%E6%B8%A9%E3%81%BE%E3%82%8B%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2%E3%80%81%E6%96%87%E5%AD%97%E3%81%AA%E3%81%97%E3%80%82)**
 
 ---
 
-### No. 12: Magical Snowy Owl Delivering Mail
+### No. 12: クリスマス モンキーズ · ミスチーフ フレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates a magical Christmas illustration of a snowy owl in flight, carrying a small, elegant red envelope. Ideal for enchanting and whimsical holiday card designs.
+このプロンプトは、遊び心のある漫画のようなエネルギーに満ちた、縦長の 1:1.4 比率で印刷可能なアニメーション クリスマス フォト フレームを生成します。ボーダーには、いたずら好きなサルたちがガーランドにぶら下がって星を盗んでいる様子が、生き生きとしたアニメーション スタイルで描かれています。
 
 #### 📝 プロンプト
 
 ```
-A magical Christmas illustration, aspect ratio 1:1.4. A fluffy white snowy owl with bright yellow eyes is in mid-flight against a dark blue, star-filled night sky. It carries a small, elegant red envelope sealed with a gold wax seal in its beak. A tiny sprig of holly is tucked behind its ear like a feather. The style is detailed and enchanting.
+遊び心のある漫画のエネルギーに満ちた、縦型 1:1.4 の印刷可能なアニメーション クリスマス フォト フレーム。
+
+環境はなく、フレームのみ。
+
+中央に水平方向と垂直方向の両方に配置された、1:1.4 の比率で幅 70% の大きな空白のフォト プレースホルダーは、完全に空です。
+
+フレームの縁には、いたずら好きな漫画のサルたちがガーランドにぶら下がったり、星を盗んだり、逆さまにぶら下がったり、おどけた表情をしたりする様子が、生き生きとしたアニメーション スタイルで描かれています。
+
+フラットでバランスが取れており、印刷可能で、テキストはありません。
 ```
 
 #### 🖼️ 生成画像
@@ -520,7 +785,7 @@ A magical Christmas illustration, aspect ratio 1:1.4. A fluffy white snowy owl w
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780138272_3svn17_1765765454815-r02l98-39y3ldSxfTVjYHEu7z6e58eW0dWm0gojHuTEKYhMy9CVualCgiWFmYEOeZiJjb6cPH6LFta5rSVvfacF03UX14_C1AQPVY6_iG5ixRy_G49L2ryc_fL9V3UcvzHA3StFyutw6gQMhMAu4RdVOVkZR795zmOd1uiNHIEHATQCi1sjCRI5IyCQt1FBdiEpEWzYS7U0S0BoAw1qqSmElKb0C" width="600" alt="Magical Snowy Owl Delivering Mail - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788189885_vgajpv_1765783585967-se6gws-P0AAAAASUVORK5CYII_" width="600" alt="クリスマス モンキーズ · ミスチーフ フレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -530,22 +795,30 @@ A magical Christmas illustration, aspect ratio 1:1.4. A fluffy white snowy owl w
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20magical%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20fluffy%20white%20snowy%20owl%20with%20bright%20yellow%20eyes%20is%20in%20mid-flight%20against%20a%20dark%20blue%2C%20star-filled%20night%20sky.%20It%20carries%20a%20small%2C%20elegant%20red%20envelope%20sealed%20with%20a%20gold%20wax%20seal%20in%20its%20beak.%20A%20tiny%20sprig%20of%20holly%20is%20tucked%20behind%20its%20ear%20like%20a%20feather.%20The%20style%20is%20detailed%20and%20enchanting.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%81%8A%E3%81%B3%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E6%BC%AB%E7%94%BB%E3%81%AE%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AB%E6%BA%80%E3%81%A1%E3%81%9F%E3%80%81%E7%B8%A6%E5%9E%8B%201%3A1.4%20%E3%81%AE%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%20%E3%83%95%E3%82%A9%E3%83%88%20%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%80%82%0A%0A%E7%92%B0%E5%A2%83%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%81%BF%E3%80%82%0A%0A%E4%B8%AD%E5%A4%AE%E3%81%AB%E6%B0%B4%E5%B9%B3%E6%96%B9%E5%90%91%E3%81%A8%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E3%81%AE%E4%B8%A1%E6%96%B9%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%81%9F%E3%80%811%3A1.4%20%E3%81%AE%E6%AF%94%E7%8E%87%E3%81%A7%E5%B9%85%2070%25%20%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E7%A9%BA%E7%99%BD%E3%81%AE%E3%83%95%E3%82%A9%E3%83%88%20%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%AF%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E7%A9%BA%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E7%B8%81%E3%81%AB%E3%81%AF%E3%80%81%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E5%A5%BD%E3%81%8D%E3%81%AA%E6%BC%AB%E7%94%BB%E3%81%AE%E3%82%B5%E3%83%AB%E3%81%9F%E3%81%A1%E3%81%8C%E3%82%AC%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AB%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%81%A3%E3%81%9F%E3%82%8A%E3%80%81%E6%98%9F%E3%82%92%E7%9B%97%E3%82%93%E3%81%A0%E3%82%8A%E3%80%81%E9%80%86%E3%81%95%E3%81%BE%E3%81%AB%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%81%A3%E3%81%9F%E3%82%8A%E3%80%81%E3%81%8A%E3%81%A9%E3%81%91%E3%81%9F%E8%A1%A8%E6%83%85%E3%82%92%E3%81%97%E3%81%9F%E3%82%8A%E3%81%99%E3%82%8B%E6%A7%98%E5%AD%90%E3%81%8C%E3%80%81%E7%94%9F%E3%81%8D%E7%94%9F%E3%81%8D%E3%81%A8%E3%81%97%E3%81%9F%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%A7%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%8C%E5%8F%96%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%A7%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82)**
 
 ---
 
-### No. 13: Sneaky Raccoons Stealing Santa's Treats
+### No. 13: スローモーションのカタツムリ · クリスマスフレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt creates a funny Christmas card design depicting two sneaky raccoons caught stealing Santa's milk and cookies by a fireplace. Perfect for mischievous and humorous holiday greetings.
+このプロンプトは、ゆっくりと動く漫画のカタツムリがオーナメントを引きずり、キラキラした跡を残す、ユーモラスなアニメーションの子供向け絵本スタイルのクリスマスフォトフレームを作成します。縦長の 1:1.4 のアスペクト比で、フレームのデザインのみに焦点を当てています。
 
 #### 📝 プロンプト
 
 ```
-A funny Christmas card design, aspect ratio 1:1.4. A scene at night by a fireplace. Two sneaky raccoons wearing their natural "bandit mask" markings and tiny Santa hats are caught in the act. One is lifting a glass of milk, and the other has a chocolate chip cookie in its mouth, taken from a plate labeled 'For Santa'. Only their eyes are illuminated by the firelight. Cute, mischievous illustration style.
+縦向き 1:1.4 のアスペクト比で、ユーモラスなアニメの児童書スタイルで描かれた、印刷可能なクリスマス フォトフレームのイラスト。
+
+イラストはフレームのデザインのみに焦点を当てています。
+
+正確な中央に、空白の写真プレースホルダー領域を含めます。これは水平方向と垂直方向に中央揃えで、1:1.4 のアスペクト比、全幅の 70% を占め、完全にクリーンな状態です。
+
+ボーダーには、小さなサンタ帽をかぶったゆっくり動く漫画のカタツムリが、オーナメントを引きずり、キラキラした軌跡を残し、お祭り気分を盛り上げる飾りを途方もなくのんびりとしたペースで登っている様子が描かれています。
+
+フラットなイラスト、心温まるユーモア、テキストなし。
 ```
 
 #### 🖼️ 生成画像
@@ -553,7 +826,7 @@ A funny Christmas card design, aspect ratio 1:1.4. A scene at night by a firepla
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780135041_hfe6vq_1765693073644-d5i9ho-x9Nt6i6Rt8yVwAAAABJRU5ErkJggg__" width="600" alt="Sneaky Raccoons Stealing Santa's Treats - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788187927_i4a6av_1765783585550-863woz-A8zt1pp7Z9V2AAAAAElFTkSuQmCC" width="600" alt="スローモーションのカタツムリ · クリスマスフレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -563,22 +836,30 @@ A funny Christmas card design, aspect ratio 1:1.4. A scene at night by a firepla
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20scene%20at%20night%20by%20a%20fireplace.%20Two%20sneaky%20raccoons%20wearing%20their%20natural%20%22bandit%20mask%22%20markings%20and%20tiny%20Santa%20hats%20are%20caught%20in%20the%20act.%20One%20is%20lifting%20a%20glass%20of%20milk%2C%20and%20the%20other%20has%20a%20chocolate%20chip%20cookie%20in%20its%20mouth%2C%20taken%20from%20a%20plate%20labeled%20'For%20Santa'.%20Only%20their%20eyes%20are%20illuminated%20by%20the%20firelight.%20Cute%2C%20mischievous%20illustration%20style.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B8%A6%E5%90%91%E3%81%8D%201%3A1.4%20%E3%81%AE%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%A7%E3%80%81%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AE%E5%85%90%E7%AB%A5%E6%9B%B8%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%20%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%82%0A%0A%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AF%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%BF%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92%E5%BD%93%E3%81%A6%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E6%AD%A3%E7%A2%BA%E3%81%AA%E4%B8%AD%E5%A4%AE%E3%81%AB%E3%80%81%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E9%A0%98%E5%9F%9F%E3%82%92%E5%90%AB%E3%82%81%E3%81%BE%E3%81%99%E3%80%82%E3%81%93%E3%82%8C%E3%81%AF%E6%B0%B4%E5%B9%B3%E6%96%B9%E5%90%91%E3%81%A8%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E3%81%AB%E4%B8%AD%E5%A4%AE%E6%8F%83%E3%81%88%E3%81%A7%E3%80%811%3A1.4%20%E3%81%AE%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%80%81%E5%85%A8%E5%B9%85%E3%81%AE%2070%25%20%E3%82%92%E5%8D%A0%E3%82%81%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%AA%E7%8A%B6%E6%85%8B%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%AF%E3%80%81%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B5%E3%83%B3%E3%82%BF%E5%B8%BD%E3%82%92%E3%81%8B%E3%81%B6%E3%81%A3%E3%81%9F%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E5%8B%95%E3%81%8F%E6%BC%AB%E7%94%BB%E3%81%AE%E3%82%AB%E3%82%BF%E3%83%84%E3%83%A0%E3%83%AA%E3%81%8C%E3%80%81%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E5%BC%95%E3%81%8D%E3%81%9A%E3%82%8A%E3%80%81%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%81%97%E3%81%9F%E8%BB%8C%E8%B7%A1%E3%82%92%E6%AE%8B%E3%81%97%E3%80%81%E3%81%8A%E7%A5%AD%E3%82%8A%E6%B0%97%E5%88%86%E3%82%92%E7%9B%9B%E3%82%8A%E4%B8%8A%E3%81%92%E3%82%8B%E9%A3%BE%E3%82%8A%E3%82%92%E9%80%94%E6%96%B9%E3%82%82%E3%81%AA%E3%81%8F%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E3%83%9A%E3%83%BC%E3%82%B9%E3%81%A7%E7%99%BB%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E6%A7%98%E5%AD%90%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E5%BF%83%E6%B8%A9%E3%81%BE%E3%82%8B%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AA%E3%81%97%E3%80%82)**
 
 ---
 
-### No. 14: Penguin Skiing with Candy Canes
+### No. 14: クリスマスドッグ · 制御不能なフレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates a whimsical action illustration for a Christmas card, featuring a cheerful penguin skiing down a snowy slope using peppermint candy canes as skis. Ideal for fun and dynamic holiday designs.
+このプロンプトは、カートゥーンアニメーションスタイルで、ユーモラスな縦長 1:1.4 の印刷可能なクリスマスフォトフレームを生成します。フレームの縁は、ライトに絡まって飾り付けを倒している、興奮したカートゥーン犬たちで埋め尽くされており、陽気でエネルギッシュなシーンを作り出しています。
 
 #### 📝 プロンプト
 
 ```
-A whimsical action illustration for a Christmas card, aspect ratio 1:1.4. A cheerful penguin wearing vintage pilot goggles and a flying red scarf is skiing down a snowy slope. Instead of skis, it is using two large peppermint candy canes. Snow sprays out behind it dynamically. In the background, there are simple cartoon pine trees. Fun, dynamic cartoon style with bold outlines.
+ユーモラスなカートゥーンアニメーションスタイルで描かれた、縦型の 1:1.4 で印刷可能なクリスマスフォトフレーム。
+
+デザインはフレーム自体のみで、背景環境は含まれていません。
+
+正確な水平方向と垂直方向の中央に、1:1.4 のアスペクト比でフレームの幅の 70% を占める空白の写真プレースホルダーが予約されており、完全に空で明確に定義されています。
+
+フレームの境界線は、クリスマスライトに絡まり、オーナメントを追いかけ、飾りを倒し、特大の祝祭用セーターを着て誇張されたポーズをとる、興奮したカートゥーン犬で埋め尽くされています。
+
+陽気でエネルギッシュ、フラットで印刷用に最適化されており、文字はありません。
 ```
 
 #### 🖼️ 生成画像
@@ -586,7 +867,7 @@ A whimsical action illustration for a Christmas card, aspect ratio 1:1.4. A chee
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780134351_n4c7z8_1765693058708-rcwygl-7E9Izca_arBPzsQsVeY_tbHB5P_b1XUclaVdeBnWEuIkUpFvsQH9zdkMF2TvwTQTlyJnjrmFRkUYxyJkutsbDX8qES7SzaOysAjokruFaeJFHKuvUskoNoPkHU9yMP6fKJqpiG1VSqsgqVWH7qHP4XtomX4vCKzPcAAAAASUVORK5CYII_" width="600" alt="Penguin Skiing with Candy Canes - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788186415_etmvj2_1765783586949-k560dn-D9r9UuCKmr6RAAAAAElFTkSuQmCC" width="600" alt="クリスマスドッグ · 制御不能なフレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -596,22 +877,30 @@ A whimsical action illustration for a Christmas card, aspect ratio 1:1.4. A chee
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20action%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20cheerful%20penguin%20wearing%20vintage%20pilot%20goggles%20and%20a%20flying%20red%20scarf%20is%20skiing%20down%20a%20snowy%20slope.%20Instead%20of%20skis%2C%20it%20is%20using%20two%20large%20peppermint%20candy%20canes.%20Snow%20sprays%20out%20behind%20it%20dynamically.%20In%20the%20background%2C%20there%20are%20simple%20cartoon%20pine%20trees.%20Fun%2C%20dynamic%20cartoon%20style%20with%20bold%20outlines.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E7%B8%A6%E5%9E%8B%E3%81%AE%201%3A1.4%20%E3%81%A7%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%80%82%0A%0A%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AF%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E8%87%AA%E4%BD%93%E3%81%AE%E3%81%BF%E3%81%A7%E3%80%81%E8%83%8C%E6%99%AF%E7%92%B0%E5%A2%83%E3%81%AF%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82%0A%0A%E6%AD%A3%E7%A2%BA%E3%81%AA%E6%B0%B4%E5%B9%B3%E6%96%B9%E5%90%91%E3%81%A8%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E3%81%AE%E4%B8%AD%E5%A4%AE%E3%81%AB%E3%80%811%3A1.4%20%E3%81%AE%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%A7%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E5%B9%85%E3%81%AE%2070%25%20%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%8C%E4%BA%88%E7%B4%84%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E7%A9%BA%E3%81%A7%E6%98%8E%E7%A2%BA%E3%81%AB%E5%AE%9A%E7%BE%A9%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E5%A2%83%E7%95%8C%E7%B7%9A%E3%81%AF%E3%80%81%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%88%E3%81%AB%E7%B5%A1%E3%81%BE%E3%82%8A%E3%80%81%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E8%BF%BD%E3%81%84%E3%81%8B%E3%81%91%E3%80%81%E9%A3%BE%E3%82%8A%E3%82%92%E5%80%92%E3%81%97%E3%80%81%E7%89%B9%E5%A4%A7%E3%81%AE%E7%A5%9D%E7%A5%AD%E7%94%A8%E3%82%BB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E7%9D%80%E3%81%A6%E8%AA%87%E5%BC%B5%E3%81%95%E3%82%8C%E3%81%9F%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%92%E3%81%A8%E3%82%8B%E3%80%81%E8%88%88%E5%A5%AE%E3%81%97%E3%81%9F%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%E7%8A%AC%E3%81%A7%E5%9F%8B%E3%82%81%E5%B0%BD%E3%81%8F%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E9%99%BD%E6%B0%97%E3%81%A7%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%83%E3%82%B7%E3%83%A5%E3%80%81%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%A7%E5%8D%B0%E5%88%B7%E7%94%A8%E3%81%AB%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E6%96%87%E5%AD%97%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82)**
 
 ---
 
-### No. 15: Sleeping Polar Bears
+### No. 15: クリスマスアライグマ · こっそり盗むフレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt creates a heartwarming printable Christmas card featuring a mother polar bear and her cub sleeping soundly in a snowy drift. It's perfect for tender and soft children's book style holiday greetings.
+このプロンプトは、いたずら好きなアライグマがオーナメントやキャンディケインを盗んでいる様子を描いた、印刷可能なクリスマスフォトフレームのイラストを生成します。遊び心があり、少し混沌としたホリデー気分を演出します。高品質な印刷に適した、アスペクト比 1:1.4 の独立したフレームとしてデザインされています。
 
 #### 📝 プロンプト
 
 ```
-A heartwarming printable Christmas card, aspect ratio 1:1.4. A large mother polar bear is lying down fast asleep, curled up in a snowy drift. A tiny polar bear cub is sleeping soundly on her broad back, wearing a miniature red and green striped nightcap. A gentle snowfall surrounds them against a soft light blue background. The style is a tender children's book illustration with soft colors.
+高品質な印刷に適した、縦長 1:1.4 のアスペクト比で、単独のフレームとしてデザインされた、印刷可能なクリスマス フォト フレームのイラストです。
+
+イラストはフレーム自体にのみ焦点を当てており、外部の環境や背景のシーンはありません。スタイルは、すっきりとした輪郭と柔らかなテクスチャが特徴の、ユーモラスなアニメーション絵本風イラストです。
+
+フレームの厳密な中央には、水平方向と垂直方向に中央揃えされた、縦長 1:1.4 のアスペクト比で、フレーム全体の幅の 70% を占める空白のフォト プレースホルダー領域を確保します。この領域は完全に空で、何も描かれていません。
+
+周囲のフレームの縁には、いたずら好きな漫画のアライグマたちがオーナメントを盗んだり、キャンディケインを隠したり、角から覗いたり、ガーランドから逆さまにぶら下がったりしており、遊び心のある混沌としたホリデーの雰囲気を作り出しています。
+
+フラットな構図、印刷に適した色、テキストなし。
 ```
 
 #### 🖼️ 生成画像
@@ -619,7 +908,7 @@ A heartwarming printable Christmas card, aspect ratio 1:1.4. A large mother pola
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780129271_va78dc_1765693057760-ebc124-wFMsnpfYefmXwAAAABJRU5ErkJggg__" width="600" alt="Sleeping Polar Bears - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788185612_i3bkv5_1765783888394-phn8ds-uZAAAAAElFTkSuQmCC" width="600" alt="クリスマスアライグマ · こっそり盗むフレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -629,22 +918,30 @@ A heartwarming printable Christmas card, aspect ratio 1:1.4. A large mother pola
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20heartwarming%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20large%20mother%20polar%20bear%20is%20lying%20down%20fast%20asleep%2C%20curled%20up%20in%20a%20snowy%20drift.%20A%20tiny%20polar%20bear%20cub%20is%20sleeping%20soundly%20on%20her%20broad%20back%2C%20wearing%20a%20miniature%20red%20and%20green%20striped%20nightcap.%20A%20gentle%20snowfall%20surrounds%20them%20against%20a%20soft%20light%20blue%20background.%20The%20style%20is%20a%20tender%20children's%20book%20illustration%20with%20soft%20colors.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%AB%98%E5%93%81%E8%B3%AA%E3%81%AA%E5%8D%B0%E5%88%B7%E3%81%AB%E9%81%A9%E3%81%97%E3%81%9F%E3%80%81%E7%B8%A6%E9%95%B7%201%3A1.4%20%E3%81%AE%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%A7%E3%80%81%E5%8D%98%E7%8B%AC%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%A8%E3%81%97%E3%81%A6%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%95%E3%82%8C%E3%81%9F%E3%80%81%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%20%E3%83%95%E3%82%A9%E3%83%88%20%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AF%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E8%87%AA%E4%BD%93%E3%81%AB%E3%81%AE%E3%81%BF%E7%84%A6%E7%82%B9%E3%82%92%E5%BD%93%E3%81%A6%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E5%A4%96%E9%83%A8%E3%81%AE%E7%92%B0%E5%A2%83%E3%82%84%E8%83%8C%E6%99%AF%E3%81%AE%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AF%E3%80%81%E3%81%99%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E8%BC%AA%E9%83%AD%E3%81%A8%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E3%81%8C%E7%89%B9%E5%BE%B4%E3%81%AE%E3%80%81%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%B5%B5%E6%9C%AC%E9%A2%A8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E5%8E%B3%E5%AF%86%E3%81%AA%E4%B8%AD%E5%A4%AE%E3%81%AB%E3%81%AF%E3%80%81%E6%B0%B4%E5%B9%B3%E6%96%B9%E5%90%91%E3%81%A8%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E3%81%AB%E4%B8%AD%E5%A4%AE%E6%8F%83%E3%81%88%E3%81%95%E3%82%8C%E3%81%9F%E3%80%81%E7%B8%A6%E9%95%B7%201%3A1.4%20%E3%81%AE%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%A7%E3%80%81%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E5%85%A8%E4%BD%93%E3%81%AE%E5%B9%85%E3%81%AE%2070%25%20%E3%82%92%E5%8D%A0%E3%82%81%E3%82%8B%E7%A9%BA%E7%99%BD%E3%81%AE%E3%83%95%E3%82%A9%E3%83%88%20%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E9%A0%98%E5%9F%9F%E3%82%92%E7%A2%BA%E4%BF%9D%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E3%81%93%E3%81%AE%E9%A0%98%E5%9F%9F%E3%81%AF%E5%AE%8C%E5%85%A8%E3%81%AB%E7%A9%BA%E3%81%A7%E3%80%81%E4%BD%95%E3%82%82%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82%0A%0A%E5%91%A8%E5%9B%B2%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E7%B8%81%E3%81%AB%E3%81%AF%E3%80%81%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E5%A5%BD%E3%81%8D%E3%81%AA%E6%BC%AB%E7%94%BB%E3%81%AE%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%B0%E3%83%9E%E3%81%9F%E3%81%A1%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E7%9B%97%E3%82%93%E3%81%A0%E3%82%8A%E3%80%81%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3%E3%82%92%E9%9A%A0%E3%81%97%E3%81%9F%E3%82%8A%E3%80%81%E8%A7%92%E3%81%8B%E3%82%89%E8%A6%97%E3%81%84%E3%81%9F%E3%82%8A%E3%80%81%E3%82%AC%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%81%8B%E3%82%89%E9%80%86%E3%81%95%E3%81%BE%E3%81%AB%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E9%81%8A%E3%81%B3%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E6%B7%B7%E6%B2%8C%E3%81%A8%E3%81%97%E3%81%9F%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC%E3%81%AE%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%82%92%E4%BD%9C%E3%82%8A%E5%87%BA%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E6%A7%8B%E5%9B%B3%E3%80%81%E5%8D%B0%E5%88%B7%E3%81%AB%E9%81%A9%E3%81%97%E3%81%9F%E8%89%B2%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AA%E3%81%97%E3%80%82)**
 
 ---
 
-### No. 16: Tuxedo Cat Tangled in Ribbon
+### No. 16: Clumsy Penguins 子供向け絵本アニメーション フォトフレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates a funny printable Christmas card illustration of a mischievous tuxedo cat hilariously tangled in gift ribbon and wrapping paper. It's great for lighthearted and playful holiday cards.
+このプロンプトは、不器用なペンギンをフィーチャーした、魅力的でユーモラスな児童書アニメーションスタイルで描かれた、縦型の印刷可能なクリスマスフォトフレームを作成します。デザインはフレーム自体と空白の写真プレースホルダーに完全に焦点を当てており、印刷用に楽しく、面白く、アニメーションのような外観を提供します。
 
 #### 📝 プロンプト
 
 ```
-A funny printable Christmas card illustration, aspect ratio 1:1.4. A mischievous black and white tuxedo cat is comically tangled in a massive explosion of red satin gift ribbon and torn festive wrapping paper on a clean white background. Only its wide, surprised green eyes and one paw are visible from the center of the shiny red chaos. A roll of tape is stuck to its tail. Dynamic cartoon sketch style.
+魅力的でユーモラスな児童書アニメーションスタイルで描かれた、縦型の 1:1.4 比率で印刷可能なクリスマスフォトフレーム。
+
+デザインはフレームそのものに完全に焦点を当てており、フラットなイラストで背景環境はありません。
+
+大きな空白の写真プレースホルダーは、水平方向と垂直方向の厳密な中央に配置され、1:1.4 の縦向き比率でフレーム幅の 70% を占め、意図的に空にされ、すべての装飾から明確に分離されています。
+
+周囲のボーダーには、不器用な漫画のペンギンが滑ったり、オーナメントを積み重ねたり、特大の星を持ったり、縁の周りの祝祭的な要素と遊び心たっぷりに交流したりする様子が描かれています。
+
+全体的なスタイルは、楽しく、面白く、アニメーション的で、印刷に適しており、テキストや文字はありません。
 ```
 
 #### 🖼️ 生成画像
@@ -652,7 +949,7 @@ A funny printable Christmas card illustration, aspect ratio 1:1.4. A mischievous
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780125816_w7gjzg_1765693040741-mb5eqs-oAAAAASUVORK5CYII_" width="600" alt="Tuxedo Cat Tangled in Ribbon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__" width="600" alt="Clumsy Penguins 子供向け絵本アニメーション フォトフレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -662,22 +959,30 @@ A funny printable Christmas card illustration, aspect ratio 1:1.4. A mischievous
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20mischievous%20black%20and%20white%20tuxedo%20cat%20is%20comically%20tangled%20in%20a%20massive%20explosion%20of%20red%20satin%20gift%20ribbon%20and%20torn%20festive%20wrapping%20paper%20on%20a%20clean%20white%20background.%20Only%20its%20wide%2C%20surprised%20green%20eyes%20and%20one%20paw%20are%20visible%20from%20the%20center%20of%20the%20shiny%20red%20chaos.%20A%20roll%20of%20tape%20is%20stuck%20to%20its%20tail.%20Dynamic%20cartoon%20sketch%20style.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%A7%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E5%85%90%E7%AB%A5%E6%9B%B8%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E7%B8%A6%E5%9E%8B%E3%81%AE%201%3A1.4%20%E6%AF%94%E7%8E%87%E3%81%A7%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%80%82%0A%0A%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AF%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%9D%E3%81%AE%E3%82%82%E3%81%AE%E3%81%AB%E5%AE%8C%E5%85%A8%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92%E5%BD%93%E3%81%A6%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E8%83%8C%E6%99%AF%E7%92%B0%E5%A2%83%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82%0A%0A%E5%A4%A7%E3%81%8D%E3%81%AA%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%AF%E3%80%81%E6%B0%B4%E5%B9%B3%E6%96%B9%E5%90%91%E3%81%A8%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E3%81%AE%E5%8E%B3%E5%AF%86%E3%81%AA%E4%B8%AD%E5%A4%AE%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%80%811%3A1.4%20%E3%81%AE%E7%B8%A6%E5%90%91%E3%81%8D%E6%AF%94%E7%8E%87%E3%81%A7%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E5%B9%85%E3%81%AE%2070%25%20%E3%82%92%E5%8D%A0%E3%82%81%E3%80%81%E6%84%8F%E5%9B%B3%E7%9A%84%E3%81%AB%E7%A9%BA%E3%81%AB%E3%81%95%E3%82%8C%E3%80%81%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E8%A3%85%E9%A3%BE%E3%81%8B%E3%82%89%E6%98%8E%E7%A2%BA%E3%81%AB%E5%88%86%E9%9B%A2%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E5%91%A8%E5%9B%B2%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%AF%E3%80%81%E4%B8%8D%E5%99%A8%E7%94%A8%E3%81%AA%E6%BC%AB%E7%94%BB%E3%81%AE%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%8C%E6%BB%91%E3%81%A3%E3%81%9F%E3%82%8A%E3%80%81%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E7%A9%8D%E3%81%BF%E9%87%8D%E3%81%AD%E3%81%9F%E3%82%8A%E3%80%81%E7%89%B9%E5%A4%A7%E3%81%AE%E6%98%9F%E3%82%92%E6%8C%81%E3%81%A3%E3%81%9F%E3%82%8A%E3%80%81%E7%B8%81%E3%81%AE%E5%91%A8%E3%82%8A%E3%81%AE%E7%A5%9D%E7%A5%AD%E7%9A%84%E3%81%AA%E8%A6%81%E7%B4%A0%E3%81%A8%E9%81%8A%E3%81%B3%E5%BF%83%E3%81%9F%E3%81%A3%E3%81%B7%E3%82%8A%E3%81%AB%E4%BA%A4%E6%B5%81%E3%81%97%E3%81%9F%E3%82%8A%E3%81%99%E3%82%8B%E6%A7%98%E5%AD%90%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E5%85%A8%E4%BD%93%E7%9A%84%E3%81%AA%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AF%E3%80%81%E6%A5%BD%E3%81%97%E3%81%8F%E3%80%81%E9%9D%A2%E7%99%BD%E3%81%8F%E3%80%81%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%9A%84%E3%81%A7%E3%80%81%E5%8D%B0%E5%88%B7%E3%81%AB%E9%81%A9%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%84%E6%96%87%E5%AD%97%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82)**
 
 ---
 
-### No. 17: Felt Appliqué Fox Cub
+### No. 17: 面白いジンジャーブレッドのアニメーションイラストフォトフレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt creates a cozy, tactile Christmas card design that looks like handmade felt appliqué stitching, featuring a cute fox cub in a snowy scene. Perfect for unique and crafty holiday visuals.
+このプロンプトは、面白いジンジャーブレッドのキャラクターが登場する、ユーモラスなアニメーション絵本風の印刷可能なクリスマスフォトフレームのイラストを作成します。デザインはフレームのみで、写真のプレースホルダーは空白になっており、ユーモラスで居心地の良い、気まぐれな美しさを印刷で提供します。
 
 #### 📝 プロンプト
 
 ```
-A cozy, tactile Christmas card design, aspect ratio 1:1.4. The illustration looks entirely like handmade felt appliqué stitching. A cute orange fox cub made of fuzzy felt fabric sits in layers of white felt snow, looking up at a felt Christmas tree decorated with colorful button ornaments. The texture of the wool fibers and the stitching around the edges is clearly visible. The background is a soft blue felt sky.
+縦長の 1:1.4 アスペクト比で、ユーモラスなアニメーション絵本スタイルで作成された、印刷可能なクリスマスのフォトフレームのイラスト。
+
+イラストはフレームのデザインのみで、外部の環境や背景の風景は一切描かれていません。色は暖かくお祭り気分で、柔らかな紙のテクスチャがあります。
+
+厳密に中央に、水平方向と垂直方向に中央揃えされた空白の写真プレースホルダーを確保します。これは 1:1.4 のアスペクト比を維持し、フレーム全体の幅の 70% を占め、完全に空白で遮るものがありません。
+
+フレームの境界線は、おどけたポーズをとる遊び心のあるジンジャーブレッドのキャラクター、部分的に割れたクッキー、フロスティングのディテール、キャンディーの装飾で飾られており、すべて表情豊かな漫画の顔で描かれています。
+
+ユーモラスで居心地が良く、気まぐれな雰囲気で、印刷に完全に最適化されており、タイポグラフィはありません。
 ```
 
 #### 🖼️ 生成画像
@@ -685,7 +990,7 @@ A cozy, tactile Christmas card design, aspect ratio 1:1.4. The illustration look
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780125142_vqwzrz_1765765736932-w6b2ti-joqONxdrcec4p_fHzcEeMYCEAsu1E12RDxtS4WrUoVzk5TxaZ73RChrBtc45DncUB98QQAca0k5v8fyjkmeojjTpMAAAAASUVORK5CYII_" width="600" alt="Felt Appliqué Fox Cub - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784310981_hlrjof_1765780294344-8suld3-nw38D6_lD8WBy0bTPa2E6DCNqhxc3ZAVzQg5N2eB1mBa0YUupvbF257bbb7r7rztXly4898dTdt5_wksUMiaSIA7ajkXM0yQDW5oIugT1rLlmBsfExT0IuzTiXnXUWtf8PrWnOlBF9AScAAAAASUVORK5CYII_" width="600" alt="面白いジンジャーブレッドのアニメーションイラストフォトフレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -695,22 +1000,30 @@ A cozy, tactile Christmas card design, aspect ratio 1:1.4. The illustration look
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cozy%2C%20tactile%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20illustration%20looks%20entirely%20like%20handmade%20felt%20appliqu%C3%A9%20stitching.%20A%20cute%20orange%20fox%20cub%20made%20of%20fuzzy%20felt%20fabric%20sits%20in%20layers%20of%20white%20felt%20snow%2C%20looking%20up%20at%20a%20felt%20Christmas%20tree%20decorated%20with%20colorful%20button%20ornaments.%20The%20texture%20of%20the%20wool%20fibers%20and%20the%20stitching%20around%20the%20edges%20is%20clearly%20visible.%20The%20background%20is%20a%20soft%20blue%20felt%20sky.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B8%A6%E9%95%B7%E3%81%AE%201%3A1.4%20%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%A7%E3%80%81%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%B5%B5%E6%9C%AC%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%80%81%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%82%0A%0A%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AF%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%BF%E3%81%A7%E3%80%81%E5%A4%96%E9%83%A8%E3%81%AE%E7%92%B0%E5%A2%83%E3%82%84%E8%83%8C%E6%99%AF%E3%81%AE%E9%A2%A8%E6%99%AF%E3%81%AF%E4%B8%80%E5%88%87%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82%E8%89%B2%E3%81%AF%E6%9A%96%E3%81%8B%E3%81%8F%E3%81%8A%E7%A5%AD%E3%82%8A%E6%B0%97%E5%88%86%E3%81%A7%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E7%B4%99%E3%81%AE%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E5%8E%B3%E5%AF%86%E3%81%AB%E4%B8%AD%E5%A4%AE%E3%81%AB%E3%80%81%E6%B0%B4%E5%B9%B3%E6%96%B9%E5%90%91%E3%81%A8%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E3%81%AB%E4%B8%AD%E5%A4%AE%E6%8F%83%E3%81%88%E3%81%95%E3%82%8C%E3%81%9F%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%82%92%E7%A2%BA%E4%BF%9D%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E3%81%93%E3%82%8C%E3%81%AF%201%3A1.4%20%E3%81%AE%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%97%E3%80%81%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E5%85%A8%E4%BD%93%E3%81%AE%E5%B9%85%E3%81%AE%2070%25%20%E3%82%92%E5%8D%A0%E3%82%81%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E7%A9%BA%E7%99%BD%E3%81%A7%E9%81%AE%E3%82%8B%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E5%A2%83%E7%95%8C%E7%B7%9A%E3%81%AF%E3%80%81%E3%81%8A%E3%81%A9%E3%81%91%E3%81%9F%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%92%E3%81%A8%E3%82%8B%E9%81%8A%E3%81%B3%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%80%81%E9%83%A8%E5%88%86%E7%9A%84%E3%81%AB%E5%89%B2%E3%82%8C%E3%81%9F%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%80%81%E3%83%95%E3%83%AD%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%87%E3%82%A3%E3%83%86%E3%83%BC%E3%83%AB%E3%80%81%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%81%AE%E8%A3%85%E9%A3%BE%E3%81%A7%E9%A3%BE%E3%82%89%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%81%99%E3%81%B9%E3%81%A6%E8%A1%A8%E6%83%85%E8%B1%8A%E3%81%8B%E3%81%AA%E6%BC%AB%E7%94%BB%E3%81%AE%E9%A1%94%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%A7%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E8%89%AF%E3%81%8F%E3%80%81%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%81%AA%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%A7%E3%80%81%E5%8D%B0%E5%88%B7%E3%81%AB%E5%AE%8C%E5%85%A8%E3%81%AB%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%82%BF%E3%82%A4%E3%83%9D%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82)**
 
 ---
 
-### No. 18: Capybara in Japanese Hot Spring
+### No. 18: なまけものスタイル アニメーション クリスマス フォトフレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates a relaxing and cute Christmas illustration of a capybara enjoying a Japanese hot spring. Ideal for serene and unique holiday card designs.
+このプロンプトは、怠惰なナマケモノをフィーチャーした、ユーモラスなアニメーション絵本スタイルの印刷可能なクリスマス フォト フレーム イラストを生成します。空白の写真プレースホルダーが付いたスタンドアロン フレームとしてデザインされており、高品質の印刷に最適で、ホリデーの写真に陽気で居心地の良いユーモラスなタッチを加えます。
 
 #### 📝 プロンプト
 
 ```
-A relaxing and cute Christmas illustration, aspect ratio 1:1.4. A chill capybara sits peacefully up to its chest in a steaming Japanese hot spring pool (onsen), surrounded by snow-covered rocks. It wears a small folded towel on its head topped with a Santa hat. A yuzu fruit floats next to it. The style is a warm, soft anime illustration with gentle steam rising.
+縦横比 1:1.4 の高品質な印刷に適した、単独のフレームとしてデザインされた、印刷可能なクリスマス フォト フレームのイラストです。
+
+イラストはフレーム自体にのみ焦点を当てており、外部の環境や背景のシーンは含まれていません。スタイルは、柔らかな質感、すっきりとした輪郭、暖色系の色使いが特徴の、ユーモラスなアニメーション絵本風イラストです。
+
+フレームの厳密な中央に、水平方向と垂直方向に中央揃えされた空白のフォト プレースホルダー領域を確保してください。プレースホルダーは縦横比 1:1.4 のポートレート型で、その幅はフレーム全体の幅の 70% に等しく、完全に空白で手付かずのままでなければなりません。
+
+周囲のフレームの縁には、キャンディケイン、常緑樹の枝、お祭り用のフックからぶら下がっている遊び心のある漫画のナマケモノが描かれています。ナマケモノは居心地の良いニットのセーターとスカーフを着用し、リラックスした面白いポーズをとっています。
+
+イラストは、軽快で居心地が良く、ユーモラスな雰囲気で、フラットな構図と印刷に適した色使いで、テキストやタイポグラフィは含まれていません。
 ```
 
 #### 🖼️ 生成画像
@@ -718,7 +1031,7 @@ A relaxing and cute Christmas illustration, aspect ratio 1:1.4. A chill capybara
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780123056_v02i28_1765693205572-8w5irf-AXqqyI4m5kpHAAAAAElFTkSuQmCC" width="600" alt="Capybara in Japanese Hot Spring - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="なまけものスタイル アニメーション クリスマス フォトフレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -728,22 +1041,30 @@ A relaxing and cute Christmas illustration, aspect ratio 1:1.4. A chill capybara
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20relaxing%20and%20cute%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20chill%20capybara%20sits%20peacefully%20up%20to%20its%20chest%20in%20a%20steaming%20Japanese%20hot%20spring%20pool%20(onsen)%2C%20surrounded%20by%20snow-covered%20rocks.%20It%20wears%20a%20small%20folded%20towel%20on%20its%20head%20topped%20with%20a%20Santa%20hat.%20A%20yuzu%20fruit%20floats%20next%20to%20it.%20The%20style%20is%20a%20warm%2C%20soft%20anime%20illustration%20with%20gentle%20steam%20rising.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B8%A6%E6%A8%AA%E6%AF%94%201%3A1.4%20%E3%81%AE%E9%AB%98%E5%93%81%E8%B3%AA%E3%81%AA%E5%8D%B0%E5%88%B7%E3%81%AB%E9%81%A9%E3%81%97%E3%81%9F%E3%80%81%E5%8D%98%E7%8B%AC%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%A8%E3%81%97%E3%81%A6%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%95%E3%82%8C%E3%81%9F%E3%80%81%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%20%E3%83%95%E3%82%A9%E3%83%88%20%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AF%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E8%87%AA%E4%BD%93%E3%81%AB%E3%81%AE%E3%81%BF%E7%84%A6%E7%82%B9%E3%82%92%E5%BD%93%E3%81%A6%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E5%A4%96%E9%83%A8%E3%81%AE%E7%92%B0%E5%A2%83%E3%82%84%E8%83%8C%E6%99%AF%E3%81%AE%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AF%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AF%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E8%B3%AA%E6%84%9F%E3%80%81%E3%81%99%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E8%BC%AA%E9%83%AD%E3%80%81%E6%9A%96%E8%89%B2%E7%B3%BB%E3%81%AE%E8%89%B2%E4%BD%BF%E3%81%84%E3%81%8C%E7%89%B9%E5%BE%B4%E3%81%AE%E3%80%81%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%B5%B5%E6%9C%AC%E9%A2%A8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E5%8E%B3%E5%AF%86%E3%81%AA%E4%B8%AD%E5%A4%AE%E3%81%AB%E3%80%81%E6%B0%B4%E5%B9%B3%E6%96%B9%E5%90%91%E3%81%A8%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E3%81%AB%E4%B8%AD%E5%A4%AE%E6%8F%83%E3%81%88%E3%81%95%E3%82%8C%E3%81%9F%E7%A9%BA%E7%99%BD%E3%81%AE%E3%83%95%E3%82%A9%E3%83%88%20%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E9%A0%98%E5%9F%9F%E3%82%92%E7%A2%BA%E4%BF%9D%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%AF%E7%B8%A6%E6%A8%AA%E6%AF%94%201%3A1.4%20%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88%E5%9E%8B%E3%81%A7%E3%80%81%E3%81%9D%E3%81%AE%E5%B9%85%E3%81%AF%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E5%85%A8%E4%BD%93%E3%81%AE%E5%B9%85%E3%81%AE%2070%25%20%E3%81%AB%E7%AD%89%E3%81%97%E3%81%8F%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E7%A9%BA%E7%99%BD%E3%81%A7%E6%89%8B%E4%BB%98%E3%81%8B%E3%81%9A%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%A7%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82%0A%0A%E5%91%A8%E5%9B%B2%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E7%B8%81%E3%81%AB%E3%81%AF%E3%80%81%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3%E3%80%81%E5%B8%B8%E7%B7%91%E6%A8%B9%E3%81%AE%E6%9E%9D%E3%80%81%E3%81%8A%E7%A5%AD%E3%82%8A%E7%94%A8%E3%81%AE%E3%83%95%E3%83%83%E3%82%AF%E3%81%8B%E3%82%89%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E9%81%8A%E3%81%B3%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E6%BC%AB%E7%94%BB%E3%81%AE%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E%E3%81%AF%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%AE%E8%89%AF%E3%81%84%E3%83%8B%E3%83%83%E3%83%88%E3%81%AE%E3%82%BB%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A8%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%95%E3%82%92%E7%9D%80%E7%94%A8%E3%81%97%E3%80%81%E3%83%AA%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%81%97%E3%81%9F%E9%9D%A2%E7%99%BD%E3%81%84%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%92%E3%81%A8%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AF%E3%80%81%E8%BB%BD%E5%BF%AB%E3%81%A7%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E8%89%AF%E3%81%8F%E3%80%81%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%A7%E3%80%81%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E6%A7%8B%E5%9B%B3%E3%81%A8%E5%8D%B0%E5%88%B7%E3%81%AB%E9%81%A9%E3%81%97%E3%81%9F%E8%89%B2%E4%BD%BF%E3%81%84%E3%81%A7%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%84%E3%82%BF%E3%82%A4%E3%83%9D%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%81%AF%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82)**
 
 ---
 
-### No. 19: Singing Birds on Holly Branch
+### No. 19: お茶目なホッキョクグマの漫画風クリスマスフォトフレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt creates a cute and detailed printable Christmas card featuring five tiny garden birds wearing miniature winter hats and singing on a snow-covered holly branch. Perfect for classic and charming holiday greetings.
+このプロンプトは、遊び心のあるホッキョクグマをフィーチャーした、ユーモラスなカートゥーン スタイルの印刷可能なアニメーション クリスマス フォト フレームを作成します。これは、印刷用のフレーム イラストとしてのみ設計されており、写真のプレースホルダーは空白で、ホリデー写真に陽気で面白く、親しみやすい美学を提供します。
 
 #### 📝 プロンプト
 
 ```
-A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plump garden birds (a robin, a blue tit, a sparrow, a goldfinch, a wren) are perched in a row on a snow-covered holly branch with red berries. Each bird wears a different miniature knitted winter hat (bobble hat, beanie, earflap hat) and they all have their beaks open as if singing. The style is a delicate watercolor and ink drawing on textured paper.
+縦横比 1:1.4 の印刷可能なアニメーション クリスマス フォト フレーム。印刷用のフレーム イラストとしてのみデザインされています。
+
+フレームは、丸みを帯びた形、表情豊かなキャラクター、柔らかな陰影で、ユーモラスな漫画スタイルで描かれています。環境や背景シーンはなく、フレームのデザインのみです。
+
+空白の写真プレースホルダーは、フレームの幅の 70% で、縦横比 1:1.4 の正確な水平および垂直中央に予約されており、完全に空でクリーンです。
+
+ボーダーは、陽気なホッキョクグマがフレームの端を滑ったり、覗いたり、しがみついたりして飾られており、キャンディケイン、オーナメント、雪玉と滑稽で誇張された方法で相互作用しています。
+
+全体的な雰囲気は、陽気で面白く、フレンドリーで、フラットな印刷可能なイラストに最適化されており、テキストはありません。
 ```
 
 #### 🖼️ 生成画像
@@ -751,7 +1072,7 @@ A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plu
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780118971_iq7hcj_1765693200318-bzuqbb-MpYGTqgUNkpuE6DuZTGYkL_OfNSELavqabdsIGBfbwDUkP8Gi2zVV1lQ1BQAAAAASUVORK5CYII_" width="600" alt="Singing Birds on Holly Branch - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="お茶目なホッキョクグマの漫画風クリスマスフォトフレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -761,22 +1082,30 @@ A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plu
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20detailed%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20Five%20tiny%2C%20plump%20garden%20birds%20(a%20robin%2C%20a%20blue%20tit%2C%20a%20sparrow%2C%20a%20goldfinch%2C%20a%20wren)%20are%20perched%20in%20a%20row%20on%20a%20snow-covered%20holly%20branch%20with%20red%20berries.%20Each%20bird%20wears%20a%20different%20miniature%20knitted%20winter%20hat%20(bobble%20hat%2C%20beanie%2C%20earflap%20hat)%20and%20they%20all%20have%20their%20beaks%20open%20as%20if%20singing.%20The%20style%20is%20a%20delicate%20watercolor%20and%20ink%20drawing%20on%20textured%20paper.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B8%A6%E6%A8%AA%E6%AF%94%201%3A1.4%20%E3%81%AE%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%20%E3%83%95%E3%82%A9%E3%83%88%20%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%80%82%E5%8D%B0%E5%88%B7%E7%94%A8%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%20%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E3%81%BF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AF%E3%80%81%E4%B8%B8%E3%81%BF%E3%82%92%E5%B8%AF%E3%81%B3%E3%81%9F%E5%BD%A2%E3%80%81%E8%A1%A8%E6%83%85%E8%B1%8A%E3%81%8B%E3%81%AA%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E9%99%B0%E5%BD%B1%E3%81%A7%E3%80%81%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E6%BC%AB%E7%94%BB%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E7%92%B0%E5%A2%83%E3%82%84%E8%83%8C%E6%99%AF%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%BF%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%AF%E3%80%81%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E5%B9%85%E3%81%AE%2070%25%20%E3%81%A7%E3%80%81%E7%B8%A6%E6%A8%AA%E6%AF%94%201%3A1.4%20%E3%81%AE%E6%AD%A3%E7%A2%BA%E3%81%AA%E6%B0%B4%E5%B9%B3%E3%81%8A%E3%82%88%E3%81%B3%E5%9E%82%E7%9B%B4%E4%B8%AD%E5%A4%AE%E3%81%AB%E4%BA%88%E7%B4%84%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E7%A9%BA%E3%81%A7%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AF%E3%80%81%E9%99%BD%E6%B0%97%E3%81%AA%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E3%81%8C%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E7%AB%AF%E3%82%92%E6%BB%91%E3%81%A3%E3%81%9F%E3%82%8A%E3%80%81%E8%A6%97%E3%81%84%E3%81%9F%E3%82%8A%E3%80%81%E3%81%97%E3%81%8C%E3%81%BF%E3%81%A4%E3%81%84%E3%81%9F%E3%82%8A%E3%81%97%E3%81%A6%E9%A3%BE%E3%82%89%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3%E3%80%81%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81%E9%9B%AA%E7%8E%89%E3%81%A8%E6%BB%91%E7%A8%BD%E3%81%A7%E8%AA%87%E5%BC%B5%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E6%B3%95%E3%81%A7%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E5%85%A8%E4%BD%93%E7%9A%84%E3%81%AA%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AF%E3%80%81%E9%99%BD%E6%B0%97%E3%81%A7%E9%9D%A2%E7%99%BD%E3%81%8F%E3%80%81%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%81%A7%E3%80%81%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AB%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82)**
 
 ---
 
-### No. 20: Squirrel with Wrapped Acorn
+### No. 20: いたずら猫のクリスマスステッカー風フォトフレーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates a whimsical printable Christmas card featuring a busy red squirrel presenting a meticulously wrapped acorn. It's perfect for unique and charming holiday greetings with a touch of woodland magic.
+このプロンプトは、いたずら好きな猫をフィーチャーした、かわいらしくユーモラスなアニメーションステッカースタイルで描かれた、縦型の印刷可能なクリスマスフォトフレームを生成します。デザインは、太い輪郭線、柔らかな色使い、空白の写真プレースホルダーでフレーム自体に焦点を当てており、遊び心と混沌としたホリデー気分を演出します。
 
 #### 📝 プロンプト
 
 ```
-A whimsical printable Christmas card, aspect ratio 1:1.4. A busy red squirrel with fluffy ear tufts stands on a snow-covered tree branch against a pale winter sky. It is holding a single acorn that is meticulously wrapped in tiny red paper with a gold bow, presenting it forward. Behind it, a pile of similarly wrapped acorns is stacked inside a hollow log. The squirrel wears a tiny green knit scarf. Colored pencil texture style.
+可愛らしくユーモラスなアニメーションステッカー風に描かれた、縦長 1:1.4 の印刷可能なクリスマスフォトフレームです。
+
+デザインはフレーム自体に焦点を当てており、部屋、壁、または環境的な背景はありません。イラストは太い輪郭線、柔らかな色彩、表情豊かな漫画のキャラクターを使用しています。
+
+フレームの真ん中には、空白の写真プレースホルダー領域が水平方向と垂直方向に中央揃えで配置されており、1:1.4 の縦長比率でフレーム幅の 70% を占め、完全に空で明確に区切られています。
+
+周囲のボーダーには、クリスマスライトに絡まったり、オーナメントを倒したり、ガーランドを登ったり、角から覗いたりしているいたずら好きな漫画の猫たちが描かれており、遊び心と混沌としたホリデー感を演出しています。
+
+構図はフラットでバランスが取れており、テキスト要素はなく、印刷に適しています。
 ```
 
 #### 🖼️ 生成画像
@@ -784,7 +1113,7 @@ A whimsical printable Christmas card, aspect ratio 1:1.4. A busy red squirrel wi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780115837_0c1gkg_1765692973777-uwo85l-gdvX4ybDwKspAAAAABJRU5ErkJggg__" width="600" alt="Squirrel with Wrapped Acorn - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC" width="600" alt="いたずら猫のクリスマスステッカー風フォトフレーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -794,22 +1123,22 @@ A whimsical printable Christmas card, aspect ratio 1:1.4. A busy red squirrel wi
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20busy%20red%20squirrel%20with%20fluffy%20ear%20tufts%20stands%20on%20a%20snow-covered%20tree%20branch%20against%20a%20pale%20winter%20sky.%20It%20is%20holding%20a%20single%20acorn%20that%20is%20meticulously%20wrapped%20in%20tiny%20red%20paper%20with%20a%20gold%20bow%2C%20presenting%20it%20forward.%20Behind%20it%2C%20a%20pile%20of%20similarly%20wrapped%20acorns%20is%20stacked%20inside%20a%20hollow%20log.%20The%20squirrel%20wears%20a%20tiny%20green%20knit%20scarf.%20Colored%20pencil%20texture%20style.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E5%8F%AF%E6%84%9B%E3%82%89%E3%81%97%E3%81%8F%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%83%86%E3%83%83%E3%82%AB%E3%83%BC%E9%A2%A8%E3%81%AB%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E7%B8%A6%E9%95%B7%201%3A1.4%20%E3%81%AE%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%95%E3%82%A9%E3%83%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AF%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E8%87%AA%E4%BD%93%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92%E5%BD%93%E3%81%A6%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E9%83%A8%E5%B1%8B%E3%80%81%E5%A3%81%E3%80%81%E3%81%BE%E3%81%9F%E3%81%AF%E7%92%B0%E5%A2%83%E7%9A%84%E3%81%AA%E8%83%8C%E6%99%AF%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AF%E5%A4%AA%E3%81%84%E8%BC%AA%E9%83%AD%E7%B7%9A%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E8%89%B2%E5%BD%A9%E3%80%81%E8%A1%A8%E6%83%85%E8%B1%8A%E3%81%8B%E3%81%AA%E6%BC%AB%E7%94%BB%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E7%9C%9F%E3%82%93%E4%B8%AD%E3%81%AB%E3%81%AF%E3%80%81%E7%A9%BA%E7%99%BD%E3%81%AE%E5%86%99%E7%9C%9F%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E9%A0%98%E5%9F%9F%E3%81%8C%E6%B0%B4%E5%B9%B3%E6%96%B9%E5%90%91%E3%81%A8%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E3%81%AB%E4%B8%AD%E5%A4%AE%E6%8F%83%E3%81%88%E3%81%A7%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%811%3A1.4%20%E3%81%AE%E7%B8%A6%E9%95%B7%E6%AF%94%E7%8E%87%E3%81%A7%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E5%B9%85%E3%81%AE%2070%25%20%E3%82%92%E5%8D%A0%E3%82%81%E3%80%81%E5%AE%8C%E5%85%A8%E3%81%AB%E7%A9%BA%E3%81%A7%E6%98%8E%E7%A2%BA%E3%81%AB%E5%8C%BA%E5%88%87%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E5%91%A8%E5%9B%B2%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AB%E3%81%AF%E3%80%81%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%88%E3%81%AB%E7%B5%A1%E3%81%BE%E3%81%A3%E3%81%9F%E3%82%8A%E3%80%81%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E5%80%92%E3%81%97%E3%81%9F%E3%82%8A%E3%80%81%E3%82%AC%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E7%99%BB%E3%81%A3%E3%81%9F%E3%82%8A%E3%80%81%E8%A7%92%E3%81%8B%E3%82%89%E8%A6%97%E3%81%84%E3%81%9F%E3%82%8A%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E5%A5%BD%E3%81%8D%E3%81%AA%E6%BC%AB%E7%94%BB%E3%81%AE%E7%8C%AB%E3%81%9F%E3%81%A1%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E9%81%8A%E3%81%B3%E5%BF%83%E3%81%A8%E6%B7%B7%E6%B2%8C%E3%81%A8%E3%81%97%E3%81%9F%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC%E6%84%9F%E3%82%92%E6%BC%94%E5%87%BA%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E6%A7%8B%E5%9B%B3%E3%81%AF%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%A7%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%8C%E5%8F%96%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E8%A6%81%E7%B4%A0%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E5%8D%B0%E5%88%B7%E3%81%AB%E9%81%A9%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)**
 
 ---
 
-### No. 21: Corgi Stuck in Chimney
+### No. 21: クリスマスツリーにしがみつくコアラ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates a humorous Christmas card illustration featuring a Corgi dog stuck upside down in a chimney. Ideal for a funny and lighthearted holiday message.
+このプロンプトは、飾り付けされたクリスマスツリーにしがみつく灰色のコアラが特徴の、かわいい印刷可能なクリスマスカードのデザインを生成します。柔らかいクレヨン画のような質感で、心温まるホリデーグリーティングにぴったりです。
 
 #### 📝 プロンプト
 
 ```
-A humorous Christmas card illustration, flat graphic style, aspect ratio 1:1.4. A red brick chimney stack stands against a dark blue night sky with stars. Stuck upside down in the top opening of the chimney is the fluffy orange and white butt of a Corgi dog, with its short back legs wiggling in the air. A tiny Santa hat is falling off one foot. Smoke puffs out around it in the shape of question marks.
+かわいい印刷可能なクリスマスカードのデザイン、アスペクト比 1:1.4。ユーカリの木の代わりに小さく飾り付けられたクリスマスツリーの幹に、灰色のコアラがしがみついていて、満足げで眠たそうに見える。ツリーは光沢のある銀色のモールとカラフルなオーナメントで覆われている。コアラは小さな赤い蝶ネクタイをしている。単色のパステルグリーン背景。柔らかいクレヨン画のテクスチャ。
 ```
 
 #### 🖼️ 生成画像
@@ -817,7 +1146,7 @@ A humorous Christmas card illustration, flat graphic style, aspect ratio 1:1.4. 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780114922_pdkrnq_1765693026895-9ldmsp-C6BJKp_H09UpAAAAAElFTkSuQmCC" width="600" alt="Corgi Stuck in Chimney - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765780157326_ckp21g_1765693121569-apj76v-v_H31t5QXhilrDAAAAAElFTkSuQmCC" width="600" alt="クリスマスツリーにしがみつくコアラ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -827,22 +1156,22 @@ A humorous Christmas card illustration, flat graphic style, aspect ratio 1:1.4. 
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20humorous%20Christmas%20card%20illustration%2C%20flat%20graphic%20style%2C%20aspect%20ratio%201%3A1.4.%20A%20red%20brick%20chimney%20stack%20stands%20against%20a%20dark%20blue%20night%20sky%20with%20stars.%20Stuck%20upside%20down%20in%20the%20top%20opening%20of%20the%20chimney%20is%20the%20fluffy%20orange%20and%20white%20butt%20of%20a%20Corgi%20dog%2C%20with%20its%20short%20back%20legs%20wiggling%20in%20the%20air.%20A%20tiny%20Santa%20hat%20is%20falling%20off%20one%20foot.%20Smoke%20puffs%20out%20around%20it%20in%20the%20shape%20of%20question%20marks.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E3%83%A6%E3%83%BC%E3%82%AB%E3%83%AA%E3%81%AE%E6%9C%A8%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%8F%E9%A3%BE%E3%82%8A%E4%BB%98%E3%81%91%E3%82%89%E3%82%8C%E3%81%9F%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AE%E5%B9%B9%E3%81%AB%E3%80%81%E7%81%B0%E8%89%B2%E3%81%AE%E3%82%B3%E3%82%A2%E3%83%A9%E3%81%8C%E3%81%97%E3%81%8C%E3%81%BF%E3%81%A4%E3%81%84%E3%81%A6%E3%81%84%E3%81%A6%E3%80%81%E6%BA%80%E8%B6%B3%E3%81%92%E3%81%A7%E7%9C%A0%E3%81%9F%E3%81%9D%E3%81%86%E3%81%AB%E8%A6%8B%E3%81%88%E3%82%8B%E3%80%82%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AF%E5%85%89%E6%B2%A2%E3%81%AE%E3%81%82%E3%82%8B%E9%8A%80%E8%89%B2%E3%81%AE%E3%83%A2%E3%83%BC%E3%83%AB%E3%81%A8%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%81%AA%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%81%A7%E8%A6%86%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%82%B3%E3%82%A2%E3%83%A9%E3%81%AF%E5%B0%8F%E3%81%95%E3%81%AA%E8%B5%A4%E3%81%84%E8%9D%B6%E3%83%8D%E3%82%AF%E3%82%BF%E3%82%A4%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E5%8D%98%E8%89%B2%E3%81%AE%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E8%83%8C%E6%99%AF%E3%80%82%E6%9F%94%E3%82%89%E3%81%8B%E3%81%84%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3%E7%94%BB%E3%81%AE%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E3%80%82)**
 
 ---
 
-### No. 22: Fluffy Highland Cow with Christmas Lights
+### No. 22: 生きているジンジャーブレッドマンとクマのパン屋さん
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt creates a charming and fuzzy Christmas illustration of a Scottish Highland cow with Christmas lights tangled in its hair and horns. Ideal for rustic and heartwarming holiday designs.
+このプロンプトは、フレンドリーな茶色のクマのパン屋がジンジャーブレッドマンを作っている、魅力的なイラストを作成します。ジンジャーブレッドマンは命を吹き込まれ、キッチンを走り回っています。温かく絵本のようなホリデーカードに最適です。
 
 #### 📝 プロンプト
 
 ```
-A charming and fuzzy Christmas illustration, aspect ratio 1:1.4. A close-up portrait of a super fluffy ginger Scottish Highland cow. Its shaggy hair completely covers its eyes, but colorful tangled Christmas lights that are glowing, and small shiny red baubles, are caught in its bangs and long horns. Light snowflakes dust its fur. The background is a soft, blurred snowy pasture. Painterly, textured style.
+アスペクト比 1:1.4 の、愛らしい茶色のクマのパン屋さんのイラスト。親しみやすいクマは花柄のエプロンとコック帽を身につけ、白い小麦粉の粉で覆われています。木製のテーブルの上で楽しそうに生地を伸ばしており、その周りでは命を吹き込まれたジンジャーブレッドマンのクッキーたちが笑いながらキッチンカウンターを走り回っています。温かみのある絵本のようなアートスタイル。
 ```
 
 #### 🖼️ 生成画像
@@ -850,7 +1179,7 @@ A charming and fuzzy Christmas illustration, aspect ratio 1:1.4. A close-up port
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780111966_dn1z7i_1765692971551-1i3kzo-B7M7DtPmAsUhAAAAAElFTkSuQmCC" width="600" alt="Fluffy Highland Cow with Christmas Lights - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765780152259_x9tpgp_1765765754561-emrtgw-w_2W4FWpP9VyAAAAABJRU5ErkJggg__" width="600" alt="生きているジンジャーブレッドマンとクマのパン屋さん - Image 1">
 </div>
 
 #### 📌 詳細
@@ -860,22 +1189,22 @@ A charming and fuzzy Christmas illustration, aspect ratio 1:1.4. A close-up port
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20and%20fuzzy%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20close-up%20portrait%20of%20a%20super%20fluffy%20ginger%20Scottish%20Highland%20cow.%20Its%20shaggy%20hair%20completely%20covers%20its%20eyes%2C%20but%20colorful%20tangled%20Christmas%20lights%20that%20are%20glowing%2C%20and%20small%20shiny%20red%20baubles%2C%20are%20caught%20in%20its%20bangs%20and%20long%20horns.%20Light%20snowflakes%20dust%20its%20fur.%20The%20background%20is%20a%20soft%2C%20blurred%20snowy%20pasture.%20Painterly%2C%20textured%20style.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%20%E3%81%AE%E3%80%81%E6%84%9B%E3%82%89%E3%81%97%E3%81%84%E8%8C%B6%E8%89%B2%E3%81%AE%E3%82%AF%E3%83%9E%E3%81%AE%E3%83%91%E3%83%B3%E5%B1%8B%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%82%E8%A6%AA%E3%81%97%E3%81%BF%E3%82%84%E3%81%99%E3%81%84%E3%82%AF%E3%83%9E%E3%81%AF%E8%8A%B1%E6%9F%84%E3%81%AE%E3%82%A8%E3%83%97%E3%83%AD%E3%83%B3%E3%81%A8%E3%82%B3%E3%83%83%E3%82%AF%E5%B8%BD%E3%82%92%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%80%81%E7%99%BD%E3%81%84%E5%B0%8F%E9%BA%A6%E7%B2%89%E3%81%AE%E7%B2%89%E3%81%A7%E8%A6%86%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E6%9C%A8%E8%A3%BD%E3%81%AE%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE%E4%B8%8A%E3%81%A7%E6%A5%BD%E3%81%97%E3%81%9D%E3%81%86%E3%81%AB%E7%94%9F%E5%9C%B0%E3%82%92%E4%BC%B8%E3%81%B0%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%81%9D%E3%81%AE%E5%91%A8%E3%82%8A%E3%81%A7%E3%81%AF%E5%91%BD%E3%82%92%E5%90%B9%E3%81%8D%E8%BE%BC%E3%81%BE%E3%82%8C%E3%81%9F%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3%E3%81%AE%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%81%9F%E3%81%A1%E3%81%8C%E7%AC%91%E3%81%84%E3%81%AA%E3%81%8C%E3%82%89%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E8%B5%B0%E3%82%8A%E5%9B%9E%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E6%B8%A9%E3%81%8B%E3%81%BF%E3%81%AE%E3%81%82%E3%82%8B%E7%B5%B5%E6%9C%AC%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%A2%E3%83%BC%E3%83%88%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%82)**
 
 ---
 
-### No. 23: Long Dachshund Christmas Card
+### No. 23: ティーカップで眠るヤマネ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt creates a funny flat vector illustration for a Christmas card, depicting a very long dachshund dog wearing an absurdly long, festive sweater. Ideal for humorous holiday messages and pet-themed cards.
+このプロンプトは、お祝いムードのティーカップの中で丸まって眠る小さなヤマネの、居心地の良いミニチュアのクリスマス イラストを生成します。甘く繊細なホリデー カードのデザインに最適です。
 
 #### 📝 プロンプト
 
 ```
-A funny flat vector illustration for a Christmas card, aspect ratio 1:1.4. A very long brown dachshund dog stretches horizontally across the entire card against a solid pale blue background. It is wearing an absurdly long, red knitted turtleneck sweater with a repeating pattern of white reindeer and snowflakes. The sweater is so long it sags in the middle, touching the ground. The dog looks content. Text below reads: "Longing for Christmas."
+居心地の良いミニチュアのクリスマスイラスト、アスペクト比 1:1.4。お祝いの赤と緑のヒイラギ模様で飾られた陶器のティーカップの中で、小さなヤマネが丸まって眠っています。ヤマネは小さな緑の葉っぱの毛布に覆われています。ティーカップは、木製のテーブルの上にあるミニチュアのミンスパイの隣のソーサーに乗っています。水彩と色鉛筆スタイル。
 ```
 
 #### 🖼️ 生成画像
@@ -883,7 +1212,7 @@ A funny flat vector illustration for a Christmas card, aspect ratio 1:1.4. A ver
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780099382_hsgl3l_1765692967267-gejgq8-Bek23XMoiWkxAAAAAElFTkSuQmCC" width="600" alt="Long Dachshund Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765780150013_3r2ds8_1765765750332-u6dv2j-f7L6RsJkw3KlnwAAAAAElFTkSuQmCC" width="600" alt="ティーカップで眠るヤマネ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -893,22 +1222,22 @@ A funny flat vector illustration for a Christmas card, aspect ratio 1:1.4. A ver
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20flat%20vector%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20very%20long%20brown%20dachshund%20dog%20stretches%20horizontally%20across%20the%20entire%20card%20against%20a%20solid%20pale%20blue%20background.%20It%20is%20wearing%20an%20absurdly%20long%2C%20red%20knitted%20turtleneck%20sweater%20with%20a%20repeating%20pattern%20of%20white%20reindeer%20and%20snowflakes.%20The%20sweater%20is%20so%20long%20it%20sags%20in%20the%20middle%2C%20touching%20the%20ground.%20The%20dog%20looks%20content.%20Text%20below%20reads%3A%20%22Longing%20for%20Christmas.%22)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%AE%E8%89%AF%E3%81%84%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%AE%E8%B5%A4%E3%81%A8%E7%B7%91%E3%81%AE%E3%83%92%E3%82%A4%E3%83%A9%E3%82%AE%E6%A8%A1%E6%A7%98%E3%81%A7%E9%A3%BE%E3%82%89%E3%82%8C%E3%81%9F%E9%99%B6%E5%99%A8%E3%81%AE%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AB%E3%83%83%E3%83%97%E3%81%AE%E4%B8%AD%E3%81%A7%E3%80%81%E5%B0%8F%E3%81%95%E3%81%AA%E3%83%A4%E3%83%9E%E3%83%8D%E3%81%8C%E4%B8%B8%E3%81%BE%E3%81%A3%E3%81%A6%E7%9C%A0%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%83%A4%E3%83%9E%E3%83%8D%E3%81%AF%E5%B0%8F%E3%81%95%E3%81%AA%E7%B7%91%E3%81%AE%E8%91%89%E3%81%A3%E3%81%B1%E3%81%AE%E6%AF%9B%E5%B8%83%E3%81%AB%E8%A6%86%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AB%E3%83%83%E3%83%97%E3%81%AF%E3%80%81%E6%9C%A8%E8%A3%BD%E3%81%AE%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE%E4%B8%8A%E3%81%AB%E3%81%82%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%81%AE%E3%83%9F%E3%83%B3%E3%82%B9%E3%83%91%E3%82%A4%E3%81%AE%E9%9A%A3%E3%81%AE%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%AB%E4%B9%97%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E6%B0%B4%E5%BD%A9%E3%81%A8%E8%89%B2%E9%89%9B%E7%AD%86%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%82)**
 
 ---
 
-### No. 24: Whimsical Hedgehog Christmas Card
+### No. 24: タコが飾るサンゴのクリスマスツリー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates a whimsical printable Christmas card illustration featuring a small, round hedgehog whose spines are comically adorned with tiny Christmas decorations. It's perfect for creating unique and humorous holiday greetings.
+このプロンプトは、フレンドリーな紫色のタコがサンゴの「クリスマスツリー」を飾り付けている、気まぐれな水中クリスマスカードを作成します。ユニークで遊び心のある、水生生物がテーマのホリデーグリーティングに最適です。
 
 #### 📝 プロンプト
 
 ```
-A whimsical printable Christmas card illustration, aspect ratio 1:1.4. A small, round hedgehog is curled up into a ball on a clean cream background. Its spines are hilariously covered with tiny, colorful Christmas baubles, miniature candy canes, and bits of shiny tinsel that have gotten stuck to them. The hedgehog has a slightly confused but happy expression, with one eye peeking out. The style is a gentle watercolor painting with soft textures.
+気まぐれな水中クリスマスカード、アスペクト比 1:1.4。フレンドリーな紫色のタコが、8 本の腕すべてを使って、クリスマスツリーのように見える大きな枝状のサンゴを飾り付けています。光沢のある貝殻、ヒトデ、真珠のネックレスを枝に吊るしています。サンタ帽が頭のすぐ上に浮かんでいます。深い青色の海の背景に泡が上昇しています。かわいいカートゥーンスタイル。
 ```
 
 #### 🖼️ 生成画像
@@ -916,7 +1245,7 @@ A whimsical printable Christmas card illustration, aspect ratio 1:1.4. A small, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780101179_ywdvzk_1765693039459-1wv8ex-htP1HdLVAAAAAElFTkSuQmCC" width="600" alt="Whimsical Hedgehog Christmas Card - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765780144630_0tscw8_1765693091821-qhhkcy-zJJh_aUBJ0oFVKEJRYbqaxivp889_gQSR09EMCDxvoD8Rg0767xzBB2CWUvdpo3J9NqDaUE_1kVMeq5_SXMzP8DXmFImiJYjewAAAAASUVORK5CYII_" width="600" alt="タコが飾るサンゴのクリスマスツリー - Image 1">
 </div>
 
 #### 📌 詳細
@@ -926,22 +1255,22 @@ A whimsical printable Christmas card illustration, aspect ratio 1:1.4. A small, 
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20small%2C%20round%20hedgehog%20is%20curled%20up%20into%20a%20ball%20on%20a%20clean%20cream%20background.%20Its%20spines%20are%20hilariously%20covered%20with%20tiny%2C%20colorful%20Christmas%20baubles%2C%20miniature%20candy%20canes%2C%20and%20bits%20of%20shiny%20tinsel%20that%20have%20gotten%20stuck%20to%20them.%20The%20hedgehog%20has%20a%20slightly%20confused%20but%20happy%20expression%2C%20with%20one%20eye%20peeking%20out.%20The%20style%20is%20a%20gentle%20watercolor%20painting%20with%20soft%20textures.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%81%AA%E6%B0%B4%E4%B8%AD%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%81%AA%E7%B4%AB%E8%89%B2%E3%81%AE%E3%82%BF%E3%82%B3%E3%81%8C%E3%80%818%20%E6%9C%AC%E3%81%AE%E8%85%95%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%80%81%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E8%A6%8B%E3%81%88%E3%82%8B%E5%A4%A7%E3%81%8D%E3%81%AA%E6%9E%9D%E7%8A%B6%E3%81%AE%E3%82%B5%E3%83%B3%E3%82%B4%E3%82%92%E9%A3%BE%E3%82%8A%E4%BB%98%E3%81%91%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%85%89%E6%B2%A2%E3%81%AE%E3%81%82%E3%82%8B%E8%B2%9D%E6%AE%BB%E3%80%81%E3%83%92%E3%83%88%E3%83%87%E3%80%81%E7%9C%9F%E7%8F%A0%E3%81%AE%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9%E3%82%92%E6%9E%9D%E3%81%AB%E5%90%8A%E3%82%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%82%B5%E3%83%B3%E3%82%BF%E5%B8%BD%E3%81%8C%E9%A0%AD%E3%81%AE%E3%81%99%E3%81%90%E4%B8%8A%E3%81%AB%E6%B5%AE%E3%81%8B%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E6%B7%B1%E3%81%84%E9%9D%92%E8%89%B2%E3%81%AE%E6%B5%B7%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E6%B3%A1%E3%81%8C%E4%B8%8A%E6%98%87%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%82)**
 
 ---
 
-### No. 25: Kawaii Otters with Candy Cane
+### No. 25: 郵便を届ける魔法のシロフクロウ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 説明
 
-This prompt generates an adorable printable Christmas card design featuring two cute furry sea otters floating in icy water and holding a large peppermint candy cane. It's perfect for creating sweet, kawaii-style holiday cards.
+このプロンプトは、小さな上品な赤い封筒を運んで飛んでいるシロフクロウの、魔法のようなクリスマスのイラストを生成します。魅力的で気まぐれなホリデーカードのデザインに最適です。
 
 #### 📝 プロンプト
 
 ```
-An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry sea otters are floating on their backs in icy blue water, holding paws. Instead of their usual rock, they are jointly holding a large red and white striped peppermint candy cane across their chests. Both wear tiny Santa hats titled on their heads. Soft white ripples surround them. The style is a kawaii cartoon with soft shading.
+魔法のようなクリスマスのイラスト、アスペクト比 1:1.4。ふわふわの白いスノーウィーオウルが、暗い青色の星空を背景に飛行中。くちばしには、金色のワックスシールで封印された小さく上品な赤い封筒をくわえている。耳の後ろには、羽のように小さなヒイラギの小枝が挟まっている。細部まで描かれ、魅惑的なスタイル。
 ```
 
 #### 🖼️ 生成画像
@@ -949,7 +1278,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780100132_xzm77l_1765692974848-ens980-h85hatWrURrnAAAAABJRU5ErkJggg__" width="600" alt="Kawaii Otters with Candy Cane - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765780138272_3svn17_1765765454815-r02l98-39y3ldSxfTVjYHEu7z6e58eW0dWm0gojHuTEKYhMy9CVualCgiWFmYEOeZiJjb6cPH6LFta5rSVvfacF03UX14_C1AQPVY6_iG5ixRy_G49L2ryc_fL9V3UcvzHA3StFyutw6gQMhMAu4RdVOVkZR795zmOd1uiNHIEHATQCi1sjCRI5IyCQt1FBdiEpEWzYS7U0S0BoAw1qqSmElKb0C" width="600" alt="郵便を届ける魔法のシロフクロウ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -959,11 +1288,407 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 - **公開日:** 2025年12月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20Two%20cute%20furry%20sea%20otters%20are%20floating%20on%20their%20backs%20in%20icy%20blue%20water%2C%20holding%20paws.%20Instead%20of%20their%20usual%20rock%2C%20they%20are%20jointly%20holding%20a%20large%20red%20and%20white%20striped%20peppermint%20candy%20cane%20across%20their%20chests.%20Both%20wear%20tiny%20Santa%20hats%20titled%20on%20their%20heads.%20Soft%20white%20ripples%20surround%20them.%20The%20style%20is%20a%20kawaii%20cartoon%20with%20soft%20shading.)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%AD%94%E6%B3%95%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%81%AE%E7%99%BD%E3%81%84%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AA%E3%82%A6%E3%83%AB%E3%81%8C%E3%80%81%E6%9A%97%E3%81%84%E9%9D%92%E8%89%B2%E3%81%AE%E6%98%9F%E7%A9%BA%E3%82%92%E8%83%8C%E6%99%AF%E3%81%AB%E9%A3%9B%E8%A1%8C%E4%B8%AD%E3%80%82%E3%81%8F%E3%81%A1%E3%81%B0%E3%81%97%E3%81%AB%E3%81%AF%E3%80%81%E9%87%91%E8%89%B2%E3%81%AE%E3%83%AF%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%A7%E5%B0%81%E5%8D%B0%E3%81%95%E3%82%8C%E3%81%9F%E5%B0%8F%E3%81%95%E3%81%8F%E4%B8%8A%E5%93%81%E3%81%AA%E8%B5%A4%E3%81%84%E5%B0%81%E7%AD%92%E3%82%92%E3%81%8F%E3%82%8F%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E8%80%B3%E3%81%AE%E5%BE%8C%E3%82%8D%E3%81%AB%E3%81%AF%E3%80%81%E7%BE%BD%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%AA%E3%83%92%E3%82%A4%E3%83%A9%E3%82%AE%E3%81%AE%E5%B0%8F%E6%9E%9D%E3%81%8C%E6%8C%9F%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E7%B4%B0%E9%83%A8%E3%81%BE%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%80%81%E9%AD%85%E6%83%91%E7%9A%84%E3%81%AA%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%82)**
 
 ---
 
-### No. 26: サンタの洗濯物ライン クリスマス カード
+### No. 26: サンタのおやつを盗むずる賢いアライグマたち
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+このプロンプトは、暖炉のそばでサンタのミルクとクッキーを盗んでいるところを捕まった、2匹のずる賢いアライグマを描いた面白いクリスマスカードのデザインを作成します。いたずら好きでユーモラスなホリデーグリーティングにぴったりです。
+
+#### 📝 プロンプト
+
+```
+アスペクト比 1:1.4 の面白いクリスマスカードのデザイン。夜、暖炉のそばのシーン。自然の「泥棒マスク」模様と小さなサンタ帽をかぶった2匹のずる賢いアライグマが、まさにその現場を押さえられている。1匹は牛乳のグラスを持ち上げ、もう1匹は「サンタさんへ」と書かれた皿から取ったチョコチップクッキーを口にくわえている。彼らの目は暖炉の火の光に照らされているだけ。可愛らしくていたずらっぽいイラストスタイル。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780135041_hfe6vq_1765693073644-d5i9ho-x9Nt6i6Rt8yVwAAAABJRU5ErkJggg__" width="600" alt="サンタのおやつを盗むずる賢いアライグマたち - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%20%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%84%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%82%E5%A4%9C%E3%80%81%E6%9A%96%E7%82%89%E3%81%AE%E3%81%9D%E3%81%B0%E3%81%AE%E3%82%B7%E3%83%BC%E3%83%B3%E3%80%82%E8%87%AA%E7%84%B6%E3%81%AE%E3%80%8C%E6%B3%A5%E6%A3%92%E3%83%9E%E3%82%B9%E3%82%AF%E3%80%8D%E6%A8%A1%E6%A7%98%E3%81%A8%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B5%E3%83%B3%E3%82%BF%E5%B8%BD%E3%82%92%E3%81%8B%E3%81%B6%E3%81%A3%E3%81%9F2%E5%8C%B9%E3%81%AE%E3%81%9A%E3%82%8B%E8%B3%A2%E3%81%84%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%B0%E3%83%9E%E3%81%8C%E3%80%81%E3%81%BE%E3%81%95%E3%81%AB%E3%81%9D%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%82%92%E6%8A%BC%E3%81%95%E3%81%88%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%821%E5%8C%B9%E3%81%AF%E7%89%9B%E4%B9%B3%E3%81%AE%E3%82%B0%E3%83%A9%E3%82%B9%E3%82%92%E6%8C%81%E3%81%A1%E4%B8%8A%E3%81%92%E3%80%81%E3%82%82%E3%81%861%E5%8C%B9%E3%81%AF%E3%80%8C%E3%82%B5%E3%83%B3%E3%82%BF%E3%81%95%E3%82%93%E3%81%B8%E3%80%8D%E3%81%A8%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%9F%E7%9A%BF%E3%81%8B%E3%82%89%E5%8F%96%E3%81%A3%E3%81%9F%E3%83%81%E3%83%A7%E3%82%B3%E3%83%81%E3%83%83%E3%83%97%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%82%92%E5%8F%A3%E3%81%AB%E3%81%8F%E3%82%8F%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E5%BD%BC%E3%82%89%E3%81%AE%E7%9B%AE%E3%81%AF%E6%9A%96%E7%82%89%E3%81%AE%E7%81%AB%E3%81%AE%E5%85%89%E3%81%AB%E7%85%A7%E3%82%89%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A0%E3%81%91%E3%80%82%E5%8F%AF%E6%84%9B%E3%82%89%E3%81%97%E3%81%8F%E3%81%A6%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E3%81%A3%E3%81%BD%E3%81%84%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%82)**
+
+---
+
+### No. 27: キャンディケインとペンギンスキー
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+このプロンプトは、クリスマスカード向けの気まぐれなアクションイラストを生成します。ペパーミントのキャンディケインをスキー板にして雪の斜面を滑り降りる陽気なペンギンが特徴です。楽しくダイナミックなホリデーデザインに最適です。
+
+#### 📝 プロンプト
+
+```
+クリスマスカード用の、気まぐれなアクションイラスト。アスペクト比 1:1.4。ヴィンテージのパイロットゴーグルと赤いフライングスカーフを身につけた陽気なペンギンが、雪の斜面をスキーで滑り降りている。スキー板の代わりに、2 本の大きなペパーミントキャンディケインを使っている。雪しぶきがダイナミックに舞い上がっている。背景には、シンプルな漫画風の松の木が描かれている。太い輪郭線が特徴の、楽しくダイナミックなカートゥーンスタイル。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780134351_n4c7z8_1765693058708-rcwygl-7E9Izca_arBPzsQsVeY_tbHB5P_b1XUclaVdeBnWEuIkUpFvsQH9zdkMF2TvwTQTlyJnjrmFRkUYxyJkutsbDX8qES7SzaOysAjokruFaeJFHKuvUskoNoPkHU9yMP6fKJqpiG1VSqsgqVWH7qHP4XtomX4vCKzPcAAAAASUVORK5CYII_" width="600" alt="キャンディケインとペンギンスキー - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E7%94%A8%E3%81%AE%E3%80%81%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%81%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%82%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AE%E3%83%91%E3%82%A4%E3%83%AD%E3%83%83%E3%83%88%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB%E3%81%A8%E8%B5%A4%E3%81%84%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%95%E3%82%92%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E9%99%BD%E6%B0%97%E3%81%AA%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%8C%E3%80%81%E9%9B%AA%E3%81%AE%E6%96%9C%E9%9D%A2%E3%82%92%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%A7%E6%BB%91%E3%82%8A%E9%99%8D%E3%82%8A%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%82%B9%E3%82%AD%E3%83%BC%E6%9D%BF%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%80%812%20%E6%9C%AC%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%9A%E3%83%91%E3%83%BC%E3%83%9F%E3%83%B3%E3%83%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E9%9B%AA%E3%81%97%E3%81%B6%E3%81%8D%E3%81%8C%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AB%E8%88%9E%E3%81%84%E4%B8%8A%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AB%E3%81%AF%E3%80%81%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%BC%AB%E7%94%BB%E9%A2%A8%E3%81%AE%E6%9D%BE%E3%81%AE%E6%9C%A8%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E5%A4%AA%E3%81%84%E8%BC%AA%E9%83%AD%E7%B7%9A%E3%81%8C%E7%89%B9%E5%BE%B4%E3%81%AE%E3%80%81%E6%A5%BD%E3%81%97%E3%81%8F%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AA%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%82)**
+
+---
+
+### No. 28: 眠るホッキョクグマ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+このプロンプトは、雪の吹きだまりでぐっすり眠るホッキョクグマの母子をフィーチャーした、心温まる印刷可能なクリスマス カードを作成します。優しく柔らかな絵本スタイルのホリデー グリーティングに最適です。
+
+#### 📝 プロンプト
+
+```
+心温まる印刷可能なクリスマスカード、アスペクト比 1:1.4。大きな母シロクマが雪の吹きだまりで丸まってぐっすり眠っています。小さな子グマが、ミニチュアの赤と緑のストライプのナイトキャップをかぶって、母グマの広い背中で気持ちよさそうに眠っています。柔らかな水色の背景に、優しい雪が舞い降りています。スタイルは、柔らかな色彩の心優しい絵本イラストです。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780129271_va78dc_1765693057760-ebc124-wFMsnpfYefmXwAAAABJRU5ErkJggg__" width="600" alt="眠るホッキョクグマ - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E5%BF%83%E6%B8%A9%E3%81%BE%E3%82%8B%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E5%A4%A7%E3%81%8D%E3%81%AA%E6%AF%8D%E3%82%B7%E3%83%AD%E3%82%AF%E3%83%9E%E3%81%8C%E9%9B%AA%E3%81%AE%E5%90%B9%E3%81%8D%E3%81%A0%E3%81%BE%E3%82%8A%E3%81%A7%E4%B8%B8%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%90%E3%81%A3%E3%81%99%E3%82%8A%E7%9C%A0%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%B0%8F%E3%81%95%E3%81%AA%E5%AD%90%E3%82%B0%E3%83%9E%E3%81%8C%E3%80%81%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%81%AE%E8%B5%A4%E3%81%A8%E7%B7%91%E3%81%AE%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%97%E3%81%AE%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E3%82%92%E3%81%8B%E3%81%B6%E3%81%A3%E3%81%A6%E3%80%81%E6%AF%8D%E3%82%B0%E3%83%9E%E3%81%AE%E5%BA%83%E3%81%84%E8%83%8C%E4%B8%AD%E3%81%A7%E6%B0%97%E6%8C%81%E3%81%A1%E3%82%88%E3%81%95%E3%81%9D%E3%81%86%E3%81%AB%E7%9C%A0%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E6%B0%B4%E8%89%B2%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E3%80%81%E5%84%AA%E3%81%97%E3%81%84%E9%9B%AA%E3%81%8C%E8%88%9E%E3%81%84%E9%99%8D%E3%82%8A%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AF%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E8%89%B2%E5%BD%A9%E3%81%AE%E5%BF%83%E5%84%AA%E3%81%97%E3%81%84%E7%B5%B5%E6%9C%AC%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%80%82)**
+
+---
+
+### No. 29: リボンに絡まるタキシード猫
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+このプロンプトは、いたずら好きなタキシード猫がギフトリボンと包装紙に面白おかしく絡まっている、面白い印刷可能なクリスマスカードのイラストを生成します。陽気で遊び心のあるホリデーカードに最適です。
+
+#### 📝 プロンプト
+
+```
+面白い印刷可能なクリスマスカードのイラスト、アスペクト比 1:1.4。いたずら好きな白黒のタキシード猫が、真っ赤なサテンのリボンと破れたお祝いのラッピングペーパーが大量に爆発した中にコミカルに絡まっています。背景は清潔な白です。輝く赤い混沌の中心から、大きく見開いた驚いた緑色の目と片方の足だけが見えています。しっぽにはテープのロールがくっついています。ダイナミックなカートゥーンスケッチスタイル。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780125816_w7gjzg_1765693040741-mb5eqs-oAAAAASUVORK5CYII_" width="600" alt="リボンに絡まるタキシード猫 - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%9D%A2%E7%99%BD%E3%81%84%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E5%A5%BD%E3%81%8D%E3%81%AA%E7%99%BD%E9%BB%92%E3%81%AE%E3%82%BF%E3%82%AD%E3%82%B7%E3%83%BC%E3%83%89%E7%8C%AB%E3%81%8C%E3%80%81%E7%9C%9F%E3%81%A3%E8%B5%A4%E3%81%AA%E3%82%B5%E3%83%86%E3%83%B3%E3%81%AE%E3%83%AA%E3%83%9C%E3%83%B3%E3%81%A8%E7%A0%B4%E3%82%8C%E3%81%9F%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%AE%E3%83%A9%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%81%8C%E5%A4%A7%E9%87%8F%E3%81%AB%E7%88%86%E7%99%BA%E3%81%97%E3%81%9F%E4%B8%AD%E3%81%AB%E3%82%B3%E3%83%9F%E3%82%AB%E3%83%AB%E3%81%AB%E7%B5%A1%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E6%B8%85%E6%BD%94%E3%81%AA%E7%99%BD%E3%81%A7%E3%81%99%E3%80%82%E8%BC%9D%E3%81%8F%E8%B5%A4%E3%81%84%E6%B7%B7%E6%B2%8C%E3%81%AE%E4%B8%AD%E5%BF%83%E3%81%8B%E3%82%89%E3%80%81%E5%A4%A7%E3%81%8D%E3%81%8F%E8%A6%8B%E9%96%8B%E3%81%84%E3%81%9F%E9%A9%9A%E3%81%84%E3%81%9F%E7%B7%91%E8%89%B2%E3%81%AE%E7%9B%AE%E3%81%A8%E7%89%87%E6%96%B9%E3%81%AE%E8%B6%B3%E3%81%A0%E3%81%91%E3%81%8C%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%81%97%E3%81%A3%E3%81%BD%E3%81%AB%E3%81%AF%E3%83%86%E3%83%BC%E3%83%97%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AA%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%83%E3%83%81%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%82)**
+
+---
+
+### No. 30: 日本の温泉のカピバラ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+このプロンプトは、日本の温泉を楽しむカピバラのリラックスしたかわいいクリスマス イラストを生成します。穏やかでユニークなホリデー カードのデザインに最適です。
+
+#### 📝 プロンプト
+
+```
+リラックスしたかわいいクリスマスのイラスト、アスペクト比 1:1.4。雪に覆われた岩に囲まれた、湯気の立つ日本の温泉に胸まで浸かって、のんびりとしたカピバラが穏やかに座っています。頭にはサンタ帽をかぶった小さな折り畳みタオルを乗せています。隣には柚子が浮かんでいます。温かく柔らかなアニメーションスタイルで、湯気が優しく立ち上っています。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780123056_v02i28_1765693205572-8w5irf-AXqqyI4m5kpHAAAAAElFTkSuQmCC" width="600" alt="日本の温泉のカピバラ - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%83%AA%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%81%97%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E9%9B%AA%E3%81%AB%E8%A6%86%E3%82%8F%E3%82%8C%E3%81%9F%E5%B2%A9%E3%81%AB%E5%9B%B2%E3%81%BE%E3%82%8C%E3%81%9F%E3%80%81%E6%B9%AF%E6%B0%97%E3%81%AE%E7%AB%8B%E3%81%A4%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B8%A9%E6%B3%89%E3%81%AB%E8%83%B8%E3%81%BE%E3%81%A7%E6%B5%B8%E3%81%8B%E3%81%A3%E3%81%A6%E3%80%81%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E3%82%AB%E3%83%94%E3%83%90%E3%83%A9%E3%81%8C%E7%A9%8F%E3%82%84%E3%81%8B%E3%81%AB%E5%BA%A7%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E9%A0%AD%E3%81%AB%E3%81%AF%E3%82%B5%E3%83%B3%E3%82%BF%E5%B8%BD%E3%82%92%E3%81%8B%E3%81%B6%E3%81%A3%E3%81%9F%E5%B0%8F%E3%81%95%E3%81%AA%E6%8A%98%E3%82%8A%E7%95%B3%E3%81%BF%E3%82%BF%E3%82%AA%E3%83%AB%E3%82%92%E4%B9%97%E3%81%9B%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E9%9A%A3%E3%81%AB%E3%81%AF%E6%9F%9A%E5%AD%90%E3%81%8C%E6%B5%AE%E3%81%8B%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E6%B8%A9%E3%81%8B%E3%81%8F%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E3%80%81%E6%B9%AF%E6%B0%97%E3%81%8C%E5%84%AA%E3%81%97%E3%81%8F%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)**
+
+---
+
+### No. 31: ヒイラギの枝で歌う鳥たち
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+このプロンプトは、小さな冬用帽子をかぶった5羽の小さな庭の鳥たちが、雪に覆われたヒイラギの枝で歌っている、かわいらしくて詳細な印刷可能なクリスマスカードを作成します。クラシックで魅力的なホリデーグリーティングに最適です。
+
+#### 📝 プロンプト
+
+```
+かわいらしくて細部まで描かれた、印刷可能なクリスマスカード。アスペクト比は 1:1.4。5 羽の小さくてふっくらした庭の鳥たち（コマドリ、アオガラ、スズメ、ゴシキヒワ、ミソサザイ）が、雪に覆われた赤い実のヒイラギの枝に一列に並んでとまっています。それぞれの鳥は異なるミニチュアのニットの冬用帽子（ポンポン付きニット帽、ビーニー帽、耳当て付き帽子）をかぶっており、みんな歌っているかのようにくちばしを開けています。スタイルは、質感のある紙に描かれた繊細な水彩とインクのドローイングです。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780118971_iq7hcj_1765693200318-bzuqbb-MpYGTqgUNkpuE6DuZTGYkL_OfNSELavqabdsIGBfbwDUkP8Gi2zVV1lQ1BQAAAAASUVORK5CYII_" width="600" alt="ヒイラギの枝で歌う鳥たち - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%81%8B%E3%82%8F%E3%81%84%E3%82%89%E3%81%97%E3%81%8F%E3%81%A6%E7%B4%B0%E9%83%A8%E3%81%BE%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%80%82%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%AF%201%3A1.4%E3%80%825%20%E7%BE%BD%E3%81%AE%E5%B0%8F%E3%81%95%E3%81%8F%E3%81%A6%E3%81%B5%E3%81%A3%E3%81%8F%E3%82%89%E3%81%97%E3%81%9F%E5%BA%AD%E3%81%AE%E9%B3%A5%E3%81%9F%E3%81%A1%EF%BC%88%E3%82%B3%E3%83%9E%E3%83%89%E3%83%AA%E3%80%81%E3%82%A2%E3%82%AA%E3%82%AC%E3%83%A9%E3%80%81%E3%82%B9%E3%82%BA%E3%83%A1%E3%80%81%E3%82%B4%E3%82%B7%E3%82%AD%E3%83%92%E3%83%AF%E3%80%81%E3%83%9F%E3%82%BD%E3%82%B5%E3%82%B6%E3%82%A4%EF%BC%89%E3%81%8C%E3%80%81%E9%9B%AA%E3%81%AB%E8%A6%86%E3%82%8F%E3%82%8C%E3%81%9F%E8%B5%A4%E3%81%84%E5%AE%9F%E3%81%AE%E3%83%92%E3%82%A4%E3%83%A9%E3%82%AE%E3%81%AE%E6%9E%9D%E3%81%AB%E4%B8%80%E5%88%97%E3%81%AB%E4%B8%A6%E3%82%93%E3%81%A7%E3%81%A8%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E9%B3%A5%E3%81%AF%E7%95%B0%E3%81%AA%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%81%AE%E3%83%8B%E3%83%83%E3%83%88%E3%81%AE%E5%86%AC%E7%94%A8%E5%B8%BD%E5%AD%90%EF%BC%88%E3%83%9D%E3%83%B3%E3%83%9D%E3%83%B3%E4%BB%98%E3%81%8D%E3%83%8B%E3%83%83%E3%83%88%E5%B8%BD%E3%80%81%E3%83%93%E3%83%BC%E3%83%8B%E3%83%BC%E5%B8%BD%E3%80%81%E8%80%B3%E5%BD%93%E3%81%A6%E4%BB%98%E3%81%8D%E5%B8%BD%E5%AD%90%EF%BC%89%E3%82%92%E3%81%8B%E3%81%B6%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%81%BF%E3%82%93%E3%81%AA%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%81%8F%E3%81%A1%E3%81%B0%E3%81%97%E3%82%92%E9%96%8B%E3%81%91%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AF%E3%80%81%E8%B3%AA%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E7%B4%99%E3%81%AB%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E7%B9%8A%E7%B4%B0%E3%81%AA%E6%B0%B4%E5%BD%A9%E3%81%A8%E3%82%A4%E3%83%B3%E3%82%AF%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%99%E3%80%82)**
+
+---
+
+### No. 32: 包まれたドングリを持つリス
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+このプロンプトは、忙しい赤いリスが丁寧に包んだドングリを差し出している、気まぐれで印刷可能なクリスマス カードを生成します。森の魔法が少し加わった、ユニークで魅力的なホリデー グリーティングに最適です。
+
+#### 📝 プロンプト
+
+```
+気まぐれな印刷可能なクリスマスカード、アスペクト比 1:1.4。ふわふわの耳の房を持つ忙しい赤いリスが、淡い冬の空を背景に雪に覆われた木の枝の上に立っています。小さな赤い紙と金の蝶結びで丁寧に包まれた一粒のドングリを前に差し出しています。その後ろには、同様に包まれたドングリの山が、うろのある丸太の中に積まれています。リスは小さな緑色のニットスカーフを身につけています。色鉛筆のテクスチャースタイル。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780115837_0c1gkg_1765692973777-uwo85l-gdvX4ybDwKspAAAAABJRU5ErkJggg__" width="600" alt="包まれたドングリを持つリス - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%81%AA%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%81%AE%E8%80%B3%E3%81%AE%E6%88%BF%E3%82%92%E6%8C%81%E3%81%A4%E5%BF%99%E3%81%97%E3%81%84%E8%B5%A4%E3%81%84%E3%83%AA%E3%82%B9%E3%81%8C%E3%80%81%E6%B7%A1%E3%81%84%E5%86%AC%E3%81%AE%E7%A9%BA%E3%82%92%E8%83%8C%E6%99%AF%E3%81%AB%E9%9B%AA%E3%81%AB%E8%A6%86%E3%82%8F%E3%82%8C%E3%81%9F%E6%9C%A8%E3%81%AE%E6%9E%9D%E3%81%AE%E4%B8%8A%E3%81%AB%E7%AB%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%B0%8F%E3%81%95%E3%81%AA%E8%B5%A4%E3%81%84%E7%B4%99%E3%81%A8%E9%87%91%E3%81%AE%E8%9D%B6%E7%B5%90%E3%81%B3%E3%81%A7%E4%B8%81%E5%AF%A7%E3%81%AB%E5%8C%85%E3%81%BE%E3%82%8C%E3%81%9F%E4%B8%80%E7%B2%92%E3%81%AE%E3%83%89%E3%83%B3%E3%82%B0%E3%83%AA%E3%82%92%E5%89%8D%E3%81%AB%E5%B7%AE%E3%81%97%E5%87%BA%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%81%9D%E3%81%AE%E5%BE%8C%E3%82%8D%E3%81%AB%E3%81%AF%E3%80%81%E5%90%8C%E6%A7%98%E3%81%AB%E5%8C%85%E3%81%BE%E3%82%8C%E3%81%9F%E3%83%89%E3%83%B3%E3%82%B0%E3%83%AA%E3%81%AE%E5%B1%B1%E3%81%8C%E3%80%81%E3%81%86%E3%82%8D%E3%81%AE%E3%81%82%E3%82%8B%E4%B8%B8%E5%A4%AA%E3%81%AE%E4%B8%AD%E3%81%AB%E7%A9%8D%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%83%AA%E3%82%B9%E3%81%AF%E5%B0%8F%E3%81%95%E3%81%AA%E7%B7%91%E8%89%B2%E3%81%AE%E3%83%8B%E3%83%83%E3%83%88%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%95%E3%82%92%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E8%89%B2%E9%89%9B%E7%AD%86%E3%81%AE%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%82)**
+
+---
+
+### No. 33: 煙突に挟まったコーギー
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+このプロンプトは、煙突に逆さまに挟まったコーギー犬が描かれた、ユーモラスなクリスマスカードのイラストを生成します。面白くて気楽なホリデーメッセージに最適です。
+
+#### 📝 プロンプト
+
+```
+ユーモラスなクリスマスカードのイラスト、フラットグラフィック調、アスペクト比 1:1.4。濃い青の夜空に星が輝き、赤いレンガの煙突がそびえ立っている。煙突のてっぺんの開口部に、コーギー犬のふわふわしたオレンジと白のお尻が逆さまに挟まっており、短い後ろ足が宙でバタバタしている。小さなサンタ帽が片足から落ちかかっている。煙が疑問符の形になってその周りから吹き出している。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780114922_pdkrnq_1765693026895-9ldmsp-C6BJKp_H09UpAAAAAElFTkSuQmCC" width="600" alt="煙突に挟まったコーギー - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%83%A6%E3%83%BC%E3%83%A2%E3%83%A9%E3%82%B9%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E8%AA%BF%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E6%BF%83%E3%81%84%E9%9D%92%E3%81%AE%E5%A4%9C%E7%A9%BA%E3%81%AB%E6%98%9F%E3%81%8C%E8%BC%9D%E3%81%8D%E3%80%81%E8%B5%A4%E3%81%84%E3%83%AC%E3%83%B3%E3%82%AC%E3%81%AE%E7%85%99%E7%AA%81%E3%81%8C%E3%81%9D%E3%81%B3%E3%81%88%E7%AB%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E7%85%99%E7%AA%81%E3%81%AE%E3%81%A6%E3%81%A3%E3%81%BA%E3%82%93%E3%81%AE%E9%96%8B%E5%8F%A3%E9%83%A8%E3%81%AB%E3%80%81%E3%82%B3%E3%83%BC%E3%82%AE%E3%83%BC%E7%8A%AC%E3%81%AE%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%81%97%E3%81%9F%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A8%E7%99%BD%E3%81%AE%E3%81%8A%E5%B0%BB%E3%81%8C%E9%80%86%E3%81%95%E3%81%BE%E3%81%AB%E6%8C%9F%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E7%9F%AD%E3%81%84%E5%BE%8C%E3%82%8D%E8%B6%B3%E3%81%8C%E5%AE%99%E3%81%A7%E3%83%90%E3%82%BF%E3%83%90%E3%82%BF%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B5%E3%83%B3%E3%82%BF%E5%B8%BD%E3%81%8C%E7%89%87%E8%B6%B3%E3%81%8B%E3%82%89%E8%90%BD%E3%81%A1%E3%81%8B%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E7%85%99%E3%81%8C%E7%96%91%E5%95%8F%E7%AC%A6%E3%81%AE%E5%BD%A2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%9D%E3%81%AE%E5%91%A8%E3%82%8A%E3%81%8B%E3%82%89%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82)**
+
+---
+
+### No. 34: クリスマスライトをまとったふわふわのハイランド牛
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+このプロンプトは、毛と角にクリスマスライトが絡まったスコティッシュ・ハイランド・カウの、魅力的でふわふわしたクリスマスのイラストを作成します。素朴で心温まるホリデーデザインに最適です。
+
+#### 📝 プロンプト
+
+```
+魅力的でふわふわしたクリスマス イラスト、アスペクト比 1:1.4。超ふわふわのジンジャー スコティッシュ ハイランド牛のクローズアップ ポートレート。毛むくじゃらの毛が完全に目を覆っているが、光り輝くカラフルに絡まったクリスマス ライトと、小さな光沢のある赤いオーナメントが前髪と長い角に絡まっている。軽い雪の結晶が毛皮に舞い落ちている。背景は柔らかくぼやけた雪の牧草地。絵画的で質感のあるスタイル。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780111966_dn1z7i_1765692971551-1i3kzo-B7M7DtPmAsUhAAAAAElFTkSuQmCC" width="600" alt="クリスマスライトをまとったふわふわのハイランド牛 - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%A7%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%81%97%E3%81%9F%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%20%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E8%B6%85%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%81%AE%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%20%E3%82%B9%E3%82%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%20%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E7%89%9B%E3%81%AE%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%A2%E3%83%83%E3%83%97%20%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88%E3%80%82%E6%AF%9B%E3%82%80%E3%81%8F%E3%81%98%E3%82%83%E3%82%89%E3%81%AE%E6%AF%9B%E3%81%8C%E5%AE%8C%E5%85%A8%E3%81%AB%E7%9B%AE%E3%82%92%E8%A6%86%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8C%E3%80%81%E5%85%89%E3%82%8A%E8%BC%9D%E3%81%8F%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%81%AB%E7%B5%A1%E3%81%BE%E3%81%A3%E3%81%9F%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%20%E3%83%A9%E3%82%A4%E3%83%88%E3%81%A8%E3%80%81%E5%B0%8F%E3%81%95%E3%81%AA%E5%85%89%E6%B2%A2%E3%81%AE%E3%81%82%E3%82%8B%E8%B5%A4%E3%81%84%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8C%E5%89%8D%E9%AB%AA%E3%81%A8%E9%95%B7%E3%81%84%E8%A7%92%E3%81%AB%E7%B5%A1%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E8%BB%BD%E3%81%84%E9%9B%AA%E3%81%AE%E7%B5%90%E6%99%B6%E3%81%8C%E6%AF%9B%E7%9A%AE%E3%81%AB%E8%88%9E%E3%81%84%E8%90%BD%E3%81%A1%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E6%9F%94%E3%82%89%E3%81%8B%E3%81%8F%E3%81%BC%E3%82%84%E3%81%91%E3%81%9F%E9%9B%AA%E3%81%AE%E7%89%A7%E8%8D%89%E5%9C%B0%E3%80%82%E7%B5%B5%E7%94%BB%E7%9A%84%E3%81%A7%E8%B3%AA%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%82)**
+
+---
+
+### No. 35: ロングダックスフンドのクリスマスカード
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+このプロンプトは、クリスマスカード用の面白いフラットベクターイラストを作成します。非常に長いダックスフント犬が、とてつもなく長いお祝いのセーターを着ている様子を描いています。ユーモラスなホリデーメッセージやペットがテーマのカードに最適です。
+
+#### 📝 プロンプト
+
+```
+クリスマスカード用の面白いフラットベクターイラスト、アスペクト比 1:1.4。薄い水色の無地の背景に、非常に長い茶色のダックスフンドがカード全体を横切るように伸びています。白のトナカイと雪の結晶が繰り返し描かれた、とてつもなく長い赤いニットのタートルネックセーターを着ています。セーターは非常に長く、真ん中がたるんで地面に触れています。犬は満足げな表情をしています。下には「Longing for Christmas.」というテキストがあります。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780099382_hsgl3l_1765692967267-gejgq8-Bek23XMoiWkxAAAAAElFTkSuQmCC" width="600" alt="ロングダックスフンドのクリスマスカード - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E7%94%A8%E3%81%AE%E9%9D%A2%E7%99%BD%E3%81%84%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E8%96%84%E3%81%84%E6%B0%B4%E8%89%B2%E3%81%AE%E7%84%A1%E5%9C%B0%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E3%80%81%E9%9D%9E%E5%B8%B8%E3%81%AB%E9%95%B7%E3%81%84%E8%8C%B6%E8%89%B2%E3%81%AE%E3%83%80%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%83%B3%E3%83%89%E3%81%8C%E3%82%AB%E3%83%BC%E3%83%89%E5%85%A8%E4%BD%93%E3%82%92%E6%A8%AA%E5%88%87%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E4%BC%B8%E3%81%B3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E7%99%BD%E3%81%AE%E3%83%88%E3%83%8A%E3%82%AB%E3%82%A4%E3%81%A8%E9%9B%AA%E3%81%AE%E7%B5%90%E6%99%B6%E3%81%8C%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E3%81%A8%E3%81%A6%E3%81%A4%E3%82%82%E3%81%AA%E3%81%8F%E9%95%B7%E3%81%84%E8%B5%A4%E3%81%84%E3%83%8B%E3%83%83%E3%83%88%E3%81%AE%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%E3%83%8D%E3%83%83%E3%82%AF%E3%82%BB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E7%9D%80%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%82%BB%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AF%E9%9D%9E%E5%B8%B8%E3%81%AB%E9%95%B7%E3%81%8F%E3%80%81%E7%9C%9F%E3%82%93%E4%B8%AD%E3%81%8C%E3%81%9F%E3%82%8B%E3%82%93%E3%81%A7%E5%9C%B0%E9%9D%A2%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E7%8A%AC%E3%81%AF%E6%BA%80%E8%B6%B3%E3%81%92%E3%81%AA%E8%A1%A8%E6%83%85%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E4%B8%8B%E3%81%AB%E3%81%AF%E3%80%8CLonging%20for%20Christmas.%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82)**
+
+---
+
+### No. 36: 気まぐれなハリネズミのクリスマスカード
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+このプロンプトは、小さな丸いハリネズミが、その針をコミカルに小さなクリスマスデコレーションで飾り付けた、気まぐれな印刷可能なクリスマスカードのイラストを生成します。ユニークでユーモラスなホリデーグリーティングを作成するのに最適です。
+
+#### 📝 プロンプト
+
+```
+風変わりな印刷可能なクリスマスカードのイラスト、アスペクト比 1:1.4。小さくて丸いハリネズミが、清潔なクリーム色の背景の上で丸まってボールのようになっている。その針には、小さなカラフルなクリスマスオーナメント、ミニチュアのキャンディケイン、そしてくっついてしまったキラキラしたモールが面白おかしく覆い尽くしている。ハリネズミは少し困惑しているが幸せそうな表情で、片目がのぞいている。スタイルは、柔らかな質感を持つ優しい水彩画。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780101179_ywdvzk_1765693039459-1wv8ex-htP1HdLVAAAAAElFTkSuQmCC" width="600" alt="気まぐれなハリネズミのクリスマスカード - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%A2%A8%E5%A4%89%E3%82%8F%E3%82%8A%E3%81%AA%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E5%B0%8F%E3%81%95%E3%81%8F%E3%81%A6%E4%B8%B8%E3%81%84%E3%83%8F%E3%83%AA%E3%83%8D%E3%82%BA%E3%83%9F%E3%81%8C%E3%80%81%E6%B8%85%E6%BD%94%E3%81%AA%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E8%89%B2%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AE%E4%B8%8A%E3%81%A7%E4%B8%B8%E3%81%BE%E3%81%A3%E3%81%A6%E3%83%9C%E3%83%BC%E3%83%AB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%81%9D%E3%81%AE%E9%87%9D%E3%81%AB%E3%81%AF%E3%80%81%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81%E3%83%9F%E3%83%8B%E3%83%81%E3%83%A5%E3%82%A2%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%84%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%81%97%E3%81%9F%E3%83%A2%E3%83%BC%E3%83%AB%E3%81%8C%E9%9D%A2%E7%99%BD%E3%81%8A%E3%81%8B%E3%81%97%E3%81%8F%E8%A6%86%E3%81%84%E5%B0%BD%E3%81%8F%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%83%8F%E3%83%AA%E3%83%8D%E3%82%BA%E3%83%9F%E3%81%AF%E5%B0%91%E3%81%97%E5%9B%B0%E6%83%91%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8C%E5%B9%B8%E3%81%9B%E3%81%9D%E3%81%86%E3%81%AA%E8%A1%A8%E6%83%85%E3%81%A7%E3%80%81%E7%89%87%E7%9B%AE%E3%81%8C%E3%81%AE%E3%81%9E%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AF%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E8%B3%AA%E6%84%9F%E3%82%92%E6%8C%81%E3%81%A4%E5%84%AA%E3%81%97%E3%81%84%E6%B0%B4%E5%BD%A9%E7%94%BB%E3%80%82)**
+
+---
+
+### No. 37: キャンディケインを持ったかわいいカワウソたち
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+このプロンプトは、氷水に浮かぶ2匹の可愛い毛皮のアシカが大きなペパーミントのキャンディケインを持っている、愛らしい印刷可能なクリスマスカードのデザインを生成します。甘くて可愛いスタイルのホリデーカード作りに最適です。
+
+#### 📝 プロンプト
+
+```
+アスペクト比 1:1.4 の、愛らしい印刷可能なクリスマスカードのデザイン。2匹の可愛い毛皮のラッコが、氷のように冷たい青い水に仰向けに浮かび、手をつないでいる。普段持っている石の代わりに、胸元で大きな赤と白のストライプのペパーミントキャンディケインを一緒に抱えている。どちらも頭に小さなサンタ帽を傾けてかぶっている。柔らかな白い波紋が彼らを取り囲んでいる。スタイルは、柔らかな陰影のある可愛いカートゥーン。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780100132_xzm77l_1765692974848-ens980-h85hatWrURrnAAAAABJRU5ErkJggg__" width="600" alt="キャンディケインを持ったかわいいカワウソたち - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **ソース:** [Twitter Post](null)
+- **公開日:** 2025年12月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%20%E3%81%AE%E3%80%81%E6%84%9B%E3%82%89%E3%81%97%E3%81%84%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%822%E5%8C%B9%E3%81%AE%E5%8F%AF%E6%84%9B%E3%81%84%E6%AF%9B%E7%9A%AE%E3%81%AE%E3%83%A9%E3%83%83%E3%82%B3%E3%81%8C%E3%80%81%E6%B0%B7%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%86%B7%E3%81%9F%E3%81%84%E9%9D%92%E3%81%84%E6%B0%B4%E3%81%AB%E4%BB%B0%E5%90%91%E3%81%91%E3%81%AB%E6%B5%AE%E3%81%8B%E3%81%B3%E3%80%81%E6%89%8B%E3%82%92%E3%81%A4%E3%81%AA%E3%81%84%E3%81%A7%E3%81%84%E3%82%8B%E3%80%82%E6%99%AE%E6%AE%B5%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E7%9F%B3%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%80%81%E8%83%B8%E5%85%83%E3%81%A7%E5%A4%A7%E3%81%8D%E3%81%AA%E8%B5%A4%E3%81%A8%E7%99%BD%E3%81%AE%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%97%E3%81%AE%E3%83%9A%E3%83%91%E3%83%BC%E3%83%9F%E3%83%B3%E3%83%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E6%8A%B1%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%81%A9%E3%81%A1%E3%82%89%E3%82%82%E9%A0%AD%E3%81%AB%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B5%E3%83%B3%E3%82%BF%E5%B8%BD%E3%82%92%E5%82%BE%E3%81%91%E3%81%A6%E3%81%8B%E3%81%B6%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E7%99%BD%E3%81%84%E6%B3%A2%E7%B4%8B%E3%81%8C%E5%BD%BC%E3%82%89%E3%82%92%E5%8F%96%E3%82%8A%E5%9B%B2%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%80%82%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AF%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E9%99%B0%E5%BD%B1%E3%81%AE%E3%81%82%E3%82%8B%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%AB%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%E3%80%82)**
+
+---
+
+### No. 38: サンタの洗濯物ライン クリスマス カード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -996,41 +1721,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 27: キャンディケインにぶら下がるナマケモノのクリスマスカード
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-ゆっくり動くナマケモノがキャンディケインからぶら下がり、クリスマスツリーに手を伸ばそうとしている、愛らしい印刷可能なクリスマスカードのデザインです。このプロンプトは、ユニークなタッチで魅力的で面白いホリデーグリーティングを作成するのに最適です。
-
-#### 📝 プロンプト
-
-```
-かわいい印刷可能なクリスマスカードのデザイン、アスペクト比 1:1.4。カード上部を横切るように伸びるキャンディケインに、かわいらしい動きの遅いナマケモノが逆さまにぶら下がっています。ナマケモノは、ピクセル化された雪の結晶模様の、お祝いのダサいクリスマスセーターを着ています。彼はゆっくりとした爪で星のツリートップを持っており、フレームの外にあるクリスマスツリーに手を伸ばそうとしています。背景は、ナマケモノが際立つように無地の濃いティール色です。ナマケモノの下には、リラックスした手書き風のフォントで「{argument name="text" default="Slowly getting into the Spirit"}」と書かれています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640792570_as7oyl_1765640333881-lkq034-EZMiYLAuMw9pQ64ferde4Pu_d1y3UHlI792dxd75JBOzmGh1ODnaQby1qWlttEk7O5OxGmv9dcmSdyMuSTd96MmYgfF6Gh_BYdr4ZU6ci6sKkXILWADyJjyL1ps4zHLI1UkgGfvIv8BYOpTNrui_hYAAAAASUVORK5CYII_" width="600" alt="キャンディケインにぶら下がるナマケモノのクリスマスカード - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **ソース:** [Twitter Post](null)
-- **公開日:** 2025年12月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E3%82%AB%E3%83%BC%E3%83%89%E4%B8%8A%E9%83%A8%E3%82%92%E6%A8%AA%E5%88%87%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E4%BC%B8%E3%81%B3%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%B3%E3%81%AB%E3%80%81%E3%81%8B%E3%82%8F%E3%81%84%E3%82%89%E3%81%97%E3%81%84%E5%8B%95%E3%81%8D%E3%81%AE%E9%81%85%E3%81%84%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E%E3%81%8C%E9%80%86%E3%81%95%E3%81%BE%E3%81%AB%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E%E3%81%AF%E3%80%81%E3%83%94%E3%82%AF%E3%82%BB%E3%83%AB%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E9%9B%AA%E3%81%AE%E7%B5%90%E6%99%B6%E6%A8%A1%E6%A7%98%E3%81%AE%E3%80%81%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%AE%E3%83%80%E3%82%B5%E3%81%84%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%BB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E7%9D%80%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%BD%BC%E3%81%AF%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E7%88%AA%E3%81%A7%E6%98%9F%E3%81%AE%E3%83%84%E3%83%AA%E3%83%BC%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E5%A4%96%E3%81%AB%E3%81%82%E3%82%8B%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AB%E6%89%8B%E3%82%92%E4%BC%B8%E3%81%B0%E3%81%9D%E3%81%86%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E3%80%81%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E%E3%81%8C%E9%9A%9B%E7%AB%8B%E3%81%A4%E3%82%88%E3%81%86%E3%81%AB%E7%84%A1%E5%9C%B0%E3%81%AE%E6%BF%83%E3%81%84%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E8%89%B2%E3%81%A7%E3%81%99%E3%80%82%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E%E3%81%AE%E4%B8%8B%E3%81%AB%E3%81%AF%E3%80%81%E3%83%AA%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%81%97%E3%81%9F%E6%89%8B%E6%9B%B8%E3%81%8D%E9%A2%A8%E3%81%AE%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%81%A7%E3%80%8C%7Bargument%20name%3D%22text%22%20default%3D%22Slowly%20getting%20into%20the%20Spirit%22%7D%E3%80%8D%E3%81%A8%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)**
-
----
-
-### No. 28: エルフに扮したパグのクリスマスカード
+### No. 39: エルフに扮したパグのクリスマスカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1064,7 +1755,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 29: トナカイ飛行学校 クリスマスカード
+### No. 40: トナカイ飛行学校 クリスマスカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1097,7 +1788,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 30: マシュマロホットタブ クリスマスカード
+### No. 41: マシュマロホットタブ クリスマスカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1130,7 +1821,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 31: クランベリーとハムスターのクリスマスカード
+### No. 42: クランベリーとハムスターのクリスマスカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1163,7 +1854,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 32: クリスマスライトに囲まれた猫のクリスマスカード
+### No. 43: クリスマスライトに囲まれた猫のクリスマスカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1197,73 +1888,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 33: ジンジャーブレッドヨガクラス クリスマスカード
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-「ヨガクラス」でポーズをとる5匹のかわいいジンジャーブレッドマンクッキーが特徴の、陽気で愛らしい印刷可能なクリスマスカードデザインです。このプロンプトは、ユーモアと可愛らしさを添えた心温まるホリデーグリーティングを作成するのに最適です。
-
-#### 📝 プロンプト
-
-```
-面白くて可愛らしい、印刷可能なクリスマスカードのデザイン。アスペクト比は 1:1.4。背景は無地のすっきりとしたパステルミントグリーン。イラストには、5 匹の可愛いジンジャーブレッドマンクッキーによる「ヨガクラス」が描かれています。中央のジンジャーブレッドマンは「木のポーズ」で片足立ちし、集中した表情で頭の上にガムドロップを乗せてバランスを取っています。彼の左隣のクッキーは「ダウンドッグ」のポーズを試みていますが、腕が少し崩れて美味しいクッキーの破片が見えています。右隣のジンジャーブレッドマンは、アイシングの目を閉じて「蓮華座」で瞑想しています。彼らは皆、白いアイシングのディテールと赤いレッドホットキャンディのボタンを持っています。スタイルは、柔らかな影のあるクリーンでフラットなベクターイラストです。上部のテキストは、遊び心のある丸い白いフォントで「Find Your Inner Piece」と書かれています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640780963_w8tis9_1765640041792-ya1lsk-kYut4TGuYNPXl4D3U4NlBYnZnxEwH_L7GY8tY3qO5QAAAAAElFTkSuQmCC" width="600" alt="ジンジャーブレッドヨガクラス クリスマスカード - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **ソース:** [Twitter Post](null)
-- **公開日:** 2025年12月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%9D%A2%E7%99%BD%E3%81%8F%E3%81%A6%E5%8F%AF%E6%84%9B%E3%82%89%E3%81%97%E3%81%84%E3%80%81%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%82%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%AF%201%3A1.4%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E7%84%A1%E5%9C%B0%E3%81%AE%E3%81%99%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%E3%83%9F%E3%83%B3%E3%83%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%80%82%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AB%E3%81%AF%E3%80%815%20%E5%8C%B9%E3%81%AE%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E3%80%8C%E3%83%A8%E3%82%AC%E3%82%AF%E3%83%A9%E3%82%B9%E3%80%8D%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E4%B8%AD%E5%A4%AE%E3%81%AE%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3%E3%81%AF%E3%80%8C%E6%9C%A8%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BA%E3%80%8D%E3%81%A7%E7%89%87%E8%B6%B3%E7%AB%8B%E3%81%A1%E3%81%97%E3%80%81%E9%9B%86%E4%B8%AD%E3%81%97%E3%81%9F%E8%A1%A8%E6%83%85%E3%81%A7%E9%A0%AD%E3%81%AE%E4%B8%8A%E3%81%AB%E3%82%AC%E3%83%A0%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%92%E4%B9%97%E3%81%9B%E3%81%A6%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%92%E5%8F%96%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%BD%BC%E3%81%AE%E5%B7%A6%E9%9A%A3%E3%81%AE%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%81%AF%E3%80%8C%E3%83%80%E3%82%A6%E3%83%B3%E3%83%89%E3%83%83%E3%82%B0%E3%80%8D%E3%81%AE%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%92%E8%A9%A6%E3%81%BF%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8C%E3%80%81%E8%85%95%E3%81%8C%E5%B0%91%E3%81%97%E5%B4%A9%E3%82%8C%E3%81%A6%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%81%AE%E7%A0%B4%E7%89%87%E3%81%8C%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%8F%B3%E9%9A%A3%E3%81%AE%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3%E3%81%AF%E3%80%81%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AE%E7%9B%AE%E3%82%92%E9%96%89%E3%81%98%E3%81%A6%E3%80%8C%E8%93%AE%E8%8F%AF%E5%BA%A7%E3%80%8D%E3%81%A7%E7%9E%91%E6%83%B3%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%BD%BC%E3%82%89%E3%81%AF%E7%9A%86%E3%80%81%E7%99%BD%E3%81%84%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%87%E3%82%A3%E3%83%86%E3%83%BC%E3%83%AB%E3%81%A8%E8%B5%A4%E3%81%84%E3%83%AC%E3%83%83%E3%83%89%E3%83%9B%E3%83%83%E3%83%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AF%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E5%BD%B1%E3%81%AE%E3%81%82%E3%82%8B%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%80%82%E4%B8%8A%E9%83%A8%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E3%80%81%E9%81%8A%E3%81%B3%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E4%B8%B8%E3%81%84%E7%99%BD%E3%81%84%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%81%A7%E3%80%8CFind%20Your%20Inner%20Piece%E3%80%8D%E3%81%A8%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)**
-
----
-
-### No. 34: ホッキョクグマとペンギンのスカーフ クリスマスカード
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-巨大なホッキョクグマと小さなペンギンが、コミカルなほど大きなマフラーでつながれた、ありえない友情を描いた心温まるクリスマスのカードカバー。ホリデーシーズンに友情と温かさを伝えるのに最適です。
-
-#### 📝 プロンプト
-
-```
-心温まる、風変わりなクリスマスカードの表紙、アスペクト比 1:1.4。巨大でふわふわの白いホッキョクグマが左に座り、小さくて丸いペンギンが右に立っており、背景は澄んだアイスブルー。ホッキョクグマの首に何度も巻かれ、その後ループして小さなペンギンにぴったりと巻き付いている、コミカルに長く特大の赤と緑のニットスカーフでつながっている。ペンギンはホッキョクグマを尊敬の眼差しで見上げている。毛皮とニットのウールの質感がはっきりと見え、柔らかい。シンプルな白い雪の結晶が彼らの周りに優しく舞い落ちる。テキストはなく、ただ友情の甘いイメージ。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765641085323_jvvhse_image.png" width="600" alt="ホッキョクグマとペンギンのスカーフ クリスマスカード - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **ソース:** [Twitter Post](null)
-- **公開日:** 2025年12月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E5%BF%83%E6%B8%A9%E3%81%BE%E3%82%8B%E3%80%81%E9%A2%A8%E5%A4%89%E3%82%8F%E3%82%8A%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E8%A1%A8%E7%B4%99%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%E5%B7%A8%E5%A4%A7%E3%81%A7%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%81%AE%E7%99%BD%E3%81%84%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E3%81%8C%E5%B7%A6%E3%81%AB%E5%BA%A7%E3%82%8A%E3%80%81%E5%B0%8F%E3%81%95%E3%81%8F%E3%81%A6%E4%B8%B8%E3%81%84%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%8C%E5%8F%B3%E3%81%AB%E7%AB%8B%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E8%83%8C%E6%99%AF%E3%81%AF%E6%BE%84%E3%82%93%E3%81%A0%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%96%E3%83%AB%E3%83%BC%E3%80%82%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E3%81%AE%E9%A6%96%E3%81%AB%E4%BD%95%E5%BA%A6%E3%82%82%E5%B7%BB%E3%81%8B%E3%82%8C%E3%80%81%E3%81%9D%E3%81%AE%E5%BE%8C%E3%83%AB%E3%83%BC%E3%83%97%E3%81%97%E3%81%A6%E5%B0%8F%E3%81%95%E3%81%AA%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%AB%E3%81%B4%E3%81%A3%E3%81%9F%E3%82%8A%E3%81%A8%E5%B7%BB%E3%81%8D%E4%BB%98%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%80%81%E3%82%B3%E3%83%9F%E3%82%AB%E3%83%AB%E3%81%AB%E9%95%B7%E3%81%8F%E7%89%B9%E5%A4%A7%E3%81%AE%E8%B5%A4%E3%81%A8%E7%B7%91%E3%81%AE%E3%83%8B%E3%83%83%E3%83%88%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%95%E3%81%A7%E3%81%A4%E3%81%AA%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%AF%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E3%82%92%E5%B0%8A%E6%95%AC%E3%81%AE%E7%9C%BC%E5%B7%AE%E3%81%97%E3%81%A7%E8%A6%8B%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E6%AF%9B%E7%9A%AE%E3%81%A8%E3%83%8B%E3%83%83%E3%83%88%E3%81%AE%E3%82%A6%E3%83%BC%E3%83%AB%E3%81%AE%E8%B3%AA%E6%84%9F%E3%81%8C%E3%81%AF%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A8%E8%A6%8B%E3%81%88%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%84%E3%80%82%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E7%99%BD%E3%81%84%E9%9B%AA%E3%81%AE%E7%B5%90%E6%99%B6%E3%81%8C%E5%BD%BC%E3%82%89%E3%81%AE%E5%91%A8%E3%82%8A%E3%81%AB%E5%84%AA%E3%81%97%E3%81%8F%E8%88%9E%E3%81%84%E8%90%BD%E3%81%A1%E3%82%8B%E3%80%82%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%81%9F%E3%81%A0%E5%8F%8B%E6%83%85%E3%81%AE%E7%94%98%E3%81%84%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%80%82)**
-
----
-
-### No. 35: 水彩画の雪景色キャビン
+### No. 44: 水彩画の雪景色キャビン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1297,7 +1922,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 36: ラグジュアリー ネイビー スノーフレーク マンダラ カード
+### No. 45: ラグジュアリー ネイビー スノーフレーク マンダラ カード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1331,7 +1956,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 37: ヴィンテージ旅行ポスター 冬の風景
+### No. 46: ヴィンテージ トラベル ポスター 冬の風景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1343,7 +1968,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 #### 📝 プロンプト
 
 ```
-ビンテージの旅行ポスター風クリスマスカード。スキーヤーがいる雪山のロッジを様式化して表現。大胆なフラットカラー、スクリーン印刷のテクスチャ。下部にテキスト：「{argument name="message" default="Winter Wonderland"}」。 --ar 10:14
+ビンテージの旅行ポスター風クリスマスカード。スキーヤーがいる雪山のロッジを様式化して描いたもの。大胆なフラットカラー、スクリーン印刷のテクスチャ。下部のテキスト：「{argument name="message" default="Winter Wonderland"}」。 --ar 10:14
 ```
 
 #### 🖼️ 生成画像
@@ -1351,7 +1976,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765640539963_cytycj_1765635109580-9y3we0-pA7TteiD0AAAAASUVORK5CYII_" width="600" alt="ヴィンテージ旅行ポスター 冬の風景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765640539963_cytycj_1765635109580-9y3we0-pA7TteiD0AAAAASUVORK5CYII_" width="600" alt="ヴィンテージ トラベル ポスター 冬の風景 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1361,11 +1986,11 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 - **公開日:** 2025年12月13日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%83%93%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AE%E6%97%85%E8%A1%8C%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E9%A2%A8%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%80%82%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%A4%E3%83%BC%E3%81%8C%E3%81%84%E3%82%8B%E9%9B%AA%E5%B1%B1%E3%81%AE%E3%83%AD%E3%83%83%E3%82%B8%E3%82%92%E6%A7%98%E5%BC%8F%E5%8C%96%E3%81%97%E3%81%A6%E8%A1%A8%E7%8F%BE%E3%80%82%E5%A4%A7%E8%83%86%E3%81%AA%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%82%AB%E3%83%A9%E3%83%BC%E3%80%81%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E5%8D%B0%E5%88%B7%E3%81%AE%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E3%80%82%E4%B8%8B%E9%83%A8%E3%81%AB%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22message%22%20default%3D%22Winter%20Wonderland%22%7D%E3%80%8D%E3%80%82%20--ar%2010%3A14)**
+**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%83%93%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AE%E6%97%85%E8%A1%8C%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E9%A2%A8%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%80%82%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%A4%E3%83%BC%E3%81%8C%E3%81%84%E3%82%8B%E9%9B%AA%E5%B1%B1%E3%81%AE%E3%83%AD%E3%83%83%E3%82%B8%E3%82%92%E6%A7%98%E5%BC%8F%E5%8C%96%E3%81%97%E3%81%A6%E6%8F%8F%E3%81%84%E3%81%9F%E3%82%82%E3%81%AE%E3%80%82%E5%A4%A7%E8%83%86%E3%81%AA%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%82%AB%E3%83%A9%E3%83%BC%E3%80%81%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E5%8D%B0%E5%88%B7%E3%81%AE%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E3%80%82%E4%B8%8B%E9%83%A8%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%EF%BC%9A%E3%80%8C%7Bargument%20name%3D%22message%22%20default%3D%22Winter%20Wonderland%22%7D%E3%80%8D%E3%80%82%20--ar%2010%3A14)**
 
 ---
 
-### No. 38: 懐かしいおもちゃ屋のウィンドウシーン
+### No. 47: 懐かしいおもちゃ屋のウィンドウシーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1398,7 +2023,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 39: ミッドセンチュリー・モダン クリスマスカード
+### No. 48: ミッドセンチュリー・モダン クリスマスカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1432,7 +2057,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 40: ビクトリア朝のサンタクロースのポストカード
+### No. 49: ビクトリア朝のサンタクロースのポストカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1466,7 +2091,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 41: 眠っている動物たちのクリスマスカード
+### No. 50: 眠っている動物たちのクリスマスカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1500,7 +2125,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 42: ペンギンのクリスマス ライト奮闘カード
+### No. 51: ペンギンのクリスマス ライト奮闘カード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1534,7 +2159,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 43: モダン タイポグラフィ クリスマスツリー カード
+### No. 52: モダン タイポグラフィ クリスマスツリー カード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1568,7 +2193,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 44: かわいいホットココアのクリスマスカード
+### No. 53: かわいいホットココアのクリスマスカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1602,7 +2227,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 45: 公園のベンチに座る雪だるまと鳥たち
+### No. 54: 公園のベンチに座る雪だるまと鳥たち
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1641,7 +2266,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 46: ネイビーブルー シルバー フィリグリー カード
+### No. 55: ネイビーブルー シルバー フィリグリー カード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1681,7 +2306,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 47: チャコール フォークアート ボタニカルカード
+### No. 56: チャコール フォークアート ボタニカルカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1725,7 +2350,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 48: 水彩画の雪だるまファミリーポートレート
+### No. 57: 水彩画の雪だるまファミリーポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1771,7 +2396,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 49: パーソナライズされた雪だるまの家族 (4人)
+### No. 58: パーソナライズされた雪だるまの家族 (4人)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1817,7 +2442,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 50: レインボーボトルブラシツリー
+### No. 59: レインボーボトルブラシツリー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1858,7 +2483,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 51: 緑の背景にエレガントな金色の透かし彫りの木
+### No. 60: 緑の背景にエレガントな金色の透かし彫りの木
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1900,7 +2525,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 52: パーソナライズされた家族のストッキング 水彩画
+### No. 61: パーソナライズされた家族のストッキング 水彩画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1942,7 +2567,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 53: ヴィンテージ ディズニー キャラクター クリスマス
+### No. 62: ヴィンテージ ディズニー キャラクター クリスマス
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1984,7 +2609,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 54: ビクトリア朝のダイカットフローラルブーケ
+### No. 63: ビクトリア朝のダイカットフローラルブーケ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2026,7 +2651,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 55: 居心地の良い水彩画のクリスマス リビングルーム
+### No. 64: 居心地の良い水彩画のクリスマス リビングルーム
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2063,7 +2688,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 56: 音符のクリスマスツリー
+### No. 65: 音符のクリスマスツリー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2104,7 +2729,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 57: 1950年代 ヴィンテージ ホーリーリース
+### No. 66: 1950年代 ヴィンテージ ホーリーリース
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2145,7 +2770,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 58: ミッドセンチュリーのフロッキー加工ツリー（ブルー）
+### No. 67: ミッドセンチュリーのフロッキー加工ツリー（ブルー）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2185,7 +2810,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 59: 大切な人へのフォークアートストッキング
+### No. 68: 大切な人へのフォークアートストッキング
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2227,7 +2852,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 60: ミニマリストなレインボー ブラシストローク ツリー
+### No. 69: ミニマリストなレインボー ブラシストローク ツリー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2263,7 +2888,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 61: ゴッホ 星月夜 クリスマス
+### No. 70: ゴッホ 星月夜 クリスマス
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2303,7 +2928,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 62: ピーナッツ スタイル スヌーピーとストッキング
+### No. 71: ピーナッツ スタイル スヌーピーとストッキング
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2343,7 +2968,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 63: 気まぐれな水彩ストッキング ガーランド
+### No. 72: 気まぐれな水彩ストッキング ガーランド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2383,7 +3008,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 64: ミッドセンチュリー・ウィンター・フォレスト（歌詞付き）
+### No. 73: ミッドセンチュリー・ウィンター・フォレスト（歌詞付き）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2429,7 +3054,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 65: モダン レインボー プライド クリスマスツリー
+### No. 74: モダン レインボー プライド クリスマスツリー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2469,7 +3094,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 66: 赤いオーナメントとボケのあるフロッキー加工のツリー
+### No. 75: 赤いオーナメントとボケのあるフロッキー加工のツリー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2509,7 +3134,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 67: 豪華なバーガンディとゴールドのボタニカルツリー
+### No. 76: 豪華なバーガンディとゴールドのボタニカルツリー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2549,7 +3174,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 68: 豪華なブラックとゴールドの抽象的な木
+### No. 77: 豪華なブラックとゴールドの抽象的な木
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2589,7 +3214,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 69: コーポレートタイポグラフィツリー
+### No. 78: コーポレートタイポグラフィツリー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2631,7 +3256,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 70: 素朴な手描きパインリース
+### No. 79: 素朴な手描きパインリース
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2671,7 +3296,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 71: レトロな 1950 年代のクリスマスシティストリート
+### No. 80: レトロな 1950 年代のクリスマスシティストリート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2709,7 +3334,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 72: 屋上バルコニーのビクトリア朝サンタ
+### No. 81: 屋上バルコニーのビクトリア朝サンタ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2753,7 +3378,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 73: 重ねて作るペーパークラフト切り絵の木
+### No. 82: 重ねて作るペーパークラフト切り絵の木
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2793,7 +3418,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 74: かわいい落書き風トナカイの顔
+### No. 83: かわいい落書き風トナカイの顔
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2832,7 +3457,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 75: ビンテージのそり遊びをする子どもたち
+### No. 84: ビンテージのそり遊びをする子どもたち
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2871,7 +3496,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 76: 北極の標識にいるユーモラスなサンタ
+### No. 85: 北極の標識にいるユーモラスなサンタ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2911,7 +3536,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 77: レトロなミッドセンチュリーのライトとガーランド
+### No. 86: レトロなミッドセンチュリーのライトとガーランド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2952,7 +3577,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 78: 夜に「シーッ」とするビンテージサンタ
+### No. 87: 夜に「シーッ」とするビンテージサンタ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2994,7 +3619,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 79: 気まぐれな森の動物たちの集い
+### No. 88: 気まぐれな森の動物たちの集い
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3038,7 +3663,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 80: 魔法の光る森と雪だるま
+### No. 89: 魔法の光る森と雪だるま
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3078,7 +3703,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 81: ミッドセンチュリー・モダン・ホームカミング
+### No. 90: ミッドセンチュリー・モダン・ホームカミング
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3122,7 +3747,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 82: モダン スカンジナビア フォークアート トナカイ
+### No. 91: モダン スカンジナビア フォークアート トナカイ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3165,7 +3790,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 83: アールデコ調バーガンディ＆ゴールドカード
+### No. 92: アールデコ調バーガンディ＆ゴールドカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3207,7 +3832,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 84: 雪だるまのいるヴィンテージの冬景色
+### No. 93: 雪だるまのいるヴィンテージの冬景色
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3252,7 +3877,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 85: ビクトリア朝の子どもたちと雪だるま
+### No. 94: ビクトリア朝の子どもたちと雪だるま
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3291,7 +3916,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 86: ミニマリストなボタニカルインクと水彩画
+### No. 95: ミニマリストなボタニカルインクと水彩画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3331,7 +3956,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 87: ビンテージ クロモリトグラフ 子猫
+### No. 96: ビンテージ クロモリトグラフ 子猫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3368,7 +3993,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 88: モダン点描画のクリスマスツリー
+### No. 97: モダン点描画のクリスマスツリー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3407,7 +4032,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 89: 水彩画のホッキョクグマの親子
+### No. 98: 水彩画のホッキョクグマの親子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3447,7 +4072,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 90: かわいいピンクのブタとジンジャーブレッドの落書き
+### No. 99: かわいいピンクのブタとジンジャーブレッドの落書き
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3486,7 +4111,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 91: オーロラの下のホッキョクグマ
+### No. 100: オーロラの下のホッキョクグマ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3527,7 +4152,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 92: ジンジャーブレッドクッキー 3 種
+### No. 101: ジンジャーブレッドクッキー 3 種
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3567,7 +4192,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 93: 豪華なブラックとゴールドのコーポレートカード
+### No. 102: 豪華なブラックとゴールドのコーポレートカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3607,7 +4232,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 94: 水彩画のサンタとコピー スペース
+### No. 103: 水彩画のサンタとコピー スペース
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3647,7 +4272,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 95: ミニマリスト水彩画の祝祭のキツネ
+### No. 104: ミニマリスト水彩画の祝祭のキツネ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3684,7 +4309,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 96: ユーモラスな「Oh Snap」ジンジャーブレッドマン
+### No. 105: ユーモラスな「Oh Snap」ジンジャーブレッドマン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3725,7 +4350,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 97: 雪の中のかわいい水彩ペンギン
+### No. 106: 雪の中のかわいい水彩ペンギン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3764,7 +4389,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 98: スカンジナビアのネイビーとクリームのフォークアート
+### No. 107: スカンジナビアのネイビーとクリームのフォークアート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3801,7 +4426,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 99: ミニマリストなネイビーのストリングライトカード
+### No. 108: ミニマリストなネイビーのストリングライトカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3842,7 +4467,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 100: 面白い怪我をしたジンジャーブレッドマン
+### No. 109: 面白い怪我をしたジンジャーブレッドマン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3883,7 +4508,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 101: ネイビーブルーの水彩ストリングライト
+### No. 110: ネイビーブルーの水彩ストリングライト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3925,7 +4550,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 102: 左右対称のフォークアートトナカイ
+### No. 111: 左右対称のフォークアートトナカイ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3966,7 +4591,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 103: ネイビーブルーとシルバーのグリッタースノーフレーク
+### No. 112: ネイビーブルーとシルバーのグリッタースノーフレーク
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4006,7 +4631,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 104: クラシックな絵画風サンタと森の動物たち
+### No. 113: クラシックな絵画風サンタと森の動物たち
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4047,7 +4672,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 105: モダンなゴールドフープリースと箔押しテキスト
+### No. 114: モダンなゴールドフープリースと箔押しテキスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4086,7 +4711,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 106: ペーパークイリングのクリスマスベル
+### No. 115: ペーパークイリングのクリスマスベル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4125,7 +4750,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 107: ヴィンテージ水彩画 冬の村の教会
+### No. 116: ヴィンテージ水彩画 冬の村の教会
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4167,7 +4792,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 108: 夜の穏やかな森の動物たち
+### No. 117: 夜の穏やかな森の動物たち
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4208,7 +4833,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 109: エレガントな水彩画風鉢植えクリスマスツリー
+### No. 118: エレガントな水彩画風鉢植えクリスマスツリー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4247,7 +4872,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 110: ミニマリストな水彩スノーフレークカード
+### No. 119: ミニマリストな水彩スノーフレークカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4289,7 +4914,7 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 111: ミニマリストな吊り下げオーナメントのグラフィック
+### No. 120: ミニマリストな吊り下げオーナメントのグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4329,367 +4954,13 @@ An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry 
 
 ---
 
-### No. 112: 赤いリボンをあしらったエンボス加工の冬景色
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-大きな赤いリボンをつけた雄大な常緑樹が特徴の、クラシックな冬の風景画。デザインは、触覚的なエンボス加工のカードを模しており、下部にはカスタマイズ可能なエレガントなテキストが入っています。
-
-#### 📝 プロンプト
-
-```
-雪景色が美しく描かれた、細部までこだわった印刷可能なクリスマスカードのデザインです。アスペクト比は 1:1.4。
-
-中心には雄大な常緑樹があり、濃い緑色の枝には柔らかい白い雪がたっぷりと積もっています。木には、鮮やかな赤いリボンが大きく結ばれています。木の背後には、素朴な濃い茶色のスプリットレールフェンスが水平に伸びており、これも雪に覆われ、緑のガーランドで飾られています。見えるフェンスの支柱には、小さな赤いリボンが結ばれています。
-
-背景には、雪に覆われた松の密林が、かすんだ淡い青と白の空へと溶け込み、シーン全体に柔らかい雪が舞い落ちています。前景には、ふっくらとしたエンボス加工の雪が厚く積もっています。
-
-全体の構図は、高品質で質感のあるカードストックに描かれた絵画として表現されており、メインのシーンを囲むように繊細な白いエンボス加工の縁取りが施され、外側の縁にはエンボス加工の木の形が配されています。下部の雪の中には、エレガントな赤い筆記体フォントで「{argument name="text" default="Merry Christmas"}」というテキストが書かれています。全体的な美学は、クラシックで平和、心温まるものであり、触覚的なエンボス加工の質感が特徴です。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592727715_sqbpsy_1765541747126-2gqo1a-wdk_EB2UMxsPwAAAABJRU5ErkJggg__" width="600" alt="赤いリボンをあしらったエンボス加工の冬景色 - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **ソース:** [Twitter Post](null)
-- **公開日:** 2025年12月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%9B%AA%E6%99%AF%E8%89%B2%E3%81%8C%E7%BE%8E%E3%81%97%E3%81%8F%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E7%B4%B0%E9%83%A8%E3%81%BE%E3%81%A7%E3%81%93%E3%81%A0%E3%82%8F%E3%81%A3%E3%81%9F%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%AF%201%3A1.4%E3%80%82%0A%0A%E4%B8%AD%E5%BF%83%E3%81%AB%E3%81%AF%E9%9B%84%E5%A4%A7%E3%81%AA%E5%B8%B8%E7%B7%91%E6%A8%B9%E3%81%8C%E3%81%82%E3%82%8A%E3%80%81%E6%BF%83%E3%81%84%E7%B7%91%E8%89%B2%E3%81%AE%E6%9E%9D%E3%81%AB%E3%81%AF%E6%9F%94%E3%82%89%E3%81%8B%E3%81%84%E7%99%BD%E3%81%84%E9%9B%AA%E3%81%8C%E3%81%9F%E3%81%A3%E3%81%B7%E3%82%8A%E3%81%A8%E7%A9%8D%E3%82%82%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E6%9C%A8%E3%81%AB%E3%81%AF%E3%80%81%E9%AE%AE%E3%82%84%E3%81%8B%E3%81%AA%E8%B5%A4%E3%81%84%E3%83%AA%E3%83%9C%E3%83%B3%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%8F%E7%B5%90%E3%81%B0%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E6%9C%A8%E3%81%AE%E8%83%8C%E5%BE%8C%E3%81%AB%E3%81%AF%E3%80%81%E7%B4%A0%E6%9C%B4%E3%81%AA%E6%BF%83%E3%81%84%E8%8C%B6%E8%89%B2%E3%81%AE%E3%82%B9%E3%83%97%E3%83%AA%E3%83%83%E3%83%88%E3%83%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A7%E3%83%B3%E3%82%B9%E3%81%8C%E6%B0%B4%E5%B9%B3%E3%81%AB%E4%BC%B8%E3%81%B3%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%81%93%E3%82%8C%E3%82%82%E9%9B%AA%E3%81%AB%E8%A6%86%E3%82%8F%E3%82%8C%E3%80%81%E7%B7%91%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%81%A7%E9%A3%BE%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E8%A6%8B%E3%81%88%E3%82%8B%E3%83%95%E3%82%A7%E3%83%B3%E3%82%B9%E3%81%AE%E6%94%AF%E6%9F%B1%E3%81%AB%E3%81%AF%E3%80%81%E5%B0%8F%E3%81%95%E3%81%AA%E8%B5%A4%E3%81%84%E3%83%AA%E3%83%9C%E3%83%B3%E3%81%8C%E7%B5%90%E3%81%B0%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E3%81%AB%E3%81%AF%E3%80%81%E9%9B%AA%E3%81%AB%E8%A6%86%E3%82%8F%E3%82%8C%E3%81%9F%E6%9D%BE%E3%81%AE%E5%AF%86%E6%9E%97%E3%81%8C%E3%80%81%E3%81%8B%E3%81%99%E3%82%93%E3%81%A0%E6%B7%A1%E3%81%84%E9%9D%92%E3%81%A8%E7%99%BD%E3%81%AE%E7%A9%BA%E3%81%B8%E3%81%A8%E6%BA%B6%E3%81%91%E8%BE%BC%E3%81%BF%E3%80%81%E3%82%B7%E3%83%BC%E3%83%B3%E5%85%A8%E4%BD%93%E3%81%AB%E6%9F%94%E3%82%89%E3%81%8B%E3%81%84%E9%9B%AA%E3%81%8C%E8%88%9E%E3%81%84%E8%90%BD%E3%81%A1%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%89%8D%E6%99%AF%E3%81%AB%E3%81%AF%E3%80%81%E3%81%B5%E3%81%A3%E3%81%8F%E3%82%89%E3%81%A8%E3%81%97%E3%81%9F%E3%82%A8%E3%83%B3%E3%83%9C%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%9B%AA%E3%81%8C%E5%8E%9A%E3%81%8F%E7%A9%8D%E3%82%82%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E5%85%A8%E4%BD%93%E3%81%AE%E6%A7%8B%E5%9B%B3%E3%81%AF%E3%80%81%E9%AB%98%E5%93%81%E8%B3%AA%E3%81%A7%E8%B3%AA%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%81%AB%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E7%B5%B5%E7%94%BB%E3%81%A8%E3%81%97%E3%81%A6%E8%A1%A8%E7%8F%BE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%B7%E3%83%BC%E3%83%B3%E3%82%92%E5%9B%B2%E3%82%80%E3%82%88%E3%81%86%E3%81%AB%E7%B9%8A%E7%B4%B0%E3%81%AA%E7%99%BD%E3%81%84%E3%82%A8%E3%83%B3%E3%83%9C%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%81%AE%E7%B8%81%E5%8F%96%E3%82%8A%E3%81%8C%E6%96%BD%E3%81%95%E3%82%8C%E3%80%81%E5%A4%96%E5%81%B4%E3%81%AE%E7%B8%81%E3%81%AB%E3%81%AF%E3%82%A8%E3%83%B3%E3%83%9C%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%81%AE%E6%9C%A8%E3%81%AE%E5%BD%A2%E3%81%8C%E9%85%8D%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E4%B8%8B%E9%83%A8%E3%81%AE%E9%9B%AA%E3%81%AE%E4%B8%AD%E3%81%AB%E3%81%AF%E3%80%81%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%83%88%E3%81%AA%E8%B5%A4%E3%81%84%E7%AD%86%E8%A8%98%E4%BD%93%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%81%A7%E3%80%8C%7Bargument%20name%3D%22text%22%20default%3D%22Merry%20Christmas%22%7D%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%8C%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%85%A8%E4%BD%93%E7%9A%84%E3%81%AA%E7%BE%8E%E5%AD%A6%E3%81%AF%E3%80%81%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%81%A7%E5%B9%B3%E5%92%8C%E3%80%81%E5%BF%83%E6%B8%A9%E3%81%BE%E3%82%8B%E3%82%82%E3%81%AE%E3%81%A7%E3%81%82%E3%82%8A%E3%80%81%E8%A7%A6%E8%A6%9A%E7%9A%84%E3%81%AA%E3%82%A8%E3%83%B3%E3%83%9C%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%81%AE%E8%B3%AA%E6%84%9F%E3%81%8C%E7%89%B9%E5%BE%B4%E3%81%A7%E3%81%99%E3%80%82)**
-
----
-
-### No. 113: 素朴な手描きの冬のコテージ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-木々の間にひっそりと佇む赤いコテージの、魅力的で子供のような素朴なイラストです。太い輪郭線とマーカーのようなテクスチャが特徴で、空にはカスタマイズ可能な遊び心のあるテキストが入っています。
-
-#### 📝 プロンプト
-
-```
-魅力的で素朴な手描きスタイルで、居心地が良くお祝いムードあふれる、印刷可能な美しいホリデーグリーティングカード。
-
-背景は無地の温かいクリーム色の紙。中央には、小さくてかわいらしい赤いコテージがあり、白い雪に覆われた屋根、煙突、輝く黄色い窓が特徴で、2本の大きな濃い緑色のクリスマスツリーの間に佇んでいます。
-
-それぞれのツリーの枝には厚くふっくらとした白い雪が積もっており、てっぺんには明るく輝く黄色の星が飾られています。ツリーの間の空には、赤と緑のドットでできた遊び心のある大文字のフォントで「{argument name="greeting" default="HAPPY: HOLIDAYS:"}」というテキストが書かれています。
-
-手前には、青い水玉模様が散りばめられたなだらかな白い雪の丘があります。シンプルな茶色の小道が下端からコテージのドアまで緩やかにカーブしています。
-
-画像全体は、マーカーで描いた子供の絵を思わせる、太い黒い輪郭線が特徴のフラットな2Dイラストです。全体的に楽しくてシンプルな雰囲気です。アスペクト比 1:1.4。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592723373_q2qr26_1765541744452-3crdkl-Ac8jHTxdkNpeAAAAAElFTkSuQmCC" width="600" alt="素朴な手描きの冬のコテージ - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **ソース:** [Twitter Post](null)
-- **公開日:** 2025年12月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%A7%E7%B4%A0%E6%9C%B4%E3%81%AA%E6%89%8B%E6%8F%8F%E3%81%8D%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E3%80%81%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%8C%E8%89%AF%E3%81%8F%E3%81%8A%E7%A5%9D%E3%81%84%E3%83%A0%E3%83%BC%E3%83%89%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E3%80%81%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E7%BE%8E%E3%81%97%E3%81%84%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%BC%E3%83%89%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E3%81%AF%E7%84%A1%E5%9C%B0%E3%81%AE%E6%B8%A9%E3%81%8B%E3%81%84%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E8%89%B2%E3%81%AE%E7%B4%99%E3%80%82%E4%B8%AD%E5%A4%AE%E3%81%AB%E3%81%AF%E3%80%81%E5%B0%8F%E3%81%95%E3%81%8F%E3%81%A6%E3%81%8B%E3%82%8F%E3%81%84%E3%82%89%E3%81%97%E3%81%84%E8%B5%A4%E3%81%84%E3%82%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%81%8C%E3%81%82%E3%82%8A%E3%80%81%E7%99%BD%E3%81%84%E9%9B%AA%E3%81%AB%E8%A6%86%E3%82%8F%E3%82%8C%E3%81%9F%E5%B1%8B%E6%A0%B9%E3%80%81%E7%85%99%E7%AA%81%E3%80%81%E8%BC%9D%E3%81%8F%E9%BB%84%E8%89%B2%E3%81%84%E7%AA%93%E3%81%8C%E7%89%B9%E5%BE%B4%E3%81%A7%E3%80%812%E6%9C%AC%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E6%BF%83%E3%81%84%E7%B7%91%E8%89%B2%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AE%E9%96%93%E3%81%AB%E4%BD%87%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AE%E6%9E%9D%E3%81%AB%E3%81%AF%E5%8E%9A%E3%81%8F%E3%81%B5%E3%81%A3%E3%81%8F%E3%82%89%E3%81%A8%E3%81%97%E3%81%9F%E7%99%BD%E3%81%84%E9%9B%AA%E3%81%8C%E7%A9%8D%E3%82%82%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%81%A6%E3%81%A3%E3%81%BA%E3%82%93%E3%81%AB%E3%81%AF%E6%98%8E%E3%82%8B%E3%81%8F%E8%BC%9D%E3%81%8F%E9%BB%84%E8%89%B2%E3%81%AE%E6%98%9F%E3%81%8C%E9%A3%BE%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AE%E9%96%93%E3%81%AE%E7%A9%BA%E3%81%AB%E3%81%AF%E3%80%81%E8%B5%A4%E3%81%A8%E7%B7%91%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%81%A7%E3%81%A7%E3%81%8D%E3%81%9F%E9%81%8A%E3%81%B3%E5%BF%83%E3%81%AE%E3%81%82%E3%82%8B%E5%A4%A7%E6%96%87%E5%AD%97%E3%81%AE%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%81%A7%E3%80%8C%7Bargument%20name%3D%22greeting%22%20default%3D%22HAPPY%3A%20HOLIDAYS%3A%22%7D%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%8C%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E6%89%8B%E5%89%8D%E3%81%AB%E3%81%AF%E3%80%81%E9%9D%92%E3%81%84%E6%B0%B4%E7%8E%89%E6%A8%A1%E6%A7%98%E3%81%8C%E6%95%A3%E3%82%8A%E3%81%B0%E3%82%81%E3%82%89%E3%82%8C%E3%81%9F%E3%81%AA%E3%81%A0%E3%82%89%E3%81%8B%E3%81%AA%E7%99%BD%E3%81%84%E9%9B%AA%E3%81%AE%E4%B8%98%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E8%8C%B6%E8%89%B2%E3%81%AE%E5%B0%8F%E9%81%93%E3%81%8C%E4%B8%8B%E7%AB%AF%E3%81%8B%E3%82%89%E3%82%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AE%E3%83%89%E3%82%A2%E3%81%BE%E3%81%A7%E7%B7%A9%E3%82%84%E3%81%8B%E3%81%AB%E3%82%AB%E3%83%BC%E3%83%96%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E7%94%BB%E5%83%8F%E5%85%A8%E4%BD%93%E3%81%AF%E3%80%81%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E6%8F%8F%E3%81%84%E3%81%9F%E5%AD%90%E4%BE%9B%E3%81%AE%E7%B5%B5%E3%82%92%E6%80%9D%E3%82%8F%E3%81%9B%E3%82%8B%E3%80%81%E5%A4%AA%E3%81%84%E9%BB%92%E3%81%84%E8%BC%AA%E9%83%AD%E7%B7%9A%E3%81%8C%E7%89%B9%E5%BE%B4%E3%81%AE%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA2D%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%80%82%E5%85%A8%E4%BD%93%E7%9A%84%E3%81%AB%E6%A5%BD%E3%81%97%E3%81%8F%E3%81%A6%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%A7%E3%81%99%E3%80%82%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82)**
-
----
-
-### No. 114: モダンなティールとゴールドフォイルのクリスマスツリー
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-エンボス加工されたゴールドの箔押しが施された、ダークティールのクリスマスツリーが特徴のモダンなフラットデザインカード。鳥たちがツリーに沿ってバナーを掲げ、カスタマイズ可能なテキストで、お祝いムード漂うミッドセンチュリーの美学を表現しています。
-
-#### 📝 プロンプト
-
-```
-アスペクト比 1:1.4 の、美しく精巧に作られた高品質な印刷用クリスマスカードのイラスト。デザインは、繊細な白い輝きと小さな光沢のある金箔のドットが散りばめられた淡い青空を背景に、中央に大きなダークティールのクリスマスツリーが描かれています。
-
-ツリーの頂上には、際立ったエンボス加工の金箔の星が飾られています。様式化された水色の鳥 2 羽が、ツリーに沿って垂れ下がる白いバナーをくわえ、そのバナーには「{argument name="text" default="MERRY CHRISTMAS"}」という言葉がエレガントな金箔の筆記体で書かれています。
-
-気まぐれなティールと青い鳥たちが、オーナメントを飾り付けてツリーの装飾に忙しくしています。装飾品には、赤いサンタ帽をかぶった魅力的な雪だるまのオーナメント、レトロなスタイルのピンクのティアドロップ型ボール、白い幾何学模様の赤いボールが含まれます。小さな金箔の星とシンプルな緑と金の円が枝の間に散りばめられています。
-
-アートワークは、微妙な紙の質感とミッドセンチュリーの美学を持つモダンなフラットデザインです。カラーパレットは、ダークティール、淡い青、赤、ピンク、そしてきらめくゴールドが祝祭的に組み合わされています。マットな色と光沢のあるエンボス加工の金箔の要素との美しいコントラストを強調しています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592722180_ydxlsc_1765541712743-ndcs2r-gP5zMTyJxZm11Xr33EkxzkQKhpcRs7x5h_Tzms381W3eUyKh_fVROMUcHTkRbf9m_hETcrMKre8lM0_L5vV4kYzf8Hry074O4VmGMAAAAASUVORK5CYII_" width="600" alt="モダンなティールとゴールドフォイルのクリスマスツリー - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **ソース:** [Twitter Post](null)
-- **公開日:** 2025年12月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%20%E3%81%AE%E3%80%81%E7%BE%8E%E3%81%97%E3%81%8F%E7%B2%BE%E5%B7%A7%E3%81%AB%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%9F%E9%AB%98%E5%93%81%E8%B3%AA%E3%81%AA%E5%8D%B0%E5%88%B7%E7%94%A8%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%82%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AF%E3%80%81%E7%B9%8A%E7%B4%B0%E3%81%AA%E7%99%BD%E3%81%84%E8%BC%9D%E3%81%8D%E3%81%A8%E5%B0%8F%E3%81%95%E3%81%AA%E5%85%89%E6%B2%A2%E3%81%AE%E3%81%82%E3%82%8B%E9%87%91%E7%AE%94%E3%81%AE%E3%83%89%E3%83%83%E3%83%88%E3%81%8C%E6%95%A3%E3%82%8A%E3%81%B0%E3%82%81%E3%82%89%E3%82%8C%E3%81%9F%E6%B7%A1%E3%81%84%E9%9D%92%E7%A9%BA%E3%82%92%E8%83%8C%E6%99%AF%E3%81%AB%E3%80%81%E4%B8%AD%E5%A4%AE%E3%81%AB%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%80%E3%83%BC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AE%E9%A0%82%E4%B8%8A%E3%81%AB%E3%81%AF%E3%80%81%E9%9A%9B%E7%AB%8B%E3%81%A3%E3%81%9F%E3%82%A8%E3%83%B3%E3%83%9C%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%87%91%E7%AE%94%E3%81%AE%E6%98%9F%E3%81%8C%E9%A3%BE%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E6%A7%98%E5%BC%8F%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E6%B0%B4%E8%89%B2%E3%81%AE%E9%B3%A5%202%20%E7%BE%BD%E3%81%8C%E3%80%81%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AB%E6%B2%BF%E3%81%A3%E3%81%A6%E5%9E%82%E3%82%8C%E4%B8%8B%E3%81%8C%E3%82%8B%E7%99%BD%E3%81%84%E3%83%90%E3%83%8A%E3%83%BC%E3%82%92%E3%81%8F%E3%82%8F%E3%81%88%E3%80%81%E3%81%9D%E3%81%AE%E3%83%90%E3%83%8A%E3%83%BC%E3%81%AB%E3%81%AF%E3%80%8C%7Bargument%20name%3D%22text%22%20default%3D%22MERRY%20CHRISTMAS%22%7D%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E8%A8%80%E8%91%89%E3%81%8C%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%83%88%E3%81%AA%E9%87%91%E7%AE%94%E3%81%AE%E7%AD%86%E8%A8%98%E4%BD%93%E3%81%A7%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%81%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%A8%E9%9D%92%E3%81%84%E9%B3%A5%E3%81%9F%E3%81%A1%E3%81%8C%E3%80%81%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E9%A3%BE%E3%82%8A%E4%BB%98%E3%81%91%E3%81%A6%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AE%E8%A3%85%E9%A3%BE%E3%81%AB%E5%BF%99%E3%81%97%E3%81%8F%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E8%A3%85%E9%A3%BE%E5%93%81%E3%81%AB%E3%81%AF%E3%80%81%E8%B5%A4%E3%81%84%E3%82%B5%E3%83%B3%E3%82%BF%E5%B8%BD%E3%82%92%E3%81%8B%E3%81%B6%E3%81%A3%E3%81%9F%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E9%9B%AA%E3%81%A0%E3%82%8B%E3%81%BE%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81%E3%83%AC%E3%83%88%E3%83%AD%E3%81%AA%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%94%E3%83%B3%E3%82%AF%E3%81%AE%E3%83%86%E3%82%A3%E3%82%A2%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E5%9E%8B%E3%83%9C%E3%83%BC%E3%83%AB%E3%80%81%E7%99%BD%E3%81%84%E5%B9%BE%E4%BD%95%E5%AD%A6%E6%A8%A1%E6%A7%98%E3%81%AE%E8%B5%A4%E3%81%84%E3%83%9C%E3%83%BC%E3%83%AB%E3%81%8C%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82%E5%B0%8F%E3%81%95%E3%81%AA%E9%87%91%E7%AE%94%E3%81%AE%E6%98%9F%E3%81%A8%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E7%B7%91%E3%81%A8%E9%87%91%E3%81%AE%E5%86%86%E3%81%8C%E6%9E%9D%E3%81%AE%E9%96%93%E3%81%AB%E6%95%A3%E3%82%8A%E3%81%B0%E3%82%81%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AF%E3%80%81%E5%BE%AE%E5%A6%99%E3%81%AA%E7%B4%99%E3%81%AE%E8%B3%AA%E6%84%9F%E3%81%A8%E3%83%9F%E3%83%83%E3%83%89%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%81%AE%E7%BE%8E%E5%AD%A6%E3%82%92%E6%8C%81%E3%81%A4%E3%83%A2%E3%83%80%E3%83%B3%E3%81%AA%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%81%AF%E3%80%81%E3%83%80%E3%83%BC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%80%81%E6%B7%A1%E3%81%84%E9%9D%92%E3%80%81%E8%B5%A4%E3%80%81%E3%83%94%E3%83%B3%E3%82%AF%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%81%8C%E7%A5%9D%E7%A5%AD%E7%9A%84%E3%81%AB%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%83%9E%E3%83%83%E3%83%88%E3%81%AA%E8%89%B2%E3%81%A8%E5%85%89%E6%B2%A2%E3%81%AE%E3%81%82%E3%82%8B%E3%82%A8%E3%83%B3%E3%83%9C%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%87%91%E7%AE%94%E3%81%AE%E8%A6%81%E7%B4%A0%E3%81%A8%E3%81%AE%E7%BE%8E%E3%81%97%E3%81%84%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E5%BC%B7%E8%AA%BF%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)**
-
----
-
-### No. 115: 抽象的なペイントスプラッターのクリスマスツリー
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-ダイナミックな緑の絵の具の飛び散りや赤い滴で描かれた抽象的なツリーに、ゴールドのドットオーナメントが白い背景に映える、モダンでミニマルなクリスマスカード。
-
-#### 📝 プロンプト
-
-```
-ダイナミックなペイントスプラッターとドリップ技法で描かれた抽象的なクリスマスツリーが特徴の、モダンでミニマリストなクリスマスカードデザイン。
-
-ツリーは、明るい緑と濃いフォレストグリーンの絵の具のしぶきが層になって円錐形を成しています。小さな鮮やかな赤色のしぶきと、モールを模した繊細で流れるような赤い線で飾られています。きらめくメタリックゴールドの円がオーナメントとしてツリーに散りばめられ、一番上にはより大きなものが一つ配置されています。
-
-構図全体は、真っ白な背景に、まばらでエレガントな金色の点が優しい雪のように舞っています。
-
-スタイルはクリーンで、お祝いらしく、芸術的です。フラットなグラフィックイラストレーションで、高解像度、印刷に最適、縦向き。 --ar 10:14
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592709630_pclvjd_1765541718502-lsqra6-e5sgJnnIqyvosoUXmgBn97LICJeHMpvhuXdoMg9Q8pabiVGOSM_MNGu01v2yiyRzOqCCuWISz99UIbYwUeICB7i7XWJT38TyVxMavPhIFtVLcbPbL2dUwlpzGqs0nP7MMmXVc5bHS_qqo1GwDxL6282duUWp5JAAAAAElFTkSuQmCC" width="600" alt="抽象的なペイントスプラッターのクリスマスツリー - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **ソース:** [Twitter Post](null)
-- **公開日:** 2025年12月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AA%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88%E3%82%B9%E3%83%97%E3%83%A9%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E6%8A%80%E6%B3%95%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E6%8A%BD%E8%B1%A1%E7%9A%84%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC%E3%81%8C%E7%89%B9%E5%BE%B4%E3%81%AE%E3%80%81%E3%83%A2%E3%83%80%E3%83%B3%E3%81%A7%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%82%0A%0A%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AF%E3%80%81%E6%98%8E%E3%82%8B%E3%81%84%E7%B7%91%E3%81%A8%E6%BF%83%E3%81%84%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%AE%E7%B5%B5%E3%81%AE%E5%85%B7%E3%81%AE%E3%81%97%E3%81%B6%E3%81%8D%E3%81%8C%E5%B1%A4%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E5%86%86%E9%8C%90%E5%BD%A2%E3%82%92%E6%88%90%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%B0%8F%E3%81%95%E3%81%AA%E9%AE%AE%E3%82%84%E3%81%8B%E3%81%AA%E8%B5%A4%E8%89%B2%E3%81%AE%E3%81%97%E3%81%B6%E3%81%8D%E3%81%A8%E3%80%81%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%92%E6%A8%A1%E3%81%97%E3%81%9F%E7%B9%8A%E7%B4%B0%E3%81%A7%E6%B5%81%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E8%B5%A4%E3%81%84%E7%B7%9A%E3%81%A7%E9%A3%BE%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E3%83%A1%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%81%AE%E5%86%86%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%81%A8%E3%81%97%E3%81%A6%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AB%E6%95%A3%E3%82%8A%E3%81%B0%E3%82%81%E3%82%89%E3%82%8C%E3%80%81%E4%B8%80%E7%95%AA%E4%B8%8A%E3%81%AB%E3%81%AF%E3%82%88%E3%82%8A%E5%A4%A7%E3%81%8D%E3%81%AA%E3%82%82%E3%81%AE%E3%81%8C%E4%B8%80%E3%81%A4%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E6%A7%8B%E5%9B%B3%E5%85%A8%E4%BD%93%E3%81%AF%E3%80%81%E7%9C%9F%E3%81%A3%E7%99%BD%E3%81%AA%E8%83%8C%E6%99%AF%E3%81%AB%E3%80%81%E3%81%BE%E3%81%B0%E3%82%89%E3%81%A7%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%83%88%E3%81%AA%E9%87%91%E8%89%B2%E3%81%AE%E7%82%B9%E3%81%8C%E5%84%AA%E3%81%97%E3%81%84%E9%9B%AA%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E8%88%9E%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AF%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%A7%E3%80%81%E3%81%8A%E7%A5%9D%E3%81%84%E3%82%89%E3%81%97%E3%81%8F%E3%80%81%E8%8A%B8%E8%A1%93%E7%9A%84%E3%81%A7%E3%81%99%E3%80%82%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E3%80%81%E9%AB%98%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%80%81%E5%8D%B0%E5%88%B7%E3%81%AB%E6%9C%80%E9%81%A9%E3%80%81%E7%B8%A6%E5%90%91%E3%81%8D%E3%80%82%20--ar%2010%3A14)**
-
----
-
-### No. 116: ミニマリストな水彩画のトナカイとコマドリ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-フレームを覗き込むかわいいトナカイと、その角にとまる小さなコマドリの、ミニマルな手描き水彩画イラスト。クリーンな白い背景と繊細な線画が、高品質な印刷可能なカードを演出します。
-
-#### 📝 プロンプト
-
-```
-手描きの水彩イラストが特徴の、気まぐれで心温まるクリスマスカードのデザインです。大きくて光る赤い鼻と、好奇心旺盛な大きな目をしたかわいい漫画のトナカイが、右下からフレームを覗き込んでいます。その灰色の角には、赤い胸をした小さな可愛らしいコマドリがとまっています。柔らかな水彩のテクスチャと繊細な黒い線画によるミニマリストなスタイルで、清潔感のあるテクスチャ付きの白い紙の背景に描かれています。精巧で高品質な印刷可能なアート、フラットイラスト。--ar 1:1.4
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592710481_2t7ywa_17380234cd49b4e4491d69fdf541759f63f9fe6e3e752d8c50933a62b38b2408" width="600" alt="ミニマリストな水彩画のトナカイとコマドリ - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **ソース:** [Twitter Post](null)
-- **公開日:** 2025年12月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E6%89%8B%E6%8F%8F%E3%81%8D%E3%81%AE%E6%B0%B4%E5%BD%A9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%8C%E7%89%B9%E5%BE%B4%E3%81%AE%E3%80%81%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%81%A7%E5%BF%83%E6%B8%A9%E3%81%BE%E3%82%8B%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E5%A4%A7%E3%81%8D%E3%81%8F%E3%81%A6%E5%85%89%E3%82%8B%E8%B5%A4%E3%81%84%E9%BC%BB%E3%81%A8%E3%80%81%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%BA%E7%9B%9B%E3%81%AA%E5%A4%A7%E3%81%8D%E3%81%AA%E7%9B%AE%E3%82%92%E3%81%97%E3%81%9F%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E6%BC%AB%E7%94%BB%E3%81%AE%E3%83%88%E3%83%8A%E3%82%AB%E3%82%A4%E3%81%8C%E3%80%81%E5%8F%B3%E4%B8%8B%E3%81%8B%E3%82%89%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%82%92%E8%A6%97%E3%81%8D%E8%BE%BC%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%81%9D%E3%81%AE%E7%81%B0%E8%89%B2%E3%81%AE%E8%A7%92%E3%81%AB%E3%81%AF%E3%80%81%E8%B5%A4%E3%81%84%E8%83%B8%E3%82%92%E3%81%97%E3%81%9F%E5%B0%8F%E3%81%95%E3%81%AA%E5%8F%AF%E6%84%9B%E3%82%89%E3%81%97%E3%81%84%E3%82%B3%E3%83%9E%E3%83%89%E3%83%AA%E3%81%8C%E3%81%A8%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E6%B0%B4%E5%BD%A9%E3%81%AE%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E3%81%A8%E7%B9%8A%E7%B4%B0%E3%81%AA%E9%BB%92%E3%81%84%E7%B7%9A%E7%94%BB%E3%81%AB%E3%82%88%E3%82%8B%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AA%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E3%80%81%E6%B8%85%E6%BD%94%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E4%BB%98%E3%81%8D%E3%81%AE%E7%99%BD%E3%81%84%E7%B4%99%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E7%B2%BE%E5%B7%A7%E3%81%A7%E9%AB%98%E5%93%81%E8%B3%AA%E3%81%AA%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%A2%E3%83%BC%E3%83%88%E3%80%81%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%82--ar%201%3A1.4)**
-
----
-
-### No. 117: 名入れできるかわいい赤ちゃんトナカイ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-ストライプのスカーフを巻いた子どものトナカイを水彩で可愛らしく描いたイラストで、すっきりとした白い背景が特徴です。名前をカスタマイズできるテキストフィールドがあり、パーソナライズされたホリデーグリーティングに最適です。
-
-#### 📝 プロンプト
-
-```
-縦横比 1:1.4 の、高解像度で美しい印刷可能なクリスマスカードのデザイン。
-
-カードの左側には、愛らしい赤ちゃんトナカイの魅力的なフラット 2D 水彩イラストが描かれています。トナカイは胸から上が描かれており、柔らかな薄茶色の毛並み、大きくて優しい黒い瞳、首には居心地の良さそうな赤と白のストライプのスカーフを巻いています。薄い灰色の角には、赤と白のストライプで飾られた丸いクリスマスオーナメントが 2 つぶら下がっています。
-
-背景は清潔感のある無地の白です。
-
-カードの右側上部には、「Merry Christmas」という文字が黒い筆記体でエレガントに書かれています。その下には、「& HAPPY NEW YEAR」というフレーズが表示され、「HAPPY NEW YEAR」は太字の赤いサンセリフ体で書かれています。右下には、カスタマイズ可能なテキスト {argument name="Name" default="Any Name"} が、同じ黒い筆記体で配置されています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592696500_34usyo_1765541711470-y64a1e-z_7bw9WL27eTgAAAABJRU5ErkJggg__" width="600" alt="名入れできるかわいい赤ちゃんトナカイ - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **ソース:** [Twitter Post](null)
-- **公開日:** 2025年12月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B8%A6%E6%A8%AA%E6%AF%94%201%3A1.4%20%E3%81%AE%E3%80%81%E9%AB%98%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%81%A7%E7%BE%8E%E3%81%97%E3%81%84%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%82%0A%0A%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B7%A6%E5%81%B4%E3%81%AB%E3%81%AF%E3%80%81%E6%84%9B%E3%82%89%E3%81%97%E3%81%84%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E3%83%88%E3%83%8A%E3%82%AB%E3%82%A4%E3%81%AE%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%202D%20%E6%B0%B4%E5%BD%A9%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%83%88%E3%83%8A%E3%82%AB%E3%82%A4%E3%81%AF%E8%83%B8%E3%81%8B%E3%82%89%E4%B8%8A%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E8%96%84%E8%8C%B6%E8%89%B2%E3%81%AE%E6%AF%9B%E4%B8%A6%E3%81%BF%E3%80%81%E5%A4%A7%E3%81%8D%E3%81%8F%E3%81%A6%E5%84%AA%E3%81%97%E3%81%84%E9%BB%92%E3%81%84%E7%9E%B3%E3%80%81%E9%A6%96%E3%81%AB%E3%81%AF%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%AE%E8%89%AF%E3%81%95%E3%81%9D%E3%81%86%E3%81%AA%E8%B5%A4%E3%81%A8%E7%99%BD%E3%81%AE%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%97%E3%81%AE%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%95%E3%82%92%E5%B7%BB%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E8%96%84%E3%81%84%E7%81%B0%E8%89%B2%E3%81%AE%E8%A7%92%E3%81%AB%E3%81%AF%E3%80%81%E8%B5%A4%E3%81%A8%E7%99%BD%E3%81%AE%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%97%E3%81%A7%E9%A3%BE%E3%82%89%E3%82%8C%E3%81%9F%E4%B8%B8%E3%81%84%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8C%202%20%E3%81%A4%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E3%81%AF%E6%B8%85%E6%BD%94%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E7%84%A1%E5%9C%B0%E3%81%AE%E7%99%BD%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%8F%B3%E5%81%B4%E4%B8%8A%E9%83%A8%E3%81%AB%E3%81%AF%E3%80%81%E3%80%8CMerry%20Christmas%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%8C%E9%BB%92%E3%81%84%E7%AD%86%E8%A8%98%E4%BD%93%E3%81%A7%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%83%88%E3%81%AB%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%81%9D%E3%81%AE%E4%B8%8B%E3%81%AB%E3%81%AF%E3%80%81%E3%80%8C%26%20HAPPY%20NEW%20YEAR%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BA%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%80%81%E3%80%8CHAPPY%20NEW%20YEAR%E3%80%8D%E3%81%AF%E5%A4%AA%E5%AD%97%E3%81%AE%E8%B5%A4%E3%81%84%E3%82%B5%E3%83%B3%E3%82%BB%E3%83%AA%E3%83%95%E4%BD%93%E3%81%A7%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%8F%B3%E4%B8%8B%E3%81%AB%E3%81%AF%E3%80%81%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E5%8F%AF%E8%83%BD%E3%81%AA%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%20%7Bargument%20name%3D%22Name%22%20default%3D%22Any%20Name%22%7D%20%E3%81%8C%E3%80%81%E5%90%8C%E3%81%98%E9%BB%92%E3%81%84%E7%AD%86%E8%A8%98%E4%BD%93%E3%81%A7%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)**
-
----
-
-### No. 118: プリミティブフォークアートの雪だるまの絵画
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-星が輝く冬の森で、楽しそうな雪だるまが描かれた、質感のあるキャンバスの魅力的なフォークアート絵画。素朴なスタイルと穏やかな雰囲気が、心温まるホリデーカードのデザインにぴったりです。
-
-#### 📝 プロンプト
-
-```
-夜の冬の森で、楽しそうな雪だるまが描かれた魅力的なフォークアート絵画。テクスチャのあるキャンバスに描かれています。雪だるまは中心人物で、幸せそうな点線の笑顔、上を向いた人参の鼻、バラ色の頬をして空を見上げています。暖かそうな赤とグレーのストライプのスカーフを房付きで身につけ、胸にはシンプルでキラキラした銀色のハートが描かれています。小枝の腕は広げられています。
-
-雪だるまは、左右に立つ2本の高く細い裸の茶色の木に囲まれており、その枝には雪がうっすらと積もっています。雪だるまの後ろには小さな常緑樹の群れがあり、その緑の枝にはきらめく白い雪がたっぷりと積もっています。
-
-背景は深い黒の夜空で、柔らかい白と水色の点やぼやけた雪片として描かれた、優しく舞い落ちる雪で満たされています。雪だるまの真上に中央に配置された、大きく輝く水色の五芒星が、きらめく質感で空に明るく輝いています。
-
-スタイルは素朴で平面的、手描き風で、心温まる穏やかな雰囲気です。精巧なディテール、印刷可能な品質、アスペクト比 1:1.4。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592691305_jti3oe_1765542982965-fg4509-z8ktQ0BVT_i7QAAAABJRU5ErkJggg__" width="600" alt="プリミティブフォークアートの雪だるまの絵画 - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **ソース:** [Twitter Post](null)
-- **公開日:** 2025年12月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E5%A4%9C%E3%81%AE%E5%86%AC%E3%81%AE%E6%A3%AE%E3%81%A7%E3%80%81%E6%A5%BD%E3%81%97%E3%81%9D%E3%81%86%E3%81%AA%E9%9B%AA%E3%81%A0%E3%82%8B%E3%81%BE%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%82%A2%E3%83%BC%E3%83%88%E7%B5%B5%E7%94%BB%E3%80%82%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E3%81%AE%E3%81%82%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%AB%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E9%9B%AA%E3%81%A0%E3%82%8B%E3%81%BE%E3%81%AF%E4%B8%AD%E5%BF%83%E4%BA%BA%E7%89%A9%E3%81%A7%E3%80%81%E5%B9%B8%E3%81%9B%E3%81%9D%E3%81%86%E3%81%AA%E7%82%B9%E7%B7%9A%E3%81%AE%E7%AC%91%E9%A1%94%E3%80%81%E4%B8%8A%E3%82%92%E5%90%91%E3%81%84%E3%81%9F%E4%BA%BA%E5%8F%82%E3%81%AE%E9%BC%BB%E3%80%81%E3%83%90%E3%83%A9%E8%89%B2%E3%81%AE%E9%A0%AC%E3%82%92%E3%81%97%E3%81%A6%E7%A9%BA%E3%82%92%E8%A6%8B%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E6%9A%96%E3%81%8B%E3%81%9D%E3%81%86%E3%81%AA%E8%B5%A4%E3%81%A8%E3%82%B0%E3%83%AC%E3%83%BC%E3%81%AE%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%97%E3%81%AE%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%95%E3%82%92%E6%88%BF%E4%BB%98%E3%81%8D%E3%81%A7%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%80%81%E8%83%B8%E3%81%AB%E3%81%AF%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%81%97%E3%81%9F%E9%8A%80%E8%89%B2%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%88%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%B0%8F%E6%9E%9D%E3%81%AE%E8%85%95%E3%81%AF%E5%BA%83%E3%81%92%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E9%9B%AA%E3%81%A0%E3%82%8B%E3%81%BE%E3%81%AF%E3%80%81%E5%B7%A6%E5%8F%B3%E3%81%AB%E7%AB%8B%E3%81%A42%E6%9C%AC%E3%81%AE%E9%AB%98%E3%81%8F%E7%B4%B0%E3%81%84%E8%A3%B8%E3%81%AE%E8%8C%B6%E8%89%B2%E3%81%AE%E6%9C%A8%E3%81%AB%E5%9B%B2%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%81%9D%E3%81%AE%E6%9E%9D%E3%81%AB%E3%81%AF%E9%9B%AA%E3%81%8C%E3%81%86%E3%81%A3%E3%81%99%E3%82%89%E3%81%A8%E7%A9%8D%E3%82%82%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E9%9B%AA%E3%81%A0%E3%82%8B%E3%81%BE%E3%81%AE%E5%BE%8C%E3%82%8D%E3%81%AB%E3%81%AF%E5%B0%8F%E3%81%95%E3%81%AA%E5%B8%B8%E7%B7%91%E6%A8%B9%E3%81%AE%E7%BE%A4%E3%82%8C%E3%81%8C%E3%81%82%E3%82%8A%E3%80%81%E3%81%9D%E3%81%AE%E7%B7%91%E3%81%AE%E6%9E%9D%E3%81%AB%E3%81%AF%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E7%99%BD%E3%81%84%E9%9B%AA%E3%81%8C%E3%81%9F%E3%81%A3%E3%81%B7%E3%82%8A%E3%81%A8%E7%A9%8D%E3%82%82%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E3%81%AF%E6%B7%B1%E3%81%84%E9%BB%92%E3%81%AE%E5%A4%9C%E7%A9%BA%E3%81%A7%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%84%E7%99%BD%E3%81%A8%E6%B0%B4%E8%89%B2%E3%81%AE%E7%82%B9%E3%82%84%E3%81%BC%E3%82%84%E3%81%91%E3%81%9F%E9%9B%AA%E7%89%87%E3%81%A8%E3%81%97%E3%81%A6%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E5%84%AA%E3%81%97%E3%81%8F%E8%88%9E%E3%81%84%E8%90%BD%E3%81%A1%E3%82%8B%E9%9B%AA%E3%81%A7%E6%BA%80%E3%81%9F%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E9%9B%AA%E3%81%A0%E3%82%8B%E3%81%BE%E3%81%AE%E7%9C%9F%E4%B8%8A%E3%81%AB%E4%B8%AD%E5%A4%AE%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%81%9F%E3%80%81%E5%A4%A7%E3%81%8D%E3%81%8F%E8%BC%9D%E3%81%8F%E6%B0%B4%E8%89%B2%E3%81%AE%E4%BA%94%E8%8A%92%E6%98%9F%E3%81%8C%E3%80%81%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E8%B3%AA%E6%84%9F%E3%81%A7%E7%A9%BA%E3%81%AB%E6%98%8E%E3%82%8B%E3%81%8F%E8%BC%9D%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AF%E7%B4%A0%E6%9C%B4%E3%81%A7%E5%B9%B3%E9%9D%A2%E7%9A%84%E3%80%81%E6%89%8B%E6%8F%8F%E3%81%8D%E9%A2%A8%E3%81%A7%E3%80%81%E5%BF%83%E6%B8%A9%E3%81%BE%E3%82%8B%E7%A9%8F%E3%82%84%E3%81%8B%E3%81%AA%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%A7%E3%81%99%E3%80%82%E7%B2%BE%E5%B7%A7%E3%81%AA%E3%83%87%E3%82%A3%E3%83%86%E3%83%BC%E3%83%AB%E3%80%81%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E5%93%81%E8%B3%AA%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82)**
-
----
-
-### No. 119: 穏やかな水彩画の納屋と鹿のカード
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-赤い納屋と鹿の家族が描かれた、穏やかな水彩画の冬景色に、エレガントでカスタマイズ可能なテキストを組み合わせました。神聖で静謐な雰囲気を捉えており、宗教的なクリスマスカードや、平和なクリスマスカードに最適です。
-
-#### 📝 プロンプト
-
-```
-縦横比 1:1.4 のフラットな 2D イラストで表現された、精巧で印刷可能なクリスマスカードのデザインです。
-
-スタイルは、繊細な紙の質感が施された清潔な白い背景に、穏やかで優しい水彩画です。イラストは居心地の良い冬の情景を描いています。左側には、雪に覆われた屋根と白い窓枠を持つ魅力的な赤い木製の納屋が、柔らかく落ち着いた緑色の水彩画の松の木々に囲まれて佇んでいます。納屋の右側の雪に覆われた前景には、角のある雄鹿、雌鹿、小さな子鹿からなる鹿の家族が穏やかに立っています。
-
-穏やかな情景の上には、暗く落ち着いた色のエレガントなタイポグラフィが表示されています。テキストは、クラシックなセリフ書体と流れるような美しいスクリプト書体が洗練された形で組み合わされています。テキストは次のように書かれています：{argument name="text" default="And his name shall be called\nWonderful counselor, Mighty God.\nEverlasting Father, Prince of Peace"}
-
-全体的な雰囲気は平和で神聖です。カラーパレットは、柔らかな納屋の赤、鹿のアースブラウン、落ち着いた森の緑、クールなグレーで構成されており、すべて雪に覆われた地面の鮮明な白を背景にしています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592690239_564v9s_1765541680088-hyqty7-VWZmsw5e5BRHNOSIiM9bDsd3tj6kPjwhkCQ_zg2gic1l6Jotcr5e5lRIucSw75myjL8KWiGTkakdOlZthbplRR3hf1AxOyUiHgxLubx7eACzsPSY773uLf7J8HfbmzYPZWuGn7RQZZDch2Txtx7H_L9O1nl6sQbE8AAAAAElFTkSuQmCC" width="600" alt="穏やかな水彩画の納屋と鹿のカード - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **ソース:** [Twitter Post](null)
-- **公開日:** 2025年12月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B8%A6%E6%A8%AA%E6%AF%94%201%3A1.4%20%E3%81%AE%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%202D%20%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E8%A1%A8%E7%8F%BE%E3%81%95%E3%82%8C%E3%81%9F%E3%80%81%E7%B2%BE%E5%B7%A7%E3%81%A7%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%0A%0A%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AF%E3%80%81%E7%B9%8A%E7%B4%B0%E3%81%AA%E7%B4%99%E3%81%AE%E8%B3%AA%E6%84%9F%E3%81%8C%E6%96%BD%E3%81%95%E3%82%8C%E3%81%9F%E6%B8%85%E6%BD%94%E3%81%AA%E7%99%BD%E3%81%84%E8%83%8C%E6%99%AF%E3%81%AB%E3%80%81%E7%A9%8F%E3%82%84%E3%81%8B%E3%81%A7%E5%84%AA%E3%81%97%E3%81%84%E6%B0%B4%E5%BD%A9%E7%94%BB%E3%81%A7%E3%81%99%E3%80%82%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AF%E5%B1%85%E5%BF%83%E5%9C%B0%E3%81%AE%E8%89%AF%E3%81%84%E5%86%AC%E3%81%AE%E6%83%85%E6%99%AF%E3%82%92%E6%8F%8F%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%B7%A6%E5%81%B4%E3%81%AB%E3%81%AF%E3%80%81%E9%9B%AA%E3%81%AB%E8%A6%86%E3%82%8F%E3%82%8C%E3%81%9F%E5%B1%8B%E6%A0%B9%E3%81%A8%E7%99%BD%E3%81%84%E7%AA%93%E6%9E%A0%E3%82%92%E6%8C%81%E3%81%A4%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E8%B5%A4%E3%81%84%E6%9C%A8%E8%A3%BD%E3%81%AE%E7%B4%8D%E5%B1%8B%E3%81%8C%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%8F%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%84%E3%81%9F%E7%B7%91%E8%89%B2%E3%81%AE%E6%B0%B4%E5%BD%A9%E7%94%BB%E3%81%AE%E6%9D%BE%E3%81%AE%E6%9C%A8%E3%80%85%E3%81%AB%E5%9B%B2%E3%81%BE%E3%82%8C%E3%81%A6%E4%BD%87%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E7%B4%8D%E5%B1%8B%E3%81%AE%E5%8F%B3%E5%81%B4%E3%81%AE%E9%9B%AA%E3%81%AB%E8%A6%86%E3%82%8F%E3%82%8C%E3%81%9F%E5%89%8D%E6%99%AF%E3%81%AB%E3%81%AF%E3%80%81%E8%A7%92%E3%81%AE%E3%81%82%E3%82%8B%E9%9B%84%E9%B9%BF%E3%80%81%E9%9B%8C%E9%B9%BF%E3%80%81%E5%B0%8F%E3%81%95%E3%81%AA%E5%AD%90%E9%B9%BF%E3%81%8B%E3%82%89%E3%81%AA%E3%82%8B%E9%B9%BF%E3%81%AE%E5%AE%B6%E6%97%8F%E3%81%8C%E7%A9%8F%E3%82%84%E3%81%8B%E3%81%AB%E7%AB%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E7%A9%8F%E3%82%84%E3%81%8B%E3%81%AA%E6%83%85%E6%99%AF%E3%81%AE%E4%B8%8A%E3%81%AB%E3%81%AF%E3%80%81%E6%9A%97%E3%81%8F%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%84%E3%81%9F%E8%89%B2%E3%81%AE%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%83%88%E3%81%AA%E3%82%BF%E3%82%A4%E3%83%9D%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E3%80%81%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%81%AA%E3%82%BB%E3%83%AA%E3%83%95%E6%9B%B8%E4%BD%93%E3%81%A8%E6%B5%81%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E7%BE%8E%E3%81%97%E3%81%84%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E6%9B%B8%E4%BD%93%E3%81%8C%E6%B4%97%E7%B7%B4%E3%81%95%E3%82%8C%E3%81%9F%E5%BD%A2%E3%81%A7%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E6%AC%A1%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%9B%B8%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%EF%BC%9A%7Bargument%20name%3D%22text%22%20default%3D%22And%20his%20name%20shall%20be%20called%5CnWonderful%20counselor%2C%20Mighty%20God.%5CnEverlasting%20Father%2C%20Prince%20of%20Peace%22%7D%0A%0A%E5%85%A8%E4%BD%93%E7%9A%84%E3%81%AA%E9%9B%B0%E5%9B%B2%E6%B0%97%E3%81%AF%E5%B9%B3%E5%92%8C%E3%81%A7%E7%A5%9E%E8%81%96%E3%81%A7%E3%81%99%E3%80%82%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%81%AF%E3%80%81%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E7%B4%8D%E5%B1%8B%E3%81%AE%E8%B5%A4%E3%80%81%E9%B9%BF%E3%81%AE%E3%82%A2%E3%83%BC%E3%82%B9%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%80%81%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%84%E3%81%9F%E6%A3%AE%E3%81%AE%E7%B7%91%E3%80%81%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%AA%E3%82%B0%E3%83%AC%E3%83%BC%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%81%99%E3%81%B9%E3%81%A6%E9%9B%AA%E3%81%AB%E8%A6%86%E3%82%8F%E3%82%8C%E3%81%9F%E5%9C%B0%E9%9D%A2%E3%81%AE%E9%AE%AE%E6%98%8E%E3%81%AA%E7%99%BD%E3%82%92%E8%83%8C%E6%99%AF%E3%81%AB%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)**
-
----
-
-### No. 120: 切り絵とフェルトアップリケのサンタ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-紙の切り絵とフェルトのアップリケを重ねて作られた、手作り感のあるサンタクロースのイラスト。紙吹雪が散りばめられた背景に、この触覚的なデザインが気まぐれで少しレトロな雰囲気を与えます。
-
-#### 📝 プロンプト
-
-```
-精巧で印刷可能なクリスマス グリーティング カードのデザイン、アスペクト比 1:1.4。
-
-手作りの重ね合わせたペーパー カットとフェルトのアップリケ スタイルで描かれた、魅力的なサンタ クロースの全身イラストが特徴です。サンタはすっきりとした背景の中央に立っています。
-
-サンタはクラシックな赤いスーツと帽子を身につけており、どちらも柔らかいベルベットのような質感で、ふわふわした白いフェルトで縁取られています。彼のひげと口ひげは、くっきりとした白い紙の切り絵が何層にも重なっており、顔はバラ色の頬とシンプルな点目で陽気です。彼は白いカフスの黒い手袋とブーツを履いています。両手には、繊細な金箔のリボンと蝶結びで結ばれた小さなティール グリーンのギフト ボックスを持っています。
-
-背景は、質感のあるオフホワイトの紙で、小さな赤と緑の点と、きらめく小さな金箔の雪の結晶が散りばめられたパターンで軽く装飾されており、お祭り気分を盛り上げる紙吹雪のような効果を生み出しています。
-
-シーン全体は、細くエレガントな二重線の金箔の縁取りで囲まれています。全体的な美学は、気まぐれでクリーン、そしてわずかにヴィンテージ感があり、フラットなデザインと触覚的で立体的なペーパークラフトの要素が組み合わされています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592689476_22rrxj_1765541680010-9o23r9-WZBRBH_DJ5sAAAAASUVORK5CYII_" width="600" alt="切り絵とフェルトアップリケのサンタ - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **ソース:** [Twitter Post](null)
-- **公開日:** 2025年12月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/tools/christmas-cards-maker?prompt=%E7%B2%BE%E5%B7%A7%E3%81%A7%E5%8D%B0%E5%88%B7%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%20%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%81%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%201%3A1.4%E3%80%82%0A%0A%E6%89%8B%E4%BD%9C%E3%82%8A%E3%81%AE%E9%87%8D%E3%81%AD%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%20%E3%82%AB%E3%83%83%E3%83%88%E3%81%A8%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AA%E3%82%B1%20%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E3%80%81%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AA%E3%82%B5%E3%83%B3%E3%82%BF%20%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B9%E3%81%AE%E5%85%A8%E8%BA%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%8C%E7%89%B9%E5%BE%B4%E3%81%A7%E3%81%99%E3%80%82%E3%82%B5%E3%83%B3%E3%82%BF%E3%81%AF%E3%81%99%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E8%83%8C%E6%99%AF%E3%81%AE%E4%B8%AD%E5%A4%AE%E3%81%AB%E7%AB%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%82%B5%E3%83%B3%E3%82%BF%E3%81%AF%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%81%AA%E8%B5%A4%E3%81%84%E3%82%B9%E3%83%BC%E3%83%84%E3%81%A8%E5%B8%BD%E5%AD%90%E3%82%92%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%81%A9%E3%81%A1%E3%82%89%E3%82%82%E6%9F%94%E3%82%89%E3%81%8B%E3%81%84%E3%83%99%E3%83%AB%E3%83%99%E3%83%83%E3%83%88%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%B3%AA%E6%84%9F%E3%81%A7%E3%80%81%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%81%97%E3%81%9F%E7%99%BD%E3%81%84%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88%E3%81%A7%E7%B8%81%E5%8F%96%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%BD%BC%E3%81%AE%E3%81%B2%E3%81%92%E3%81%A8%E5%8F%A3%E3%81%B2%E3%81%92%E3%81%AF%E3%80%81%E3%81%8F%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A8%E3%81%97%E3%81%9F%E7%99%BD%E3%81%84%E7%B4%99%E3%81%AE%E5%88%87%E3%82%8A%E7%B5%B5%E3%81%8C%E4%BD%95%E5%B1%A4%E3%81%AB%E3%82%82%E9%87%8D%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E9%A1%94%E3%81%AF%E3%83%90%E3%83%A9%E8%89%B2%E3%81%AE%E9%A0%AC%E3%81%A8%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E7%82%B9%E7%9B%AE%E3%81%A7%E9%99%BD%E6%B0%97%E3%81%A7%E3%81%99%E3%80%82%E5%BD%BC%E3%81%AF%E7%99%BD%E3%81%84%E3%82%AB%E3%83%95%E3%82%B9%E3%81%AE%E9%BB%92%E3%81%84%E6%89%8B%E8%A2%8B%E3%81%A8%E3%83%96%E3%83%BC%E3%83%84%E3%82%92%E5%B1%A5%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E4%B8%A1%E6%89%8B%E3%81%AB%E3%81%AF%E3%80%81%E7%B9%8A%E7%B4%B0%E3%81%AA%E9%87%91%E7%AE%94%E3%81%AE%E3%83%AA%E3%83%9C%E3%83%B3%E3%81%A8%E8%9D%B6%E7%B5%90%E3%81%B3%E3%81%A7%E7%B5%90%E3%81%B0%E3%82%8C%E3%81%9F%E5%B0%8F%E3%81%95%E3%81%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%AE%E3%82%AE%E3%83%95%E3%83%88%20%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E3%81%AF%E3%80%81%E8%B3%AA%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E3%82%AA%E3%83%95%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%81%AE%E7%B4%99%E3%81%A7%E3%80%81%E5%B0%8F%E3%81%95%E3%81%AA%E8%B5%A4%E3%81%A8%E7%B7%91%E3%81%AE%E7%82%B9%E3%81%A8%E3%80%81%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E5%B0%8F%E3%81%95%E3%81%AA%E9%87%91%E7%AE%94%E3%81%AE%E9%9B%AA%E3%81%AE%E7%B5%90%E6%99%B6%E3%81%8C%E6%95%A3%E3%82%8A%E3%81%B0%E3%82%81%E3%82%89%E3%82%8C%E3%81%9F%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A7%E8%BB%BD%E3%81%8F%E8%A3%85%E9%A3%BE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E3%81%8A%E7%A5%AD%E3%82%8A%E6%B0%97%E5%88%86%E3%82%92%E7%9B%9B%E3%82%8A%E4%B8%8A%E3%81%92%E3%82%8B%E7%B4%99%E5%90%B9%E9%9B%AA%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%8A%B9%E6%9E%9C%E3%82%92%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%82%B7%E3%83%BC%E3%83%B3%E5%85%A8%E4%BD%93%E3%81%AF%E3%80%81%E7%B4%B0%E3%81%8F%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%83%88%E3%81%AA%E4%BA%8C%E9%87%8D%E7%B7%9A%E3%81%AE%E9%87%91%E7%AE%94%E3%81%AE%E7%B8%81%E5%8F%96%E3%82%8A%E3%81%A7%E5%9B%B2%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%E5%85%A8%E4%BD%93%E7%9A%84%E3%81%AA%E7%BE%8E%E5%AD%A6%E3%81%AF%E3%80%81%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%81%A7%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%82%8F%E3%81%9A%E3%81%8B%E3%81%AB%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E6%84%9F%E3%81%8C%E3%81%82%E3%82%8A%E3%80%81%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AA%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E8%A7%A6%E8%A6%9A%E7%9A%84%E3%81%A7%E7%AB%8B%E4%BD%93%E7%9A%84%E3%81%AA%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%81%AE%E8%A6%81%E7%B4%A0%E3%81%8C%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)**
-
----
-
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 5 さらに多くのプロンプトがあります
+### 🎯 14 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -4752,6 +5023,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2025-12-15T08:29:21.957Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2025-12-15T12:41:57.501Z</sub>
 
 </div>
