@@ -86,9 +86,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **100** |
+| 📝 Tổng số câu lệnh | **125** |
 | ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 04:38:30 UTC Thứ Hai, 15 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 08:29:28 UTC Thứ Hai, 15 tháng 12, 2025** |
 
 </div>
 
@@ -98,7 +98,872 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### No. 1: Thiệp Giáng Sinh Dây Phơi Đồ Của Ông Già Noel
+### No. 1: Clumsy Penguins Children's Book Animation Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt creates a vertical, printable Christmas photo frame illustrated in a charming, humorous children's book animation style featuring clumsy penguins. The design focuses entirely on the frame itself with a blank photo placeholder, providing a joyful, funny, and animated look for print.
+
+#### 📝 Câu lệnh
+
+```
+A vertical 1:1.4 printable Christmas photo frame illustrated in a charming, humorous children’s book animation style.
+
+The design focuses entirely on the frame itself, with flat illustration and no background environment.
+
+A large blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 portrait ratio and 70% of the frame width, intentionally empty and clearly separated from all decorations.
+
+The surrounding border features clumsy cartoon penguins slipping, stacking ornaments, holding oversized stars, and interacting playfully with festive elements around the edges.
+
+The overall style is joyful, funny, animated, and print-friendly, with no text or lettering.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__" width="600" alt="Clumsy Penguins Children's Book Animation Photo Frame - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vertical%201%3A1.4%20printable%20Christmas%20photo%20frame%20illustrated%20in%20a%20charming%2C%20humorous%20children%E2%80%99s%20book%20animation%20style.%0A%0AThe%20design%20focuses%20entirely%20on%20the%20frame%20itself%2C%20with%20flat%20illustration%20and%20no%20background%20environment.%0A%0AA%20large%20blank%20photo%20placeholder%20is%20reserved%20at%20the%20exact%20horizontal%20and%20vertical%20center%2C%20with%20a%201%3A1.4%20portrait%20ratio%20and%2070%25%20of%20the%20frame%20width%2C%20intentionally%20empty%20and%20clearly%20separated%20from%20all%20decorations.%0A%0AThe%20surrounding%20border%20features%20clumsy%20cartoon%20penguins%20slipping%2C%20stacking%20ornaments%2C%20holding%20oversized%20stars%2C%20and%20interacting%20playfully%20with%20festive%20elements%20around%20the%20edges.%0A%0AThe%20overall%20style%20is%20joyful%2C%20funny%2C%20animated%2C%20and%20print-friendly%2C%20with%20no%20text%20or%20lettering.)**
+
+---
+
+### No. 2: Funny Gingerbread Animated Illustration Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt creates a printable Christmas photo frame illustration in a humorous animated storybook style featuring funny gingerbread characters. The design shows only the frame with a blank photo placeholder, offering a humorous, cozy, and whimsical aesthetic for printing.
+
+#### 📝 Câu lệnh
+
+```
+A printable Christmas photo frame illustration in a vertical 1:1.4 aspect ratio, created in a humorous animated storybook style.
+
+The illustration shows only the frame design, without any external environment or background scenery. The colors are warm and festive with soft paper texture.
+
+At the exact center, reserve a blank photo placeholder that is horizontally and vertically centered, maintaining a 1:1.4 aspect ratio and 70% of the total frame width, completely blank and unobstructed.
+
+The frame border is decorated with playful gingerbread characters striking silly poses, partially broken cookies, frosting details, and candy decorations, all drawn with expressive cartoon faces.
+
+The mood is humorous, cozy, and whimsical, fully optimized for printing, with no typography.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784310981_hlrjof_1765780294344-8suld3-nw38D6_lD8WBy0bTPa2E6DCNqhxc3ZAVzQg5N2eB1mBa0YUupvbF257bbb7r7rztXly4898dTdt5_wksUMiaSIA7ajkXM0yQDW5oIugT1rLlmBsfExT0IuzTiXnXUWtf8PrWnOlBF9AScAAAAASUVORK5CYII_" width="600" alt="Funny Gingerbread Animated Illustration Photo Frame - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20Christmas%20photo%20frame%20illustration%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20created%20in%20a%20humorous%20animated%20storybook%20style.%0A%0AThe%20illustration%20shows%20only%20the%20frame%20design%2C%20without%20any%20external%20environment%20or%20background%20scenery.%20The%20colors%20are%20warm%20and%20festive%20with%20soft%20paper%20texture.%0A%0AAt%20the%20exact%20center%2C%20reserve%20a%20blank%20photo%20placeholder%20that%20is%20horizontally%20and%20vertically%20centered%2C%20maintaining%20a%201%3A1.4%20aspect%20ratio%20and%2070%25%20of%20the%20total%20frame%20width%2C%20completely%20blank%20and%20unobstructed.%0A%0AThe%20frame%20border%20is%20decorated%20with%20playful%20gingerbread%20characters%20striking%20silly%20poses%2C%20partially%20broken%20cookies%2C%20frosting%20details%2C%20and%20candy%20decorations%2C%20all%20drawn%20with%20expressive%20cartoon%20faces.%0A%0AThe%20mood%20is%20humorous%2C%20cozy%2C%20and%20whimsical%2C%20fully%20optimized%20for%20printing%2C%20with%20no%20typography.)**
+
+---
+
+### No. 3: Lazy Sloth Style Animated Christmas Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates a printable Christmas photo frame illustration in a humorous animated storybook style featuring lazy sloths. It's designed as a standalone frame with a blank photo placeholder, perfect for high-quality printing and adding a lighthearted, cozy, and humorous touch to holiday photos.
+
+#### 📝 Câu lệnh
+
+```
+A printable Christmas photo frame illustration designed exclusively as a standalone frame, in a vertical 1:1.4 aspect ratio, suitable for high-quality print.
+
+The illustration focuses only on the frame itself, with no external environment or background scene. The style is a humorous animated storybook illustration with soft textures, clean outlines, and warm colors.
+
+At the exact center of the frame, reserve a blank photo placeholder area that is horizontally and vertically centered. The placeholder has a 1:1.4 portrait aspect ratio, with its width equal to 70% of the total frame width, and must remain completely empty and untouched.
+
+The surrounding frame border features playful cartoon sloths hanging from candy canes, evergreen branches, and festive hooks. The sloths wear cozy knitted sweaters and scarves, striking relaxed, funny poses.
+
+The illustration feels lighthearted, cozy, and humorous, with flat composition and print-friendly colors, no text or typography.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="Lazy Sloth Style Animated Christmas Photo Frame - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20Christmas%20photo%20frame%20illustration%20designed%20exclusively%20as%20a%20standalone%20frame%2C%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20suitable%20for%20high-quality%20print.%0A%0AThe%20illustration%20focuses%20only%20on%20the%20frame%20itself%2C%20with%20no%20external%20environment%20or%20background%20scene.%20The%20style%20is%20a%20humorous%20animated%20storybook%20illustration%20with%20soft%20textures%2C%20clean%20outlines%2C%20and%20warm%20colors.%0A%0AAt%20the%20exact%20center%20of%20the%20frame%2C%20reserve%20a%20blank%20photo%20placeholder%20area%20that%20is%20horizontally%20and%20vertically%20centered.%20The%20placeholder%20has%20a%201%3A1.4%20portrait%20aspect%20ratio%2C%20with%20its%20width%20equal%20to%2070%25%20of%20the%20total%20frame%20width%2C%20and%20must%20remain%20completely%20empty%20and%20untouched.%0A%0AThe%20surrounding%20frame%20border%20features%20playful%20cartoon%20sloths%20hanging%20from%20candy%20canes%2C%20evergreen%20branches%2C%20and%20festive%20hooks.%20The%20sloths%20wear%20cozy%20knitted%20sweaters%20and%20scarves%2C%20striking%20relaxed%2C%20funny%20poses.%0A%0AThe%20illustration%20feels%20lighthearted%2C%20cozy%2C%20and%20humorous%2C%20with%20flat%20composition%20and%20print-friendly%20colors%2C%20no%20text%20or%20typography.)**
+
+---
+
+### No. 4: Playful Polar Bear Cartoon Christmas Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt creates a printable animated Christmas photo frame in a humorous cartoon style featuring playful polar bears. It's designed solely as a frame illustration for print, with a blank photo placeholder, offering a cheerful, funny, and friendly aesthetic for holiday pictures.
+
+#### 📝 Câu lệnh
+
+```
+A printable animated Christmas photo frame in a vertical 1:1.4 aspect ratio, designed solely as a frame illustration for print.
+
+The frame is illustrated in a humorous cartoon style with rounded shapes, expressive characters, and soft shading. No environment, no background scene, only the frame design.
+
+A blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 aspect ratio and 70% of the frame width, completely empty and clean.
+
+The border is decorated with playful polar bears sliding, peeking, and clinging to the edges of the frame, interacting with candy canes, ornaments, and snowballs in a silly, exaggerated way.
+
+The overall mood is cheerful, funny, and friendly, optimized for flat printable illustration, with no text.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="Playful Polar Bear Cartoon Christmas Photo Frame - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20animated%20Christmas%20photo%20frame%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20designed%20solely%20as%20a%20frame%20illustration%20for%20print.%0A%0AThe%20frame%20is%20illustrated%20in%20a%20humorous%20cartoon%20style%20with%20rounded%20shapes%2C%20expressive%20characters%2C%20and%20soft%20shading.%20No%20environment%2C%20no%20background%20scene%2C%20only%20the%20frame%20design.%0A%0AA%20blank%20photo%20placeholder%20is%20reserved%20at%20the%20exact%20horizontal%20and%20vertical%20center%2C%20with%20a%201%3A1.4%20aspect%20ratio%20and%2070%25%20of%20the%20frame%20width%2C%20completely%20empty%20and%20clean.%0A%0AThe%20border%20is%20decorated%20with%20playful%20polar%20bears%20sliding%2C%20peeking%2C%20and%20clinging%20to%20the%20edges%20of%20the%20frame%2C%20interacting%20with%20candy%20canes%2C%20ornaments%2C%20and%20snowballs%20in%20a%20silly%2C%20exaggerated%20way.%0A%0AThe%20overall%20mood%20is%20cheerful%2C%20funny%2C%20and%20friendly%2C%20optimized%20for%20flat%20printable%20illustration%2C%20with%20no%20text.)**
+
+---
+
+### No. 5: Mischievous Cats Christmas Sticker Style Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates a vertical, printable Christmas photo frame illustrated in a cute, humorous animated sticker style featuring mischievous cats. The design focuses solely on the frame itself with bold outlines, soft colors, and a blank photo placeholder, creating a playful and chaotic holiday feel.
+
+#### 📝 Câu lệnh
+
+```
+A vertical 1:1.4 printable Christmas photo frame illustrated in a cute, humorous animated sticker style.
+
+The design focuses only on the frame itself, with no room, wall, or environmental context. The illustration uses bold outlines, soft colors, and expressive cartoon characters.
+
+In the exact center, a blank photo placeholder area is horizontally and vertically centered, with a 1:1.4 portrait ratio and 70% width of the frame, completely empty and clearly defined.
+
+The surrounding border features mischievous cartoon cats tangled in Christmas lights, knocking over ornaments, climbing garlands, and peeking from the corners, creating a playful and chaotic holiday feel.
+
+The composition remains flat, balanced, and print-ready, with no text elements.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC" width="600" alt="Mischievous Cats Christmas Sticker Style Photo Frame - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vertical%201%3A1.4%20printable%20Christmas%20photo%20frame%20illustrated%20in%20a%20cute%2C%20humorous%20animated%20sticker%20style.%0A%0AThe%20design%20focuses%20only%20on%20the%20frame%20itself%2C%20with%20no%20room%2C%20wall%2C%20or%20environmental%20context.%20The%20illustration%20uses%20bold%20outlines%2C%20soft%20colors%2C%20and%20expressive%20cartoon%20characters.%0A%0AIn%20the%20exact%20center%2C%20a%20blank%20photo%20placeholder%20area%20is%20horizontally%20and%20vertically%20centered%2C%20with%20a%201%3A1.4%20portrait%20ratio%20and%2070%25%20width%20of%20the%20frame%2C%20completely%20empty%20and%20clearly%20defined.%0A%0AThe%20surrounding%20border%20features%20mischievous%20cartoon%20cats%20tangled%20in%20Christmas%20lights%2C%20knocking%20over%20ornaments%2C%20climbing%20garlands%2C%20and%20peeking%20from%20the%20corners%2C%20creating%20a%20playful%20and%20chaotic%20holiday%20feel.%0A%0AThe%20composition%20remains%20flat%2C%20balanced%2C%20and%20print-ready%2C%20with%20no%20text%20elements.)**
+
+---
+
+### No. 6: Koala Clinging to Christmas Tree
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates a cute printable Christmas card design featuring a grey koala bear clinging to a decorated Christmas tree. It's perfect for sweet and endearing holiday greetings with a soft, crayon-drawing texture.
+
+#### 📝 Câu lệnh
+
+```
+A cute printable Christmas card design, aspect ratio 1:1.4. A grey koala bear is clinging tightly to the trunk of a small, decorated Christmas tree instead of a eucalyptus tree, looking content and sleepy. The tree is covered in shiny silver tinsel and colorful baubles. The koala wears a tiny red bow tie. Solid pastel green background. Soft, crayon drawing texture.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780157326_ckp21g_1765693121569-apj76v-v_H31t5QXhilrDAAAAAElFTkSuQmCC" width="600" alt="Koala Clinging to Christmas Tree - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20grey%20koala%20bear%20is%20clinging%20tightly%20to%20the%20trunk%20of%20a%20small%2C%20decorated%20Christmas%20tree%20instead%20of%20a%20eucalyptus%20tree%2C%20looking%20content%20and%20sleepy.%20The%20tree%20is%20covered%20in%20shiny%20silver%20tinsel%20and%20colorful%20baubles.%20The%20koala%20wears%20a%20tiny%20red%20bow%20tie.%20Solid%20pastel%20green%20background.%20Soft%2C%20crayon%20drawing%20texture.)**
+
+---
+
+### No. 7: Bear Baker with Living Gingerbread Men
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt creates a charming illustration of a friendly brown bear baker making gingerbread men, which have come to life and are running around the kitchen. Perfect for warm and storybook-style holiday cards.
+
+#### 📝 Câu lệnh
+
+```
+A charming illustration of a brown bear baker, aspect ratio 1:1.4. The friendly bear wears a floral apron and a chef's hat, covered in white flour dust. It is happily rolling out dough on a wooden table, surrounded by gingerbread men cookies that have come to life and are running around the kitchen counter laughing. Warm, storybook art style.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780152259_x9tpgp_1765765754561-emrtgw-w_2W4FWpP9VyAAAAABJRU5ErkJggg__" width="600" alt="Bear Baker with Living Gingerbread Men - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20illustration%20of%20a%20brown%20bear%20baker%2C%20aspect%20ratio%201%3A1.4.%20The%20friendly%20bear%20wears%20a%20floral%20apron%20and%20a%20chef's%20hat%2C%20covered%20in%20white%20flour%20dust.%20It%20is%20happily%20rolling%20out%20dough%20on%20a%20wooden%20table%2C%20surrounded%20by%20gingerbread%20men%20cookies%20that%20have%20come%20to%20life%20and%20are%20running%20around%20the%20kitchen%20counter%20laughing.%20Warm%2C%20storybook%20art%20style.)**
+
+---
+
+### No. 8: Pug with Reindeer Antlers and Clown Nose
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates a funny and cute printable card featuring a close-up photographic portrait of a pug reluctantly wearing reindeer antlers and a glowing red clown nose. Ideal for humorous and quirky holiday greetings.
+
+#### 📝 Câu lệnh
+
+```
+A funny and cute printable card, aspect ratio 1:1.4. A close-up photographic portrait of a chubby pug dog's face. It is reluctantly wearing a headband with brown felt reindeer antlers and a very bright, glowing red clown nose over its own nose. The pug has a serious, slightly judging expression, staring straight at the camera. The background is blurred festive red lights.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780150716_6iohh6_1765693108405-xs5mi7-8HDdKJRZ26cGoAAAAASUVORK5CYII_" width="600" alt="Pug with Reindeer Antlers and Clown Nose - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20and%20cute%20printable%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20close-up%20photographic%20portrait%20of%20a%20chubby%20pug%20dog's%20face.%20It%20is%20reluctantly%20wearing%20a%20headband%20with%20brown%20felt%20reindeer%20antlers%20and%20a%20very%20bright%2C%20glowing%20red%20clown%20nose%20over%20its%20own%20nose.%20The%20pug%20has%20a%20serious%2C%20slightly%20judging%20expression%2C%20staring%20straight%20at%20the%20camera.%20The%20background%20is%20blurred%20festive%20red%20lights.)**
+
+---
+
+### No. 9: Dormouse Asleep in Teacup
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates a cozy miniature Christmas illustration of a tiny dormouse curled up asleep inside a festive teacup. Ideal for sweet and delicate holiday card designs.
+
+#### 📝 Câu lệnh
+
+```
+A cozy miniature Christmas illustration, aspect ratio 1:1.4. A tiny dormouse is curled up asleep inside a ceramic teacup that is decorated with a festive red and green holly pattern. The mouse is covered by a small green leaf blanket. The teacup sits on a saucer next to a miniature mince pie on a wooden table surface. Watercolor and colored pencil style.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780150013_3r2ds8_1765765750332-u6dv2j-f7L6RsJkw3KlnwAAAAAElFTkSuQmCC" width="600" alt="Dormouse Asleep in Teacup - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cozy%20miniature%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20tiny%20dormouse%20is%20curled%20up%20asleep%20inside%20a%20ceramic%20teacup%20that%20is%20decorated%20with%20a%20festive%20red%20and%20green%20holly%20pattern.%20The%20mouse%20is%20covered%20by%20a%20small%20green%20leaf%20blanket.%20The%20teacup%20sits%20on%20a%20saucer%20next%20to%20a%20miniature%20mince%20pie%20on%20a%20wooden%20table%20surface.%20Watercolor%20and%20colored%20pencil%20style.)**
+
+---
+
+### No. 10: Octopus Decorating Coral Christmas Tree
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt creates a whimsical underwater Christmas card featuring a friendly purple octopus decorating a coral 'Christmas tree'. Perfect for unique and playful aquatic-themed holiday greetings.
+
+#### 📝 Câu lệnh
+
+```
+A whimsical underwater Christmas card, aspect ratio 1:1.4. A friendly purple octopus is using all eight arms to decorate a large piece of branching coral that looks like a Christmas tree. It's hanging shiny seashells, starfish, and strings of pearls on the branches. A Santa hat floats just above its head. Bubbles rise against a deep blue ocean background. Cute cartoon style.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780144630_0tscw8_1765693091821-qhhkcy-zJJh_aUBJ0oFVKEJRYbqaxivp889_gQSR09EMCDxvoD8Rg0767xzBB2CWUvdpo3J9NqDaUE_1kVMeq5_SXMzP8DXmFImiJYjewAAAAASUVORK5CYII_" width="600" alt="Octopus Decorating Coral Christmas Tree - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20underwater%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20friendly%20purple%20octopus%20is%20using%20all%20eight%20arms%20to%20decorate%20a%20large%20piece%20of%20branching%20coral%20that%20looks%20like%20a%20Christmas%20tree.%20It's%20hanging%20shiny%20seashells%2C%20starfish%2C%20and%20strings%20of%20pearls%20on%20the%20branches.%20A%20Santa%20hat%20floats%20just%20above%20its%20head.%20Bubbles%20rise%20against%20a%20deep%20blue%20ocean%20background.%20Cute%20cartoon%20style.)**
+
+---
+
+### No. 11: Alpaca Overloaded with Presents
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt creates a cute and chaotic Christmas card featuring a fluffy alpaca overloaded with a precarious stack of Christmas presents. Perfect for humorous and charming holiday greetings.
+
+#### 📝 Câu lệnh
+
+```
+A cute and chaotic Christmas card, aspect ratio 1:1.4. A fluffy white alpaca stands against a solid mint green background. Its back is overloaded with an impossibly tall, precarious stack of colorful wrapped Christmas presents with bows that are wobbling wildly. The alpaca has a patient, slightly strained expression, and its skinny legs are shaking slightly under the weight.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780142631_uo5vj6_1765765458317-2gfkgs-N8AAAAASUVORK5CYII_" width="600" alt="Alpaca Overloaded with Presents - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20chaotic%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20fluffy%20white%20alpaca%20stands%20against%20a%20solid%20mint%20green%20background.%20Its%20back%20is%20overloaded%20with%20an%20impossibly%20tall%2C%20precarious%20stack%20of%20colorful%20wrapped%20Christmas%20presents%20with%20bows%20that%20are%20wobbling%20wildly.%20The%20alpaca%20has%20a%20patient%2C%20slightly%20strained%20expression%2C%20and%20its%20skinny%20legs%20are%20shaking%20slightly%20under%20the%20weight.)**
+
+---
+
+### No. 12: Magical Snowy Owl Delivering Mail
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates a magical Christmas illustration of a snowy owl in flight, carrying a small, elegant red envelope. Ideal for enchanting and whimsical holiday card designs.
+
+#### 📝 Câu lệnh
+
+```
+A magical Christmas illustration, aspect ratio 1:1.4. A fluffy white snowy owl with bright yellow eyes is in mid-flight against a dark blue, star-filled night sky. It carries a small, elegant red envelope sealed with a gold wax seal in its beak. A tiny sprig of holly is tucked behind its ear like a feather. The style is detailed and enchanting.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780138272_3svn17_1765765454815-r02l98-39y3ldSxfTVjYHEu7z6e58eW0dWm0gojHuTEKYhMy9CVualCgiWFmYEOeZiJjb6cPH6LFta5rSVvfacF03UX14_C1AQPVY6_iG5ixRy_G49L2ryc_fL9V3UcvzHA3StFyutw6gQMhMAu4RdVOVkZR795zmOd1uiNHIEHATQCi1sjCRI5IyCQt1FBdiEpEWzYS7U0S0BoAw1qqSmElKb0C" width="600" alt="Magical Snowy Owl Delivering Mail - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20magical%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20fluffy%20white%20snowy%20owl%20with%20bright%20yellow%20eyes%20is%20in%20mid-flight%20against%20a%20dark%20blue%2C%20star-filled%20night%20sky.%20It%20carries%20a%20small%2C%20elegant%20red%20envelope%20sealed%20with%20a%20gold%20wax%20seal%20in%20its%20beak.%20A%20tiny%20sprig%20of%20holly%20is%20tucked%20behind%20its%20ear%20like%20a%20feather.%20The%20style%20is%20detailed%20and%20enchanting.)**
+
+---
+
+### No. 13: Sneaky Raccoons Stealing Santa's Treats
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt creates a funny Christmas card design depicting two sneaky raccoons caught stealing Santa's milk and cookies by a fireplace. Perfect for mischievous and humorous holiday greetings.
+
+#### 📝 Câu lệnh
+
+```
+A funny Christmas card design, aspect ratio 1:1.4. A scene at night by a fireplace. Two sneaky raccoons wearing their natural "bandit mask" markings and tiny Santa hats are caught in the act. One is lifting a glass of milk, and the other has a chocolate chip cookie in its mouth, taken from a plate labeled 'For Santa'. Only their eyes are illuminated by the firelight. Cute, mischievous illustration style.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780135041_hfe6vq_1765693073644-d5i9ho-x9Nt6i6Rt8yVwAAAABJRU5ErkJggg__" width="600" alt="Sneaky Raccoons Stealing Santa's Treats - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20scene%20at%20night%20by%20a%20fireplace.%20Two%20sneaky%20raccoons%20wearing%20their%20natural%20%22bandit%20mask%22%20markings%20and%20tiny%20Santa%20hats%20are%20caught%20in%20the%20act.%20One%20is%20lifting%20a%20glass%20of%20milk%2C%20and%20the%20other%20has%20a%20chocolate%20chip%20cookie%20in%20its%20mouth%2C%20taken%20from%20a%20plate%20labeled%20'For%20Santa'.%20Only%20their%20eyes%20are%20illuminated%20by%20the%20firelight.%20Cute%2C%20mischievous%20illustration%20style.)**
+
+---
+
+### No. 14: Penguin Skiing with Candy Canes
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates a whimsical action illustration for a Christmas card, featuring a cheerful penguin skiing down a snowy slope using peppermint candy canes as skis. Ideal for fun and dynamic holiday designs.
+
+#### 📝 Câu lệnh
+
+```
+A whimsical action illustration for a Christmas card, aspect ratio 1:1.4. A cheerful penguin wearing vintage pilot goggles and a flying red scarf is skiing down a snowy slope. Instead of skis, it is using two large peppermint candy canes. Snow sprays out behind it dynamically. In the background, there are simple cartoon pine trees. Fun, dynamic cartoon style with bold outlines.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780134351_n4c7z8_1765693058708-rcwygl-7E9Izca_arBPzsQsVeY_tbHB5P_b1XUclaVdeBnWEuIkUpFvsQH9zdkMF2TvwTQTlyJnjrmFRkUYxyJkutsbDX8qES7SzaOysAjokruFaeJFHKuvUskoNoPkHU9yMP6fKJqpiG1VSqsgqVWH7qHP4XtomX4vCKzPcAAAAASUVORK5CYII_" width="600" alt="Penguin Skiing with Candy Canes - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20action%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20cheerful%20penguin%20wearing%20vintage%20pilot%20goggles%20and%20a%20flying%20red%20scarf%20is%20skiing%20down%20a%20snowy%20slope.%20Instead%20of%20skis%2C%20it%20is%20using%20two%20large%20peppermint%20candy%20canes.%20Snow%20sprays%20out%20behind%20it%20dynamically.%20In%20the%20background%2C%20there%20are%20simple%20cartoon%20pine%20trees.%20Fun%2C%20dynamic%20cartoon%20style%20with%20bold%20outlines.)**
+
+---
+
+### No. 15: Sleeping Polar Bears
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt creates a heartwarming printable Christmas card featuring a mother polar bear and her cub sleeping soundly in a snowy drift. It's perfect for tender and soft children's book style holiday greetings.
+
+#### 📝 Câu lệnh
+
+```
+A heartwarming printable Christmas card, aspect ratio 1:1.4. A large mother polar bear is lying down fast asleep, curled up in a snowy drift. A tiny polar bear cub is sleeping soundly on her broad back, wearing a miniature red and green striped nightcap. A gentle snowfall surrounds them against a soft light blue background. The style is a tender children's book illustration with soft colors.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780129271_va78dc_1765693057760-ebc124-wFMsnpfYefmXwAAAABJRU5ErkJggg__" width="600" alt="Sleeping Polar Bears - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20heartwarming%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20large%20mother%20polar%20bear%20is%20lying%20down%20fast%20asleep%2C%20curled%20up%20in%20a%20snowy%20drift.%20A%20tiny%20polar%20bear%20cub%20is%20sleeping%20soundly%20on%20her%20broad%20back%2C%20wearing%20a%20miniature%20red%20and%20green%20striped%20nightcap.%20A%20gentle%20snowfall%20surrounds%20them%20against%20a%20soft%20light%20blue%20background.%20The%20style%20is%20a%20tender%20children's%20book%20illustration%20with%20soft%20colors.)**
+
+---
+
+### No. 16: Tuxedo Cat Tangled in Ribbon
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates a funny printable Christmas card illustration of a mischievous tuxedo cat hilariously tangled in gift ribbon and wrapping paper. It's great for lighthearted and playful holiday cards.
+
+#### 📝 Câu lệnh
+
+```
+A funny printable Christmas card illustration, aspect ratio 1:1.4. A mischievous black and white tuxedo cat is comically tangled in a massive explosion of red satin gift ribbon and torn festive wrapping paper on a clean white background. Only its wide, surprised green eyes and one paw are visible from the center of the shiny red chaos. A roll of tape is stuck to its tail. Dynamic cartoon sketch style.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780125816_w7gjzg_1765693040741-mb5eqs-oAAAAASUVORK5CYII_" width="600" alt="Tuxedo Cat Tangled in Ribbon - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20mischievous%20black%20and%20white%20tuxedo%20cat%20is%20comically%20tangled%20in%20a%20massive%20explosion%20of%20red%20satin%20gift%20ribbon%20and%20torn%20festive%20wrapping%20paper%20on%20a%20clean%20white%20background.%20Only%20its%20wide%2C%20surprised%20green%20eyes%20and%20one%20paw%20are%20visible%20from%20the%20center%20of%20the%20shiny%20red%20chaos.%20A%20roll%20of%20tape%20is%20stuck%20to%20its%20tail.%20Dynamic%20cartoon%20sketch%20style.)**
+
+---
+
+### No. 17: Felt Appliqué Fox Cub
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt creates a cozy, tactile Christmas card design that looks like handmade felt appliqué stitching, featuring a cute fox cub in a snowy scene. Perfect for unique and crafty holiday visuals.
+
+#### 📝 Câu lệnh
+
+```
+A cozy, tactile Christmas card design, aspect ratio 1:1.4. The illustration looks entirely like handmade felt appliqué stitching. A cute orange fox cub made of fuzzy felt fabric sits in layers of white felt snow, looking up at a felt Christmas tree decorated with colorful button ornaments. The texture of the wool fibers and the stitching around the edges is clearly visible. The background is a soft blue felt sky.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780125142_vqwzrz_1765765736932-w6b2ti-joqONxdrcec4p_fHzcEeMYCEAsu1E12RDxtS4WrUoVzk5TxaZ73RChrBtc45DncUB98QQAca0k5v8fyjkmeojjTpMAAAAASUVORK5CYII_" width="600" alt="Felt Appliqué Fox Cub - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cozy%2C%20tactile%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20illustration%20looks%20entirely%20like%20handmade%20felt%20appliqu%C3%A9%20stitching.%20A%20cute%20orange%20fox%20cub%20made%20of%20fuzzy%20felt%20fabric%20sits%20in%20layers%20of%20white%20felt%20snow%2C%20looking%20up%20at%20a%20felt%20Christmas%20tree%20decorated%20with%20colorful%20button%20ornaments.%20The%20texture%20of%20the%20wool%20fibers%20and%20the%20stitching%20around%20the%20edges%20is%20clearly%20visible.%20The%20background%20is%20a%20soft%20blue%20felt%20sky.)**
+
+---
+
+### No. 18: Capybara in Japanese Hot Spring
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates a relaxing and cute Christmas illustration of a capybara enjoying a Japanese hot spring. Ideal for serene and unique holiday card designs.
+
+#### 📝 Câu lệnh
+
+```
+A relaxing and cute Christmas illustration, aspect ratio 1:1.4. A chill capybara sits peacefully up to its chest in a steaming Japanese hot spring pool (onsen), surrounded by snow-covered rocks. It wears a small folded towel on its head topped with a Santa hat. A yuzu fruit floats next to it. The style is a warm, soft anime illustration with gentle steam rising.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780123056_v02i28_1765693205572-8w5irf-AXqqyI4m5kpHAAAAAElFTkSuQmCC" width="600" alt="Capybara in Japanese Hot Spring - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20relaxing%20and%20cute%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20chill%20capybara%20sits%20peacefully%20up%20to%20its%20chest%20in%20a%20steaming%20Japanese%20hot%20spring%20pool%20(onsen)%2C%20surrounded%20by%20snow-covered%20rocks.%20It%20wears%20a%20small%20folded%20towel%20on%20its%20head%20topped%20with%20a%20Santa%20hat.%20A%20yuzu%20fruit%20floats%20next%20to%20it.%20The%20style%20is%20a%20warm%2C%20soft%20anime%20illustration%20with%20gentle%20steam%20rising.)**
+
+---
+
+### No. 19: Singing Birds on Holly Branch
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt creates a cute and detailed printable Christmas card featuring five tiny garden birds wearing miniature winter hats and singing on a snow-covered holly branch. Perfect for classic and charming holiday greetings.
+
+#### 📝 Câu lệnh
+
+```
+A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plump garden birds (a robin, a blue tit, a sparrow, a goldfinch, a wren) are perched in a row on a snow-covered holly branch with red berries. Each bird wears a different miniature knitted winter hat (bobble hat, beanie, earflap hat) and they all have their beaks open as if singing. The style is a delicate watercolor and ink drawing on textured paper.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780118971_iq7hcj_1765693200318-bzuqbb-MpYGTqgUNkpuE6DuZTGYkL_OfNSELavqabdsIGBfbwDUkP8Gi2zVV1lQ1BQAAAAASUVORK5CYII_" width="600" alt="Singing Birds on Holly Branch - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20detailed%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20Five%20tiny%2C%20plump%20garden%20birds%20(a%20robin%2C%20a%20blue%20tit%2C%20a%20sparrow%2C%20a%20goldfinch%2C%20a%20wren)%20are%20perched%20in%20a%20row%20on%20a%20snow-covered%20holly%20branch%20with%20red%20berries.%20Each%20bird%20wears%20a%20different%20miniature%20knitted%20winter%20hat%20(bobble%20hat%2C%20beanie%2C%20earflap%20hat)%20and%20they%20all%20have%20their%20beaks%20open%20as%20if%20singing.%20The%20style%20is%20a%20delicate%20watercolor%20and%20ink%20drawing%20on%20textured%20paper.)**
+
+---
+
+### No. 20: Squirrel with Wrapped Acorn
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates a whimsical printable Christmas card featuring a busy red squirrel presenting a meticulously wrapped acorn. It's perfect for unique and charming holiday greetings with a touch of woodland magic.
+
+#### 📝 Câu lệnh
+
+```
+A whimsical printable Christmas card, aspect ratio 1:1.4. A busy red squirrel with fluffy ear tufts stands on a snow-covered tree branch against a pale winter sky. It is holding a single acorn that is meticulously wrapped in tiny red paper with a gold bow, presenting it forward. Behind it, a pile of similarly wrapped acorns is stacked inside a hollow log. The squirrel wears a tiny green knit scarf. Colored pencil texture style.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780115837_0c1gkg_1765692973777-uwo85l-gdvX4ybDwKspAAAAABJRU5ErkJggg__" width="600" alt="Squirrel with Wrapped Acorn - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20busy%20red%20squirrel%20with%20fluffy%20ear%20tufts%20stands%20on%20a%20snow-covered%20tree%20branch%20against%20a%20pale%20winter%20sky.%20It%20is%20holding%20a%20single%20acorn%20that%20is%20meticulously%20wrapped%20in%20tiny%20red%20paper%20with%20a%20gold%20bow%2C%20presenting%20it%20forward.%20Behind%20it%2C%20a%20pile%20of%20similarly%20wrapped%20acorns%20is%20stacked%20inside%20a%20hollow%20log.%20The%20squirrel%20wears%20a%20tiny%20green%20knit%20scarf.%20Colored%20pencil%20texture%20style.)**
+
+---
+
+### No. 21: Corgi Stuck in Chimney
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates a humorous Christmas card illustration featuring a Corgi dog stuck upside down in a chimney. Ideal for a funny and lighthearted holiday message.
+
+#### 📝 Câu lệnh
+
+```
+A humorous Christmas card illustration, flat graphic style, aspect ratio 1:1.4. A red brick chimney stack stands against a dark blue night sky with stars. Stuck upside down in the top opening of the chimney is the fluffy orange and white butt of a Corgi dog, with its short back legs wiggling in the air. A tiny Santa hat is falling off one foot. Smoke puffs out around it in the shape of question marks.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780114922_pdkrnq_1765693026895-9ldmsp-C6BJKp_H09UpAAAAAElFTkSuQmCC" width="600" alt="Corgi Stuck in Chimney - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20humorous%20Christmas%20card%20illustration%2C%20flat%20graphic%20style%2C%20aspect%20ratio%201%3A1.4.%20A%20red%20brick%20chimney%20stack%20stands%20against%20a%20dark%20blue%20night%20sky%20with%20stars.%20Stuck%20upside%20down%20in%20the%20top%20opening%20of%20the%20chimney%20is%20the%20fluffy%20orange%20and%20white%20butt%20of%20a%20Corgi%20dog%2C%20with%20its%20short%20back%20legs%20wiggling%20in%20the%20air.%20A%20tiny%20Santa%20hat%20is%20falling%20off%20one%20foot.%20Smoke%20puffs%20out%20around%20it%20in%20the%20shape%20of%20question%20marks.)**
+
+---
+
+### No. 22: Fluffy Highland Cow with Christmas Lights
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt creates a charming and fuzzy Christmas illustration of a Scottish Highland cow with Christmas lights tangled in its hair and horns. Ideal for rustic and heartwarming holiday designs.
+
+#### 📝 Câu lệnh
+
+```
+A charming and fuzzy Christmas illustration, aspect ratio 1:1.4. A close-up portrait of a super fluffy ginger Scottish Highland cow. Its shaggy hair completely covers its eyes, but colorful tangled Christmas lights that are glowing, and small shiny red baubles, are caught in its bangs and long horns. Light snowflakes dust its fur. The background is a soft, blurred snowy pasture. Painterly, textured style.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780111966_dn1z7i_1765692971551-1i3kzo-B7M7DtPmAsUhAAAAAElFTkSuQmCC" width="600" alt="Fluffy Highland Cow with Christmas Lights - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20and%20fuzzy%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20close-up%20portrait%20of%20a%20super%20fluffy%20ginger%20Scottish%20Highland%20cow.%20Its%20shaggy%20hair%20completely%20covers%20its%20eyes%2C%20but%20colorful%20tangled%20Christmas%20lights%20that%20are%20glowing%2C%20and%20small%20shiny%20red%20baubles%2C%20are%20caught%20in%20its%20bangs%20and%20long%20horns.%20Light%20snowflakes%20dust%20its%20fur.%20The%20background%20is%20a%20soft%2C%20blurred%20snowy%20pasture.%20Painterly%2C%20textured%20style.)**
+
+---
+
+### No. 23: Long Dachshund Christmas Card
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt creates a funny flat vector illustration for a Christmas card, depicting a very long dachshund dog wearing an absurdly long, festive sweater. Ideal for humorous holiday messages and pet-themed cards.
+
+#### 📝 Câu lệnh
+
+```
+A funny flat vector illustration for a Christmas card, aspect ratio 1:1.4. A very long brown dachshund dog stretches horizontally across the entire card against a solid pale blue background. It is wearing an absurdly long, red knitted turtleneck sweater with a repeating pattern of white reindeer and snowflakes. The sweater is so long it sags in the middle, touching the ground. The dog looks content. Text below reads: "Longing for Christmas."
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780099382_hsgl3l_1765692967267-gejgq8-Bek23XMoiWkxAAAAAElFTkSuQmCC" width="600" alt="Long Dachshund Christmas Card - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20flat%20vector%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20very%20long%20brown%20dachshund%20dog%20stretches%20horizontally%20across%20the%20entire%20card%20against%20a%20solid%20pale%20blue%20background.%20It%20is%20wearing%20an%20absurdly%20long%2C%20red%20knitted%20turtleneck%20sweater%20with%20a%20repeating%20pattern%20of%20white%20reindeer%20and%20snowflakes.%20The%20sweater%20is%20so%20long%20it%20sags%20in%20the%20middle%2C%20touching%20the%20ground.%20The%20dog%20looks%20content.%20Text%20below%20reads%3A%20%22Longing%20for%20Christmas.%22)**
+
+---
+
+### No. 24: Whimsical Hedgehog Christmas Card
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates a whimsical printable Christmas card illustration featuring a small, round hedgehog whose spines are comically adorned with tiny Christmas decorations. It's perfect for creating unique and humorous holiday greetings.
+
+#### 📝 Câu lệnh
+
+```
+A whimsical printable Christmas card illustration, aspect ratio 1:1.4. A small, round hedgehog is curled up into a ball on a clean cream background. Its spines are hilariously covered with tiny, colorful Christmas baubles, miniature candy canes, and bits of shiny tinsel that have gotten stuck to them. The hedgehog has a slightly confused but happy expression, with one eye peeking out. The style is a gentle watercolor painting with soft textures.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780101179_ywdvzk_1765693039459-1wv8ex-htP1HdLVAAAAAElFTkSuQmCC" width="600" alt="Whimsical Hedgehog Christmas Card - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20small%2C%20round%20hedgehog%20is%20curled%20up%20into%20a%20ball%20on%20a%20clean%20cream%20background.%20Its%20spines%20are%20hilariously%20covered%20with%20tiny%2C%20colorful%20Christmas%20baubles%2C%20miniature%20candy%20canes%2C%20and%20bits%20of%20shiny%20tinsel%20that%20have%20gotten%20stuck%20to%20them.%20The%20hedgehog%20has%20a%20slightly%20confused%20but%20happy%20expression%2C%20with%20one%20eye%20peeking%20out.%20The%20style%20is%20a%20gentle%20watercolor%20painting%20with%20soft%20textures.)**
+
+---
+
+### No. 25: Kawaii Otters with Candy Cane
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+This prompt generates an adorable printable Christmas card design featuring two cute furry sea otters floating in icy water and holding a large peppermint candy cane. It's perfect for creating sweet, kawaii-style holiday cards.
+
+#### 📝 Câu lệnh
+
+```
+An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry sea otters are floating on their backs in icy blue water, holding paws. Instead of their usual rock, they are jointly holding a large red and white striped peppermint candy cane across their chests. Both wear tiny Santa hats titled on their heads. Soft white ripples surround them. The style is a kawaii cartoon with soft shading.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780100132_xzm77l_1765692974848-ens980-h85hatWrURrnAAAAABJRU5ErkJggg__" width="600" alt="Kawaii Otters with Candy Cane - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Nguồn:** [Twitter Post](null)
+- **Đã xuất bản:** 15 tháng 12, 2025
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20Two%20cute%20furry%20sea%20otters%20are%20floating%20on%20their%20backs%20in%20icy%20blue%20water%2C%20holding%20paws.%20Instead%20of%20their%20usual%20rock%2C%20they%20are%20jointly%20holding%20a%20large%20red%20and%20white%20striped%20peppermint%20candy%20cane%20across%20their%20chests.%20Both%20wear%20tiny%20Santa%20hats%20titled%20on%20their%20heads.%20Soft%20white%20ripples%20surround%20them.%20The%20style%20is%20a%20kawaii%20cartoon%20with%20soft%20shading.)**
+
+---
+
+### No. 26: Thiệp Giáng Sinh Dây Phơi Đồ Của Ông Già Noel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -131,7 +996,7 @@ Một khung cảnh Giáng sinh kỳ ảo và ấm cúng, tỷ lệ khung hình 1
 
 ---
 
-### No. 2: Thiệp Giáng Sinh Hình Con Lười Treo Trên Kẹo Gậy
+### No. 27: Thiệp Giáng Sinh Hình Con Lười Treo Trên Kẹo Gậy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -165,7 +1030,7 @@ Một thiết kế thiệp Giáng sinh đáng yêu có thể in được, tỷ l
 
 ---
 
-### No. 3: Thiệp Giáng Sinh Chú Chó Pug Hóa Trang Thành Yêu Tinh
+### No. 28: Thiệp Giáng Sinh Chú Chó Pug Hóa Trang Thành Yêu Tinh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -199,7 +1064,7 @@ Một hình minh họa vector phẳng, vui nhộn cho thiệp Giáng sinh, tỷ 
 
 ---
 
-### No. 4: Thiệp Giáng sinh Trường học Bay của Tuần lộc
+### No. 29: Thiệp Giáng sinh Trường học Bay của Tuần lộc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -232,7 +1097,7 @@ Một thiết kế thiệp Giáng sinh duyên dáng và hài hước, tỷ lệ 
 
 ---
 
-### No. 5: Thiệp Giáng Sinh Bồn Nước Nóng Kẹo Dẻo
+### No. 30: Thiệp Giáng Sinh Bồn Nước Nóng Kẹo Dẻo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -265,7 +1130,7 @@ Một hình minh họa thiệp Giáng Sinh in được theo phong cách kawaii, 
 
 ---
 
-### No. 6: Thiệp Giáng Sinh Chuột Hamster với Nam Việt Quất
+### No. 31: Thiệp Giáng Sinh Chuột Hamster với Nam Việt Quất
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -298,7 +1163,7 @@ Một hình minh họa thiệp Giáng sinh tinh xảo, có thể in được, th
 
 ---
 
-### No. 7: Thiệp Giáng Sinh Mèo Trong Đèn Giáng Sinh
+### No. 32: Thiệp Giáng Sinh Mèo Trong Đèn Giáng Sinh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -332,7 +1197,7 @@ Một thiết kế thiệp in vui nhộn và dễ thương, tỷ lệ khung hìn
 
 ---
 
-### No. 8: Thiệp Giáng Sinh Lớp Học Yoga Bánh Gừng
+### No. 33: Thiệp Giáng Sinh Lớp Học Yoga Bánh Gừng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -366,7 +1231,7 @@ Một thiết kế thiệp Giáng sinh in được, hài hước và đáng yêu
 
 ---
 
-### No. 9: Thiệp Giáng Sinh Hình Gấu Bắc Cực và Chim Cánh Cụt Quàng Khăn
+### No. 34: Thiệp Giáng Sinh Hình Gấu Bắc Cực và Chim Cánh Cụt Quàng Khăn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -399,7 +1264,7 @@ Một tấm thiệp Giáng sinh ấm áp và kỳ ảo, tỷ lệ khung hình 1:
 
 ---
 
-### No. 10: Phong cảnh cabin tuyết vẽ màu nước
+### No. 35: Phong cảnh cabin tuyết vẽ màu nước
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -433,7 +1298,7 @@ Một phong cảnh màu nước thanh bình, --ar 10:14. Một căn nhà gỗ c�
 
 ---
 
-### No. 11: Thiệp Mandala Bông Tuyết Màu Xanh Hải Quân Sang Trọng
+### No. 36: Thiệp Mandala Bông Tuyết Màu Xanh Hải Quân Sang Trọng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -467,7 +1332,7 @@ Một thiết kế thẻ sang trọng tinh xảo, --ar 10:14. Nền có kết c�
 
 ---
 
-### No. 12: Áp phích Du lịch Cổ điển Cảnh Mùa đông
+### No. 37: Áp phích Du lịch Cổ điển Cảnh Mùa đông
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -501,7 +1366,7 @@ Một tấm thiệp Giáng sinh theo phong cách áp phích du lịch cổ đi�
 
 ---
 
-### No. 13: Cảnh Cửa Sổ Cửa Hàng Đồ Chơi Hoài Cổ
+### No. 38: Cảnh Cửa Sổ Cửa Hàng Đồ Chơi Hoài Cổ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -534,7 +1399,7 @@ Một hình ảnh hoài niệm về cửa sổ một cửa hàng đồ chơi và
 
 ---
 
-### No. 14: Thiệp Giáng sinh Phong cách Hiện đại Giữa thế kỷ
+### No. 39: Thiệp Giáng sinh Phong cách Hiện đại Giữa thế kỷ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -568,7 +1433,7 @@ Một thiết kế hình học cổ điển, --ar 10:14. Những hình ngôi sao
 
 ---
 
-### No. 15: Bưu thiếp Ông già Noel thời Victoria
+### No. 40: Bưu thiếp Ông già Noel thời Victoria
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -602,7 +1467,7 @@ Một hình minh họa kiểu bưu thiếp Giáng sinh Victoria cổ điển, --
 
 ---
 
-### No. 16: Thiệp Giáng Sinh Động Vật Ngủ Gật Xếp Chồng
+### No. 41: Thiệp Giáng Sinh Động Vật Ngủ Gật Xếp Chồng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -635,7 +1500,7 @@ Một hình minh họa hoạt hình dễ thương. Một chồng ba con vật đ
 
 ---
 
-### No. 17: Thẻ Chúc Mừng Giáng Sinh Hình Chim Cánh Cụt Đang Vất Vả Với Đèn Trang Trí
+### No. 42: Thẻ Chúc Mừng Giáng Sinh Hình Chim Cánh Cụt Đang Vất Vả Với Đèn Trang Trí
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -669,7 +1534,7 @@ Một tấm thiệp Giáng sinh in được, dễ thương và hài hước, --a
 
 ---
 
-### No. 18: Thiệp cây thông Noel kiểu chữ hiện đại
+### No. 43: Thiệp cây thông Noel kiểu chữ hiện đại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -703,7 +1568,7 @@ Một tấm thiệp Giáng sinh đồ họa hiện đại, phẳng, --ar 10:14. 
 
 ---
 
-### No. 19: Thiệp Giáng Sinh Sô Cô La Nóng Kawaii
+### No. 44: Thiệp Giáng Sinh Sô Cô La Nóng Kawaii
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -737,7 +1602,7 @@ Một tấm thiệp Giáng sinh phong cách kawaii. Một cốc sô cô la nóng
 
 ---
 
-### No. 20: Người tuyết và những chú chim trên ghế đá công viên
+### No. 45: Người tuyết và những chú chim trên ghế đá công viên
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -776,7 +1641,7 @@ Chi tiết cao, phức tạp, minh họa đẹp, chất lượng in được. --
 
 ---
 
-### No. 21: Thiệp Bạc Hoa Văn Màu Xanh Hải Quân
+### No. 46: Thiệp Bạc Hoa Văn Màu Xanh Hải Quân
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -816,7 +1681,7 @@ Tổng thể thiết kế sạch sẽ, tối giản và tinh tế với bảng m
 
 ---
 
-### No. 22: Thiệp thực vật nghệ thuật dân gian than chì
+### No. 47: Thiệp thực vật nghệ thuật dân gian than chì
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -860,7 +1725,7 @@ Tỷ lệ khung hình 1:1.4.
 
 ---
 
-### No. 23: Chân Dung Gia Đình Người Tuyết Màu Nước
+### No. 48: Chân Dung Gia Đình Người Tuyết Màu Nước
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -906,7 +1771,7 @@ Thiết kế tổng thể ấm áp, tinh tế và mang không khí lễ hội. M
 
 ---
 
-### No. 24: Gia Đình Người Tuyết Bốn Thành Viên Cá Nhân Hóa
+### No. 49: Gia Đình Người Tuyết Bốn Thành Viên Cá Nhân Hóa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -952,7 +1817,7 @@ Hình ảnh là một thiết kế thiệp chúc mừng có độ phân giải c
 
 ---
 
-### No. 25: Cây cọ rửa chai cầu vồng
+### No. 50: Cây cọ rửa chai cầu vồng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -993,7 +1858,7 @@ Các cây có chiều cao hơi khác nhau, tạo thành một đường cong nh�
 
 ---
 
-### No. 26: Cây Vàng Hoa Văn Tinh Xảo Trên Nền Xanh
+### No. 51: Cây Vàng Hoa Văn Tinh Xảo Trên Nền Xanh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1035,7 +1900,7 @@ Phong cách tổng thể hiện đại, tối giản và rất thanh lịch. Min
 
 ---
 
-### No. 27: Tất Giáng Sinh Cá Nhân Hóa Vẽ Màu Nước
+### No. 52: Tất Giáng Sinh Cá Nhân Hóa Vẽ Màu Nước
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1077,7 +1942,7 @@ Thiết kế tổng thể là một hình minh họa 2D phẳng, với bố cụ
 
 ---
 
-### No. 28: Nhân Vật Disney Cổ Điển Mùa Giáng Sinh
+### No. 53: Nhân Vật Disney Cổ Điển Mùa Giáng Sinh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1119,7 +1984,7 @@ Một nhóm các nhân vật Disney được yêu thích, tất cả đều mặ
 
 ---
 
-### No. 29: Bó Hoa Cắt Dập Phong Cách Victoria
+### No. 54: Bó Hoa Cắt Dập Phong Cách Victoria
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1161,7 +2026,7 @@ Toàn bộ hình ảnh là một cái nhìn phẳng, trực diện, được th�
 
 ---
 
-### No. 30: Phòng Khách Giáng Sinh Ấm Cúng Với Tranh Màu Nước
+### No. 55: Phòng Khách Giáng Sinh Ấm Cúng Với Tranh Màu Nước
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1198,7 +2063,7 @@ Phong cách tổng thể nhẹ nhàng và thoáng đãng, với bảng màu dị
 
 ---
 
-### No. 31: Cây thông Giáng sinh nốt nhạc
+### No. 56: Cây thông Giáng sinh nốt nhạc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1240,7 +2105,7 @@ Phong cách tổng thể là một hình minh họa đồ họa 2D phẳng, đơ
 
 ---
 
-### No. 32: Vòng hoa Holly cổ điển thập niên 1950
+### No. 57: Vòng hoa Holly cổ điển thập niên 1950
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1282,7 +2147,7 @@ Thiết kế đồ họa 2D phẳng, độ phân giải cao. --ar 1:1.4
 
 ---
 
-### No. 33: Cây thông phủ tuyết phong cách giữa thế kỷ trên nền xanh
+### No. 58: Cây thông phủ tuyết phong cách giữa thế kỷ trên nền xanh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1322,7 +2187,7 @@ Thiết kế tinh xảo và có thể in được, minh họa đồ họa phẳn
 
 ---
 
-### No. 34: Vớ Nghệ thuật Dân gian dành cho Người thân Đặc biệt
+### No. 59: Vớ Nghệ thuật Dân gian dành cho Người thân Đặc biệt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1364,7 +2229,7 @@ Nền được rắc các chấm và tia sáng màu vàng, tạo không khí huy
 
 ---
 
-### No. 35: Cây Cầu Vồng Tối Giản Nét Cọ
+### No. 60: Cây Cầu Vồng Tối Giản Nét Cọ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1400,7 +2265,7 @@ Bên dưới cây thông, dòng chữ '{argument name="text" default="Merry Chri
 
 ---
 
-### No. 36: Đêm đầy sao Giáng sinh của Van Gogh
+### No. 61: Đêm đầy sao Giáng sinh của Van Gogh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1440,7 +2305,7 @@ Màu sắc sống động, chi tiết cao, tinh tế, chất lượng in đượ
 
 ---
 
-### No. 37: Snoopy Phong Cách Peanuts và Bít Tất
+### No. 62: Snoopy Phong Cách Peanuts và Bít Tất
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1480,7 +2345,7 @@ Phần dưới của tấm thiệp có một cây thông Noel lớn, cách đi�
 
 ---
 
-### No. 38: Vòng hoa trang trí bít tất màu nước kỳ ảo
+### No. 63: Vòng hoa trang trí bít tất màu nước kỳ ảo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1520,7 +2385,7 @@ Toàn bộ bố cục phẳng, 2D, căn giữa và nhìn từ phía trước, t�
 
 ---
 
-### No. 39: Rừng Mùa Đông Giữa Thế Kỷ với Lời Bài Hát
+### No. 64: Rừng Mùa Đông Giữa Thế Kỷ với Lời Bài Hát
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1566,7 +2431,7 @@ Tổng thể thẩm mỹ quyến rũ và hoài cổ, sử dụng bảng màu gi�
 
 ---
 
-### No. 40: Cây thông Giáng sinh Cầu vồng Hiện đại
+### No. 65: Cây thông Giáng sinh Cầu vồng Hiện đại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1606,7 +2471,7 @@ Tổng thể mang tính thẩm mỹ tối giản, hòa nhập và tràn đầy k
 
 ---
 
-### No. 41: Cây phủ tuyết với đồ trang trí màu đỏ và hiệu ứng Bokeh
+### No. 66: Cây phủ tuyết với đồ trang trí màu đỏ và hiệu ứng Bokeh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1646,7 +2511,7 @@ Trên nền bokeh ở bên phải, lời chúc {argument name="greeting" default
 
 ---
 
-### No. 42: Cây thực vật màu vàng và đỏ tía sang trọng
+### No. 67: Cây thực vật màu vàng và đỏ tía sang trọng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1686,7 +2551,7 @@ Phong cách tổng thể là cổ điển, sang trọng và rất chi tiết. Mi
 
 ---
 
-### No. 43: Cây trừu tượng đen và vàng sang trọng
+### No. 68: Cây trừu tượng đen và vàng sang trọng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1726,7 +2591,7 @@ Tổng thể thiết kế có độ tương phản cao, sang trọng và tinh t�
 
 ---
 
-### No. 44: Cây Phả Hệ Kiểu Chữ Doanh Nghiệp
+### No. 69: Cây Phả Hệ Kiểu Chữ Doanh Nghiệp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1768,7 +2633,7 @@ Bên dưới cây thông, căn giữa ở phía dưới, là văn bản tùy ch�
 
 ---
 
-### No. 45: Vòng Hoa Thông Vẽ Tay Phong Cách Mộc Mạc
+### No. 70: Vòng Hoa Thông Vẽ Tay Phong Cách Mộc Mạc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1808,7 +2673,7 @@ Tổng thể thẩm mỹ sạch sẽ, lễ hội và ấm áp với chất lư�
 
 ---
 
-### No. 46: Đường phố Giáng sinh thành phố thập niên 1950 cổ điển
+### No. 71: Đường phố Giáng sinh thành phố thập niên 1950 cổ điển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1846,7 +2711,7 @@ Vỉa hè đông đúc những người mua sắm vui vẻ trong trang phục m�
 
 ---
 
-### No. 47: Ông già Noel thời Victoria trên ban công sân thượng
+### No. 72: Ông già Noel thời Victoria trên ban công sân thượng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1890,7 +2755,7 @@ Tinh xảo và rất chi tiết, chất lượng in được, tỷ lệ khung h�
 
 ---
 
-### No. 48: Cây Cắt Giấy Xếp Lớp
+### No. 73: Cây Cắt Giấy Xếp Lớp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1930,7 +2795,7 @@ Hai bên giữa cây thông là hai bông tuyết cắt khuôn màu trắng tinh
 
 ---
 
-### No. 49: Khuôn Mặt Tuần Lộc Vẽ Tay Dễ Thương
+### No. 74: Khuôn Mặt Tuần Lộc Vẽ Tay Dễ Thương
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1970,7 +2835,7 @@ Tổng thể mang tính thẩm mỹ sạch sẽ, kỳ ảo và hoàn hảo cho m
 
 ---
 
-### No. 50: Trẻ em trượt tuyết cổ điển
+### No. 75: Trẻ em trượt tuyết cổ điển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2010,7 +2875,7 @@ Phông nền là một khu rừng mùa đông cổ kính với những cây ph�
 
 ---
 
-### No. 51: Ông già Noel hài hước trên biển báo Bắc Cực
+### No. 76: Ông già Noel hài hước trên biển báo Bắc Cực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2050,7 +2915,7 @@ Phông nền là bầu trời màu xanh ngọc lam rực rỡ với những hạ
 
 ---
 
-### No. 52: Đèn và Dây Hoa Trang Trí Phong Cách Giữa Thế Kỷ Cổ Điển
+### No. 77: Đèn và Dây Hoa Trang Trí Phong Cách Giữa Thế Kỷ Cổ Điển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2092,7 +2957,7 @@ Tổng thể thẩm mỹ là sạch sẽ, đồ họa và hoài cổ một cách
 
 ---
 
-### No. 53: Ông già Noel cổ điển ra hiệu im lặng vào ban đêm
+### No. 78: Ông già Noel cổ điển ra hiệu im lặng vào ban đêm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2134,7 +2999,7 @@ Những bông tuyết dày, mềm mại rơi từ bầu trời đêm xanh thẳm
 
 ---
 
-### No. 54: Buổi Tụ Họp Kỳ Lạ Của Các Loài Động Vật Rừng
+### No. 79: Buổi Tụ Họp Kỳ Lạ Của Các Loài Động Vật Rừng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2178,7 +3043,7 @@ Phông nền gồm những cây thường xanh và cây bạch dương trơ tr�
 
 ---
 
-### No. 55: Rừng Phát Sáng Huyền Ảo và Người Tuyết
+### No. 80: Rừng Phát Sáng Huyền Ảo và Người Tuyết
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2218,7 +3083,7 @@ Chất lượng ảnh chân thực với nét kỳ ảo, chi tiết cao, ánh s�
 
 ---
 
-### No. 56: Trở về nhà theo phong cách Hiện đại giữa thế kỷ
+### No. 81: Trở về nhà theo phong cách Hiện đại giữa thế kỷ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2262,7 +3127,7 @@ Phong cách được cách điệu và hoài cổ, với cảm giác đồ họa
 
 ---
 
-### No. 57: Tuần Lộc Nghệ Thuật Dân Gian Bắc Âu Hiện Đại
+### No. 82: Tuần Lộc Nghệ Thuật Dân Gian Bắc Âu Hiện Đại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2306,7 +3171,7 @@ Tinh xảo, có thể in được, tỷ lệ khung hình 1:1.4.
 
 ---
 
-### No. 58: Thiệp Art Deco màu Đỏ tía và Vàng
+### No. 83: Thiệp Art Deco màu Đỏ tía và Vàng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2348,7 +3213,7 @@ Toàn bộ thiết kế được bao quanh bởi một đường viền đôi m�
 
 ---
 
-### No. 59: Cảnh Mùa Đông Cổ Điển Với Người Tuyết
+### No. 84: Cảnh Mùa Đông Cổ Điển Với Người Tuyết
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2394,7 +3259,7 @@ Tổng thể mang tính thẩm mỹ phẳng, 2D, quyến rũ và hoài cổ, v�
 
 ---
 
-### No. 60: Trẻ em thời Victoria và Người tuyết
+### No. 85: Trẻ em thời Victoria và Người tuyết
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2434,7 +3299,7 @@ Toàn bộ hình minh họa có kết cấu mềm mại, chấm chấm và cảm
 
 ---
 
-### No. 61: Mực và Màu nước thực vật tối giản
+### No. 86: Mực và Màu nước thực vật tối giản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2474,7 +3339,7 @@ Minh họa 2D phẳng, độ phân giải cao, hoàn hảo để in.
 
 ---
 
-### No. 62: Mèo con in thạch bản màu cổ điển
+### No. 87: Mèo con in thạch bản màu cổ điển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2512,7 +3377,7 @@ Tổng thể mang lại cảm giác quyến rũ và hoài cổ, với bộ lông
 
 ---
 
-### No. 63: Cây thông Giáng sinh chấm màu hiện đại
+### No. 88: Cây thông Giáng sinh chấm màu hiện đại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2551,7 +3416,7 @@ Thiết kế nên lấp đầy khung hình, được tạo ở tỷ lệ khung h
 
 ---
 
-### No. 64: Gấu Bắc Cực Mẹ Và Con Tranh Màu Nước
+### No. 89: Gấu Bắc Cực Mẹ Và Con Tranh Màu Nước
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2591,7 +3456,7 @@ Minh họa 2D phẳng, duyên dáng và nghệ thuật, chi tiết cao.
 
 ---
 
-### No. 65: Kawaii Pink Pig và Gingerbread Doodle
+### No. 90: Kawaii Pink Pig và Gingerbread Doodle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2630,7 +3495,7 @@ Bầu trời xanh nhạt đầy tuyết rơi, và một ông già Noel bánh g�
 
 ---
 
-### No. 66: Gấu Bắc Cực dưới Cực quang
+### No. 91: Gấu Bắc Cực dưới Cực quang
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2672,7 +3537,7 @@ Tác phẩm nghệ thuật theo phong cách màu nước và màu bột duyên d
 
 ---
 
-### No. 67: Bộ Ba Bánh Quy Gừng
+### No. 92: Bộ Ba Bánh Quy Gừng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2712,7 +3577,7 @@ Thiết kế sạch sẽ, với đường viền đậm và bảng màu lễ h�
 
 ---
 
-### No. 68: Thẻ Doanh Nghiệp Đen Vàng Sang Trọng
+### No. 93: Thẻ Doanh Nghiệp Đen Vàng Sang Trọng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2752,7 +3617,7 @@ Tổng thể mang tính thẩm mỹ tinh tế và trang trọng, với sự tư�
 
 ---
 
-### No. 69: Ông già Noel màu nước với không gian để viết chữ
+### No. 94: Ông già Noel màu nước với không gian để viết chữ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2792,7 +3657,7 @@ Những bông tuyết tinh tế và những chấm trắng mềm mại nhẹ nh�
 
 ---
 
-### No. 70: Cáo Lễ Hội Màu Nước Tối Giản
+### No. 95: Cáo Lễ Hội Màu Nước Tối Giản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2829,7 +3694,7 @@ Tác phẩm nghệ thuật được thể hiện theo phong cách màu nước c
 
 ---
 
-### No. 71: Bánh gừng "Ôi thôi rồi" hài hước
+### No. 96: Bánh gừng "Ôi thôi rồi" hài hước
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2870,7 +3735,7 @@ Phong cách tổng thể là một hình minh họa vector phẳng, sạch sẽ 
 
 ---
 
-### No. 72: Những chú chim cánh cụt màu nước đáng yêu trong tuyết
+### No. 97: Những chú chim cánh cụt màu nước đáng yêu trong tuyết
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2909,7 +3774,7 @@ Nền thiệp có màu xanh mòng két (teal-blue) đồng nhất, nhẹ nhàng 
 
 ---
 
-### No. 73: Nghệ thuật dân gian Scandinavian màu xanh hải quân và kem
+### No. 98: Nghệ thuật dân gian Scandinavian màu xanh hải quân và kem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2946,7 +3811,7 @@ Tác phẩm nghệ thuật là một hình minh họa vector 2D phẳng với c�
 
 ---
 
-### No. 74: Thiệp Đèn Dây Màu Xanh Navy Tối Giản
+### No. 99: Thiệp Đèn Dây Màu Xanh Navy Tối Giản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2987,7 +3852,7 @@ Phong cách tổng thể là phẳng, đồ họa, tối giản và ấm áp.
 
 ---
 
-### No. 75: Bánh Gừng Bị Thương Ngộ Nghĩnh
+### No. 100: Bánh Gừng Bị Thương Ngộ Nghĩnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3029,7 +3894,7 @@ Bên dưới hình minh họa, cụm từ {argument name="text" default="CHEERS 
 
 ---
 
-### No. 76: Dây Đèn Trang Trí Màu Xanh Nước Biển Vẽ Màu Nước
+### No. 101: Dây Đèn Trang Trí Màu Xanh Nước Biển Vẽ Màu Nước
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3071,7 +3936,7 @@ Tổng thể thẩm mỹ là phẳng, đồ họa và hiện đại với nét �
 
 ---
 
-### No. 77: Tuần Lộc Nghệ Thuật Dân Gian Đối Xứng
+### No. 102: Tuần Lộc Nghệ Thuật Dân Gian Đối Xứng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3112,7 +3977,7 @@ Chi tiết cao, quyến rũ và ấm áp, tỷ lệ khung hình 1:1.4.
 
 ---
 
-### No. 78: Bông tuyết lấp lánh màu xanh hải quân và bạc
+### No. 103: Bông tuyết lấp lánh màu xanh hải quân và bạc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3152,7 +4017,7 @@ Một bông tuyết kim tuyến bạc rất lớn, cực kỳ chi tiết đóng 
 
 ---
 
-### No. 79: Ông già Noel và Động vật Rừng theo phong cách hội họa cổ điển
+### No. 104: Ông già Noel và Động vật Rừng theo phong cách hội họa cổ điển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3193,7 +4058,7 @@ Những bông tuyết nhẹ nhàng rơi trong không khí, phủ trắng toàn b
 
 ---
 
-### No. 80: Vòng Hoa Vàng Hiện Đại Với Chữ Ép Kim
+### No. 105: Vòng Hoa Vàng Hiện Đại Với Chữ Ép Kim
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3233,7 +4098,7 @@ Phong cách tổng thể tinh xảo, cao cấp và tôn vinh kết cấu với k
 
 ---
 
-### No. 81: Chuông Giáng Sinh Xoắn Giấy
+### No. 106: Chuông Giáng Sinh Xoắn Giấy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3273,7 +4138,7 @@ Tổng thể thẩm mỹ mang phong cách thủ công, lễ hội và cực kỳ
 
 ---
 
-### No. 82: Nhà thờ Làng Mùa đông Tranh màu nước Cổ điển
+### No. 107: Nhà thờ Làng Mùa đông Tranh màu nước Cổ điển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3315,7 +4180,7 @@ Minh họa mỹ thuật, chi tiết, độ phân giải cao, kết cấu mềm m
 
 ---
 
-### No. 83: Những Loài Động Vật Rừng Bình Yên Vào Ban Đêm
+### No. 108: Những Loài Động Vật Rừng Bình Yên Vào Ban Đêm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3356,7 +4221,7 @@ Phía sau là một khu rừng thông phủ tuyết ở xa. Ánh sáng dịu nh�
 
 ---
 
-### No. 84: Cây thông Noel chậu nước màu trang nhã
+### No. 109: Cây thông Noel chậu nước màu trang nhã
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3395,7 +4260,7 @@ Phong cách tổng thể mềm mại và được vẽ bằng tay, với những
 
 ---
 
-### No. 85: Thiệp bông tuyết màu nước tối giản
+### No. 110: Thiệp bông tuyết màu nước tối giản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3437,7 +4302,7 @@ Phong cách tổng thể tối giản, nghệ thuật và thanh bình, mang lạ
 
 ---
 
-### No. 86: Đồ Họa Treo Trang Trí Tối Giản
+### No. 111: Đồ Họa Treo Trang Trí Tối Giản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3477,7 +4342,7 @@ Nằm chính giữa bên dưới các món đồ trang trí, dòng chữ {argume
 
 ---
 
-### No. 87: Phong cảnh mùa đông dập nổi với dải ruy băng đỏ
+### No. 112: Phong cảnh mùa đông dập nổi với dải ruy băng đỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3517,7 +4382,7 @@ Toàn bộ bố cục được trình bày như một bức tranh trên giấy b
 
 ---
 
-### No. 88: Ngôi nhà nhỏ mùa đông vẽ tay ngây thơ
+### No. 113: Ngôi nhà nhỏ mùa đông vẽ tay ngây thơ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3559,7 +4424,7 @@ Toàn bộ hình ảnh là một minh họa 2D phẳng với đường viền đ
 
 ---
 
-### No. 89: Cây thông Noel lá vàng và xanh mòng két hiện đại
+### No. 114: Cây thông Noel lá vàng và xanh mòng két hiện đại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3599,7 +4464,7 @@ Tác phẩm nghệ thuật có thiết kế phẳng hiện đại với kết c�
 
 ---
 
-### No. 90: Cây thông Giáng sinh với những vệt sơn trừu tượng
+### No. 115: Cây thông Giáng sinh với những vệt sơn trừu tượng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3638,7 +4503,7 @@ Phong cách sạch sẽ, lễ hội và nghệ thuật. Một hình minh họa �
 
 ---
 
-### No. 91: Tuần lộc và chim cổ đỏ vẽ màu nước tối giản
+### No. 116: Tuần lộc và chim cổ đỏ vẽ màu nước tối giản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3671,7 +4536,7 @@ Một thiết kế thiệp Giáng sinh đầy ngẫu hứng và ấm áp, với 
 
 ---
 
-### No. 92: Tuần Lộc Con Dễ Thương Với Tên Riêng Cá Nhân Hóa
+### No. 117: Tuần Lộc Con Dễ Thương Với Tên Riêng Cá Nhân Hóa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3711,7 +4576,7 @@ Nền là màu trắng trơn, sạch sẽ.
 
 ---
 
-### No. 93: Tranh Người Tuyết Nghệ Thuật Dân Gian Nguyên Thủy
+### No. 118: Tranh Người Tuyết Nghệ Thuật Dân Gian Nguyên Thủy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3750,7 +4615,7 @@ Phong cách nguyên thủy, phẳng và vẽ tay, với tâm trạng ấm áp v�
 
 ---
 
-### No. 94: Thiệp Hươu và Chuồng Trại Màu Nước Thanh Bình
+### No. 119: Thiệp Hươu và Chuồng Trại Màu Nước Thanh Bình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3790,7 +4655,7 @@ Tâm trạng tổng thể là bình yên và thiêng liêng. Bảng màu bao g�
 
 ---
 
-### No. 95: Ông già Noel cắt giấy và đắp vải nỉ
+### No. 120: Ông già Noel cắt giấy và đắp vải nỉ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3831,202 +4696,29 @@ Toàn bộ cảnh được đóng khung bằng đường viền lá vàng đôi 
 
 ---
 
-### No. 96: Thiệp Bánh Gừng Tham Ăn Ngộ Nghĩnh
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một bức tranh hoạt hình hài hước theo phong cách kawaii về một người bánh gừng khổng lồ đang nhồi nhét bánh pudding Giáng Sinh. Bức tranh có một trường văn bản tùy chỉnh vui nhộn để bạn điền lời chúc Giáng Sinh hài hước.
-
-#### 📝 Câu lệnh
-
-```
-Một hình minh họa thiệp chúc mừng chất lượng cao, có thể in được, tỷ lệ khung hình 1:1.4, theo phong cách hoạt hình kawaii dễ thương và hài hước với đường viền đen rõ nét.
-
-Bối cảnh là một nền màu xanh nhạt, đồng nhất với những chấm trắng nhỏ tượng trưng cho tuyết rơi nhẹ nhàng.
-
-Ở giữa phía dưới khung hình là một người bánh gừng khổng lồ, béo phì một cách hài hước, đội một chiếc mũ ông già Noel nhỏ màu đỏ và trắng. Miệng anh ta há rộng trong tiếng hét tham ăn khi nhét một chiếc bánh pudding Giáng sinh vào. Anh ta có hai chiếc cúc kẹo màu đỏ trên cái bụng to lớn của mình.
-
-Anh ta được bao quanh bởi một đống bánh pudding Giáng sinh khổng lồ, với nhiều bánh pudding khác dính một cách hài hước vào cơ thể anh ta. Một người bánh gừng nhỏ, kiểu cổ điển đứng dưới chân anh ta, nhìn lên với vẻ sốc và hai tay giơ cao. Trên vai người khổng lồ, một nhân vật heo con màu hồng nhỏ xíu với một chiếc lá nhựa ruồi trên đầu đang nhìn với vẻ lo lắng.
-
-Mỗi chiếc bánh pudding Giáng sinh được chi tiết với lớp kem trắng chảy xuống và một cành nhựa ruồi nhỏ trên đỉnh. Phong cách tổng thể là phẳng với độ đổ bóng tối thiểu, nhấn mạnh tính dễ thương và hài hước của cảnh.
-
-Ở cuối thiệp, căn giữa, là văn bản tùy chỉnh bằng phông chữ viết tay vui nhộn: {argument name="text" default="Seasons Eatings!"}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592682065_v38f1e_93648d6abd8060ac793c4f839dfc4b1d0d156ca96c1e045f7ceab59c6426e3c0" width="600" alt="Thiệp Bánh Gừng Tham Ăn Ngộ Nghĩnh - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Nguồn:** [Twitter Post](null)
-- **Đã xuất bản:** 13 tháng 12, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20thi%E1%BB%87p%20ch%C3%BAc%20m%E1%BB%ABng%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20cao%2C%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%2C%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20kawaii%20d%E1%BB%85%20th%C6%B0%C6%A1ng%20v%C3%A0%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20v%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%9Dng%20vi%E1%BB%81n%20%C4%91en%20r%C3%B5%20n%C3%A9t.%0A%0AB%E1%BB%91i%20c%E1%BA%A3nh%20l%C3%A0%20m%E1%BB%99t%20n%E1%BB%81n%20m%C3%A0u%20xanh%20nh%E1%BA%A1t%2C%20%C4%91%E1%BB%93ng%20nh%E1%BA%A5t%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ch%E1%BA%A5m%20tr%E1%BA%AFng%20nh%E1%BB%8F%20t%C6%B0%E1%BB%A3ng%20tr%C6%B0ng%20cho%20tuy%E1%BA%BFt%20r%C6%A1i%20nh%E1%BA%B9%20nh%C3%A0ng.%0A%0A%E1%BB%9E%20gi%E1%BB%AFa%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%20khung%20h%C3%ACnh%20l%C3%A0%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20b%C3%A1nh%20g%E1%BB%ABng%20kh%E1%BB%95ng%20l%E1%BB%93%2C%20b%C3%A9o%20ph%C3%AC%20m%E1%BB%99t%20c%C3%A1ch%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%2C%20%C4%91%E1%BB%99i%20m%E1%BB%99t%20chi%E1%BA%BFc%20m%C5%A9%20%C3%B4ng%20gi%C3%A0%20Noel%20nh%E1%BB%8F%20m%C3%A0u%20%C4%91%E1%BB%8F%20v%C3%A0%20tr%E1%BA%AFng.%20Mi%E1%BB%87ng%20anh%20ta%20h%C3%A1%20r%E1%BB%99ng%20trong%20ti%E1%BA%BFng%20h%C3%A9t%20tham%20%C4%83n%20khi%20nh%C3%A9t%20m%E1%BB%99t%20chi%E1%BA%BFc%20b%C3%A1nh%20pudding%20Gi%C3%A1ng%20sinh%20v%C3%A0o.%20Anh%20ta%20c%C3%B3%20hai%20chi%E1%BA%BFc%20c%C3%BAc%20k%E1%BA%B9o%20m%C3%A0u%20%C4%91%E1%BB%8F%20tr%C3%AAn%20c%C3%A1i%20b%E1%BB%A5ng%20to%20l%E1%BB%9Bn%20c%E1%BB%A7a%20m%C3%ACnh.%0A%0AAnh%20ta%20%C4%91%C6%B0%E1%BB%A3c%20bao%20quanh%20b%E1%BB%9Fi%20m%E1%BB%99t%20%C4%91%E1%BB%91ng%20b%C3%A1nh%20pudding%20Gi%C3%A1ng%20sinh%20kh%E1%BB%95ng%20l%E1%BB%93%2C%20v%E1%BB%9Bi%20nhi%E1%BB%81u%20b%C3%A1nh%20pudding%20kh%C3%A1c%20d%C3%ADnh%20m%E1%BB%99t%20c%C3%A1ch%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20v%C3%A0o%20c%C6%A1%20th%E1%BB%83%20anh%20ta.%20M%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20b%C3%A1nh%20g%E1%BB%ABng%20nh%E1%BB%8F%2C%20ki%E1%BB%83u%20c%E1%BB%95%20%C4%91i%E1%BB%83n%20%C4%91%E1%BB%A9ng%20d%C6%B0%E1%BB%9Bi%20ch%C3%A2n%20anh%20ta%2C%20nh%C3%ACn%20l%C3%AAn%20v%E1%BB%9Bi%20v%E1%BA%BB%20s%E1%BB%91c%20v%C3%A0%20hai%20tay%20gi%C6%A1%20cao.%20Tr%C3%AAn%20vai%20ng%C6%B0%E1%BB%9Di%20kh%E1%BB%95ng%20l%E1%BB%93%2C%20m%E1%BB%99t%20nh%C3%A2n%20v%E1%BA%ADt%20heo%20con%20m%C3%A0u%20h%E1%BB%93ng%20nh%E1%BB%8F%20x%C3%ADu%20v%E1%BB%9Bi%20m%E1%BB%99t%20chi%E1%BA%BFc%20l%C3%A1%20nh%E1%BB%B1a%20ru%E1%BB%93i%20tr%C3%AAn%20%C4%91%E1%BA%A7u%20%C4%91ang%20nh%C3%ACn%20v%E1%BB%9Bi%20v%E1%BA%BB%20lo%20l%E1%BA%AFng.%0A%0AM%E1%BB%97i%20chi%E1%BA%BFc%20b%C3%A1nh%20pudding%20Gi%C3%A1ng%20sinh%20%C4%91%C6%B0%E1%BB%A3c%20chi%20ti%E1%BA%BFt%20v%E1%BB%9Bi%20l%E1%BB%9Bp%20kem%20tr%E1%BA%AFng%20ch%E1%BA%A3y%20xu%E1%BB%91ng%20v%C3%A0%20m%E1%BB%99t%20c%C3%A0nh%20nh%E1%BB%B1a%20ru%E1%BB%93i%20nh%E1%BB%8F%20tr%C3%AAn%20%C4%91%E1%BB%89nh.%20Phong%20c%C3%A1ch%20t%E1%BB%95ng%20th%E1%BB%83%20l%C3%A0%20ph%E1%BA%B3ng%20v%E1%BB%9Bi%20%C4%91%E1%BB%99%20%C4%91%E1%BB%95%20b%C3%B3ng%20t%E1%BB%91i%20thi%E1%BB%83u%2C%20nh%E1%BA%A5n%20m%E1%BA%A1nh%20t%C3%ADnh%20d%E1%BB%85%20th%C6%B0%C6%A1ng%20v%C3%A0%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20c%E1%BB%A7a%20c%E1%BA%A3nh.%0A%0A%E1%BB%9E%20cu%E1%BB%91i%20thi%E1%BB%87p%2C%20c%C4%83n%20gi%E1%BB%AFa%2C%20l%C3%A0%20v%C4%83n%20b%E1%BA%A3n%20t%C3%B9y%20ch%E1%BB%89nh%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20vui%20nh%E1%BB%99n%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Seasons%20Eatings!%22%7D)**
-
 ---
 
-### No. 97: Nghệ thuật dân gian Gnome Scandinavia và Cáo đỏ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một hình minh họa nghệ thuật dân gian kỳ ảo, vẽ một chú lùn Scandinavia (Tomte) đang đi cùng một con cáo đỏ xuyên qua khu rừng tuyết phủ vào ban đêm. Phong cách truyện cổ tích đầy mê hoặc này rất phù hợp cho một tấm thiệp Giáng sinh ấm áp.
-
-#### 📝 Câu lệnh
-
-```
-Một hình minh họa Giáng Sinh kỳ ảo và mê hoặc theo phong cách nghệ thuật dân gian, truyện cổ tích tuyệt đẹp. Một ông già Noel người lùn Scandinavia (Tomte) nhỏ bé bước đi trong khu rừng tuyết phủ vào đêm khuya. Ông mặc một chiếc áo khoác đỏ đơn giản và đội một chiếc mũ đỏ chóp nhọn, khuôn mặt gần như bị che khuất bởi bộ râu trắng dài, bồng bềnh. Ông vác một chiếc bao lớn trên vai, chứa đầy những món quà được gói ghém rực rỡ, và cầm một chiếc đèn lồng phát sáng chiếu ánh sáng ấm áp, kỳ diệu xuống lớp tuyết bên dưới.
-
-Một con cáo đỏ thân thiện và thanh lịch với chiếc đuôi rậm và ngực trắng bước đi duyên dáng bên cạnh ông già Noel, nhìn thẳng vào người xem. Chúng được bao quanh bởi một khu rừng rậm rạp gồm những cây thông cách điệu, phủ đầy tuyết với các sắc thái xanh đậm. Bầu trời đêm có màu chàm sẫm, với một vầng trăng lưỡi liềm tinh tế và những bông tuyết rơi nhẹ nhàng. Khung cảnh thanh bình, kỳ diệu và ấm lòng.
-
-Kết cấu như tranh vẽ, màu sắc phong phú, chi tiết tinh xảo, hoàn hảo để in. Hình minh họa 2D phẳng. --ar 1:1.4
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
+## 📚 Thêm câu lệnh có sẵn
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592680716_zmo7vz_1765541650655-hwc2pb-LEDlE2LavQ0YM6a6mZooIf3x87L3fPzz8B_tFrwRUSmSvAAAAAElFTkSuQmCC" width="600" alt="Nghệ thuật dân gian Gnome Scandinavia và Cáo đỏ - Image 1">
+
+### 🎯 5 câu lệnh khác không hiển thị ở đây
+
+Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
+
+**[👉 Xem tất cả câu lệnh trong thư viện web của chúng tôi](https://youmind.com/tools/christmas-cards-maker)**
+
+The gallery features:
+
+✨ Bố cục lưới Masonry đẹp mắt
+
+🔍 Tìm kiếm toàn văn và bộ lọc
+
+🌍 Hỗ trợ 17 ngôn ngữ
+
+📱 Trải nghiệm tối ưu cho di động
+
 </div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Nguồn:** [Twitter Post](null)
-- **Đã xuất bản:** 13 tháng 12, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20Gi%C3%A1ng%20Sinh%20k%E1%BB%B3%20%E1%BA%A3o%20v%C3%A0%20m%C3%AA%20ho%E1%BA%B7c%20theo%20phong%20c%C3%A1ch%20ngh%E1%BB%87%20thu%E1%BA%ADt%20d%C3%A2n%20gian%2C%20truy%E1%BB%87n%20c%E1%BB%95%20t%C3%ADch%20tuy%E1%BB%87t%20%C4%91%E1%BA%B9p.%20M%E1%BB%99t%20%C3%B4ng%20gi%C3%A0%20Noel%20ng%C6%B0%E1%BB%9Di%20l%C3%B9n%20Scandinavia%20(Tomte)%20nh%E1%BB%8F%20b%C3%A9%20b%C6%B0%E1%BB%9Bc%20%C4%91i%20trong%20khu%20r%E1%BB%ABng%20tuy%E1%BA%BFt%20ph%E1%BB%A7%20v%C3%A0o%20%C4%91%C3%AAm%20khuya.%20%C3%94ng%20m%E1%BA%B7c%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C3%A1o%20kho%C3%A1c%20%C4%91%E1%BB%8F%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20v%C3%A0%20%C4%91%E1%BB%99i%20m%E1%BB%99t%20chi%E1%BA%BFc%20m%C5%A9%20%C4%91%E1%BB%8F%20ch%C3%B3p%20nh%E1%BB%8Dn%2C%20khu%C3%B4n%20m%E1%BA%B7t%20g%E1%BA%A7n%20nh%C6%B0%20b%E1%BB%8B%20che%20khu%E1%BA%A5t%20b%E1%BB%9Fi%20b%E1%BB%99%20r%C3%A2u%20tr%E1%BA%AFng%20d%C3%A0i%2C%20b%E1%BB%93ng%20b%E1%BB%81nh.%20%C3%94ng%20v%C3%A1c%20m%E1%BB%99t%20chi%E1%BA%BFc%20bao%20l%E1%BB%9Bn%20tr%C3%AAn%20vai%2C%20ch%E1%BB%A9a%20%C4%91%E1%BA%A7y%20nh%E1%BB%AFng%20m%C3%B3n%20qu%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20g%C3%B3i%20gh%C3%A9m%20r%E1%BB%B1c%20r%E1%BB%A1%2C%20v%C3%A0%20c%E1%BA%A7m%20m%E1%BB%99t%20chi%E1%BA%BFc%20%C4%91%C3%A8n%20l%E1%BB%93ng%20ph%C3%A1t%20s%C3%A1ng%20chi%E1%BA%BFu%20%C3%A1nh%20s%C3%A1ng%20%E1%BA%A5m%20%C3%A1p%2C%20k%E1%BB%B3%20di%E1%BB%87u%20xu%E1%BB%91ng%20l%E1%BB%9Bp%20tuy%E1%BA%BFt%20b%C3%AAn%20d%C6%B0%E1%BB%9Bi.%0A%0AM%E1%BB%99t%20con%20c%C3%A1o%20%C4%91%E1%BB%8F%20th%C3%A2n%20thi%E1%BB%87n%20v%C3%A0%20thanh%20l%E1%BB%8Bch%20v%E1%BB%9Bi%20chi%E1%BA%BFc%20%C4%91u%C3%B4i%20r%E1%BA%ADm%20v%C3%A0%20ng%E1%BB%B1c%20tr%E1%BA%AFng%20b%C6%B0%E1%BB%9Bc%20%C4%91i%20duy%C3%AAn%20d%C3%A1ng%20b%C3%AAn%20c%E1%BA%A1nh%20%C3%B4ng%20gi%C3%A0%20Noel%2C%20nh%C3%ACn%20th%E1%BA%B3ng%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di%20xem.%20Ch%C3%BAng%20%C4%91%C6%B0%E1%BB%A3c%20bao%20quanh%20b%E1%BB%9Fi%20m%E1%BB%99t%20khu%20r%E1%BB%ABng%20r%E1%BA%ADm%20r%E1%BA%A1p%20g%E1%BB%93m%20nh%E1%BB%AFng%20c%C3%A2y%20th%C3%B4ng%20c%C3%A1ch%20%C4%91i%E1%BB%87u%2C%20ph%E1%BB%A7%20%C4%91%E1%BA%A7y%20tuy%E1%BA%BFt%20v%E1%BB%9Bi%20c%C3%A1c%20s%E1%BA%AFc%20th%C3%A1i%20xanh%20%C4%91%E1%BA%ADm.%20B%E1%BA%A7u%20tr%E1%BB%9Di%20%C4%91%C3%AAm%20c%C3%B3%20m%C3%A0u%20ch%C3%A0m%20s%E1%BA%ABm%2C%20v%E1%BB%9Bi%20m%E1%BB%99t%20v%E1%BA%A7ng%20tr%C4%83ng%20l%C6%B0%E1%BB%A1i%20li%E1%BB%81m%20tinh%20t%E1%BA%BF%20v%C3%A0%20nh%E1%BB%AFng%20b%C3%B4ng%20tuy%E1%BA%BFt%20r%C6%A1i%20nh%E1%BA%B9%20nh%C3%A0ng.%20Khung%20c%E1%BA%A3nh%20thanh%20b%C3%ACnh%2C%20k%E1%BB%B3%20di%E1%BB%87u%20v%C3%A0%20%E1%BA%A5m%20l%C3%B2ng.%0A%0AK%E1%BA%BFt%20c%E1%BA%A5u%20nh%C6%B0%20tranh%20v%E1%BA%BD%2C%20m%C3%A0u%20s%E1%BA%AFc%20phong%20ph%C3%BA%2C%20chi%20ti%E1%BA%BFt%20tinh%20x%E1%BA%A3o%2C%20ho%C3%A0n%20h%E1%BA%A3o%20%C4%91%E1%BB%83%20in.%20H%C3%ACnh%20minh%20h%E1%BB%8Da%202D%20ph%E1%BA%B3ng.%20--ar%201%3A1.4)**
-
----
-
-### No. 98: Thiệp Ngôi Nhà Bánh Gừng Màu Nước Kỳ Ảo
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một hình minh họa màu nước quyến rũ về ngôi nhà bánh gừng lễ hội được trang trí bằng kem trắng và kẹo, đặt trên nền hồng pastel với tuyết rơi. Nó tạo cảm giác dễ thương, thủ công, hoàn hảo cho một tấm thiệp in được.
-
-#### 📝 Câu lệnh
-
-```
-Một hình minh họa màu nước đẹp mắt và kỳ ảo về ngôi nhà bánh gừng lễ hội, được thiết kế cho thiệp chúc mừng in được. Ngôi nhà duyên dáng được làm từ bánh gừng màu nâu ấm áp và được đặt ở vị trí trung tâm. Nó được trang trí xa hoa bằng lớp kem hoàng gia màu trắng dày trông như tuyết nhỏ giọt từ mái nhà hình chữ A và lối vào có mái hiên nhỏ.
-
-Ngôi nhà có các chi tiết trang trí cuộn và hoa văn bằng kem trắng tinh xảo trên tường. Ở tầng trên, có một cửa sổ hình vòm với ô kính màu hồng và cửa chớp trắng mở, hai bên là hai viên kẹo bạc hà xoắn ốc lớn màu đỏ và trắng. Tầng trệt có một cánh cửa trước màu hồng được trang trí tỉ mỉ và hai cửa sổ với ô kính màu xanh nhạt, mỗi cửa sổ được tô điểm bằng một chiếc nơ hồng xinh xắn.
-
-Bối cảnh được đặt trên nền màu hồng pastel nhẹ nhàng với những bông tuyết trắng rơi nhẹ nhàng. Dưới chân ngôi nhà, có một lớp tuyết trắng nơi những cây thông Noel bánh gừng nhỏ với lớp kem đứng. Các loại kẹo đầy màu sắc, bao gồm kẹo mút xoắn ốc màu đỏ và xanh lá cây, tạo thêm nét ngọt ngào cho tiền cảnh.
-
-Phong cách tổng thể dễ thương, chi tiết và thủ công, với kết cấu màu nước mềm mại. Độ phân giải cao, tinh xảo và hoàn hảo để in. Tỷ lệ khung hình 1:1.4.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592658803_8o17k1_1765541654769-yw0o4d-NR6jOasVbB1lpVe614M2XHd9q0tmel55FGtJGo3h4xWXlrkX1m4pH_PSxz90EOTAZTbagy05xVI6qAqZ6DqOnP81FzKookCrkiqnRytsyCWhOePOccg6U2uGH7nP8Hjp5rCMBkiiwAAAAASUVORK5CYII_" width="600" alt="Thiệp Ngôi Nhà Bánh Gừng Màu Nước Kỳ Ảo - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Nguồn:** [Twitter Post](null)
-- **Đã xuất bản:** 13 tháng 12, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20m%C3%A0u%20n%C6%B0%E1%BB%9Bc%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20v%C3%A0%20k%E1%BB%B3%20%E1%BA%A3o%20v%E1%BB%81%20ng%C3%B4i%20nh%C3%A0%20b%C3%A1nh%20g%E1%BB%ABng%20l%E1%BB%85%20h%E1%BB%99i%2C%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20cho%20thi%E1%BB%87p%20ch%C3%BAc%20m%E1%BB%ABng%20in%20%C4%91%C6%B0%E1%BB%A3c.%20Ng%C3%B4i%20nh%C3%A0%20duy%C3%AAn%20d%C3%A1ng%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0m%20t%E1%BB%AB%20b%C3%A1nh%20g%E1%BB%ABng%20m%C3%A0u%20n%C3%A2u%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BA%B7t%20%E1%BB%9F%20v%E1%BB%8B%20tr%C3%AD%20trung%20t%C3%A2m.%20N%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20xa%20hoa%20b%E1%BA%B1ng%20l%E1%BB%9Bp%20kem%20ho%C3%A0ng%20gia%20m%C3%A0u%20tr%E1%BA%AFng%20d%C3%A0y%20tr%C3%B4ng%20nh%C6%B0%20tuy%E1%BA%BFt%20nh%E1%BB%8F%20gi%E1%BB%8Dt%20t%E1%BB%AB%20m%C3%A1i%20nh%C3%A0%20h%C3%ACnh%20ch%E1%BB%AF%20A%20v%C3%A0%20l%E1%BB%91i%20v%C3%A0o%20c%C3%B3%20m%C3%A1i%20hi%C3%AAn%20nh%E1%BB%8F.%0A%0ANg%C3%B4i%20nh%C3%A0%20c%C3%B3%20c%C3%A1c%20chi%20ti%E1%BA%BFt%20trang%20tr%C3%AD%20cu%E1%BB%99n%20v%C3%A0%20hoa%20v%C4%83n%20b%E1%BA%B1ng%20kem%20tr%E1%BA%AFng%20tinh%20x%E1%BA%A3o%20tr%C3%AAn%20t%C6%B0%E1%BB%9Dng.%20%E1%BB%9E%20t%E1%BA%A7ng%20tr%C3%AAn%2C%20c%C3%B3%20m%E1%BB%99t%20c%E1%BB%ADa%20s%E1%BB%95%20h%C3%ACnh%20v%C3%B2m%20v%E1%BB%9Bi%20%C3%B4%20k%C3%ADnh%20m%C3%A0u%20h%E1%BB%93ng%20v%C3%A0%20c%E1%BB%ADa%20ch%E1%BB%9Bp%20tr%E1%BA%AFng%20m%E1%BB%9F%2C%20hai%20b%C3%AAn%20l%C3%A0%20hai%20vi%C3%AAn%20k%E1%BA%B9o%20b%E1%BA%A1c%20h%C3%A0%20xo%E1%BA%AFn%20%E1%BB%91c%20l%E1%BB%9Bn%20m%C3%A0u%20%C4%91%E1%BB%8F%20v%C3%A0%20tr%E1%BA%AFng.%20T%E1%BA%A7ng%20tr%E1%BB%87t%20c%C3%B3%20m%E1%BB%99t%20c%C3%A1nh%20c%E1%BB%ADa%20tr%C6%B0%E1%BB%9Bc%20m%C3%A0u%20h%E1%BB%93ng%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20t%E1%BB%89%20m%E1%BB%89%20v%C3%A0%20hai%20c%E1%BB%ADa%20s%E1%BB%95%20v%E1%BB%9Bi%20%C3%B4%20k%C3%ADnh%20m%C3%A0u%20xanh%20nh%E1%BA%A1t%2C%20m%E1%BB%97i%20c%E1%BB%ADa%20s%E1%BB%95%20%C4%91%C6%B0%E1%BB%A3c%20t%C3%B4%20%C4%91i%E1%BB%83m%20b%E1%BA%B1ng%20m%E1%BB%99t%20chi%E1%BA%BFc%20n%C6%A1%20h%E1%BB%93ng%20xinh%20x%E1%BA%AFn.%0A%0AB%E1%BB%91i%20c%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BA%B7t%20tr%C3%AAn%20n%E1%BB%81n%20m%C3%A0u%20h%E1%BB%93ng%20pastel%20nh%E1%BA%B9%20nh%C3%A0ng%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20b%C3%B4ng%20tuy%E1%BA%BFt%20tr%E1%BA%AFng%20r%C6%A1i%20nh%E1%BA%B9%20nh%C3%A0ng.%20D%C6%B0%E1%BB%9Bi%20ch%C3%A2n%20ng%C3%B4i%20nh%C3%A0%2C%20c%C3%B3%20m%E1%BB%99t%20l%E1%BB%9Bp%20tuy%E1%BA%BFt%20tr%E1%BA%AFng%20n%C6%A1i%20nh%E1%BB%AFng%20c%C3%A2y%20th%C3%B4ng%20Noel%20b%C3%A1nh%20g%E1%BB%ABng%20nh%E1%BB%8F%20v%E1%BB%9Bi%20l%E1%BB%9Bp%20kem%20%C4%91%E1%BB%A9ng.%20C%C3%A1c%20lo%E1%BA%A1i%20k%E1%BA%B9o%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc%2C%20bao%20g%E1%BB%93m%20k%E1%BA%B9o%20m%C3%BAt%20xo%E1%BA%AFn%20%E1%BB%91c%20m%C3%A0u%20%C4%91%E1%BB%8F%20v%C3%A0%20xanh%20l%C3%A1%20c%C3%A2y%2C%20t%E1%BA%A1o%20th%C3%AAm%20n%C3%A9t%20ng%E1%BB%8Dt%20ng%C3%A0o%20cho%20ti%E1%BB%81n%20c%E1%BA%A3nh.%0A%0APhong%20c%C3%A1ch%20t%E1%BB%95ng%20th%E1%BB%83%20d%E1%BB%85%20th%C6%B0%C6%A1ng%2C%20chi%20ti%E1%BA%BFt%20v%C3%A0%20th%E1%BB%A7%20c%C3%B4ng%2C%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20m%C3%A0u%20n%C6%B0%E1%BB%9Bc%20m%E1%BB%81m%20m%E1%BA%A1i.%20%C4%90%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20cao%2C%20tinh%20x%E1%BA%A3o%20v%C3%A0%20ho%C3%A0n%20h%E1%BA%A3o%20%C4%91%E1%BB%83%20in.%20T%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4.)**
-
----
-
-### No. 99: Thiệp Giáng Sinh Họa Tiết Vector Phẳng
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một thiết kế thiệp chúc mừng đẹp mắt, có thể in được, với họa tiết lặp lại ngộ nghĩnh gồm các hình minh họa Giáng sinh phẳng, dễ thương như ông già Noel, tuần lộc và kẹo gậy. Thiệp có lời chúc viết tay tùy chỉnh ở phía dưới.
-
-#### 📝 Câu lệnh
-
-```
-Một thiết kế thiệp Giáng sinh đẹp mắt, có thể in được, tỷ lệ khung hình 1:1.4, nhìn từ phía trước.
-
-Thiết kế có nền trắng tinh khôi. Hai phần ba phía trên được phủ bởi một họa tiết lặp lại ngộ nghĩnh gồm các hình minh họa Giáng sinh phẳng, dễ thương. Họa tiết bao gồm: đầu ông già Noel, người bánh gừng đang cười, cây thông Noel xanh đơn giản, đầu người tuyết đội mũ chóp đỏ, hình bóng tuần lộc đỏ, chuông leng keng màu vàng với nơ đỏ, kẹo gậy đỏ trắng, một thiên thần nhỏ mặc váy đỏ, cành cây tầm gửi với quả mọng đỏ, những ngôi sao vàng và những bông tuyết màu nâu nhạt.
-
-Một phần ba phía dưới của tấm thiệp là không gian trắng tinh khôi với dòng chữ viết tay thanh lịch có nội dung: {argument name="greeting" default="sweet holiday wishes"}. Từ "sweet" được viết bằng kiểu chữ mảnh hơn, nhẹ hơn, trong khi "holiday wishes" được viết bằng kiểu chữ màu đỏ đậm hơn.
-
-Phong cách tổng thể là minh họa vector phẳng, duyên dáng và lễ hội, với bảng màu đỏ, xanh lá cây, vàng và nâu cổ điển. Độ phân giải cao, hoàn hảo để in.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592656384_3effm5_1765541651729-no0nj1-B24wzvUu2A8OAAAAAElFTkSuQmCC" width="600" alt="Thiệp Giáng Sinh Họa Tiết Vector Phẳng - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Nguồn:** [Twitter Post](null)
-- **Đã xuất bản:** 13 tháng 12, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20thi%E1%BA%BFt%20k%E1%BA%BF%20thi%E1%BB%87p%20Gi%C3%A1ng%20sinh%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%2C%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%2C%20nh%C3%ACn%20t%E1%BB%AB%20ph%C3%ADa%20tr%C6%B0%E1%BB%9Bc.%0A%0AThi%E1%BA%BFt%20k%E1%BA%BF%20c%C3%B3%20n%E1%BB%81n%20tr%E1%BA%AFng%20tinh%20kh%C3%B4i.%20Hai%20ph%E1%BA%A7n%20ba%20ph%C3%ADa%20tr%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20ph%E1%BB%A7%20b%E1%BB%9Fi%20m%E1%BB%99t%20h%E1%BB%8Da%20ti%E1%BA%BFt%20l%E1%BA%B7p%20l%E1%BA%A1i%20ng%E1%BB%99%20ngh%C4%A9nh%20g%E1%BB%93m%20c%C3%A1c%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20Gi%C3%A1ng%20sinh%20ph%E1%BA%B3ng%2C%20d%E1%BB%85%20th%C6%B0%C6%A1ng.%20H%E1%BB%8Da%20ti%E1%BA%BFt%20bao%20g%E1%BB%93m%3A%20%C4%91%E1%BA%A7u%20%C3%B4ng%20gi%C3%A0%20Noel%2C%20ng%C6%B0%E1%BB%9Di%20b%C3%A1nh%20g%E1%BB%ABng%20%C4%91ang%20c%C6%B0%E1%BB%9Di%2C%20c%C3%A2y%20th%C3%B4ng%20Noel%20xanh%20%C4%91%C6%A1n%20gi%E1%BA%A3n%2C%20%C4%91%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20tuy%E1%BA%BFt%20%C4%91%E1%BB%99i%20m%C5%A9%20ch%C3%B3p%20%C4%91%E1%BB%8F%2C%20h%C3%ACnh%20b%C3%B3ng%20tu%E1%BA%A7n%20l%E1%BB%99c%20%C4%91%E1%BB%8F%2C%20chu%C3%B4ng%20leng%20keng%20m%C3%A0u%20v%C3%A0ng%20v%E1%BB%9Bi%20n%C6%A1%20%C4%91%E1%BB%8F%2C%20k%E1%BA%B9o%20g%E1%BA%ADy%20%C4%91%E1%BB%8F%20tr%E1%BA%AFng%2C%20m%E1%BB%99t%20thi%C3%AAn%20th%E1%BA%A7n%20nh%E1%BB%8F%20m%E1%BA%B7c%20v%C3%A1y%20%C4%91%E1%BB%8F%2C%20c%C3%A0nh%20c%C3%A2y%20t%E1%BA%A7m%20g%E1%BB%ADi%20v%E1%BB%9Bi%20qu%E1%BA%A3%20m%E1%BB%8Dng%20%C4%91%E1%BB%8F%2C%20nh%E1%BB%AFng%20ng%C3%B4i%20sao%20v%C3%A0ng%20v%C3%A0%20nh%E1%BB%AFng%20b%C3%B4ng%20tuy%E1%BA%BFt%20m%C3%A0u%20n%C3%A2u%20nh%E1%BA%A1t.%0A%0AM%E1%BB%99t%20ph%E1%BA%A7n%20ba%20ph%C3%ADa%20d%C6%B0%E1%BB%9Bi%20c%E1%BB%A7a%20t%E1%BA%A5m%20thi%E1%BB%87p%20l%C3%A0%20kh%C3%B4ng%20gian%20tr%E1%BA%AFng%20tinh%20kh%C3%B4i%20v%E1%BB%9Bi%20d%C3%B2ng%20ch%E1%BB%AF%20vi%E1%BA%BFt%20tay%20thanh%20l%E1%BB%8Bch%20c%C3%B3%20n%E1%BB%99i%20dung%3A%20%7Bargument%20name%3D%22greeting%22%20default%3D%22sweet%20holiday%20wishes%22%7D.%20T%E1%BB%AB%20%22sweet%22%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ki%E1%BB%83u%20ch%E1%BB%AF%20m%E1%BA%A3nh%20h%C6%A1n%2C%20nh%E1%BA%B9%20h%C6%A1n%2C%20trong%20khi%20%22holiday%20wishes%22%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt%20b%E1%BA%B1ng%20ki%E1%BB%83u%20ch%E1%BB%AF%20m%C3%A0u%20%C4%91%E1%BB%8F%20%C4%91%E1%BA%ADm%20h%C6%A1n.%0A%0APhong%20c%C3%A1ch%20t%E1%BB%95ng%20th%E1%BB%83%20l%C3%A0%20minh%20h%E1%BB%8Da%20vector%20ph%E1%BA%B3ng%2C%20duy%C3%AAn%20d%C3%A1ng%20v%C3%A0%20l%E1%BB%85%20h%E1%BB%99i%2C%20v%E1%BB%9Bi%20b%E1%BA%A3ng%20m%C3%A0u%20%C4%91%E1%BB%8F%2C%20xanh%20l%C3%A1%20c%C3%A2y%2C%20v%C3%A0ng%20v%C3%A0%20n%C3%A2u%20c%E1%BB%95%20%C4%91i%E1%BB%83n.%20%C4%90%E1%BB%99%20ph%C3%A2n%20gi%E1%BA%A3i%20cao%2C%20ho%C3%A0n%20h%E1%BA%A3o%20%C4%91%E1%BB%83%20in.)**
-
----
-
-### No. 100: Thiệp Giáng Sinh Hình Học Phong Cách Giữa Thế Kỷ Cổ Điển
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một tấm thiệp in được theo phong cách hiện đại giữa thế kỷ, với bộ sưu tập các vật thể Giáng sinh hình học như ông già Noel cách điệu, quà tặng và một chiếc cốc trong bố cục khối. Thiệp bao gồm văn bản có thể tùy chỉnh bằng phông chữ sans-serif cổ điển.
-
-#### 📝 Câu lệnh
-
-```
-Một thiết kế thiệp Giáng sinh tinh tế, có thể in được với tỷ lệ khung hình 1:1.4.
-Hình minh họa mang phong cách hình học retro, hiện đại giữa thế kỷ với những đường nét gọn gàng và màu sắc phẳng.
-
-Nền là màu trắng nhạt, sạch sẽ. Ở góc dưới bên trái của tấm thiệp, một bộ sưu tập các vật thể chủ đề Giáng sinh được xếp chồng lên nhau theo bố cục khối, dạng lưới. Cách sắp xếp này bao gồm một khuôn mặt ông già Noel hình học cách điệu, một chú chim hồng y màu đỏ, những hộp quà được gói với các họa tiết đơn giản, một chiếc cốc cà phê lớn màu cam-đỏ, một cây thông nhỏ và những ngôi nhà tối giản. Các hình dạng được tô bằng bảng màu retro đặc trưng gồm xanh mòng két đậm, cam-đỏ, hồng nhạt, nâu sẫm và màu da bò.
-
-Ở khu vực phía trên, chính giữa, là dòng chữ {argument name="text" default="MERRY CHRISTMAS"} bằng phông chữ sans-serif đơn giản, màu nâu sẫm, viết hoa toàn bộ. Tổng thể thẩm mỹ tối giản, quyến rũ và rất cách điệu.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592655055_3vrg3e_1765541649867-cwzgal-6Ts8tpcBM6BAAAAAElFTkSuQmCC" width="600" alt="Thiệp Giáng Sinh Hình Học Phong Cách Giữa Thế Kỷ Cổ Điển - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Nguồn:** [Twitter Post](null)
-- **Đã xuất bản:** 13 tháng 12, 2025
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20thi%E1%BA%BFt%20k%E1%BA%BF%20thi%E1%BB%87p%20Gi%C3%A1ng%20sinh%20tinh%20t%E1%BA%BF%2C%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4.%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20mang%20phong%20c%C3%A1ch%20h%C3%ACnh%20h%E1%BB%8Dc%20retro%2C%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20gi%E1%BB%AFa%20th%E1%BA%BF%20k%E1%BB%B7%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20g%E1%BB%8Dn%20g%C3%A0ng%20v%C3%A0%20m%C3%A0u%20s%E1%BA%AFc%20ph%E1%BA%B3ng.%0A%0AN%E1%BB%81n%20l%C3%A0%20m%C3%A0u%20tr%E1%BA%AFng%20nh%E1%BA%A1t%2C%20s%E1%BA%A1ch%20s%E1%BA%BD.%20%E1%BB%9E%20g%C3%B3c%20d%C6%B0%E1%BB%9Bi%20b%C3%AAn%20tr%C3%A1i%20c%E1%BB%A7a%20t%E1%BA%A5m%20thi%E1%BB%87p%2C%20m%E1%BB%99t%20b%E1%BB%99%20s%C6%B0u%20t%E1%BA%ADp%20c%C3%A1c%20v%E1%BA%ADt%20th%E1%BB%83%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20Gi%C3%A1ng%20sinh%20%C4%91%C6%B0%E1%BB%A3c%20x%E1%BA%BFp%20ch%E1%BB%93ng%20l%C3%AAn%20nhau%20theo%20b%E1%BB%91%20c%E1%BB%A5c%20kh%E1%BB%91i%2C%20d%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.%20C%C3%A1ch%20s%E1%BA%AFp%20x%E1%BA%BFp%20n%C3%A0y%20bao%20g%E1%BB%93m%20m%E1%BB%99t%20khu%C3%B4n%20m%E1%BA%B7t%20%C3%B4ng%20gi%C3%A0%20Noel%20h%C3%ACnh%20h%E1%BB%8Dc%20c%C3%A1ch%20%C4%91i%E1%BB%87u%2C%20m%E1%BB%99t%20ch%C3%BA%20chim%20h%E1%BB%93ng%20y%20m%C3%A0u%20%C4%91%E1%BB%8F%2C%20nh%E1%BB%AFng%20h%E1%BB%99p%20qu%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20g%C3%B3i%20v%E1%BB%9Bi%20c%C3%A1c%20h%E1%BB%8Da%20ti%E1%BA%BFt%20%C4%91%C6%A1n%20gi%E1%BA%A3n%2C%20m%E1%BB%99t%20chi%E1%BA%BFc%20c%E1%BB%91c%20c%C3%A0%20ph%C3%AA%20l%E1%BB%9Bn%20m%C3%A0u%20cam-%C4%91%E1%BB%8F%2C%20m%E1%BB%99t%20c%C3%A2y%20th%C3%B4ng%20nh%E1%BB%8F%20v%C3%A0%20nh%E1%BB%AFng%20ng%C3%B4i%20nh%C3%A0%20t%E1%BB%91i%20gi%E1%BA%A3n.%20C%C3%A1c%20h%C3%ACnh%20d%E1%BA%A1ng%20%C4%91%C6%B0%E1%BB%A3c%20t%C3%B4%20b%E1%BA%B1ng%20b%E1%BA%A3ng%20m%C3%A0u%20retro%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20g%E1%BB%93m%20xanh%20m%C3%B2ng%20k%C3%A9t%20%C4%91%E1%BA%ADm%2C%20cam-%C4%91%E1%BB%8F%2C%20h%E1%BB%93ng%20nh%E1%BA%A1t%2C%20n%C3%A2u%20s%E1%BA%ABm%20v%C3%A0%20m%C3%A0u%20da%20b%C3%B2.%0A%0A%E1%BB%9E%20khu%20v%E1%BB%B1c%20ph%C3%ADa%20tr%C3%AAn%2C%20ch%C3%ADnh%20gi%E1%BB%AFa%2C%20l%C3%A0%20d%C3%B2ng%20ch%E1%BB%AF%20%7Bargument%20name%3D%22text%22%20default%3D%22MERRY%20CHRISTMAS%22%7D%20b%E1%BA%B1ng%20ph%C3%B4ng%20ch%E1%BB%AF%20sans-serif%20%C4%91%C6%A1n%20gi%E1%BA%A3n%2C%20m%C3%A0u%20n%C3%A2u%20s%E1%BA%ABm%2C%20vi%E1%BA%BFt%20hoa%20to%C3%A0n%20b%E1%BB%99.%20T%E1%BB%95ng%20th%E1%BB%83%20th%E1%BA%A9m%20m%E1%BB%B9%20t%E1%BB%91i%20gi%E1%BA%A3n%2C%20quy%E1%BA%BFn%20r%C5%A9%20v%C3%A0%20r%E1%BA%A5t%20c%C3%A1ch%20%C4%91i%E1%BB%87u.)**
 
 ---
 
@@ -4073,6 +4765,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-15T04:38:30.321Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-15T08:29:28.823Z</sub>
 
 </div>

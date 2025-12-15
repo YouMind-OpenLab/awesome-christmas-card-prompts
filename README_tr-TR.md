@@ -86,9 +86,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **100** |
+| 📝 Toplam İstem | **125** |
 | ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **15 Aralık 2025 Pazartesi 04:38:38 UTC** |
+| 🔄 Son Güncelleme | **15 Aralık 2025 Pazartesi 08:29:43 UTC** |
 
 </div>
 
@@ -98,7 +98,872 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### No. 1: Noel Baba'nın Çamaşır İpi Noel Kartı
+### No. 1: Clumsy Penguins Children's Book Animation Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt creates a vertical, printable Christmas photo frame illustrated in a charming, humorous children's book animation style featuring clumsy penguins. The design focuses entirely on the frame itself with a blank photo placeholder, providing a joyful, funny, and animated look for print.
+
+#### 📝 İstem
+
+```
+A vertical 1:1.4 printable Christmas photo frame illustrated in a charming, humorous children’s book animation style.
+
+The design focuses entirely on the frame itself, with flat illustration and no background environment.
+
+A large blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 portrait ratio and 70% of the frame width, intentionally empty and clearly separated from all decorations.
+
+The surrounding border features clumsy cartoon penguins slipping, stacking ornaments, holding oversized stars, and interacting playfully with festive elements around the edges.
+
+The overall style is joyful, funny, animated, and print-friendly, with no text or lettering.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__" width="600" alt="Clumsy Penguins Children's Book Animation Photo Frame - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vertical%201%3A1.4%20printable%20Christmas%20photo%20frame%20illustrated%20in%20a%20charming%2C%20humorous%20children%E2%80%99s%20book%20animation%20style.%0A%0AThe%20design%20focuses%20entirely%20on%20the%20frame%20itself%2C%20with%20flat%20illustration%20and%20no%20background%20environment.%0A%0AA%20large%20blank%20photo%20placeholder%20is%20reserved%20at%20the%20exact%20horizontal%20and%20vertical%20center%2C%20with%20a%201%3A1.4%20portrait%20ratio%20and%2070%25%20of%20the%20frame%20width%2C%20intentionally%20empty%20and%20clearly%20separated%20from%20all%20decorations.%0A%0AThe%20surrounding%20border%20features%20clumsy%20cartoon%20penguins%20slipping%2C%20stacking%20ornaments%2C%20holding%20oversized%20stars%2C%20and%20interacting%20playfully%20with%20festive%20elements%20around%20the%20edges.%0A%0AThe%20overall%20style%20is%20joyful%2C%20funny%2C%20animated%2C%20and%20print-friendly%2C%20with%20no%20text%20or%20lettering.)**
+
+---
+
+### No. 2: Funny Gingerbread Animated Illustration Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt creates a printable Christmas photo frame illustration in a humorous animated storybook style featuring funny gingerbread characters. The design shows only the frame with a blank photo placeholder, offering a humorous, cozy, and whimsical aesthetic for printing.
+
+#### 📝 İstem
+
+```
+A printable Christmas photo frame illustration in a vertical 1:1.4 aspect ratio, created in a humorous animated storybook style.
+
+The illustration shows only the frame design, without any external environment or background scenery. The colors are warm and festive with soft paper texture.
+
+At the exact center, reserve a blank photo placeholder that is horizontally and vertically centered, maintaining a 1:1.4 aspect ratio and 70% of the total frame width, completely blank and unobstructed.
+
+The frame border is decorated with playful gingerbread characters striking silly poses, partially broken cookies, frosting details, and candy decorations, all drawn with expressive cartoon faces.
+
+The mood is humorous, cozy, and whimsical, fully optimized for printing, with no typography.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784310981_hlrjof_1765780294344-8suld3-nw38D6_lD8WBy0bTPa2E6DCNqhxc3ZAVzQg5N2eB1mBa0YUupvbF257bbb7r7rztXly4898dTdt5_wksUMiaSIA7ajkXM0yQDW5oIugT1rLlmBsfExT0IuzTiXnXUWtf8PrWnOlBF9AScAAAAASUVORK5CYII_" width="600" alt="Funny Gingerbread Animated Illustration Photo Frame - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20Christmas%20photo%20frame%20illustration%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20created%20in%20a%20humorous%20animated%20storybook%20style.%0A%0AThe%20illustration%20shows%20only%20the%20frame%20design%2C%20without%20any%20external%20environment%20or%20background%20scenery.%20The%20colors%20are%20warm%20and%20festive%20with%20soft%20paper%20texture.%0A%0AAt%20the%20exact%20center%2C%20reserve%20a%20blank%20photo%20placeholder%20that%20is%20horizontally%20and%20vertically%20centered%2C%20maintaining%20a%201%3A1.4%20aspect%20ratio%20and%2070%25%20of%20the%20total%20frame%20width%2C%20completely%20blank%20and%20unobstructed.%0A%0AThe%20frame%20border%20is%20decorated%20with%20playful%20gingerbread%20characters%20striking%20silly%20poses%2C%20partially%20broken%20cookies%2C%20frosting%20details%2C%20and%20candy%20decorations%2C%20all%20drawn%20with%20expressive%20cartoon%20faces.%0A%0AThe%20mood%20is%20humorous%2C%20cozy%2C%20and%20whimsical%2C%20fully%20optimized%20for%20printing%2C%20with%20no%20typography.)**
+
+---
+
+### No. 3: Lazy Sloth Style Animated Christmas Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates a printable Christmas photo frame illustration in a humorous animated storybook style featuring lazy sloths. It's designed as a standalone frame with a blank photo placeholder, perfect for high-quality printing and adding a lighthearted, cozy, and humorous touch to holiday photos.
+
+#### 📝 İstem
+
+```
+A printable Christmas photo frame illustration designed exclusively as a standalone frame, in a vertical 1:1.4 aspect ratio, suitable for high-quality print.
+
+The illustration focuses only on the frame itself, with no external environment or background scene. The style is a humorous animated storybook illustration with soft textures, clean outlines, and warm colors.
+
+At the exact center of the frame, reserve a blank photo placeholder area that is horizontally and vertically centered. The placeholder has a 1:1.4 portrait aspect ratio, with its width equal to 70% of the total frame width, and must remain completely empty and untouched.
+
+The surrounding frame border features playful cartoon sloths hanging from candy canes, evergreen branches, and festive hooks. The sloths wear cozy knitted sweaters and scarves, striking relaxed, funny poses.
+
+The illustration feels lighthearted, cozy, and humorous, with flat composition and print-friendly colors, no text or typography.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="Lazy Sloth Style Animated Christmas Photo Frame - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20Christmas%20photo%20frame%20illustration%20designed%20exclusively%20as%20a%20standalone%20frame%2C%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20suitable%20for%20high-quality%20print.%0A%0AThe%20illustration%20focuses%20only%20on%20the%20frame%20itself%2C%20with%20no%20external%20environment%20or%20background%20scene.%20The%20style%20is%20a%20humorous%20animated%20storybook%20illustration%20with%20soft%20textures%2C%20clean%20outlines%2C%20and%20warm%20colors.%0A%0AAt%20the%20exact%20center%20of%20the%20frame%2C%20reserve%20a%20blank%20photo%20placeholder%20area%20that%20is%20horizontally%20and%20vertically%20centered.%20The%20placeholder%20has%20a%201%3A1.4%20portrait%20aspect%20ratio%2C%20with%20its%20width%20equal%20to%2070%25%20of%20the%20total%20frame%20width%2C%20and%20must%20remain%20completely%20empty%20and%20untouched.%0A%0AThe%20surrounding%20frame%20border%20features%20playful%20cartoon%20sloths%20hanging%20from%20candy%20canes%2C%20evergreen%20branches%2C%20and%20festive%20hooks.%20The%20sloths%20wear%20cozy%20knitted%20sweaters%20and%20scarves%2C%20striking%20relaxed%2C%20funny%20poses.%0A%0AThe%20illustration%20feels%20lighthearted%2C%20cozy%2C%20and%20humorous%2C%20with%20flat%20composition%20and%20print-friendly%20colors%2C%20no%20text%20or%20typography.)**
+
+---
+
+### No. 4: Playful Polar Bear Cartoon Christmas Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt creates a printable animated Christmas photo frame in a humorous cartoon style featuring playful polar bears. It's designed solely as a frame illustration for print, with a blank photo placeholder, offering a cheerful, funny, and friendly aesthetic for holiday pictures.
+
+#### 📝 İstem
+
+```
+A printable animated Christmas photo frame in a vertical 1:1.4 aspect ratio, designed solely as a frame illustration for print.
+
+The frame is illustrated in a humorous cartoon style with rounded shapes, expressive characters, and soft shading. No environment, no background scene, only the frame design.
+
+A blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 aspect ratio and 70% of the frame width, completely empty and clean.
+
+The border is decorated with playful polar bears sliding, peeking, and clinging to the edges of the frame, interacting with candy canes, ornaments, and snowballs in a silly, exaggerated way.
+
+The overall mood is cheerful, funny, and friendly, optimized for flat printable illustration, with no text.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="Playful Polar Bear Cartoon Christmas Photo Frame - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20animated%20Christmas%20photo%20frame%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20designed%20solely%20as%20a%20frame%20illustration%20for%20print.%0A%0AThe%20frame%20is%20illustrated%20in%20a%20humorous%20cartoon%20style%20with%20rounded%20shapes%2C%20expressive%20characters%2C%20and%20soft%20shading.%20No%20environment%2C%20no%20background%20scene%2C%20only%20the%20frame%20design.%0A%0AA%20blank%20photo%20placeholder%20is%20reserved%20at%20the%20exact%20horizontal%20and%20vertical%20center%2C%20with%20a%201%3A1.4%20aspect%20ratio%20and%2070%25%20of%20the%20frame%20width%2C%20completely%20empty%20and%20clean.%0A%0AThe%20border%20is%20decorated%20with%20playful%20polar%20bears%20sliding%2C%20peeking%2C%20and%20clinging%20to%20the%20edges%20of%20the%20frame%2C%20interacting%20with%20candy%20canes%2C%20ornaments%2C%20and%20snowballs%20in%20a%20silly%2C%20exaggerated%20way.%0A%0AThe%20overall%20mood%20is%20cheerful%2C%20funny%2C%20and%20friendly%2C%20optimized%20for%20flat%20printable%20illustration%2C%20with%20no%20text.)**
+
+---
+
+### No. 5: Mischievous Cats Christmas Sticker Style Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates a vertical, printable Christmas photo frame illustrated in a cute, humorous animated sticker style featuring mischievous cats. The design focuses solely on the frame itself with bold outlines, soft colors, and a blank photo placeholder, creating a playful and chaotic holiday feel.
+
+#### 📝 İstem
+
+```
+A vertical 1:1.4 printable Christmas photo frame illustrated in a cute, humorous animated sticker style.
+
+The design focuses only on the frame itself, with no room, wall, or environmental context. The illustration uses bold outlines, soft colors, and expressive cartoon characters.
+
+In the exact center, a blank photo placeholder area is horizontally and vertically centered, with a 1:1.4 portrait ratio and 70% width of the frame, completely empty and clearly defined.
+
+The surrounding border features mischievous cartoon cats tangled in Christmas lights, knocking over ornaments, climbing garlands, and peeking from the corners, creating a playful and chaotic holiday feel.
+
+The composition remains flat, balanced, and print-ready, with no text elements.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC" width="600" alt="Mischievous Cats Christmas Sticker Style Photo Frame - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vertical%201%3A1.4%20printable%20Christmas%20photo%20frame%20illustrated%20in%20a%20cute%2C%20humorous%20animated%20sticker%20style.%0A%0AThe%20design%20focuses%20only%20on%20the%20frame%20itself%2C%20with%20no%20room%2C%20wall%2C%20or%20environmental%20context.%20The%20illustration%20uses%20bold%20outlines%2C%20soft%20colors%2C%20and%20expressive%20cartoon%20characters.%0A%0AIn%20the%20exact%20center%2C%20a%20blank%20photo%20placeholder%20area%20is%20horizontally%20and%20vertically%20centered%2C%20with%20a%201%3A1.4%20portrait%20ratio%20and%2070%25%20width%20of%20the%20frame%2C%20completely%20empty%20and%20clearly%20defined.%0A%0AThe%20surrounding%20border%20features%20mischievous%20cartoon%20cats%20tangled%20in%20Christmas%20lights%2C%20knocking%20over%20ornaments%2C%20climbing%20garlands%2C%20and%20peeking%20from%20the%20corners%2C%20creating%20a%20playful%20and%20chaotic%20holiday%20feel.%0A%0AThe%20composition%20remains%20flat%2C%20balanced%2C%20and%20print-ready%2C%20with%20no%20text%20elements.)**
+
+---
+
+### No. 6: Koala Clinging to Christmas Tree
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates a cute printable Christmas card design featuring a grey koala bear clinging to a decorated Christmas tree. It's perfect for sweet and endearing holiday greetings with a soft, crayon-drawing texture.
+
+#### 📝 İstem
+
+```
+A cute printable Christmas card design, aspect ratio 1:1.4. A grey koala bear is clinging tightly to the trunk of a small, decorated Christmas tree instead of a eucalyptus tree, looking content and sleepy. The tree is covered in shiny silver tinsel and colorful baubles. The koala wears a tiny red bow tie. Solid pastel green background. Soft, crayon drawing texture.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780157326_ckp21g_1765693121569-apj76v-v_H31t5QXhilrDAAAAAElFTkSuQmCC" width="600" alt="Koala Clinging to Christmas Tree - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20grey%20koala%20bear%20is%20clinging%20tightly%20to%20the%20trunk%20of%20a%20small%2C%20decorated%20Christmas%20tree%20instead%20of%20a%20eucalyptus%20tree%2C%20looking%20content%20and%20sleepy.%20The%20tree%20is%20covered%20in%20shiny%20silver%20tinsel%20and%20colorful%20baubles.%20The%20koala%20wears%20a%20tiny%20red%20bow%20tie.%20Solid%20pastel%20green%20background.%20Soft%2C%20crayon%20drawing%20texture.)**
+
+---
+
+### No. 7: Bear Baker with Living Gingerbread Men
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt creates a charming illustration of a friendly brown bear baker making gingerbread men, which have come to life and are running around the kitchen. Perfect for warm and storybook-style holiday cards.
+
+#### 📝 İstem
+
+```
+A charming illustration of a brown bear baker, aspect ratio 1:1.4. The friendly bear wears a floral apron and a chef's hat, covered in white flour dust. It is happily rolling out dough on a wooden table, surrounded by gingerbread men cookies that have come to life and are running around the kitchen counter laughing. Warm, storybook art style.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780152259_x9tpgp_1765765754561-emrtgw-w_2W4FWpP9VyAAAAABJRU5ErkJggg__" width="600" alt="Bear Baker with Living Gingerbread Men - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20illustration%20of%20a%20brown%20bear%20baker%2C%20aspect%20ratio%201%3A1.4.%20The%20friendly%20bear%20wears%20a%20floral%20apron%20and%20a%20chef's%20hat%2C%20covered%20in%20white%20flour%20dust.%20It%20is%20happily%20rolling%20out%20dough%20on%20a%20wooden%20table%2C%20surrounded%20by%20gingerbread%20men%20cookies%20that%20have%20come%20to%20life%20and%20are%20running%20around%20the%20kitchen%20counter%20laughing.%20Warm%2C%20storybook%20art%20style.)**
+
+---
+
+### No. 8: Pug with Reindeer Antlers and Clown Nose
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates a funny and cute printable card featuring a close-up photographic portrait of a pug reluctantly wearing reindeer antlers and a glowing red clown nose. Ideal for humorous and quirky holiday greetings.
+
+#### 📝 İstem
+
+```
+A funny and cute printable card, aspect ratio 1:1.4. A close-up photographic portrait of a chubby pug dog's face. It is reluctantly wearing a headband with brown felt reindeer antlers and a very bright, glowing red clown nose over its own nose. The pug has a serious, slightly judging expression, staring straight at the camera. The background is blurred festive red lights.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780150716_6iohh6_1765693108405-xs5mi7-8HDdKJRZ26cGoAAAAASUVORK5CYII_" width="600" alt="Pug with Reindeer Antlers and Clown Nose - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20and%20cute%20printable%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20close-up%20photographic%20portrait%20of%20a%20chubby%20pug%20dog's%20face.%20It%20is%20reluctantly%20wearing%20a%20headband%20with%20brown%20felt%20reindeer%20antlers%20and%20a%20very%20bright%2C%20glowing%20red%20clown%20nose%20over%20its%20own%20nose.%20The%20pug%20has%20a%20serious%2C%20slightly%20judging%20expression%2C%20staring%20straight%20at%20the%20camera.%20The%20background%20is%20blurred%20festive%20red%20lights.)**
+
+---
+
+### No. 9: Dormouse Asleep in Teacup
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates a cozy miniature Christmas illustration of a tiny dormouse curled up asleep inside a festive teacup. Ideal for sweet and delicate holiday card designs.
+
+#### 📝 İstem
+
+```
+A cozy miniature Christmas illustration, aspect ratio 1:1.4. A tiny dormouse is curled up asleep inside a ceramic teacup that is decorated with a festive red and green holly pattern. The mouse is covered by a small green leaf blanket. The teacup sits on a saucer next to a miniature mince pie on a wooden table surface. Watercolor and colored pencil style.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780150013_3r2ds8_1765765750332-u6dv2j-f7L6RsJkw3KlnwAAAAAElFTkSuQmCC" width="600" alt="Dormouse Asleep in Teacup - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cozy%20miniature%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20tiny%20dormouse%20is%20curled%20up%20asleep%20inside%20a%20ceramic%20teacup%20that%20is%20decorated%20with%20a%20festive%20red%20and%20green%20holly%20pattern.%20The%20mouse%20is%20covered%20by%20a%20small%20green%20leaf%20blanket.%20The%20teacup%20sits%20on%20a%20saucer%20next%20to%20a%20miniature%20mince%20pie%20on%20a%20wooden%20table%20surface.%20Watercolor%20and%20colored%20pencil%20style.)**
+
+---
+
+### No. 10: Octopus Decorating Coral Christmas Tree
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt creates a whimsical underwater Christmas card featuring a friendly purple octopus decorating a coral 'Christmas tree'. Perfect for unique and playful aquatic-themed holiday greetings.
+
+#### 📝 İstem
+
+```
+A whimsical underwater Christmas card, aspect ratio 1:1.4. A friendly purple octopus is using all eight arms to decorate a large piece of branching coral that looks like a Christmas tree. It's hanging shiny seashells, starfish, and strings of pearls on the branches. A Santa hat floats just above its head. Bubbles rise against a deep blue ocean background. Cute cartoon style.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780144630_0tscw8_1765693091821-qhhkcy-zJJh_aUBJ0oFVKEJRYbqaxivp889_gQSR09EMCDxvoD8Rg0767xzBB2CWUvdpo3J9NqDaUE_1kVMeq5_SXMzP8DXmFImiJYjewAAAAASUVORK5CYII_" width="600" alt="Octopus Decorating Coral Christmas Tree - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20underwater%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20friendly%20purple%20octopus%20is%20using%20all%20eight%20arms%20to%20decorate%20a%20large%20piece%20of%20branching%20coral%20that%20looks%20like%20a%20Christmas%20tree.%20It's%20hanging%20shiny%20seashells%2C%20starfish%2C%20and%20strings%20of%20pearls%20on%20the%20branches.%20A%20Santa%20hat%20floats%20just%20above%20its%20head.%20Bubbles%20rise%20against%20a%20deep%20blue%20ocean%20background.%20Cute%20cartoon%20style.)**
+
+---
+
+### No. 11: Alpaca Overloaded with Presents
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt creates a cute and chaotic Christmas card featuring a fluffy alpaca overloaded with a precarious stack of Christmas presents. Perfect for humorous and charming holiday greetings.
+
+#### 📝 İstem
+
+```
+A cute and chaotic Christmas card, aspect ratio 1:1.4. A fluffy white alpaca stands against a solid mint green background. Its back is overloaded with an impossibly tall, precarious stack of colorful wrapped Christmas presents with bows that are wobbling wildly. The alpaca has a patient, slightly strained expression, and its skinny legs are shaking slightly under the weight.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780142631_uo5vj6_1765765458317-2gfkgs-N8AAAAASUVORK5CYII_" width="600" alt="Alpaca Overloaded with Presents - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20chaotic%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20fluffy%20white%20alpaca%20stands%20against%20a%20solid%20mint%20green%20background.%20Its%20back%20is%20overloaded%20with%20an%20impossibly%20tall%2C%20precarious%20stack%20of%20colorful%20wrapped%20Christmas%20presents%20with%20bows%20that%20are%20wobbling%20wildly.%20The%20alpaca%20has%20a%20patient%2C%20slightly%20strained%20expression%2C%20and%20its%20skinny%20legs%20are%20shaking%20slightly%20under%20the%20weight.)**
+
+---
+
+### No. 12: Magical Snowy Owl Delivering Mail
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates a magical Christmas illustration of a snowy owl in flight, carrying a small, elegant red envelope. Ideal for enchanting and whimsical holiday card designs.
+
+#### 📝 İstem
+
+```
+A magical Christmas illustration, aspect ratio 1:1.4. A fluffy white snowy owl with bright yellow eyes is in mid-flight against a dark blue, star-filled night sky. It carries a small, elegant red envelope sealed with a gold wax seal in its beak. A tiny sprig of holly is tucked behind its ear like a feather. The style is detailed and enchanting.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780138272_3svn17_1765765454815-r02l98-39y3ldSxfTVjYHEu7z6e58eW0dWm0gojHuTEKYhMy9CVualCgiWFmYEOeZiJjb6cPH6LFta5rSVvfacF03UX14_C1AQPVY6_iG5ixRy_G49L2ryc_fL9V3UcvzHA3StFyutw6gQMhMAu4RdVOVkZR795zmOd1uiNHIEHATQCi1sjCRI5IyCQt1FBdiEpEWzYS7U0S0BoAw1qqSmElKb0C" width="600" alt="Magical Snowy Owl Delivering Mail - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20magical%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20fluffy%20white%20snowy%20owl%20with%20bright%20yellow%20eyes%20is%20in%20mid-flight%20against%20a%20dark%20blue%2C%20star-filled%20night%20sky.%20It%20carries%20a%20small%2C%20elegant%20red%20envelope%20sealed%20with%20a%20gold%20wax%20seal%20in%20its%20beak.%20A%20tiny%20sprig%20of%20holly%20is%20tucked%20behind%20its%20ear%20like%20a%20feather.%20The%20style%20is%20detailed%20and%20enchanting.)**
+
+---
+
+### No. 13: Sneaky Raccoons Stealing Santa's Treats
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt creates a funny Christmas card design depicting two sneaky raccoons caught stealing Santa's milk and cookies by a fireplace. Perfect for mischievous and humorous holiday greetings.
+
+#### 📝 İstem
+
+```
+A funny Christmas card design, aspect ratio 1:1.4. A scene at night by a fireplace. Two sneaky raccoons wearing their natural "bandit mask" markings and tiny Santa hats are caught in the act. One is lifting a glass of milk, and the other has a chocolate chip cookie in its mouth, taken from a plate labeled 'For Santa'. Only their eyes are illuminated by the firelight. Cute, mischievous illustration style.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780135041_hfe6vq_1765693073644-d5i9ho-x9Nt6i6Rt8yVwAAAABJRU5ErkJggg__" width="600" alt="Sneaky Raccoons Stealing Santa's Treats - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20scene%20at%20night%20by%20a%20fireplace.%20Two%20sneaky%20raccoons%20wearing%20their%20natural%20%22bandit%20mask%22%20markings%20and%20tiny%20Santa%20hats%20are%20caught%20in%20the%20act.%20One%20is%20lifting%20a%20glass%20of%20milk%2C%20and%20the%20other%20has%20a%20chocolate%20chip%20cookie%20in%20its%20mouth%2C%20taken%20from%20a%20plate%20labeled%20'For%20Santa'.%20Only%20their%20eyes%20are%20illuminated%20by%20the%20firelight.%20Cute%2C%20mischievous%20illustration%20style.)**
+
+---
+
+### No. 14: Penguin Skiing with Candy Canes
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates a whimsical action illustration for a Christmas card, featuring a cheerful penguin skiing down a snowy slope using peppermint candy canes as skis. Ideal for fun and dynamic holiday designs.
+
+#### 📝 İstem
+
+```
+A whimsical action illustration for a Christmas card, aspect ratio 1:1.4. A cheerful penguin wearing vintage pilot goggles and a flying red scarf is skiing down a snowy slope. Instead of skis, it is using two large peppermint candy canes. Snow sprays out behind it dynamically. In the background, there are simple cartoon pine trees. Fun, dynamic cartoon style with bold outlines.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780134351_n4c7z8_1765693058708-rcwygl-7E9Izca_arBPzsQsVeY_tbHB5P_b1XUclaVdeBnWEuIkUpFvsQH9zdkMF2TvwTQTlyJnjrmFRkUYxyJkutsbDX8qES7SzaOysAjokruFaeJFHKuvUskoNoPkHU9yMP6fKJqpiG1VSqsgqVWH7qHP4XtomX4vCKzPcAAAAASUVORK5CYII_" width="600" alt="Penguin Skiing with Candy Canes - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20action%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20cheerful%20penguin%20wearing%20vintage%20pilot%20goggles%20and%20a%20flying%20red%20scarf%20is%20skiing%20down%20a%20snowy%20slope.%20Instead%20of%20skis%2C%20it%20is%20using%20two%20large%20peppermint%20candy%20canes.%20Snow%20sprays%20out%20behind%20it%20dynamically.%20In%20the%20background%2C%20there%20are%20simple%20cartoon%20pine%20trees.%20Fun%2C%20dynamic%20cartoon%20style%20with%20bold%20outlines.)**
+
+---
+
+### No. 15: Sleeping Polar Bears
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt creates a heartwarming printable Christmas card featuring a mother polar bear and her cub sleeping soundly in a snowy drift. It's perfect for tender and soft children's book style holiday greetings.
+
+#### 📝 İstem
+
+```
+A heartwarming printable Christmas card, aspect ratio 1:1.4. A large mother polar bear is lying down fast asleep, curled up in a snowy drift. A tiny polar bear cub is sleeping soundly on her broad back, wearing a miniature red and green striped nightcap. A gentle snowfall surrounds them against a soft light blue background. The style is a tender children's book illustration with soft colors.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780129271_va78dc_1765693057760-ebc124-wFMsnpfYefmXwAAAABJRU5ErkJggg__" width="600" alt="Sleeping Polar Bears - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20heartwarming%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20large%20mother%20polar%20bear%20is%20lying%20down%20fast%20asleep%2C%20curled%20up%20in%20a%20snowy%20drift.%20A%20tiny%20polar%20bear%20cub%20is%20sleeping%20soundly%20on%20her%20broad%20back%2C%20wearing%20a%20miniature%20red%20and%20green%20striped%20nightcap.%20A%20gentle%20snowfall%20surrounds%20them%20against%20a%20soft%20light%20blue%20background.%20The%20style%20is%20a%20tender%20children's%20book%20illustration%20with%20soft%20colors.)**
+
+---
+
+### No. 16: Tuxedo Cat Tangled in Ribbon
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates a funny printable Christmas card illustration of a mischievous tuxedo cat hilariously tangled in gift ribbon and wrapping paper. It's great for lighthearted and playful holiday cards.
+
+#### 📝 İstem
+
+```
+A funny printable Christmas card illustration, aspect ratio 1:1.4. A mischievous black and white tuxedo cat is comically tangled in a massive explosion of red satin gift ribbon and torn festive wrapping paper on a clean white background. Only its wide, surprised green eyes and one paw are visible from the center of the shiny red chaos. A roll of tape is stuck to its tail. Dynamic cartoon sketch style.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780125816_w7gjzg_1765693040741-mb5eqs-oAAAAASUVORK5CYII_" width="600" alt="Tuxedo Cat Tangled in Ribbon - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20mischievous%20black%20and%20white%20tuxedo%20cat%20is%20comically%20tangled%20in%20a%20massive%20explosion%20of%20red%20satin%20gift%20ribbon%20and%20torn%20festive%20wrapping%20paper%20on%20a%20clean%20white%20background.%20Only%20its%20wide%2C%20surprised%20green%20eyes%20and%20one%20paw%20are%20visible%20from%20the%20center%20of%20the%20shiny%20red%20chaos.%20A%20roll%20of%20tape%20is%20stuck%20to%20its%20tail.%20Dynamic%20cartoon%20sketch%20style.)**
+
+---
+
+### No. 17: Felt Appliqué Fox Cub
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt creates a cozy, tactile Christmas card design that looks like handmade felt appliqué stitching, featuring a cute fox cub in a snowy scene. Perfect for unique and crafty holiday visuals.
+
+#### 📝 İstem
+
+```
+A cozy, tactile Christmas card design, aspect ratio 1:1.4. The illustration looks entirely like handmade felt appliqué stitching. A cute orange fox cub made of fuzzy felt fabric sits in layers of white felt snow, looking up at a felt Christmas tree decorated with colorful button ornaments. The texture of the wool fibers and the stitching around the edges is clearly visible. The background is a soft blue felt sky.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780125142_vqwzrz_1765765736932-w6b2ti-joqONxdrcec4p_fHzcEeMYCEAsu1E12RDxtS4WrUoVzk5TxaZ73RChrBtc45DncUB98QQAca0k5v8fyjkmeojjTpMAAAAASUVORK5CYII_" width="600" alt="Felt Appliqué Fox Cub - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cozy%2C%20tactile%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20illustration%20looks%20entirely%20like%20handmade%20felt%20appliqu%C3%A9%20stitching.%20A%20cute%20orange%20fox%20cub%20made%20of%20fuzzy%20felt%20fabric%20sits%20in%20layers%20of%20white%20felt%20snow%2C%20looking%20up%20at%20a%20felt%20Christmas%20tree%20decorated%20with%20colorful%20button%20ornaments.%20The%20texture%20of%20the%20wool%20fibers%20and%20the%20stitching%20around%20the%20edges%20is%20clearly%20visible.%20The%20background%20is%20a%20soft%20blue%20felt%20sky.)**
+
+---
+
+### No. 18: Capybara in Japanese Hot Spring
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates a relaxing and cute Christmas illustration of a capybara enjoying a Japanese hot spring. Ideal for serene and unique holiday card designs.
+
+#### 📝 İstem
+
+```
+A relaxing and cute Christmas illustration, aspect ratio 1:1.4. A chill capybara sits peacefully up to its chest in a steaming Japanese hot spring pool (onsen), surrounded by snow-covered rocks. It wears a small folded towel on its head topped with a Santa hat. A yuzu fruit floats next to it. The style is a warm, soft anime illustration with gentle steam rising.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780123056_v02i28_1765693205572-8w5irf-AXqqyI4m5kpHAAAAAElFTkSuQmCC" width="600" alt="Capybara in Japanese Hot Spring - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20relaxing%20and%20cute%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20chill%20capybara%20sits%20peacefully%20up%20to%20its%20chest%20in%20a%20steaming%20Japanese%20hot%20spring%20pool%20(onsen)%2C%20surrounded%20by%20snow-covered%20rocks.%20It%20wears%20a%20small%20folded%20towel%20on%20its%20head%20topped%20with%20a%20Santa%20hat.%20A%20yuzu%20fruit%20floats%20next%20to%20it.%20The%20style%20is%20a%20warm%2C%20soft%20anime%20illustration%20with%20gentle%20steam%20rising.)**
+
+---
+
+### No. 19: Singing Birds on Holly Branch
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt creates a cute and detailed printable Christmas card featuring five tiny garden birds wearing miniature winter hats and singing on a snow-covered holly branch. Perfect for classic and charming holiday greetings.
+
+#### 📝 İstem
+
+```
+A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plump garden birds (a robin, a blue tit, a sparrow, a goldfinch, a wren) are perched in a row on a snow-covered holly branch with red berries. Each bird wears a different miniature knitted winter hat (bobble hat, beanie, earflap hat) and they all have their beaks open as if singing. The style is a delicate watercolor and ink drawing on textured paper.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780118971_iq7hcj_1765693200318-bzuqbb-MpYGTqgUNkpuE6DuZTGYkL_OfNSELavqabdsIGBfbwDUkP8Gi2zVV1lQ1BQAAAAASUVORK5CYII_" width="600" alt="Singing Birds on Holly Branch - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20detailed%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20Five%20tiny%2C%20plump%20garden%20birds%20(a%20robin%2C%20a%20blue%20tit%2C%20a%20sparrow%2C%20a%20goldfinch%2C%20a%20wren)%20are%20perched%20in%20a%20row%20on%20a%20snow-covered%20holly%20branch%20with%20red%20berries.%20Each%20bird%20wears%20a%20different%20miniature%20knitted%20winter%20hat%20(bobble%20hat%2C%20beanie%2C%20earflap%20hat)%20and%20they%20all%20have%20their%20beaks%20open%20as%20if%20singing.%20The%20style%20is%20a%20delicate%20watercolor%20and%20ink%20drawing%20on%20textured%20paper.)**
+
+---
+
+### No. 20: Squirrel with Wrapped Acorn
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates a whimsical printable Christmas card featuring a busy red squirrel presenting a meticulously wrapped acorn. It's perfect for unique and charming holiday greetings with a touch of woodland magic.
+
+#### 📝 İstem
+
+```
+A whimsical printable Christmas card, aspect ratio 1:1.4. A busy red squirrel with fluffy ear tufts stands on a snow-covered tree branch against a pale winter sky. It is holding a single acorn that is meticulously wrapped in tiny red paper with a gold bow, presenting it forward. Behind it, a pile of similarly wrapped acorns is stacked inside a hollow log. The squirrel wears a tiny green knit scarf. Colored pencil texture style.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780115837_0c1gkg_1765692973777-uwo85l-gdvX4ybDwKspAAAAABJRU5ErkJggg__" width="600" alt="Squirrel with Wrapped Acorn - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20busy%20red%20squirrel%20with%20fluffy%20ear%20tufts%20stands%20on%20a%20snow-covered%20tree%20branch%20against%20a%20pale%20winter%20sky.%20It%20is%20holding%20a%20single%20acorn%20that%20is%20meticulously%20wrapped%20in%20tiny%20red%20paper%20with%20a%20gold%20bow%2C%20presenting%20it%20forward.%20Behind%20it%2C%20a%20pile%20of%20similarly%20wrapped%20acorns%20is%20stacked%20inside%20a%20hollow%20log.%20The%20squirrel%20wears%20a%20tiny%20green%20knit%20scarf.%20Colored%20pencil%20texture%20style.)**
+
+---
+
+### No. 21: Corgi Stuck in Chimney
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates a humorous Christmas card illustration featuring a Corgi dog stuck upside down in a chimney. Ideal for a funny and lighthearted holiday message.
+
+#### 📝 İstem
+
+```
+A humorous Christmas card illustration, flat graphic style, aspect ratio 1:1.4. A red brick chimney stack stands against a dark blue night sky with stars. Stuck upside down in the top opening of the chimney is the fluffy orange and white butt of a Corgi dog, with its short back legs wiggling in the air. A tiny Santa hat is falling off one foot. Smoke puffs out around it in the shape of question marks.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780114922_pdkrnq_1765693026895-9ldmsp-C6BJKp_H09UpAAAAAElFTkSuQmCC" width="600" alt="Corgi Stuck in Chimney - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20humorous%20Christmas%20card%20illustration%2C%20flat%20graphic%20style%2C%20aspect%20ratio%201%3A1.4.%20A%20red%20brick%20chimney%20stack%20stands%20against%20a%20dark%20blue%20night%20sky%20with%20stars.%20Stuck%20upside%20down%20in%20the%20top%20opening%20of%20the%20chimney%20is%20the%20fluffy%20orange%20and%20white%20butt%20of%20a%20Corgi%20dog%2C%20with%20its%20short%20back%20legs%20wiggling%20in%20the%20air.%20A%20tiny%20Santa%20hat%20is%20falling%20off%20one%20foot.%20Smoke%20puffs%20out%20around%20it%20in%20the%20shape%20of%20question%20marks.)**
+
+---
+
+### No. 22: Fluffy Highland Cow with Christmas Lights
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt creates a charming and fuzzy Christmas illustration of a Scottish Highland cow with Christmas lights tangled in its hair and horns. Ideal for rustic and heartwarming holiday designs.
+
+#### 📝 İstem
+
+```
+A charming and fuzzy Christmas illustration, aspect ratio 1:1.4. A close-up portrait of a super fluffy ginger Scottish Highland cow. Its shaggy hair completely covers its eyes, but colorful tangled Christmas lights that are glowing, and small shiny red baubles, are caught in its bangs and long horns. Light snowflakes dust its fur. The background is a soft, blurred snowy pasture. Painterly, textured style.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780111966_dn1z7i_1765692971551-1i3kzo-B7M7DtPmAsUhAAAAAElFTkSuQmCC" width="600" alt="Fluffy Highland Cow with Christmas Lights - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20and%20fuzzy%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20close-up%20portrait%20of%20a%20super%20fluffy%20ginger%20Scottish%20Highland%20cow.%20Its%20shaggy%20hair%20completely%20covers%20its%20eyes%2C%20but%20colorful%20tangled%20Christmas%20lights%20that%20are%20glowing%2C%20and%20small%20shiny%20red%20baubles%2C%20are%20caught%20in%20its%20bangs%20and%20long%20horns.%20Light%20snowflakes%20dust%20its%20fur.%20The%20background%20is%20a%20soft%2C%20blurred%20snowy%20pasture.%20Painterly%2C%20textured%20style.)**
+
+---
+
+### No. 23: Long Dachshund Christmas Card
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt creates a funny flat vector illustration for a Christmas card, depicting a very long dachshund dog wearing an absurdly long, festive sweater. Ideal for humorous holiday messages and pet-themed cards.
+
+#### 📝 İstem
+
+```
+A funny flat vector illustration for a Christmas card, aspect ratio 1:1.4. A very long brown dachshund dog stretches horizontally across the entire card against a solid pale blue background. It is wearing an absurdly long, red knitted turtleneck sweater with a repeating pattern of white reindeer and snowflakes. The sweater is so long it sags in the middle, touching the ground. The dog looks content. Text below reads: "Longing for Christmas."
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780099382_hsgl3l_1765692967267-gejgq8-Bek23XMoiWkxAAAAAElFTkSuQmCC" width="600" alt="Long Dachshund Christmas Card - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20flat%20vector%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20very%20long%20brown%20dachshund%20dog%20stretches%20horizontally%20across%20the%20entire%20card%20against%20a%20solid%20pale%20blue%20background.%20It%20is%20wearing%20an%20absurdly%20long%2C%20red%20knitted%20turtleneck%20sweater%20with%20a%20repeating%20pattern%20of%20white%20reindeer%20and%20snowflakes.%20The%20sweater%20is%20so%20long%20it%20sags%20in%20the%20middle%2C%20touching%20the%20ground.%20The%20dog%20looks%20content.%20Text%20below%20reads%3A%20%22Longing%20for%20Christmas.%22)**
+
+---
+
+### No. 24: Whimsical Hedgehog Christmas Card
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates a whimsical printable Christmas card illustration featuring a small, round hedgehog whose spines are comically adorned with tiny Christmas decorations. It's perfect for creating unique and humorous holiday greetings.
+
+#### 📝 İstem
+
+```
+A whimsical printable Christmas card illustration, aspect ratio 1:1.4. A small, round hedgehog is curled up into a ball on a clean cream background. Its spines are hilariously covered with tiny, colorful Christmas baubles, miniature candy canes, and bits of shiny tinsel that have gotten stuck to them. The hedgehog has a slightly confused but happy expression, with one eye peeking out. The style is a gentle watercolor painting with soft textures.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780101179_ywdvzk_1765693039459-1wv8ex-htP1HdLVAAAAAElFTkSuQmCC" width="600" alt="Whimsical Hedgehog Christmas Card - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20small%2C%20round%20hedgehog%20is%20curled%20up%20into%20a%20ball%20on%20a%20clean%20cream%20background.%20Its%20spines%20are%20hilariously%20covered%20with%20tiny%2C%20colorful%20Christmas%20baubles%2C%20miniature%20candy%20canes%2C%20and%20bits%20of%20shiny%20tinsel%20that%20have%20gotten%20stuck%20to%20them.%20The%20hedgehog%20has%20a%20slightly%20confused%20but%20happy%20expression%2C%20with%20one%20eye%20peeking%20out.%20The%20style%20is%20a%20gentle%20watercolor%20painting%20with%20soft%20textures.)**
+
+---
+
+### No. 25: Kawaii Otters with Candy Cane
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+This prompt generates an adorable printable Christmas card design featuring two cute furry sea otters floating in icy water and holding a large peppermint candy cane. It's perfect for creating sweet, kawaii-style holiday cards.
+
+#### 📝 İstem
+
+```
+An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry sea otters are floating on their backs in icy blue water, holding paws. Instead of their usual rock, they are jointly holding a large red and white striped peppermint candy cane across their chests. Both wear tiny Santa hats titled on their heads. Soft white ripples surround them. The style is a kawaii cartoon with soft shading.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780100132_xzm77l_1765692974848-ens980-h85hatWrURrnAAAAABJRU5ErkJggg__" width="600" alt="Kawaii Otters with Candy Cane - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Kaynak:** [Twitter Post](null)
+- **Yayınlandı:** 15 Aralık 2025
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20Two%20cute%20furry%20sea%20otters%20are%20floating%20on%20their%20backs%20in%20icy%20blue%20water%2C%20holding%20paws.%20Instead%20of%20their%20usual%20rock%2C%20they%20are%20jointly%20holding%20a%20large%20red%20and%20white%20striped%20peppermint%20candy%20cane%20across%20their%20chests.%20Both%20wear%20tiny%20Santa%20hats%20titled%20on%20their%20heads.%20Soft%20white%20ripples%20surround%20them.%20The%20style%20is%20a%20kawaii%20cartoon%20with%20soft%20shading.)**
+
+---
+
+### No. 26: Noel Baba'nın Çamaşır İpi Noel Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -131,7 +996,7 @@ Neşeli ve sıcak bir Noel sahnesi, en boy oranı 1:1.4. Açık mavi, karlı bir
 
 ---
 
-### No. 2: Şeker Kamışından Sarkan Tembel Hayvan Noel Kartı
+### No. 27: Şeker Kamışından Sarkan Tembel Hayvan Noel Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -165,7 +1030,7 @@ Sevimli, yazdırılabilir bir Noel kartı tasarımı, en boy oranı 1:1.4. Sevim
 
 ---
 
-### No. 3: Elf Kılığına Girmiş Pug Noel Kartı
+### No. 28: Elf Kılığına Girmiş Pug Noel Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -199,7 +1064,7 @@ En boy oranı 1:1.4 olan bir Noel kartı için komik, düz vektör illüstrasyon
 
 ---
 
-### No. 4: Ren Geyiği Uçuş Okulu Noel Kartı
+### No. 29: Ren Geyiği Uçuş Okulu Noel Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -232,7 +1097,7 @@ Büyüleyici ve komik bir Noel kartı tasarımı, en boy oranı 1:1.4. Sahne, "R
 
 ---
 
-### No. 5: Marshmallow Jakuzi Noel Kartı
+### No. 30: Marshmallow Jakuzi Noel Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -265,7 +1130,7 @@ Kawaii tarzı, yazdırılabilir bir Noel kartı illüstrasyonu, en boy oranı 1:
 
 ---
 
-### No. 6: Yaban Mersinli Noel Kartı Hamsterı
+### No. 31: Yaban Mersinli Noel Kartı Hamsterı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -298,7 +1163,7 @@ Yumuşak, hikaye kitabı suluboya tarzında, 1:1.4 en boy oranına sahip, zarif,
 
 ---
 
-### No. 7: Noel Işıklarında Kedi Noel Kartı
+### No. 32: Noel Işıklarında Kedi Noel Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -332,7 +1197,7 @@ Komik ve sevimli, basılabilir bir kart tasarımı, en boy oranı 1:1.4. İllüs
 
 ---
 
-### No. 8: Zencefilli Kurabiye Yoga Dersi Noel Kartı
+### No. 33: Zencefilli Kurabiye Yoga Dersi Noel Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -366,7 +1231,7 @@ Komik ve sevimli, yazdırılabilir bir Noel kartı tasarımı, en boy oranı 1:1
 
 ---
 
-### No. 9: Kutup Ayısı ve Penguen Atkılı Yılbaşı Kartı
+### No. 34: Kutup Ayısı ve Penguen Atkılı Yılbaşı Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -399,7 +1264,7 @@ Devasa bir kutup ayısı ile minik bir penguenin, komik derecede büyük bir atk
 
 ---
 
-### No. 10: Suluboya Karlı Kulübe Manzarası
+### No. 35: Suluboya Karlı Kulübe Manzarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -433,7 +1298,7 @@ Sakin bir suluboya manzara, --ar 10:14. Gün batımında uçsuz bucaksız karlı
 
 ---
 
-### No. 11: Lüks Lacivert Kar Tanesi Mandala Kartı
+### No. 36: Lüks Lacivert Kar Tanesi Mandala Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -467,7 +1332,7 @@ Zarif bir lüks kart tasarımı, --ar 10:14. Koyu {argument name="background col
 
 ---
 
-### No. 12: Vintage Seyahat Posteri Kış Manzarası
+### No. 37: Vintage Seyahat Posteri Kış Manzarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -501,7 +1366,7 @@ Vintage seyahat posteri tarzında bir Noel kartı. Karlı bir dağ evinin ve bir
 
 ---
 
-### No. 13: Nostaljik Oyuncakçı Vitrini Sahnesi
+### No. 38: Nostaljik Oyuncakçı Vitrini Sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -534,7 +1399,7 @@ Gece bir oyuncakçı dükkanının vitrininin nostaljik bir çizimi. İçeride, 
 
 ---
 
-### No. 14: Yüzyıl Ortası Modern Noel Kartı
+### No. 39: Yüzyıl Ortası Modern Noel Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -568,7 +1433,7 @@ Retro geometrik bir tasarım, --ar 10:14. {argument name="background color" defa
 
 ---
 
-### No. 15: Viktorya Dönemi Noel Baba Kartpostalı
+### No. 40: Viktorya Dönemi Noel Baba Kartpostalı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -602,7 +1467,7 @@ Vintage Viktorya dönemi Noel kartpostalı tarzında bir illüstrasyon, --ar 10:
 
 ---
 
-### No. 16: Uykulu Hayvanlar Yılbaşı Kartı Yığını
+### No. 41: Uykulu Hayvanlar Yılbaşı Kartı Yığını
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -636,7 +1501,7 @@ Vintage Viktorya dönemi Noel kartpostalı tarzında bir illüstrasyon, --ar 10:
 
 ---
 
-### No. 17: Penguen Noel Işıkları Mücadelesi Kartı
+### No. 42: Penguen Noel Işıkları Mücadelesi Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -670,7 +1535,7 @@ Dolaşmış Noel ışıklarıyla boğuşan sevimli bir çizgi film pengueninin y
 
 ---
 
-### No. 18: Modern Tipografi Noel Ağacı Kartı
+### No. 43: Modern Tipografi Noel Ağacı Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -704,7 +1569,7 @@ Modern, düz grafik bir Noel kartı, --ar 10:14. Düz {argument name="background
 
 ---
 
-### No. 19: Kawaii Sıcak Kakao Noel Kartı
+### No. 44: Kawaii Sıcak Kakao Noel Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -738,7 +1603,7 @@ Kawaii tarzı bir Noel kartı. İçinde banyo yapan marşmelovlu, mutlu, gülüm
 
 ---
 
-### No. 20: Park Bankında Karl Adam ve Kuşlar
+### No. 45: Park Bankında Karl Adam ve Kuşlar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -777,7 +1642,7 @@ Yüksek detaylı, karmaşık, güzel illüstrasyon, basılabilir kalite. --ar 1:
 
 ---
 
-### No. 21: Lacivert Gümüş Telkari Kart
+### No. 46: Lacivert Gümüş Telkari Kart
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -817,7 +1682,7 @@ Genel tasarım, serin bir kış renk paletiyle temiz, minimalist ve sofistike bi
 
 ---
 
-### No. 22: Kömür Halk Sanatı Botanik Kartı
+### No. 47: Kömür Halk Sanatı Botanik Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -861,7 +1726,7 @@ En boy oranı 1:1.4.
 
 ---
 
-### No. 23: Suluboya Karlı Adam Aile Portresi
+### No. 48: Suluboya Karlı Adam Aile Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -907,7 +1772,7 @@ Genel tasarım iç açıcı, temiz ve şenlikli. Düz 2D illüstrasyon, önden g
 
 ---
 
-### No. 24: Dört Kişilik Kişiselleştirilmiş Kardan Adam Ailesi
+### No. 49: Dört Kişilik Kişiselleştirilmiş Kardan Adam Ailesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -953,7 +1818,7 @@ Görsel, yüksek çözünürlüklü, zarif, yazdırılabilir bir tebrik kartı t
 
 ---
 
-### No. 25: Gökkuşağı Şişe Fırçası Ağaçları
+### No. 50: Gökkuşağı Şişe Fırçası Ağaçları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -994,7 +1859,7 @@ Ağaçlar yükseklik olarak hafifçe farklılık göstererek nazik, düzensiz bi
 
 ---
 
-### No. 26: Yeşil Üzerine Zarif Altın Telkari Ağaç
+### No. 51: Yeşil Üzerine Zarif Altın Telkari Ağaç
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1036,7 +1901,7 @@ Genel tarz modern, minimalist ve çok zariftir. Düz vektör grafik illüstrasyo
 
 ---
 
-### No. 27: Kişiselleştirilmiş Aile Çorapları Suluboya
+### No. 52: Kişiselleştirilmiş Aile Çorapları Suluboya
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1078,7 +1943,7 @@ Genel tasarım, dengeli ve ortalanmış bir kompozisyona sahip düz 2D bir illü
 
 ---
 
-### No. 28: Vintage Disney Karakterleri Noel
+### No. 53: Vintage Disney Karakterleri Noel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1120,7 +1985,7 @@ Kartın en altında, kalın, kırmızı, sans-serif bir yazı tipinde şenlikli 
 
 ---
 
-### No. 29: Viktorya Dönemi Kalıp Kesim Çiçek Buketi
+### No. 54: Viktorya Dönemi Kalıp Kesim Çiçek Buketi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1162,7 +2027,7 @@ Tüm görüntü, düz, önden görünümlü, son derece detaylı ve baskı için
 
 ---
 
-### No. 30: Sıcak Suluboya Noel Oturma Odası
+### No. 55: Sıcak Suluboya Noel Oturma Odası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1199,7 +2064,7 @@ Genel stil, dokulu kağıt üzerine narin, etkileyici suluboya fırça darbeleri
 
 ---
 
-### No. 31: Müzik Notalı Yılbaşı Ağacı
+### No. 56: Müzik Notalı Yılbaşı Ağacı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1241,7 +2106,7 @@ Genel stil, yüksek çözünürlüklü, baskıya hazır kalitede, temiz, tek ren
 
 ---
 
-### No. 32: 1950'ler Vintage Holly Çelenk
+### No. 57: 1950'ler Vintage Holly Çelenk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1283,7 +2148,7 @@ Düz 2D grafik tasarım, yüksek çözünürlük. --ar 1:1.4
 
 ---
 
-### No. 33: Mavi Üzerine Orta Yüzyıl Tarzı Floklu Ağaç
+### No. 58: Mavi Üzerine Orta Yüzyıl Tarzı Floklu Ağaç
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1323,7 +2188,7 @@ Zarif ve yazdırılabilir tasarım, düz grafik illüstrasyon, önden görünüm
 
 ---
 
-### No. 34: Özel Akrabalar İçin Halk Sanatı Çorapları
+### No. 59: Özel Akrabalar İçin Halk Sanatı Çorapları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1365,7 +2230,7 @@ Kartın altında metin görüntüleniyor. "{argument name="greeting line 1" defa
 
 ---
 
-### No. 35: Minimalist Gökkuşağı Fırça Darbesi Ağacı
+### No. 60: Minimalist Gökkuşağı Fırça Darbesi Ağacı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1401,7 +2266,7 @@ Ağacın altında, '{argument name="text" default="Merry Christmas"}' metni nari
 
 ---
 
-### No. 36: Van Gogh Yıldızlı Gece Noel
+### No. 61: Van Gogh Yıldızlı Gece Noel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1441,7 +2306,7 @@ Canlı renkler, yüksek detaylı, enfes, basılabilir kalite. --ar 5:7
 
 ---
 
-### No. 37: Peanuts Tarzı Snoopy ve Çoraplar
+### No. 62: Peanuts Tarzı Snoopy ve Çoraplar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1481,7 +2346,7 @@ Kartın alt kısmında, solda büyük, stilize edilmiş misket limonu yeşili bi
 
 ---
 
-### No. 38: Değişik Suluboya Çorap Çelenk
+### No. 63: Değişik Suluboya Çorap Çelenk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1521,7 +2386,7 @@ Tüm kompozisyon düz, 2 boyutlu, ortalanmış ve önden görünüşlü olup, ba
 
 ---
 
-### No. 39: Şarkı Sözleriyle Orta Yüzyıl Kış Ormanı
+### No. 64: Şarkı Sözleriyle Orta Yüzyıl Kış Ormanı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1567,7 +2432,7 @@ Yüksek çözünürlüklü, vektör sanatı, en boy oranı 1:1.4.
 
 ---
 
-### No. 40: Modern Gökkuşağı Onur Noel Ağacı
+### No. 65: Modern Gökkuşağı Onur Noel Ağacı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1607,7 +2472,7 @@ Genel estetik minimalist, kapsayıcı ve şenliklidir. Kart kapağının önden 
 
 ---
 
-### No. 41: Kırmızı Süslemeler ve Bokeh Efektli Karlı Ağaç
+### No. 66: Kırmızı Süslemeler ve Bokeh Efektli Karlı Ağaç
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1647,7 +2512,7 @@ Sağdaki bokeh arka planının üzerinde, {argument name="greeting" default="Mer
 
 ---
 
-### No. 42: Lüks Bordo ve Altın Botanik Ağaç
+### No. 67: Lüks Bordo ve Altın Botanik Ağaç
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1687,7 +2552,7 @@ Genel tarz klasik, lüks ve son derece detaylıdır. Düz 2D grafik illüstrasyo
 
 ---
 
-### No. 43: Lüks Siyah ve Altın Soyut Ağaç
+### No. 68: Lüks Siyah ve Altın Soyut Ağaç
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1727,7 +2592,7 @@ Genel tasarım yüksek kontrastlı, lüks ve sade. Yüksek çözünürlüklü, d
 
 ---
 
-### No. 44: Kurumsal Tipografi Ağacı
+### No. 69: Kurumsal Tipografi Ağacı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1769,7 +2634,7 @@ Ağacın altında, alt kısımda ortalanmış olarak, temiz, basit, beyaz sans-s
 
 ---
 
-### No. 45: Rustik El Çizimi Çam Çelenk
+### No. 70: Rustik El Çizimi Çam Çelenk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1809,7 +2674,7 @@ Genel estetik, düz, grafik illüstrasyon kalitesiyle temiz, şenlikli ve iç a�
 
 ---
 
-### No. 46: Retro 1950'ler Noel Şehir Sokağı
+### No. 71: Retro 1950'ler Noel Şehir Sokağı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1847,7 +2712,7 @@ Kaldırımlar, 1950'lerin kış modasına uygun, neşeli alışveriş yapanlarla
 
 ---
 
-### No. 47: Çatıda Balkonda Viktorya Dönemi Noel Babası
+### No. 72: Çatıda Balkonda Viktorya Dönemi Noel Babası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1891,7 +2756,7 @@ Enfes ve son derece detaylı, yazdırılabilir kalite, en boy oranı 1:1.4.
 
 ---
 
-### No. 48: Katmanlı Kağıt El Sanatları Kesme Ağacı
+### No. 73: Katmanlı Kağıt El Sanatları Kesme Ağacı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1931,7 +2796,7 @@ Altta, {argument name="text" default="Merry Christmas"} metni, derinlik katmak i
 
 ---
 
-### No. 49: Sevimli Karalama Geyik Yüzü
+### No. 74: Sevimli Karalama Geyik Yüzü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1971,7 +2836,7 @@ Genel estetik temiz, tuhaf ve bir tatil kartı için mükemmeldir. Mat yüzeyli 
 
 ---
 
-### No. 50: Vintage Kızaklı Çocuklar
+### No. 75: Vintage Kızaklı Çocuklar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2011,7 +2876,7 @@ Alt kısımda, zarif altın el yazısıyla {argument name='text' default='Fröhl
 
 ---
 
-### No. 51: Kuzey Kutbu Tabelasında Esprili Noel Baba
+### No. 76: Kuzey Kutbu Tabelasında Esprili Noel Baba
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2051,7 +2916,7 @@ Kartın sol tarafında metin dikey olarak düzenlenmiştir. En üstte, basit siy
 
 ---
 
-### No. 52: Retro Yüzyıl Ortası Işıklar ve Çelenk
+### No. 77: Retro Yüzyıl Ortası Işıklar ve Çelenk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2093,7 +2958,7 @@ Genel estetik, düz vektör sanat tarzında, temiz, grafiksel ve büyüleyici bi
 
 ---
 
-### No. 53: Gece Vakti Sus İşareti Yapan Vintage Noel Baba
+### No. 78: Gece Vakti Sus İşareti Yapan Vintage Noel Baba
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2135,7 +3000,7 @@ Sağ üst köşede, zarif, beyaz el yazısıyla şu metin yazılı: {argument na
 
 ---
 
-### No. 54: Kaprisli Orman Hayvanları Buluşması
+### No. 79: Kaprisli Orman Hayvanları Buluşması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2179,7 +3044,7 @@ Sol üst köşede, '{argument name="text" default="Happy Holidays!"}' metni zari
 
 ---
 
-### No. 55: Büyülü Parlayan Orman ve Kardan Adam
+### No. 80: Büyülü Parlayan Orman ve Kardan Adam
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2219,7 +3084,7 @@ Fantastik bir dokunuşla fotogerçekçi, yüksek detay, büyülü ışıltı.
 
 ---
 
-### No. 56: Yüzyıl Ortası Modern Mezuniyet Balosu
+### No. 81: Yüzyıl Ortası Modern Mezuniyet Balosu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2263,7 +3128,7 @@ Stilize ve nostaljik, vintage guaj veya serigrafi baskının temiz, grafiksel hi
 
 ---
 
-### No. 57: Modern İskandinav Halk Sanatı Geyiği
+### No. 82: Modern İskandinav Halk Sanatı Geyiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2307,7 +3172,7 @@ Zarif, basılabilir, en boy oranı 1:1.4.
 
 ---
 
-### No. 58: Art Deco Bordo ve Altın Kart
+### No. 83: Art Deco Bordo ve Altın Kart
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2349,7 +3214,7 @@ Tüm tasarım, sofistike çift altın çizgi kenarlıkla çevrilidir. İç kenar
 
 ---
 
-### No. 59: Kardan Adamlı Klasik Kış Manzarası
+### No. 84: Kardan Adamlı Klasik Kış Manzarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2395,7 +3260,7 @@ Genel estetik, güzel, yüksek kaliteli, basılabilir retro bir tebrik kartını
 
 ---
 
-### No. 60: Viktorya Dönemi Çocukları ve Karlı Adam
+### No. 85: Viktorya Dönemi Çocukları ve Karlı Adam
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2435,7 +3300,7 @@ Büyüleyici kış sahnesinde karlı bir bahçede iki çocuk ve bir kardan adam 
 
 ---
 
-### No. 61: Minimalist Botanik Mürekkep ve Suluboya
+### No. 86: Minimalist Botanik Mürekkep ve Suluboya
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2475,7 +3340,7 @@ Düz 2D illüstrasyon, yüksek çözünürlüklü, baskı için mükemmel.
 
 ---
 
-### No. 62: Vintage Kromolitograf Yavru Kediler
+### No. 87: Vintage Kromolitograf Yavru Kediler
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2513,7 +3378,7 @@ Genel his, detaylı, ressamvari tüyler ve nazik gölgelerle büyüleyici ve nos
 
 ---
 
-### No. 63: Modern Puantilist Yılbaşı Ağacı
+### No. 88: Modern Puantilist Yılbaşı Ağacı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2552,7 +3417,7 @@ Tasarım, 1:1.4 en boy oranında oluşturulmuş çerçeveyi doldurmalıdır.
 
 ---
 
-### No. 64: Suluboya Kutup Ayısı Anne ve Yavrusu
+### No. 89: Suluboya Kutup Ayısı Anne ve Yavrusu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2592,7 +3457,7 @@ Düz 2D illüstrasyon, büyüleyici ve sanatsal, yüksek detaylı.
 
 ---
 
-### No. 65: Kawaii Pembe Domuz ve Zencefilli Kurabiye Karalaması
+### No. 90: Kawaii Pembe Domuz ve Zencefilli Kurabiye Karalaması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2631,7 +3496,7 @@ Açık mavi gökyüzü düşen karla doludur ve zencefilli bir Noel Baba, zencef
 
 ---
 
-### No. 66: Kuzey Işıkları Altında Kutup Ayıları
+### No. 91: Kuzey Işıkları Altında Kutup Ayıları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2673,7 +3538,7 @@ Sanat eseri, görünür dokular ve iç ısıtan bir his ile büyüleyici bir sul
 
 ---
 
-### No. 67: Üçlü Zencefilli Kurabiye
+### No. 92: Üçlü Zencefilli Kurabiye
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2713,7 +3578,7 @@ Tasarım temiz, kalın dış çizgiler ve kahverengi, kırmızı, yeşil ve pemb
 
 ---
 
-### No. 68: Lüks Siyah ve Altın Kurumsal Kart
+### No. 93: Lüks Siyah ve Altın Kurumsal Kart
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2753,7 +3618,7 @@ Genel estetik sofistike ve kutlamalı olup, siyah ile ışıltılı altın aras�
 
 ---
 
-### No. 69: Kopyalama Alanı Olan Suluboya Noel Baba
+### No. 94: Kopyalama Alanı Olan Suluboya Noel Baba
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2793,7 +3658,7 @@ Yüksek çözünürlüklü, karmaşık detaylar, basılabilir şenlikli sanat. -
 
 ---
 
-### No. 70: Minimalist Suluboya Şen Tilki
+### No. 95: Minimalist Suluboya Şen Tilki
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2830,7 +3695,7 @@ Sanat eseri, tilkinin canlı turuncu ve kabarık beyaz kürkü gibi zengin dokuy
 
 ---
 
-### No. 71: Mizahi 'Oh Snap' Zencefilli Kurabiye Adam
+### No. 96: Mizahi 'Oh Snap' Zencefilli Kurabiye Adam
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2871,7 +3736,7 @@ Genel stil, eğlenceli ve esprili bir his veren temiz, düz bir vektör illüstr
 
 ---
 
-### No. 72: Karda Sevimli Suluboya Penguenler
+### No. 97: Karda Sevimli Suluboya Penguenler
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2910,7 +3775,7 @@ Kartın üst orta kısmında, ortalanmış olarak, temiz, zarif, tamamen büyük
 
 ---
 
-### No. 73: İskandinav Lacivert ve Krem Folk Sanatı
+### No. 98: İskandinav Lacivert ve Krem Folk Sanatı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2947,7 +3812,7 @@ Sanat eseri, temiz, keskin çizgilere ve lacivert ile kirli beyazdan oluşan sı
 
 ---
 
-### No. 74: Minimalist Lacivert İpli Işıklar Kartı
+### No. 99: Minimalist Lacivert İpli Işıklar Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2988,7 +3853,7 @@ Genel tarz düz, grafiksel, minimalist ve iç açıcıdır.
 
 ---
 
-### No. 75: Komik Yaralı Zencefilli Kurabiye Adam
+### No. 100: Komik Yaralı Zencefilli Kurabiye Adam
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3030,7 +3895,7 @@ Zencefilli kurabiye adamın basit, gülümseyen bir yüzü, mor şekerleme düğ
 
 ---
 
-### No. 76: Lacivert Suluboya İp Lambalar
+### No. 101: Lacivert Suluboya İp Lambalar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3072,7 +3937,7 @@ Genel estetik düz, grafiksel ve modern olup, rahat, el boyaması bir dokunuşa 
 
 ---
 
-### No. 77: Simetrik Halk Sanatı Ren Geyiği
+### No. 102: Simetrik Halk Sanatı Ren Geyiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3113,7 +3978,7 @@ Yüksek detaylı, büyüleyici ve iç ısıtan, en boy oranı 1:1.4.
 
 ---
 
-### No. 78: Lacivert ve Gümüş Parıltılı Kar Taneleri
+### No. 103: Lacivert ve Gümüş Parıltılı Kar Taneleri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3153,7 +4018,7 @@ Bu, metalik ve simli dokuları vurgulayan keskin, temiz detaylara ve stüdyo ayd
 
 ---
 
-### No. 79: Klasik Ressam Tarzı Noel Baba ve Orman Hayvanları
+### No. 104: Klasik Ressam Tarzı Noel Baba ve Orman Hayvanları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3194,7 +4059,7 @@ Nazik kar taneleri havada süzülerek tüm sahneyi kaplıyor. Uzak arka planda, 
 
 ---
 
-### No. 80: Folyo Metinli Modern Altın Çember Çelenk
+### No. 105: Folyo Metinli Modern Altın Çember Çelenk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3234,7 +4099,7 @@ Genel tarz sofistike, lüks ve sim, folyo ve katmanlı kağıt ile dokuyu kutluy
 
 ---
 
-### No. 81: Kağıt Kıvırma Noel Çanları
+### No. 106: Kağıt Kıvırma Noel Çanları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3274,7 +4139,7 @@ Genel estetik el yapımı, şenlikli ve son derece detaylıdır. En boy oranı 1
 
 ---
 
-### No. 82: Vintage Suluboya Kış Köy Kilisesi
+### No. 107: Vintage Suluboya Kış Köy Kilisesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3316,7 +4181,7 @@ Güzel sanat illüstrasyonu, detaylı, yüksek çözünürlüklü, yumuşak doku
 
 ---
 
-### No. 83: Geceleri Huzurlu Orman Hayvanları
+### No. 108: Geceleri Huzurlu Orman Hayvanları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3357,7 +4222,7 @@ Arka planda karla kaplı çam ağaçlarından oluşan uzak bir orman görünüyo
 
 ---
 
-### No. 84: Zarif Sulu Boya Saksı Noel Ağacı
+### No. 109: Zarif Sulu Boya Saksı Noel Ağacı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3396,7 +4261,7 @@ Genel tarz, yumuşak fırça darbeleri ve sıcak, pastel renk paletiyle narin ve
 
 ---
 
-### No. 85: Minimalist Suluboya Kar Tanesi Kartı
+### No. 110: Minimalist Suluboya Kar Tanesi Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3438,7 +4303,7 @@ Genel tarz minimalist, sanatsal ve dingin olup, el yapımı bir his veriyor; yü
 
 ---
 
-### No. 86: Minimalist Asma Süsler Grafiği
+### No. 111: Minimalist Asma Süsler Grafiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3478,7 +4343,7 @@ Süslerin altında ortalanmış olarak, {argument name="Greeting" default="Merry
 
 ---
 
-### No. 87: Kırmızı Kurdeleli Kabartmalı Kış Manzarası
+### No. 112: Kırmızı Kurdeleli Kabartmalı Kış Manzarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3518,7 +4383,7 @@ Tüm kompozisyon, yüksek kaliteli, dokulu kart stoğu üzerine bir resim olarak
 
 ---
 
-### No. 88: Naif El Çizimi Kış Kulübesi
+### No. 113: Naif El Çizimi Kış Kulübesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3560,7 +4425,7 @@ Tüm görüntü, kalın siyah ana hatlara sahip düz 2D bir illüstrasyondur ve 
 
 ---
 
-### No. 89: Modern Teal ve Altın Varak Yılbaşı Ağacı
+### No. 114: Modern Teal ve Altın Varak Yılbaşı Ağacı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3600,7 +4465,7 @@ Sanat eseri, hafif bir kağıt dokusu ve orta yüzyıl estetiği ile modern, dü
 
 ---
 
-### No. 90: Soyut Boya Sıçramalı Noel Ağacı
+### No. 115: Soyut Boya Sıçramalı Noel Ağacı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3639,7 +4504,7 @@ Stil temiz, şenlikli ve sanatsal. Düz grafik illüstrasyon, yüksek çözünü
 
 ---
 
-### No. 91: Minimalist Suluboya Geyik ve Kızılgerdan
+### No. 116: Minimalist Suluboya Geyik ve Kızılgerdan
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3672,7 +4537,7 @@ El çizimi suluboya illüstrasyon içeren, tuhaf ve iç açıcı bir Noel kartı
 
 ---
 
-### No. 92: Kişiselleştirilmiş İsimli Sevimli Yavru Ren Geyiği
+### No. 117: Kişiselleştirilmiş İsimli Sevimli Yavru Ren Geyiği
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3712,7 +4577,7 @@ Kartın sağ tarafında, "Merry Christmas" metni üst kısımda zarif siyah el y
 
 ---
 
-### No. 93: İlkel Halk Sanatı Karl Adam Boyaması
+### No. 118: İlkel Halk Sanatı Karl Adam Boyaması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3751,7 +4616,7 @@ Stil ilkel, düz ve el boyaması olup, iç açıcı ve huzurlu bir ruh halindedi
 
 ---
 
-### No. 94: Sakin Suluboya Ahır ve Geyik Kartı
+### No. 119: Sakin Suluboya Ahır ve Geyik Kartı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3791,7 +4656,7 @@ Genel ruh hali huzurlu ve kutsaldır. Renk paleti, yumuşak ahır kırmızısı,
 
 ---
 
-### No. 95: Kağıt Kesme ve Keçe Aplike Noel Baba
+### No. 120: Kağıt Kesme ve Keçe Aplike Noel Baba
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3832,202 +4697,29 @@ Tüm sahne, ince, zarif çift çizgili altın varak bir kenarlıkla çerçevelen
 
 ---
 
-### No. 96: Komik Obur Zencefilli Kurabiye Adam Kartı
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Noel pudinglerini tıka basa yiyen dev bir zencefilli kurabiye adamın esprili, kawaii tarzı bir çizgi filmi. Komik bir tatil tebriği için eğlenceli, özelleştirilebilir bir metin alanı içerir.
-
-#### 📝 İstem
-
-```
-Yüksek kaliteli, basılabilir bir tebrik kartı illüstrasyonu, 1:1.4 en boy oranında, sevimli ve komik bir kawaii çizgi film tarzında, net siyah dış çizgilerle.
-
-Sahne, hafif kar yağışını temsil eden minik beyaz noktalarla dolu, düz, yumuşak açık mavi bir arka plan üzerinde yer alıyor.
-
-Çerçevenin alt ortasında, küçük kırmızı beyaz bir Noel Baba şapkası takmış devasa, komik derecede şişman bir zencefilli adam oturuyor. Ağzı oburluktan kocaman açılmış, içine bir Noel pudingi tıkıyor. Kocaman göbeğinde iki kırmızı şeker düğme var.
-
-Etrafı devasa bir Noel pudingi yığınıyla çevrili, daha fazla puding komik bir şekilde vücuduna yapışmış. Küçük, klasik tarzda bir zencefilli adam dibinde duruyor, kolları havada şaşkınlıkla yukarı bakıyor. Dev adamın omzunda, başında bir çobanpüskülü yaprağı olan minik pembe bir domuz yavrusu karakteri endişeli bir ifadeyle bakıyor.
-
-Her Noel pudingi, aşağı doğru damlayan beyaz krema ve üzerinde küçük bir çobanpüskülü dalı ile detaylandırılmıştır. Genel stil, sahnenin sevimli ve mizahi doğasını vurgulayan, minimum gölgelendirmeli düz bir tarzdır.
-
-Kartın altında, ortalanmış olarak, eğlenceli, el yazısı bir fontla özel metin yer alıyor: {argument name="text" default="Seasons Eatings!"}
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592682065_v38f1e_93648d6abd8060ac793c4f839dfc4b1d0d156ca96c1e045f7ceab59c6426e3c0" width="600" alt="Komik Obur Zencefilli Kurabiye Adam Kartı - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Kaynak:** [Twitter Post](null)
-- **Yayınlandı:** 13 Aralık 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Y%C3%BCksek%20kaliteli%2C%20bas%C4%B1labilir%20bir%20tebrik%20kart%C4%B1%20ill%C3%BCstrasyonu%2C%201%3A1.4%20en%20boy%20oran%C4%B1nda%2C%20sevimli%20ve%20komik%20bir%20kawaii%20%C3%A7izgi%20film%20tarz%C4%B1nda%2C%20net%20siyah%20d%C4%B1%C5%9F%20%C3%A7izgilerle.%0A%0ASahne%2C%20hafif%20kar%20ya%C4%9F%C4%B1%C5%9F%C4%B1n%C4%B1%20temsil%20eden%20minik%20beyaz%20noktalarla%20dolu%2C%20d%C3%BCz%2C%20yumu%C5%9Fak%20a%C3%A7%C4%B1k%20mavi%20bir%20arka%20plan%20%C3%BCzerinde%20yer%20al%C4%B1yor.%0A%0A%C3%87er%C3%A7evenin%20alt%20ortas%C4%B1nda%2C%20k%C3%BC%C3%A7%C3%BCk%20k%C4%B1rm%C4%B1z%C4%B1%20beyaz%20bir%20Noel%20Baba%20%C5%9Fapkas%C4%B1%20takm%C4%B1%C5%9F%20devasa%2C%20komik%20derecede%20%C5%9Fi%C5%9Fman%20bir%20zencefilli%20adam%20oturuyor.%20A%C4%9Fz%C4%B1%20oburluktan%20kocaman%20a%C3%A7%C4%B1lm%C4%B1%C5%9F%2C%20i%C3%A7ine%20bir%20Noel%20pudingi%20t%C4%B1k%C4%B1yor.%20Kocaman%20g%C3%B6be%C4%9Finde%20iki%20k%C4%B1rm%C4%B1z%C4%B1%20%C5%9Feker%20d%C3%BC%C4%9Fme%20var.%0A%0AEtraf%C4%B1%20devasa%20bir%20Noel%20pudingi%20y%C4%B1%C4%9F%C4%B1n%C4%B1yla%20%C3%A7evrili%2C%20daha%20fazla%20puding%20komik%20bir%20%C5%9Fekilde%20v%C3%BCcuduna%20yap%C4%B1%C5%9Fm%C4%B1%C5%9F.%20K%C3%BC%C3%A7%C3%BCk%2C%20klasik%20tarzda%20bir%20zencefilli%20adam%20dibinde%20duruyor%2C%20kollar%C4%B1%20havada%20%C5%9Fa%C5%9Fk%C4%B1nl%C4%B1kla%20yukar%C4%B1%20bak%C4%B1yor.%20Dev%20adam%C4%B1n%20omzunda%2C%20ba%C5%9F%C4%B1nda%20bir%20%C3%A7obanp%C3%BCsk%C3%BCl%C3%BC%20yapra%C4%9F%C4%B1%20olan%20minik%20pembe%20bir%20domuz%20yavrusu%20karakteri%20endi%C5%9Feli%20bir%20ifadeyle%20bak%C4%B1yor.%0A%0AHer%20Noel%20pudingi%2C%20a%C5%9Fa%C4%9F%C4%B1%20do%C4%9Fru%20damlayan%20beyaz%20krema%20ve%20%C3%BCzerinde%20k%C3%BC%C3%A7%C3%BCk%20bir%20%C3%A7obanp%C3%BCsk%C3%BCl%C3%BC%20dal%C4%B1%20ile%20detayland%C4%B1r%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%20Genel%20stil%2C%20sahnenin%20sevimli%20ve%20mizahi%20do%C4%9Fas%C4%B1n%C4%B1%20vurgulayan%2C%20minimum%20g%C3%B6lgelendirmeli%20d%C3%BCz%20bir%20tarzd%C4%B1r.%0A%0AKart%C4%B1n%20alt%C4%B1nda%2C%20ortalanm%C4%B1%C5%9F%20olarak%2C%20e%C4%9Flenceli%2C%20el%20yaz%C4%B1s%C4%B1%20bir%20fontla%20%C3%B6zel%20metin%20yer%20al%C4%B1yor%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Seasons%20Eatings!%22%7D)**
-
 ---
 
-### No. 97: İskandinav Cücesi ve Kızıl Tilki Halk Sanatı
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Karda yürüyen bir İskandinav cücesi (Tomte) ve kırmızı bir tilkiyi gösteren tuhaf bir halk sanatı illüstrasyonu. Bu büyüleyici hikaye kitabı tarzı, iç ısıtan bir tatil kartı için mükemmel.
-
-#### 📝 İstem
-
-```
-Güzel bir halk sanatı ve hikaye kitabı tarzında, tuhaf ve büyüleyici bir Noel illüstrasyonu. Küçük bir İskandinav cüce Noel Baba (Tomte), karlı bir ormanda derin bir gecede yürüyor. Basit bir kırmızı palto ve sivri uçlu kırmızı bir şapka giymiş, yüzü uzun, akıcı beyaz sakalıyla çoğunlukla gizlenmiş. Omuzunda parlak ambalajlı hediyelerle dolu büyük bir çuval taşıyor ve aşağıdaki kara sıcak, büyülü bir ışık yayan parlayan bir fener tutuyor.
-
-Gür kuyruklu ve beyaz göğüslü, arkadaş canlısı ve zarif bir kızıl tilki, cücenin yanında zarifçe yürüyor ve doğrudan izleyiciye bakıyor. Etrafları, derin mavi tonlarında stilize edilmiş, karla kaplı çam ağaçlarından oluşan yoğun bir ormanla çevrili. Gece gökyüzü koyu çivit mavisi, narin bir hilal ay ve yumuşak, düşen kar taneleriyle dolu. Sahne sakin, büyülü ve iç açıcı.
-
-Ressam dokusu, zengin renkler, enfes detaylar, baskı için mükemmel. Düz 2D illüstrasyon. --ar 1:1.4
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
+## 📚 Daha fazla istem mevcut
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592680716_zmo7vz_1765541650655-hwc2pb-LEDlE2LavQ0YM6a6mZooIf3x87L3fPzz8B_tFrwRUSmSvAAAAAElFTkSuQmCC" width="600" alt="İskandinav Cücesi ve Kızıl Tilki Halk Sanatı - Image 1">
+
+### 🎯 5 burada gösterilmeyen daha fazla istem
+
+Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
+
+**[👉 Tüm istemleri web galerimizde görüntüleyin](https://youmind.com/tools/christmas-cards-maker)**
+
+The gallery features:
+
+✨ Güzel Masonry grid düzeni
+
+🔍 Tam metin arama ve filtreler
+
+🌍 17 dil desteği
+
+📱 Mobil optimize deneyim
+
 </div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Kaynak:** [Twitter Post](null)
-- **Yayınlandı:** 13 Aralık 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=G%C3%BCzel%20bir%20halk%20sanat%C4%B1%20ve%20hikaye%20kitab%C4%B1%20tarz%C4%B1nda%2C%20tuhaf%20ve%20b%C3%BCy%C3%BCleyici%20bir%20Noel%20ill%C3%BCstrasyonu.%20K%C3%BC%C3%A7%C3%BCk%20bir%20%C4%B0skandinav%20c%C3%BCce%20Noel%20Baba%20(Tomte)%2C%20karl%C4%B1%20bir%20ormanda%20derin%20bir%20gecede%20y%C3%BCr%C3%BCyor.%20Basit%20bir%20k%C4%B1rm%C4%B1z%C4%B1%20palto%20ve%20sivri%20u%C3%A7lu%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20%C5%9Fapka%20giymi%C5%9F%2C%20y%C3%BCz%C3%BC%20uzun%2C%20ak%C4%B1c%C4%B1%20beyaz%20sakal%C4%B1yla%20%C3%A7o%C4%9Funlukla%20gizlenmi%C5%9F.%20Omuzunda%20parlak%20ambalajl%C4%B1%20hediyelerle%20dolu%20b%C3%BCy%C3%BCk%20bir%20%C3%A7uval%20ta%C5%9F%C4%B1yor%20ve%20a%C5%9Fa%C4%9F%C4%B1daki%20kara%20s%C4%B1cak%2C%20b%C3%BCy%C3%BCl%C3%BC%20bir%20%C4%B1%C5%9F%C4%B1k%20yayan%20parlayan%20bir%20fener%20tutuyor.%0A%0AG%C3%BCr%20kuyruklu%20ve%20beyaz%20g%C3%B6%C4%9F%C3%BCsl%C3%BC%2C%20arkada%C5%9F%20canl%C4%B1s%C4%B1%20ve%20zarif%20bir%20k%C4%B1z%C4%B1l%20tilki%2C%20c%C3%BCcenin%20yan%C4%B1nda%20zarif%C3%A7e%20y%C3%BCr%C3%BCyor%20ve%20do%C4%9Frudan%20izleyiciye%20bak%C4%B1yor.%20Etraflar%C4%B1%2C%20derin%20mavi%20tonlar%C4%B1nda%20stilize%20edilmi%C5%9F%2C%20karla%20kapl%C4%B1%20%C3%A7am%20a%C4%9Fa%C3%A7lar%C4%B1ndan%20olu%C5%9Fan%20yo%C4%9Fun%20bir%20ormanla%20%C3%A7evrili.%20Gece%20g%C3%B6ky%C3%BCz%C3%BC%20koyu%20%C3%A7ivit%20mavisi%2C%20narin%20bir%20hilal%20ay%20ve%20yumu%C5%9Fak%2C%20d%C3%BC%C5%9Fen%20kar%20taneleriyle%20dolu.%20Sahne%20sakin%2C%20b%C3%BCy%C3%BCl%C3%BC%20ve%20i%C3%A7%20a%C3%A7%C4%B1c%C4%B1.%0A%0ARessam%20dokusu%2C%20zengin%20renkler%2C%20enfes%20detaylar%2C%20bask%C4%B1%20i%C3%A7in%20m%C3%BCkemmel.%20D%C3%BCz%202D%20ill%C3%BCstrasyon.%20--ar%201%3A1.4)**
-
----
-
-### No. 98: Hayalperest Suluboya Zencefilli Kurabiye Ev Kartı
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Beyaz krema ve şekerlemelerle süslenmiş, şenlikli bir zencefilli evin büyüleyici suluboya illüstrasyonu, düşen kar taneleriyle pastel pembe bir arka plan üzerinde yer alıyor. Yazdırılabilir bir kart için mükemmel, sevimli, el yapımı bir his yaratıyor.
-
-#### 📝 İstem
-
-```
-Şenlikli bir zencefilli kurabiye evinin, basılabilir bir tebrik kartı için tasarlanmış, güzel ve tuhaf bir suluboya illüstrasyonu. Sevimli ev, sıcak kahverengi zencefilli kurabiyeden yapılmış ve merkeze yerleştirilmiştir. A-çerçeve çatıdan ve küçük üçgen çatılı girişten damlayan kar gibi görünen kalın, beyaz kraliyet buzlanmasıyla cömertçe dekore edilmiştir.
-
-Ev, duvarlarında karmaşık beyaz buzlanma oymaları ve telkari detaylarına sahiptir. Üst katta, pembe camlı ve açık beyaz panjurlu kemerli bir pencere bulunur ve bu pencerenin iki yanında büyük kırmızı-beyaz nane girdaplı şekerlemeler yer alır. Zemin katta, detaylı pembe vurgulu bir ön kapı ve her biri sevimli pembe bir fiyonkla süslenmiş, açık mavi camlı iki pencere bulunmaktadır.
-
-Sahne, hafif beyaz karın yağdığı yumuşak pastel pembe bir arka plan üzerine kuruludur. Evin tabanında, buzlanmalı küçük zencefilli kurabiye Noel ağaçlarının durduğu bir kar tabakası vardır. Kırmızı ve yeşil girdaplı lolipoplar da dahil olmak üzere renkli şekerlemeler, ön plana tatlı bir dokunuş katmaktadır.
-
-Genel stil sevimli, detaylı ve el yapımı olup, yumuşak bir suluboya dokusuna sahiptir. Yüksek çözünürlüklü, karmaşık ve baskı için mükemmeldir. En boy oranı 1:1.4.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592658803_8o17k1_1765541654769-yw0o4d-NR6jOasVbB1lpVe614M2XHd9q0tmel55FGtJGo3h4xWXlrkX1m4pH_PSxz90EOTAZTbagy05xVI6qAqZ6DqOnP81FzKookCrkiqnRytsyCWhOePOccg6U2uGH7nP8Hjp5rCMBkiiwAAAAASUVORK5CYII_" width="600" alt="Hayalperest Suluboya Zencefilli Kurabiye Ev Kartı - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Kaynak:** [Twitter Post](null)
-- **Yayınlandı:** 13 Aralık 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=%C5%9Eenlikli%20bir%20zencefilli%20kurabiye%20evinin%2C%20bas%C4%B1labilir%20bir%20tebrik%20kart%C4%B1%20i%C3%A7in%20tasarlanm%C4%B1%C5%9F%2C%20g%C3%BCzel%20ve%20tuhaf%20bir%20suluboya%20ill%C3%BCstrasyonu.%20Sevimli%20ev%2C%20s%C4%B1cak%20kahverengi%20zencefilli%20kurabiyeden%20yap%C4%B1lm%C4%B1%C5%9F%20ve%20merkeze%20yerle%C5%9Ftirilmi%C5%9Ftir.%20A-%C3%A7er%C3%A7eve%20%C3%A7at%C4%B1dan%20ve%20k%C3%BC%C3%A7%C3%BCk%20%C3%BC%C3%A7gen%20%C3%A7at%C4%B1l%C4%B1%20giri%C5%9Ften%20damlayan%20kar%20gibi%20g%C3%B6r%C3%BCnen%20kal%C4%B1n%2C%20beyaz%20kraliyet%20buzlanmas%C4%B1yla%20c%C3%B6mert%C3%A7e%20dekore%20edilmi%C5%9Ftir.%0A%0AEv%2C%20duvarlar%C4%B1nda%20karma%C5%9F%C4%B1k%20beyaz%20buzlanma%20oymalar%C4%B1%20ve%20telkari%20detaylar%C4%B1na%20sahiptir.%20%C3%9Cst%20katta%2C%20pembe%20caml%C4%B1%20ve%20a%C3%A7%C4%B1k%20beyaz%20panjurlu%20kemerli%20bir%20pencere%20bulunur%20ve%20bu%20pencerenin%20iki%20yan%C4%B1nda%20b%C3%BCy%C3%BCk%20k%C4%B1rm%C4%B1z%C4%B1-beyaz%20nane%20girdapl%C4%B1%20%C5%9Fekerlemeler%20yer%20al%C4%B1r.%20Zemin%20katta%2C%20detayl%C4%B1%20pembe%20vurgulu%20bir%20%C3%B6n%20kap%C4%B1%20ve%20her%20biri%20sevimli%20pembe%20bir%20fiyonkla%20s%C3%BCslenmi%C5%9F%2C%20a%C3%A7%C4%B1k%20mavi%20caml%C4%B1%20iki%20pencere%20bulunmaktad%C4%B1r.%0A%0ASahne%2C%20hafif%20beyaz%20kar%C4%B1n%20ya%C4%9Fd%C4%B1%C4%9F%C4%B1%20yumu%C5%9Fak%20pastel%20pembe%20bir%20arka%20plan%20%C3%BCzerine%20kuruludur.%20Evin%20taban%C4%B1nda%2C%20buzlanmal%C4%B1%20k%C3%BC%C3%A7%C3%BCk%20zencefilli%20kurabiye%20Noel%20a%C4%9Fa%C3%A7lar%C4%B1n%C4%B1n%20durdu%C4%9Fu%20bir%20kar%20tabakas%C4%B1%20vard%C4%B1r.%20K%C4%B1rm%C4%B1z%C4%B1%20ve%20ye%C5%9Fil%20girdapl%C4%B1%20lolipoplar%20da%20dahil%20olmak%20%C3%BCzere%20renkli%20%C5%9Fekerlemeler%2C%20%C3%B6n%20plana%20tatl%C4%B1%20bir%20dokunu%C5%9F%20katmaktad%C4%B1r.%0A%0AGenel%20stil%20sevimli%2C%20detayl%C4%B1%20ve%20el%20yap%C4%B1m%C4%B1%20olup%2C%20yumu%C5%9Fak%20bir%20suluboya%20dokusuna%20sahiptir.%20Y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%2C%20karma%C5%9F%C4%B1k%20ve%20bask%C4%B1%20i%C3%A7in%20m%C3%BCkemmeldir.%20En%20boy%20oran%C4%B1%201%3A1.4.)**
-
----
-
-### No. 99: Düz Vektör Noel Desenli Kart
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Noel Baba, ren geyiği ve şeker kamışı gibi sevimli, düz Noel illüstrasyonlarından oluşan tuhaf, tekrarlayan bir desene sahip güzel, yazdırılabilir bir tebrik kartı tasarımı. Alt kısmında özelleştirilebilir bir el yazısı tebrik metni bulunur.
-
-#### 📝 İstem
-
-```
-Güzel, yazdırılabilir bir Noel tebrik kartı tasarımı, 1:1.4 en boy oranı, önden görünüm.
-
-Tasarım, sade beyaz bir arka plana sahiptir. Üstteki üçte ikilik kısım, düz, sevimli Noel illüstrasyonlarından oluşan tuhaf, tekrarlayan bir desenle kaplıdır. Desen şunları içerir: bir Noel Baba kafası, gülümseyen bir zencefilli kurabiye adam, sade yeşil bir Noel ağacı, kırmızı silindir şapka takan bir kardan adam kafası, kırmızı bir geyik silüeti, kırmızı kurdeleli sarı bir çıngıraklı zil, kırmızı beyaz bir baston şeker, kırmızı elbiseli küçük bir melek, kırmızı meyveli çobanpüskülü dalları, sarı yıldızlar ve açık kahverengi kar taneleri.
-
-Kartın alt üçte birlik kısmı, zarif, el yazısı stilinde şu metni içeren sade beyaz bir alandır: {argument name="greeting" default="sweet holiday wishes"}. "Sweet" kelimesi daha açık, daha ince bir yazı tipiyken, "holiday wishes" daha cesur, kırmızı bir yazı tipindedir.
-
-Genel stil, klasik kırmızı, yeşil, sarı ve kahverengi renk paletiyle düz vektör illüstrasyon, büyüleyici ve şenliklidir. Yüksek çözünürlüklü, baskı için mükemmeldir.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592656384_3effm5_1765541651729-no0nj1-B24wzvUu2A8OAAAAAElFTkSuQmCC" width="600" alt="Düz Vektör Noel Desenli Kart - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Kaynak:** [Twitter Post](null)
-- **Yayınlandı:** 13 Aralık 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=G%C3%BCzel%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20tebrik%20kart%C4%B1%20tasar%C4%B1m%C4%B1%2C%201%3A1.4%20en%20boy%20oran%C4%B1%2C%20%C3%B6nden%20g%C3%B6r%C3%BCn%C3%BCm.%0A%0ATasar%C4%B1m%2C%20sade%20beyaz%20bir%20arka%20plana%20sahiptir.%20%C3%9Cstteki%20%C3%BC%C3%A7te%20ikilik%20k%C4%B1s%C4%B1m%2C%20d%C3%BCz%2C%20sevimli%20Noel%20ill%C3%BCstrasyonlar%C4%B1ndan%20olu%C5%9Fan%20tuhaf%2C%20tekrarlayan%20bir%20desenle%20kapl%C4%B1d%C4%B1r.%20Desen%20%C5%9Funlar%C4%B1%20i%C3%A7erir%3A%20bir%20Noel%20Baba%20kafas%C4%B1%2C%20g%C3%BCl%C3%BCmseyen%20bir%20zencefilli%20kurabiye%20adam%2C%20sade%20ye%C5%9Fil%20bir%20Noel%20a%C4%9Fac%C4%B1%2C%20k%C4%B1rm%C4%B1z%C4%B1%20silindir%20%C5%9Fapka%20takan%20bir%20kardan%20adam%20kafas%C4%B1%2C%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20geyik%20sil%C3%BCeti%2C%20k%C4%B1rm%C4%B1z%C4%B1%20kurdeleli%20sar%C4%B1%20bir%20%C3%A7%C4%B1ng%C4%B1rakl%C4%B1%20zil%2C%20k%C4%B1rm%C4%B1z%C4%B1%20beyaz%20bir%20baston%20%C5%9Feker%2C%20k%C4%B1rm%C4%B1z%C4%B1%20elbiseli%20k%C3%BC%C3%A7%C3%BCk%20bir%20melek%2C%20k%C4%B1rm%C4%B1z%C4%B1%20meyveli%20%C3%A7obanp%C3%BCsk%C3%BCl%C3%BC%20dallar%C4%B1%2C%20sar%C4%B1%20y%C4%B1ld%C4%B1zlar%20ve%20a%C3%A7%C4%B1k%20kahverengi%20kar%20taneleri.%0A%0AKart%C4%B1n%20alt%20%C3%BC%C3%A7te%20birlik%20k%C4%B1sm%C4%B1%2C%20zarif%2C%20el%20yaz%C4%B1s%C4%B1%20stilinde%20%C5%9Fu%20metni%20i%C3%A7eren%20sade%20beyaz%20bir%20aland%C4%B1r%3A%20%7Bargument%20name%3D%22greeting%22%20default%3D%22sweet%20holiday%20wishes%22%7D.%20%22Sweet%22%20kelimesi%20daha%20a%C3%A7%C4%B1k%2C%20daha%20ince%20bir%20yaz%C4%B1%20tipiyken%2C%20%22holiday%20wishes%22%20daha%20cesur%2C%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20yaz%C4%B1%20tipindedir.%0A%0AGenel%20stil%2C%20klasik%20k%C4%B1rm%C4%B1z%C4%B1%2C%20ye%C5%9Fil%2C%20sar%C4%B1%20ve%20kahverengi%20renk%20paletiyle%20d%C3%BCz%20vekt%C3%B6r%20ill%C3%BCstrasyon%2C%20b%C3%BCy%C3%BCleyici%20ve%20%C5%9Fenliklidir.%20Y%C3%BCksek%20%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCkl%C3%BC%2C%20bask%C4%B1%20i%C3%A7in%20m%C3%BCkemmeldir.)**
-
----
-
-### No. 100: Retro Yüzyıl Ortası Geometrik Noel Kartı
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Stilize edilmiş bir Noel Baba, hediyeler ve kupadan oluşan geometrik Noel objeleri koleksiyonunu bloklu bir kompozisyonda sunan, orta yüzyıl modern tarzında yazdırılabilir bir kart. Retro sans-serif yazı tipinde özelleştirilebilir metin içerir.
-
-#### 📝 İstem
-
-```
-1:1.4 en boy oranına sahip zarif, basılabilir bir Noel kartı tasarımı.
-İllüstrasyon, temiz çizgiler ve düz renklerle orta yüzyıl modern, retro geometrik bir tarza sahiptir.
-
-Arka plan düz, temiz bir kirli beyazdır. Kartın sol alt kısmında, Noel temalı nesneler bloklu, ızgara benzeri bir kompozisyonda bir araya getirilmiştir. Bu düzenleme stilize edilmiş geometrik bir Noel Baba yüzü, kırmızı bir kardinal kuşu, basit desenli hediye kutuları, büyük turuncu-kırmızı bir kahve kupası, küçük bir çam ağacı ve minimalist evler içerir. Şekiller, koyu camgöbeği, turuncu-kırmızı, yumuşak pembe, koyu kahverengi ve ten rengi gibi belirgin bir retro renk paletiyle doldurulmuştur.
-
-Üst kısımda, ortalanmış olarak, basit, koyu kahverengi, tamamen büyük harflerle yazılmış sans-serif bir yazı tipinde {argument name="text" default="MERRY CHRISTMAS"} metni bulunmaktadır. Genel estetik minimalist, büyüleyici ve oldukça stilizedir.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592655055_3vrg3e_1765541649867-cwzgal-6Ts8tpcBM6BAAAAAElFTkSuQmCC" width="600" alt="Retro Yüzyıl Ortası Geometrik Noel Kartı - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Kaynak:** [Twitter Post](null)
-- **Yayınlandı:** 13 Aralık 2025
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=1%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%20zarif%2C%20bas%C4%B1labilir%20bir%20Noel%20kart%C4%B1%20tasar%C4%B1m%C4%B1.%0A%C4%B0ll%C3%BCstrasyon%2C%20temiz%20%C3%A7izgiler%20ve%20d%C3%BCz%20renklerle%20orta%20y%C3%BCzy%C4%B1l%20modern%2C%20retro%20geometrik%20bir%20tarza%20sahiptir.%0A%0AArka%20plan%20d%C3%BCz%2C%20temiz%20bir%20kirli%20beyazd%C4%B1r.%20Kart%C4%B1n%20sol%20alt%20k%C4%B1sm%C4%B1nda%2C%20Noel%20temal%C4%B1%20nesneler%20bloklu%2C%20%C4%B1zgara%20benzeri%20bir%20kompozisyonda%20bir%20araya%20getirilmi%C5%9Ftir.%20Bu%20d%C3%BCzenleme%20stilize%20edilmi%C5%9F%20geometrik%20bir%20Noel%20Baba%20y%C3%BCz%C3%BC%2C%20k%C4%B1rm%C4%B1z%C4%B1%20bir%20kardinal%20ku%C5%9Fu%2C%20basit%20desenli%20hediye%20kutular%C4%B1%2C%20b%C3%BCy%C3%BCk%20turuncu-k%C4%B1rm%C4%B1z%C4%B1%20bir%20kahve%20kupas%C4%B1%2C%20k%C3%BC%C3%A7%C3%BCk%20bir%20%C3%A7am%20a%C4%9Fac%C4%B1%20ve%20minimalist%20evler%20i%C3%A7erir.%20%C5%9Eekiller%2C%20koyu%20camg%C3%B6be%C4%9Fi%2C%20turuncu-k%C4%B1rm%C4%B1z%C4%B1%2C%20yumu%C5%9Fak%20pembe%2C%20koyu%20kahverengi%20ve%20ten%20rengi%20gibi%20belirgin%20bir%20retro%20renk%20paletiyle%20doldurulmu%C5%9Ftur.%0A%0A%C3%9Cst%20k%C4%B1s%C4%B1mda%2C%20ortalanm%C4%B1%C5%9F%20olarak%2C%20basit%2C%20koyu%20kahverengi%2C%20tamamen%20b%C3%BCy%C3%BCk%20harflerle%20yaz%C4%B1lm%C4%B1%C5%9F%20sans-serif%20bir%20yaz%C4%B1%20tipinde%20%7Bargument%20name%3D%22text%22%20default%3D%22MERRY%20CHRISTMAS%22%7D%20metni%20bulunmaktad%C4%B1r.%20Genel%20estetik%20minimalist%2C%20b%C3%BCy%C3%BCleyici%20ve%20olduk%C3%A7a%20stilizedir.)**
 
 ---
 
@@ -4074,6 +4766,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-15T04:38:38.244Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-15T08:29:43.125Z</sub>
 
 </div>

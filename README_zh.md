@@ -86,9 +86,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **100** |
+| 📝 提示词总数 | **125** |
 | ⭐ 精选 | **0** |
-| 🔄 最后更新 | **2025年12月15日星期一 UTC 04:38:25** |
+| 🔄 最后更新 | **2025年12月15日星期一 UTC 08:29:19** |
 
 </div>
 
@@ -98,7 +98,872 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 按发布日期排序（最新优先）
 
-### No. 1: 圣诞老人的晾衣绳圣诞卡
+### No. 1: Clumsy Penguins Children's Book Animation Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt creates a vertical, printable Christmas photo frame illustrated in a charming, humorous children's book animation style featuring clumsy penguins. The design focuses entirely on the frame itself with a blank photo placeholder, providing a joyful, funny, and animated look for print.
+
+#### 📝 提示词
+
+```
+A vertical 1:1.4 printable Christmas photo frame illustrated in a charming, humorous children’s book animation style.
+
+The design focuses entirely on the frame itself, with flat illustration and no background environment.
+
+A large blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 portrait ratio and 70% of the frame width, intentionally empty and clearly separated from all decorations.
+
+The surrounding border features clumsy cartoon penguins slipping, stacking ornaments, holding oversized stars, and interacting playfully with festive elements around the edges.
+
+The overall style is joyful, funny, animated, and print-friendly, with no text or lettering.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__" width="600" alt="Clumsy Penguins Children's Book Animation Photo Frame - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vertical%201%3A1.4%20printable%20Christmas%20photo%20frame%20illustrated%20in%20a%20charming%2C%20humorous%20children%E2%80%99s%20book%20animation%20style.%0A%0AThe%20design%20focuses%20entirely%20on%20the%20frame%20itself%2C%20with%20flat%20illustration%20and%20no%20background%20environment.%0A%0AA%20large%20blank%20photo%20placeholder%20is%20reserved%20at%20the%20exact%20horizontal%20and%20vertical%20center%2C%20with%20a%201%3A1.4%20portrait%20ratio%20and%2070%25%20of%20the%20frame%20width%2C%20intentionally%20empty%20and%20clearly%20separated%20from%20all%20decorations.%0A%0AThe%20surrounding%20border%20features%20clumsy%20cartoon%20penguins%20slipping%2C%20stacking%20ornaments%2C%20holding%20oversized%20stars%2C%20and%20interacting%20playfully%20with%20festive%20elements%20around%20the%20edges.%0A%0AThe%20overall%20style%20is%20joyful%2C%20funny%2C%20animated%2C%20and%20print-friendly%2C%20with%20no%20text%20or%20lettering.)**
+
+---
+
+### No. 2: Funny Gingerbread Animated Illustration Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt creates a printable Christmas photo frame illustration in a humorous animated storybook style featuring funny gingerbread characters. The design shows only the frame with a blank photo placeholder, offering a humorous, cozy, and whimsical aesthetic for printing.
+
+#### 📝 提示词
+
+```
+A printable Christmas photo frame illustration in a vertical 1:1.4 aspect ratio, created in a humorous animated storybook style.
+
+The illustration shows only the frame design, without any external environment or background scenery. The colors are warm and festive with soft paper texture.
+
+At the exact center, reserve a blank photo placeholder that is horizontally and vertically centered, maintaining a 1:1.4 aspect ratio and 70% of the total frame width, completely blank and unobstructed.
+
+The frame border is decorated with playful gingerbread characters striking silly poses, partially broken cookies, frosting details, and candy decorations, all drawn with expressive cartoon faces.
+
+The mood is humorous, cozy, and whimsical, fully optimized for printing, with no typography.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784310981_hlrjof_1765780294344-8suld3-nw38D6_lD8WBy0bTPa2E6DCNqhxc3ZAVzQg5N2eB1mBa0YUupvbF257bbb7r7rztXly4898dTdt5_wksUMiaSIA7ajkXM0yQDW5oIugT1rLlmBsfExT0IuzTiXnXUWtf8PrWnOlBF9AScAAAAASUVORK5CYII_" width="600" alt="Funny Gingerbread Animated Illustration Photo Frame - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20Christmas%20photo%20frame%20illustration%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20created%20in%20a%20humorous%20animated%20storybook%20style.%0A%0AThe%20illustration%20shows%20only%20the%20frame%20design%2C%20without%20any%20external%20environment%20or%20background%20scenery.%20The%20colors%20are%20warm%20and%20festive%20with%20soft%20paper%20texture.%0A%0AAt%20the%20exact%20center%2C%20reserve%20a%20blank%20photo%20placeholder%20that%20is%20horizontally%20and%20vertically%20centered%2C%20maintaining%20a%201%3A1.4%20aspect%20ratio%20and%2070%25%20of%20the%20total%20frame%20width%2C%20completely%20blank%20and%20unobstructed.%0A%0AThe%20frame%20border%20is%20decorated%20with%20playful%20gingerbread%20characters%20striking%20silly%20poses%2C%20partially%20broken%20cookies%2C%20frosting%20details%2C%20and%20candy%20decorations%2C%20all%20drawn%20with%20expressive%20cartoon%20faces.%0A%0AThe%20mood%20is%20humorous%2C%20cozy%2C%20and%20whimsical%2C%20fully%20optimized%20for%20printing%2C%20with%20no%20typography.)**
+
+---
+
+### No. 3: Lazy Sloth Style Animated Christmas Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates a printable Christmas photo frame illustration in a humorous animated storybook style featuring lazy sloths. It's designed as a standalone frame with a blank photo placeholder, perfect for high-quality printing and adding a lighthearted, cozy, and humorous touch to holiday photos.
+
+#### 📝 提示词
+
+```
+A printable Christmas photo frame illustration designed exclusively as a standalone frame, in a vertical 1:1.4 aspect ratio, suitable for high-quality print.
+
+The illustration focuses only on the frame itself, with no external environment or background scene. The style is a humorous animated storybook illustration with soft textures, clean outlines, and warm colors.
+
+At the exact center of the frame, reserve a blank photo placeholder area that is horizontally and vertically centered. The placeholder has a 1:1.4 portrait aspect ratio, with its width equal to 70% of the total frame width, and must remain completely empty and untouched.
+
+The surrounding frame border features playful cartoon sloths hanging from candy canes, evergreen branches, and festive hooks. The sloths wear cozy knitted sweaters and scarves, striking relaxed, funny poses.
+
+The illustration feels lighthearted, cozy, and humorous, with flat composition and print-friendly colors, no text or typography.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="Lazy Sloth Style Animated Christmas Photo Frame - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20Christmas%20photo%20frame%20illustration%20designed%20exclusively%20as%20a%20standalone%20frame%2C%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20suitable%20for%20high-quality%20print.%0A%0AThe%20illustration%20focuses%20only%20on%20the%20frame%20itself%2C%20with%20no%20external%20environment%20or%20background%20scene.%20The%20style%20is%20a%20humorous%20animated%20storybook%20illustration%20with%20soft%20textures%2C%20clean%20outlines%2C%20and%20warm%20colors.%0A%0AAt%20the%20exact%20center%20of%20the%20frame%2C%20reserve%20a%20blank%20photo%20placeholder%20area%20that%20is%20horizontally%20and%20vertically%20centered.%20The%20placeholder%20has%20a%201%3A1.4%20portrait%20aspect%20ratio%2C%20with%20its%20width%20equal%20to%2070%25%20of%20the%20total%20frame%20width%2C%20and%20must%20remain%20completely%20empty%20and%20untouched.%0A%0AThe%20surrounding%20frame%20border%20features%20playful%20cartoon%20sloths%20hanging%20from%20candy%20canes%2C%20evergreen%20branches%2C%20and%20festive%20hooks.%20The%20sloths%20wear%20cozy%20knitted%20sweaters%20and%20scarves%2C%20striking%20relaxed%2C%20funny%20poses.%0A%0AThe%20illustration%20feels%20lighthearted%2C%20cozy%2C%20and%20humorous%2C%20with%20flat%20composition%20and%20print-friendly%20colors%2C%20no%20text%20or%20typography.)**
+
+---
+
+### No. 4: Playful Polar Bear Cartoon Christmas Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt creates a printable animated Christmas photo frame in a humorous cartoon style featuring playful polar bears. It's designed solely as a frame illustration for print, with a blank photo placeholder, offering a cheerful, funny, and friendly aesthetic for holiday pictures.
+
+#### 📝 提示词
+
+```
+A printable animated Christmas photo frame in a vertical 1:1.4 aspect ratio, designed solely as a frame illustration for print.
+
+The frame is illustrated in a humorous cartoon style with rounded shapes, expressive characters, and soft shading. No environment, no background scene, only the frame design.
+
+A blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 aspect ratio and 70% of the frame width, completely empty and clean.
+
+The border is decorated with playful polar bears sliding, peeking, and clinging to the edges of the frame, interacting with candy canes, ornaments, and snowballs in a silly, exaggerated way.
+
+The overall mood is cheerful, funny, and friendly, optimized for flat printable illustration, with no text.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="Playful Polar Bear Cartoon Christmas Photo Frame - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20animated%20Christmas%20photo%20frame%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20designed%20solely%20as%20a%20frame%20illustration%20for%20print.%0A%0AThe%20frame%20is%20illustrated%20in%20a%20humorous%20cartoon%20style%20with%20rounded%20shapes%2C%20expressive%20characters%2C%20and%20soft%20shading.%20No%20environment%2C%20no%20background%20scene%2C%20only%20the%20frame%20design.%0A%0AA%20blank%20photo%20placeholder%20is%20reserved%20at%20the%20exact%20horizontal%20and%20vertical%20center%2C%20with%20a%201%3A1.4%20aspect%20ratio%20and%2070%25%20of%20the%20frame%20width%2C%20completely%20empty%20and%20clean.%0A%0AThe%20border%20is%20decorated%20with%20playful%20polar%20bears%20sliding%2C%20peeking%2C%20and%20clinging%20to%20the%20edges%20of%20the%20frame%2C%20interacting%20with%20candy%20canes%2C%20ornaments%2C%20and%20snowballs%20in%20a%20silly%2C%20exaggerated%20way.%0A%0AThe%20overall%20mood%20is%20cheerful%2C%20funny%2C%20and%20friendly%2C%20optimized%20for%20flat%20printable%20illustration%2C%20with%20no%20text.)**
+
+---
+
+### No. 5: Mischievous Cats Christmas Sticker Style Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates a vertical, printable Christmas photo frame illustrated in a cute, humorous animated sticker style featuring mischievous cats. The design focuses solely on the frame itself with bold outlines, soft colors, and a blank photo placeholder, creating a playful and chaotic holiday feel.
+
+#### 📝 提示词
+
+```
+A vertical 1:1.4 printable Christmas photo frame illustrated in a cute, humorous animated sticker style.
+
+The design focuses only on the frame itself, with no room, wall, or environmental context. The illustration uses bold outlines, soft colors, and expressive cartoon characters.
+
+In the exact center, a blank photo placeholder area is horizontally and vertically centered, with a 1:1.4 portrait ratio and 70% width of the frame, completely empty and clearly defined.
+
+The surrounding border features mischievous cartoon cats tangled in Christmas lights, knocking over ornaments, climbing garlands, and peeking from the corners, creating a playful and chaotic holiday feel.
+
+The composition remains flat, balanced, and print-ready, with no text elements.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC" width="600" alt="Mischievous Cats Christmas Sticker Style Photo Frame - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vertical%201%3A1.4%20printable%20Christmas%20photo%20frame%20illustrated%20in%20a%20cute%2C%20humorous%20animated%20sticker%20style.%0A%0AThe%20design%20focuses%20only%20on%20the%20frame%20itself%2C%20with%20no%20room%2C%20wall%2C%20or%20environmental%20context.%20The%20illustration%20uses%20bold%20outlines%2C%20soft%20colors%2C%20and%20expressive%20cartoon%20characters.%0A%0AIn%20the%20exact%20center%2C%20a%20blank%20photo%20placeholder%20area%20is%20horizontally%20and%20vertically%20centered%2C%20with%20a%201%3A1.4%20portrait%20ratio%20and%2070%25%20width%20of%20the%20frame%2C%20completely%20empty%20and%20clearly%20defined.%0A%0AThe%20surrounding%20border%20features%20mischievous%20cartoon%20cats%20tangled%20in%20Christmas%20lights%2C%20knocking%20over%20ornaments%2C%20climbing%20garlands%2C%20and%20peeking%20from%20the%20corners%2C%20creating%20a%20playful%20and%20chaotic%20holiday%20feel.%0A%0AThe%20composition%20remains%20flat%2C%20balanced%2C%20and%20print-ready%2C%20with%20no%20text%20elements.)**
+
+---
+
+### No. 6: Koala Clinging to Christmas Tree
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates a cute printable Christmas card design featuring a grey koala bear clinging to a decorated Christmas tree. It's perfect for sweet and endearing holiday greetings with a soft, crayon-drawing texture.
+
+#### 📝 提示词
+
+```
+A cute printable Christmas card design, aspect ratio 1:1.4. A grey koala bear is clinging tightly to the trunk of a small, decorated Christmas tree instead of a eucalyptus tree, looking content and sleepy. The tree is covered in shiny silver tinsel and colorful baubles. The koala wears a tiny red bow tie. Solid pastel green background. Soft, crayon drawing texture.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780157326_ckp21g_1765693121569-apj76v-v_H31t5QXhilrDAAAAAElFTkSuQmCC" width="600" alt="Koala Clinging to Christmas Tree - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20grey%20koala%20bear%20is%20clinging%20tightly%20to%20the%20trunk%20of%20a%20small%2C%20decorated%20Christmas%20tree%20instead%20of%20a%20eucalyptus%20tree%2C%20looking%20content%20and%20sleepy.%20The%20tree%20is%20covered%20in%20shiny%20silver%20tinsel%20and%20colorful%20baubles.%20The%20koala%20wears%20a%20tiny%20red%20bow%20tie.%20Solid%20pastel%20green%20background.%20Soft%2C%20crayon%20drawing%20texture.)**
+
+---
+
+### No. 7: Bear Baker with Living Gingerbread Men
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt creates a charming illustration of a friendly brown bear baker making gingerbread men, which have come to life and are running around the kitchen. Perfect for warm and storybook-style holiday cards.
+
+#### 📝 提示词
+
+```
+A charming illustration of a brown bear baker, aspect ratio 1:1.4. The friendly bear wears a floral apron and a chef's hat, covered in white flour dust. It is happily rolling out dough on a wooden table, surrounded by gingerbread men cookies that have come to life and are running around the kitchen counter laughing. Warm, storybook art style.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780152259_x9tpgp_1765765754561-emrtgw-w_2W4FWpP9VyAAAAABJRU5ErkJggg__" width="600" alt="Bear Baker with Living Gingerbread Men - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20illustration%20of%20a%20brown%20bear%20baker%2C%20aspect%20ratio%201%3A1.4.%20The%20friendly%20bear%20wears%20a%20floral%20apron%20and%20a%20chef's%20hat%2C%20covered%20in%20white%20flour%20dust.%20It%20is%20happily%20rolling%20out%20dough%20on%20a%20wooden%20table%2C%20surrounded%20by%20gingerbread%20men%20cookies%20that%20have%20come%20to%20life%20and%20are%20running%20around%20the%20kitchen%20counter%20laughing.%20Warm%2C%20storybook%20art%20style.)**
+
+---
+
+### No. 8: Pug with Reindeer Antlers and Clown Nose
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates a funny and cute printable card featuring a close-up photographic portrait of a pug reluctantly wearing reindeer antlers and a glowing red clown nose. Ideal for humorous and quirky holiday greetings.
+
+#### 📝 提示词
+
+```
+A funny and cute printable card, aspect ratio 1:1.4. A close-up photographic portrait of a chubby pug dog's face. It is reluctantly wearing a headband with brown felt reindeer antlers and a very bright, glowing red clown nose over its own nose. The pug has a serious, slightly judging expression, staring straight at the camera. The background is blurred festive red lights.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780150716_6iohh6_1765693108405-xs5mi7-8HDdKJRZ26cGoAAAAASUVORK5CYII_" width="600" alt="Pug with Reindeer Antlers and Clown Nose - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20and%20cute%20printable%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20close-up%20photographic%20portrait%20of%20a%20chubby%20pug%20dog's%20face.%20It%20is%20reluctantly%20wearing%20a%20headband%20with%20brown%20felt%20reindeer%20antlers%20and%20a%20very%20bright%2C%20glowing%20red%20clown%20nose%20over%20its%20own%20nose.%20The%20pug%20has%20a%20serious%2C%20slightly%20judging%20expression%2C%20staring%20straight%20at%20the%20camera.%20The%20background%20is%20blurred%20festive%20red%20lights.)**
+
+---
+
+### No. 9: Dormouse Asleep in Teacup
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates a cozy miniature Christmas illustration of a tiny dormouse curled up asleep inside a festive teacup. Ideal for sweet and delicate holiday card designs.
+
+#### 📝 提示词
+
+```
+A cozy miniature Christmas illustration, aspect ratio 1:1.4. A tiny dormouse is curled up asleep inside a ceramic teacup that is decorated with a festive red and green holly pattern. The mouse is covered by a small green leaf blanket. The teacup sits on a saucer next to a miniature mince pie on a wooden table surface. Watercolor and colored pencil style.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780150013_3r2ds8_1765765750332-u6dv2j-f7L6RsJkw3KlnwAAAAAElFTkSuQmCC" width="600" alt="Dormouse Asleep in Teacup - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cozy%20miniature%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20tiny%20dormouse%20is%20curled%20up%20asleep%20inside%20a%20ceramic%20teacup%20that%20is%20decorated%20with%20a%20festive%20red%20and%20green%20holly%20pattern.%20The%20mouse%20is%20covered%20by%20a%20small%20green%20leaf%20blanket.%20The%20teacup%20sits%20on%20a%20saucer%20next%20to%20a%20miniature%20mince%20pie%20on%20a%20wooden%20table%20surface.%20Watercolor%20and%20colored%20pencil%20style.)**
+
+---
+
+### No. 10: Octopus Decorating Coral Christmas Tree
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt creates a whimsical underwater Christmas card featuring a friendly purple octopus decorating a coral 'Christmas tree'. Perfect for unique and playful aquatic-themed holiday greetings.
+
+#### 📝 提示词
+
+```
+A whimsical underwater Christmas card, aspect ratio 1:1.4. A friendly purple octopus is using all eight arms to decorate a large piece of branching coral that looks like a Christmas tree. It's hanging shiny seashells, starfish, and strings of pearls on the branches. A Santa hat floats just above its head. Bubbles rise against a deep blue ocean background. Cute cartoon style.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780144630_0tscw8_1765693091821-qhhkcy-zJJh_aUBJ0oFVKEJRYbqaxivp889_gQSR09EMCDxvoD8Rg0767xzBB2CWUvdpo3J9NqDaUE_1kVMeq5_SXMzP8DXmFImiJYjewAAAAASUVORK5CYII_" width="600" alt="Octopus Decorating Coral Christmas Tree - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20underwater%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20friendly%20purple%20octopus%20is%20using%20all%20eight%20arms%20to%20decorate%20a%20large%20piece%20of%20branching%20coral%20that%20looks%20like%20a%20Christmas%20tree.%20It's%20hanging%20shiny%20seashells%2C%20starfish%2C%20and%20strings%20of%20pearls%20on%20the%20branches.%20A%20Santa%20hat%20floats%20just%20above%20its%20head.%20Bubbles%20rise%20against%20a%20deep%20blue%20ocean%20background.%20Cute%20cartoon%20style.)**
+
+---
+
+### No. 11: Alpaca Overloaded with Presents
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt creates a cute and chaotic Christmas card featuring a fluffy alpaca overloaded with a precarious stack of Christmas presents. Perfect for humorous and charming holiday greetings.
+
+#### 📝 提示词
+
+```
+A cute and chaotic Christmas card, aspect ratio 1:1.4. A fluffy white alpaca stands against a solid mint green background. Its back is overloaded with an impossibly tall, precarious stack of colorful wrapped Christmas presents with bows that are wobbling wildly. The alpaca has a patient, slightly strained expression, and its skinny legs are shaking slightly under the weight.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780142631_uo5vj6_1765765458317-2gfkgs-N8AAAAASUVORK5CYII_" width="600" alt="Alpaca Overloaded with Presents - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20chaotic%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20fluffy%20white%20alpaca%20stands%20against%20a%20solid%20mint%20green%20background.%20Its%20back%20is%20overloaded%20with%20an%20impossibly%20tall%2C%20precarious%20stack%20of%20colorful%20wrapped%20Christmas%20presents%20with%20bows%20that%20are%20wobbling%20wildly.%20The%20alpaca%20has%20a%20patient%2C%20slightly%20strained%20expression%2C%20and%20its%20skinny%20legs%20are%20shaking%20slightly%20under%20the%20weight.)**
+
+---
+
+### No. 12: Magical Snowy Owl Delivering Mail
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates a magical Christmas illustration of a snowy owl in flight, carrying a small, elegant red envelope. Ideal for enchanting and whimsical holiday card designs.
+
+#### 📝 提示词
+
+```
+A magical Christmas illustration, aspect ratio 1:1.4. A fluffy white snowy owl with bright yellow eyes is in mid-flight against a dark blue, star-filled night sky. It carries a small, elegant red envelope sealed with a gold wax seal in its beak. A tiny sprig of holly is tucked behind its ear like a feather. The style is detailed and enchanting.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780138272_3svn17_1765765454815-r02l98-39y3ldSxfTVjYHEu7z6e58eW0dWm0gojHuTEKYhMy9CVualCgiWFmYEOeZiJjb6cPH6LFta5rSVvfacF03UX14_C1AQPVY6_iG5ixRy_G49L2ryc_fL9V3UcvzHA3StFyutw6gQMhMAu4RdVOVkZR795zmOd1uiNHIEHATQCi1sjCRI5IyCQt1FBdiEpEWzYS7U0S0BoAw1qqSmElKb0C" width="600" alt="Magical Snowy Owl Delivering Mail - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20magical%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20fluffy%20white%20snowy%20owl%20with%20bright%20yellow%20eyes%20is%20in%20mid-flight%20against%20a%20dark%20blue%2C%20star-filled%20night%20sky.%20It%20carries%20a%20small%2C%20elegant%20red%20envelope%20sealed%20with%20a%20gold%20wax%20seal%20in%20its%20beak.%20A%20tiny%20sprig%20of%20holly%20is%20tucked%20behind%20its%20ear%20like%20a%20feather.%20The%20style%20is%20detailed%20and%20enchanting.)**
+
+---
+
+### No. 13: Sneaky Raccoons Stealing Santa's Treats
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt creates a funny Christmas card design depicting two sneaky raccoons caught stealing Santa's milk and cookies by a fireplace. Perfect for mischievous and humorous holiday greetings.
+
+#### 📝 提示词
+
+```
+A funny Christmas card design, aspect ratio 1:1.4. A scene at night by a fireplace. Two sneaky raccoons wearing their natural "bandit mask" markings and tiny Santa hats are caught in the act. One is lifting a glass of milk, and the other has a chocolate chip cookie in its mouth, taken from a plate labeled 'For Santa'. Only their eyes are illuminated by the firelight. Cute, mischievous illustration style.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780135041_hfe6vq_1765693073644-d5i9ho-x9Nt6i6Rt8yVwAAAABJRU5ErkJggg__" width="600" alt="Sneaky Raccoons Stealing Santa's Treats - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20scene%20at%20night%20by%20a%20fireplace.%20Two%20sneaky%20raccoons%20wearing%20their%20natural%20%22bandit%20mask%22%20markings%20and%20tiny%20Santa%20hats%20are%20caught%20in%20the%20act.%20One%20is%20lifting%20a%20glass%20of%20milk%2C%20and%20the%20other%20has%20a%20chocolate%20chip%20cookie%20in%20its%20mouth%2C%20taken%20from%20a%20plate%20labeled%20'For%20Santa'.%20Only%20their%20eyes%20are%20illuminated%20by%20the%20firelight.%20Cute%2C%20mischievous%20illustration%20style.)**
+
+---
+
+### No. 14: Penguin Skiing with Candy Canes
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates a whimsical action illustration for a Christmas card, featuring a cheerful penguin skiing down a snowy slope using peppermint candy canes as skis. Ideal for fun and dynamic holiday designs.
+
+#### 📝 提示词
+
+```
+A whimsical action illustration for a Christmas card, aspect ratio 1:1.4. A cheerful penguin wearing vintage pilot goggles and a flying red scarf is skiing down a snowy slope. Instead of skis, it is using two large peppermint candy canes. Snow sprays out behind it dynamically. In the background, there are simple cartoon pine trees. Fun, dynamic cartoon style with bold outlines.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780134351_n4c7z8_1765693058708-rcwygl-7E9Izca_arBPzsQsVeY_tbHB5P_b1XUclaVdeBnWEuIkUpFvsQH9zdkMF2TvwTQTlyJnjrmFRkUYxyJkutsbDX8qES7SzaOysAjokruFaeJFHKuvUskoNoPkHU9yMP6fKJqpiG1VSqsgqVWH7qHP4XtomX4vCKzPcAAAAASUVORK5CYII_" width="600" alt="Penguin Skiing with Candy Canes - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20action%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20cheerful%20penguin%20wearing%20vintage%20pilot%20goggles%20and%20a%20flying%20red%20scarf%20is%20skiing%20down%20a%20snowy%20slope.%20Instead%20of%20skis%2C%20it%20is%20using%20two%20large%20peppermint%20candy%20canes.%20Snow%20sprays%20out%20behind%20it%20dynamically.%20In%20the%20background%2C%20there%20are%20simple%20cartoon%20pine%20trees.%20Fun%2C%20dynamic%20cartoon%20style%20with%20bold%20outlines.)**
+
+---
+
+### No. 15: Sleeping Polar Bears
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt creates a heartwarming printable Christmas card featuring a mother polar bear and her cub sleeping soundly in a snowy drift. It's perfect for tender and soft children's book style holiday greetings.
+
+#### 📝 提示词
+
+```
+A heartwarming printable Christmas card, aspect ratio 1:1.4. A large mother polar bear is lying down fast asleep, curled up in a snowy drift. A tiny polar bear cub is sleeping soundly on her broad back, wearing a miniature red and green striped nightcap. A gentle snowfall surrounds them against a soft light blue background. The style is a tender children's book illustration with soft colors.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780129271_va78dc_1765693057760-ebc124-wFMsnpfYefmXwAAAABJRU5ErkJggg__" width="600" alt="Sleeping Polar Bears - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20heartwarming%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20large%20mother%20polar%20bear%20is%20lying%20down%20fast%20asleep%2C%20curled%20up%20in%20a%20snowy%20drift.%20A%20tiny%20polar%20bear%20cub%20is%20sleeping%20soundly%20on%20her%20broad%20back%2C%20wearing%20a%20miniature%20red%20and%20green%20striped%20nightcap.%20A%20gentle%20snowfall%20surrounds%20them%20against%20a%20soft%20light%20blue%20background.%20The%20style%20is%20a%20tender%20children's%20book%20illustration%20with%20soft%20colors.)**
+
+---
+
+### No. 16: Tuxedo Cat Tangled in Ribbon
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates a funny printable Christmas card illustration of a mischievous tuxedo cat hilariously tangled in gift ribbon and wrapping paper. It's great for lighthearted and playful holiday cards.
+
+#### 📝 提示词
+
+```
+A funny printable Christmas card illustration, aspect ratio 1:1.4. A mischievous black and white tuxedo cat is comically tangled in a massive explosion of red satin gift ribbon and torn festive wrapping paper on a clean white background. Only its wide, surprised green eyes and one paw are visible from the center of the shiny red chaos. A roll of tape is stuck to its tail. Dynamic cartoon sketch style.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780125816_w7gjzg_1765693040741-mb5eqs-oAAAAASUVORK5CYII_" width="600" alt="Tuxedo Cat Tangled in Ribbon - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20mischievous%20black%20and%20white%20tuxedo%20cat%20is%20comically%20tangled%20in%20a%20massive%20explosion%20of%20red%20satin%20gift%20ribbon%20and%20torn%20festive%20wrapping%20paper%20on%20a%20clean%20white%20background.%20Only%20its%20wide%2C%20surprised%20green%20eyes%20and%20one%20paw%20are%20visible%20from%20the%20center%20of%20the%20shiny%20red%20chaos.%20A%20roll%20of%20tape%20is%20stuck%20to%20its%20tail.%20Dynamic%20cartoon%20sketch%20style.)**
+
+---
+
+### No. 17: Felt Appliqué Fox Cub
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt creates a cozy, tactile Christmas card design that looks like handmade felt appliqué stitching, featuring a cute fox cub in a snowy scene. Perfect for unique and crafty holiday visuals.
+
+#### 📝 提示词
+
+```
+A cozy, tactile Christmas card design, aspect ratio 1:1.4. The illustration looks entirely like handmade felt appliqué stitching. A cute orange fox cub made of fuzzy felt fabric sits in layers of white felt snow, looking up at a felt Christmas tree decorated with colorful button ornaments. The texture of the wool fibers and the stitching around the edges is clearly visible. The background is a soft blue felt sky.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780125142_vqwzrz_1765765736932-w6b2ti-joqONxdrcec4p_fHzcEeMYCEAsu1E12RDxtS4WrUoVzk5TxaZ73RChrBtc45DncUB98QQAca0k5v8fyjkmeojjTpMAAAAASUVORK5CYII_" width="600" alt="Felt Appliqué Fox Cub - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cozy%2C%20tactile%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20illustration%20looks%20entirely%20like%20handmade%20felt%20appliqu%C3%A9%20stitching.%20A%20cute%20orange%20fox%20cub%20made%20of%20fuzzy%20felt%20fabric%20sits%20in%20layers%20of%20white%20felt%20snow%2C%20looking%20up%20at%20a%20felt%20Christmas%20tree%20decorated%20with%20colorful%20button%20ornaments.%20The%20texture%20of%20the%20wool%20fibers%20and%20the%20stitching%20around%20the%20edges%20is%20clearly%20visible.%20The%20background%20is%20a%20soft%20blue%20felt%20sky.)**
+
+---
+
+### No. 18: Capybara in Japanese Hot Spring
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates a relaxing and cute Christmas illustration of a capybara enjoying a Japanese hot spring. Ideal for serene and unique holiday card designs.
+
+#### 📝 提示词
+
+```
+A relaxing and cute Christmas illustration, aspect ratio 1:1.4. A chill capybara sits peacefully up to its chest in a steaming Japanese hot spring pool (onsen), surrounded by snow-covered rocks. It wears a small folded towel on its head topped with a Santa hat. A yuzu fruit floats next to it. The style is a warm, soft anime illustration with gentle steam rising.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780123056_v02i28_1765693205572-8w5irf-AXqqyI4m5kpHAAAAAElFTkSuQmCC" width="600" alt="Capybara in Japanese Hot Spring - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20relaxing%20and%20cute%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20chill%20capybara%20sits%20peacefully%20up%20to%20its%20chest%20in%20a%20steaming%20Japanese%20hot%20spring%20pool%20(onsen)%2C%20surrounded%20by%20snow-covered%20rocks.%20It%20wears%20a%20small%20folded%20towel%20on%20its%20head%20topped%20with%20a%20Santa%20hat.%20A%20yuzu%20fruit%20floats%20next%20to%20it.%20The%20style%20is%20a%20warm%2C%20soft%20anime%20illustration%20with%20gentle%20steam%20rising.)**
+
+---
+
+### No. 19: Singing Birds on Holly Branch
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt creates a cute and detailed printable Christmas card featuring five tiny garden birds wearing miniature winter hats and singing on a snow-covered holly branch. Perfect for classic and charming holiday greetings.
+
+#### 📝 提示词
+
+```
+A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plump garden birds (a robin, a blue tit, a sparrow, a goldfinch, a wren) are perched in a row on a snow-covered holly branch with red berries. Each bird wears a different miniature knitted winter hat (bobble hat, beanie, earflap hat) and they all have their beaks open as if singing. The style is a delicate watercolor and ink drawing on textured paper.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780118971_iq7hcj_1765693200318-bzuqbb-MpYGTqgUNkpuE6DuZTGYkL_OfNSELavqabdsIGBfbwDUkP8Gi2zVV1lQ1BQAAAAASUVORK5CYII_" width="600" alt="Singing Birds on Holly Branch - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20detailed%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20Five%20tiny%2C%20plump%20garden%20birds%20(a%20robin%2C%20a%20blue%20tit%2C%20a%20sparrow%2C%20a%20goldfinch%2C%20a%20wren)%20are%20perched%20in%20a%20row%20on%20a%20snow-covered%20holly%20branch%20with%20red%20berries.%20Each%20bird%20wears%20a%20different%20miniature%20knitted%20winter%20hat%20(bobble%20hat%2C%20beanie%2C%20earflap%20hat)%20and%20they%20all%20have%20their%20beaks%20open%20as%20if%20singing.%20The%20style%20is%20a%20delicate%20watercolor%20and%20ink%20drawing%20on%20textured%20paper.)**
+
+---
+
+### No. 20: Squirrel with Wrapped Acorn
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates a whimsical printable Christmas card featuring a busy red squirrel presenting a meticulously wrapped acorn. It's perfect for unique and charming holiday greetings with a touch of woodland magic.
+
+#### 📝 提示词
+
+```
+A whimsical printable Christmas card, aspect ratio 1:1.4. A busy red squirrel with fluffy ear tufts stands on a snow-covered tree branch against a pale winter sky. It is holding a single acorn that is meticulously wrapped in tiny red paper with a gold bow, presenting it forward. Behind it, a pile of similarly wrapped acorns is stacked inside a hollow log. The squirrel wears a tiny green knit scarf. Colored pencil texture style.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780115837_0c1gkg_1765692973777-uwo85l-gdvX4ybDwKspAAAAABJRU5ErkJggg__" width="600" alt="Squirrel with Wrapped Acorn - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20busy%20red%20squirrel%20with%20fluffy%20ear%20tufts%20stands%20on%20a%20snow-covered%20tree%20branch%20against%20a%20pale%20winter%20sky.%20It%20is%20holding%20a%20single%20acorn%20that%20is%20meticulously%20wrapped%20in%20tiny%20red%20paper%20with%20a%20gold%20bow%2C%20presenting%20it%20forward.%20Behind%20it%2C%20a%20pile%20of%20similarly%20wrapped%20acorns%20is%20stacked%20inside%20a%20hollow%20log.%20The%20squirrel%20wears%20a%20tiny%20green%20knit%20scarf.%20Colored%20pencil%20texture%20style.)**
+
+---
+
+### No. 21: Corgi Stuck in Chimney
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates a humorous Christmas card illustration featuring a Corgi dog stuck upside down in a chimney. Ideal for a funny and lighthearted holiday message.
+
+#### 📝 提示词
+
+```
+A humorous Christmas card illustration, flat graphic style, aspect ratio 1:1.4. A red brick chimney stack stands against a dark blue night sky with stars. Stuck upside down in the top opening of the chimney is the fluffy orange and white butt of a Corgi dog, with its short back legs wiggling in the air. A tiny Santa hat is falling off one foot. Smoke puffs out around it in the shape of question marks.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780114922_pdkrnq_1765693026895-9ldmsp-C6BJKp_H09UpAAAAAElFTkSuQmCC" width="600" alt="Corgi Stuck in Chimney - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20humorous%20Christmas%20card%20illustration%2C%20flat%20graphic%20style%2C%20aspect%20ratio%201%3A1.4.%20A%20red%20brick%20chimney%20stack%20stands%20against%20a%20dark%20blue%20night%20sky%20with%20stars.%20Stuck%20upside%20down%20in%20the%20top%20opening%20of%20the%20chimney%20is%20the%20fluffy%20orange%20and%20white%20butt%20of%20a%20Corgi%20dog%2C%20with%20its%20short%20back%20legs%20wiggling%20in%20the%20air.%20A%20tiny%20Santa%20hat%20is%20falling%20off%20one%20foot.%20Smoke%20puffs%20out%20around%20it%20in%20the%20shape%20of%20question%20marks.)**
+
+---
+
+### No. 22: Fluffy Highland Cow with Christmas Lights
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt creates a charming and fuzzy Christmas illustration of a Scottish Highland cow with Christmas lights tangled in its hair and horns. Ideal for rustic and heartwarming holiday designs.
+
+#### 📝 提示词
+
+```
+A charming and fuzzy Christmas illustration, aspect ratio 1:1.4. A close-up portrait of a super fluffy ginger Scottish Highland cow. Its shaggy hair completely covers its eyes, but colorful tangled Christmas lights that are glowing, and small shiny red baubles, are caught in its bangs and long horns. Light snowflakes dust its fur. The background is a soft, blurred snowy pasture. Painterly, textured style.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780111966_dn1z7i_1765692971551-1i3kzo-B7M7DtPmAsUhAAAAAElFTkSuQmCC" width="600" alt="Fluffy Highland Cow with Christmas Lights - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20and%20fuzzy%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20close-up%20portrait%20of%20a%20super%20fluffy%20ginger%20Scottish%20Highland%20cow.%20Its%20shaggy%20hair%20completely%20covers%20its%20eyes%2C%20but%20colorful%20tangled%20Christmas%20lights%20that%20are%20glowing%2C%20and%20small%20shiny%20red%20baubles%2C%20are%20caught%20in%20its%20bangs%20and%20long%20horns.%20Light%20snowflakes%20dust%20its%20fur.%20The%20background%20is%20a%20soft%2C%20blurred%20snowy%20pasture.%20Painterly%2C%20textured%20style.)**
+
+---
+
+### No. 23: Long Dachshund Christmas Card
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt creates a funny flat vector illustration for a Christmas card, depicting a very long dachshund dog wearing an absurdly long, festive sweater. Ideal for humorous holiday messages and pet-themed cards.
+
+#### 📝 提示词
+
+```
+A funny flat vector illustration for a Christmas card, aspect ratio 1:1.4. A very long brown dachshund dog stretches horizontally across the entire card against a solid pale blue background. It is wearing an absurdly long, red knitted turtleneck sweater with a repeating pattern of white reindeer and snowflakes. The sweater is so long it sags in the middle, touching the ground. The dog looks content. Text below reads: "Longing for Christmas."
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780099382_hsgl3l_1765692967267-gejgq8-Bek23XMoiWkxAAAAAElFTkSuQmCC" width="600" alt="Long Dachshund Christmas Card - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20flat%20vector%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20very%20long%20brown%20dachshund%20dog%20stretches%20horizontally%20across%20the%20entire%20card%20against%20a%20solid%20pale%20blue%20background.%20It%20is%20wearing%20an%20absurdly%20long%2C%20red%20knitted%20turtleneck%20sweater%20with%20a%20repeating%20pattern%20of%20white%20reindeer%20and%20snowflakes.%20The%20sweater%20is%20so%20long%20it%20sags%20in%20the%20middle%2C%20touching%20the%20ground.%20The%20dog%20looks%20content.%20Text%20below%20reads%3A%20%22Longing%20for%20Christmas.%22)**
+
+---
+
+### No. 24: Whimsical Hedgehog Christmas Card
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates a whimsical printable Christmas card illustration featuring a small, round hedgehog whose spines are comically adorned with tiny Christmas decorations. It's perfect for creating unique and humorous holiday greetings.
+
+#### 📝 提示词
+
+```
+A whimsical printable Christmas card illustration, aspect ratio 1:1.4. A small, round hedgehog is curled up into a ball on a clean cream background. Its spines are hilariously covered with tiny, colorful Christmas baubles, miniature candy canes, and bits of shiny tinsel that have gotten stuck to them. The hedgehog has a slightly confused but happy expression, with one eye peeking out. The style is a gentle watercolor painting with soft textures.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780101179_ywdvzk_1765693039459-1wv8ex-htP1HdLVAAAAAElFTkSuQmCC" width="600" alt="Whimsical Hedgehog Christmas Card - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20small%2C%20round%20hedgehog%20is%20curled%20up%20into%20a%20ball%20on%20a%20clean%20cream%20background.%20Its%20spines%20are%20hilariously%20covered%20with%20tiny%2C%20colorful%20Christmas%20baubles%2C%20miniature%20candy%20canes%2C%20and%20bits%20of%20shiny%20tinsel%20that%20have%20gotten%20stuck%20to%20them.%20The%20hedgehog%20has%20a%20slightly%20confused%20but%20happy%20expression%2C%20with%20one%20eye%20peeking%20out.%20The%20style%20is%20a%20gentle%20watercolor%20painting%20with%20soft%20textures.)**
+
+---
+
+### No. 25: Kawaii Otters with Candy Cane
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+This prompt generates an adorable printable Christmas card design featuring two cute furry sea otters floating in icy water and holding a large peppermint candy cane. It's perfect for creating sweet, kawaii-style holiday cards.
+
+#### 📝 提示词
+
+```
+An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry sea otters are floating on their backs in icy blue water, holding paws. Instead of their usual rock, they are jointly holding a large red and white striped peppermint candy cane across their chests. Both wear tiny Santa hats titled on their heads. Soft white ripples surround them. The style is a kawaii cartoon with soft shading.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780100132_xzm77l_1765692974848-ens980-h85hatWrURrnAAAAABJRU5ErkJggg__" width="600" alt="Kawaii Otters with Candy Cane - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **来源:** [Twitter Post](null)
+- **发布时间:** 2025年12月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20Two%20cute%20furry%20sea%20otters%20are%20floating%20on%20their%20backs%20in%20icy%20blue%20water%2C%20holding%20paws.%20Instead%20of%20their%20usual%20rock%2C%20they%20are%20jointly%20holding%20a%20large%20red%20and%20white%20striped%20peppermint%20candy%20cane%20across%20their%20chests.%20Both%20wear%20tiny%20Santa%20hats%20titled%20on%20their%20heads.%20Soft%20white%20ripples%20surround%20them.%20The%20style%20is%20a%20kawaii%20cartoon%20with%20soft%20shading.)**
+
+---
+
+### No. 26: 圣诞老人的晾衣绳圣诞卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -131,7 +996,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 2: 挂在拐杖糖上的树懒圣诞贺卡
+### No. 27: 挂在拐杖糖上的树懒圣诞贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -165,7 +1030,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 3: 伪装成精灵的巴哥犬圣诞贺卡
+### No. 28: 伪装成精灵的巴哥犬圣诞贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -199,7 +1064,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 4: 驯鹿飞行学校圣诞贺卡
+### No. 29: 驯鹿飞行学校圣诞贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -232,7 +1097,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 5: 棉花糖热水浴缸圣诞贺卡
+### No. 30: 棉花糖热水浴缸圣诞贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -265,7 +1130,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 6: 带蔓越莓的仓鼠圣诞卡
+### No. 31: 带蔓越莓的仓鼠圣诞卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -298,7 +1163,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 7: 圣诞灯饰中的猫咪圣诞贺卡
+### No. 32: 圣诞灯饰中的猫咪圣诞贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -332,7 +1197,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 8: 姜饼瑜伽课圣诞贺卡
+### No. 33: 姜饼瑜伽课圣诞贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -366,7 +1231,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 9: 北极熊和企鹅围巾圣诞贺卡
+### No. 34: 北极熊和企鹅围巾圣诞贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -399,7 +1264,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 10: 水彩雪景小屋风光
+### No. 35: 水彩雪景小屋风光
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -433,7 +1298,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 11: 奢华海军蓝雪花曼陀罗卡片
+### No. 36: 奢华海军蓝雪花曼陀罗卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -467,7 +1332,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 12: Vintage Travel Poster Winter Scene
+### No. 37: Vintage Travel Poster Winter Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -501,7 +1366,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 13: 怀旧玩具店橱窗场景
+### No. 38: 怀旧玩具店橱窗场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -534,7 +1399,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 14: 世纪中期现代圣诞贺卡
+### No. 39: 世纪中期现代圣诞贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -568,7 +1433,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 15: 维多利亚时代的圣诞老人明信片
+### No. 40: 维多利亚时代的圣诞老人明信片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -602,7 +1467,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 16: 熟睡动物叠罗汉圣诞贺卡
+### No. 41: 熟睡动物叠罗汉圣诞贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -636,7 +1501,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 17: 企鹅圣诞灯饰困境卡
+### No. 42: 企鹅圣诞灯饰困境卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -670,7 +1535,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 18: 现代排版圣诞树贺卡
+### No. 43: 现代排版圣诞树贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -704,7 +1569,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 19: 可爱热可可圣诞贺卡
+### No. 44: 可爱热可可圣诞贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -738,7 +1603,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 20: 公园长凳上的雪人和鸟儿
+### No. 45: 公园长凳上的雪人和鸟儿
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -777,7 +1642,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 21: 海军蓝银丝花纹卡片
+### No. 46: 海军蓝银丝花纹卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -817,7 +1682,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 22: 炭笔民间艺术植物卡片
+### No. 47: 炭笔民间艺术植物卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -861,7 +1726,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 23: 水彩雪人家庭肖像
+### No. 48: 水彩雪人家庭肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -907,7 +1772,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 24: 四口之家个性化雪人家庭摆件
+### No. 49: 四口之家个性化雪人家庭摆件
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -953,7 +1818,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 25: 彩虹瓶刷树
+### No. 50: 彩虹瓶刷树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -994,7 +1859,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 26: 优雅金色花丝树在绿色背景上
+### No. 51: 优雅金色花丝树在绿色背景上
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1036,7 +1901,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 27: 个性化家庭圣诞袜水彩画
+### No. 52: 个性化家庭圣诞袜水彩画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1078,7 +1943,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 28: 复古迪士尼角色圣诞节
+### No. 53: 复古迪士尼角色圣诞节
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1120,7 +1985,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 29: 维多利亚时代模切花束
+### No. 54: 维多利亚时代模切花束
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1162,7 +2027,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 30: 温馨水彩圣诞客厅
+### No. 55: 温馨水彩圣诞客厅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1199,7 +2064,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 31: 音符圣诞树
+### No. 56: 音符圣诞树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1241,7 +2106,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 32: 20 世纪 50 年代复古冬青花环
+### No. 57: 20 世纪 50 年代复古冬青花环
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1283,7 +2148,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 33: 中世纪蓝色植绒树
+### No. 58: 中世纪蓝色植绒树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1323,7 +2188,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 34: 送给特别亲友的民间艺术风格圣诞袜
+### No. 59: 送给特别亲友的民间艺术风格圣诞袜
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1365,7 +2230,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 35: 极简彩虹笔触树
+### No. 60: 极简彩虹笔触树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1401,7 +2266,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 36: 梵高星夜圣诞
+### No. 61: 梵高星夜圣诞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1441,7 +2306,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 37: 花生漫画风格的史努比和长筒袜
+### No. 62: 花生漫画风格的史努比和长筒袜
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1481,7 +2346,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 38: 异想天开的水彩袜花环
+### No. 63: 异想天开的水彩袜花环
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1521,7 +2386,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 39: 世纪中期冬季森林（带歌词）
+### No. 64: 世纪中期冬季森林（带歌词）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1567,7 +2432,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 40: 现代彩虹骄傲圣诞树
+### No. 65: 现代彩虹骄傲圣诞树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1607,7 +2472,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 41: 植绒圣诞树，搭配红色饰品和焦散效果
+### No. 66: 植绒圣诞树，搭配红色饰品和焦散效果
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1647,7 +2512,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 42: 奢华勃艮第酒红与金色植物树
+### No. 67: 奢华勃艮第酒红与金色植物树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1687,7 +2552,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 43: 奢华黑金抽象树
+### No. 68: 奢华黑金抽象树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1727,7 +2592,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 44: 企业字体树
+### No. 69: 企业字体树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1769,7 +2634,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 45: 质朴手绘松树花环
+### No. 70: 质朴手绘松树花环
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1809,7 +2674,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 46: 复古 1950 年代圣诞城市街道
+### No. 71: 复古 1950 年代圣诞城市街道
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1847,7 +2712,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 47: 维多利亚风格的圣诞老人在屋顶阳台
+### No. 72: 维多利亚风格的圣诞老人在屋顶阳台
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1891,7 +2756,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 48: 分层纸艺镂空树
+### No. 73: 分层纸艺镂空树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1931,7 +2796,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 49: 可爱涂鸦驯鹿脸
+### No. 74: 可爱涂鸦驯鹿脸
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1970,7 +2835,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 50: 复古雪橇儿童
+### No. 75: 复古雪橇儿童
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2010,7 +2875,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 51: 北极标志牌上的幽默圣诞老人
+### No. 76: 北极标志牌上的幽默圣诞老人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2050,7 +2915,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 52: 复古中世纪灯饰与花环
+### No. 77: 复古中世纪灯饰与花环
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2092,7 +2957,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 53: 夜幕下的复古嘘声圣诞老人
+### No. 78: 夜幕下的复古嘘声圣诞老人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2134,7 +2999,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 54: 奇思妙想的林地动物聚会
+### No. 79: 奇思妙想的林地动物聚会
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2178,7 +3043,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 55: 神奇发光森林与雪人
+### No. 80: 神奇发光森林与雪人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2218,7 +3083,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 56: 世纪中期现代家居风尚
+### No. 81: 世纪中期现代家居风尚
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2262,7 +3127,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 57: 现代斯堪的纳维亚民间艺术驯鹿
+### No. 82: 现代斯堪的纳维亚民间艺术驯鹿
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2306,7 +3171,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 58: 装饰艺术风格勃艮第酒红与金色卡片
+### No. 83: 装饰艺术风格勃艮第酒红与金色卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2348,7 +3213,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 59: 复古雪人冬日场景
+### No. 84: 复古雪人冬日场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2394,7 +3259,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 60: 维多利亚时代的儿童与雪人
+### No. 85: 维多利亚时代的儿童与雪人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2434,7 +3299,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 61: 极简植物水墨与水彩
+### No. 86: 极简植物水墨与水彩
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2474,7 +3339,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 62: 复古石版画小猫
+### No. 87: 复古石版画小猫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2511,7 +3376,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 63: 现代点彩圣诞树
+### No. 88: 现代点彩圣诞树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2550,7 +3415,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 64: 水彩北极熊母子
+### No. 89: 水彩北极熊母子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2590,7 +3455,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 65: 可爱粉红小猪和姜饼涂鸦
+### No. 90: 可爱粉红小猪和姜饼涂鸦
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2629,7 +3494,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 66: 北极光下的北极熊
+### No. 91: 北极光下的北极熊
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2671,7 +3536,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 67: 姜饼曲奇三件套
+### No. 92: 姜饼曲奇三件套
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2711,7 +3576,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 68: 奢华黑金企业卡
+### No. 93: 奢华黑金企业卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2751,7 +3616,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 69: 水彩圣诞老人与文案空间
+### No. 94: 水彩圣诞老人与文案空间
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2791,7 +3656,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 70: 极简水彩节日狐狸
+### No. 95: 极简水彩节日狐狸
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2828,7 +3693,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 71: 幽默的“哦，天哪”姜饼人
+### No. 96: 幽默的“哦，天哪”姜饼人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2869,7 +3734,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 72: 雪地里可爱的水彩企鹅
+### No. 97: 雪地里可爱的水彩企鹅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2908,7 +3773,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 73: 斯堪的纳维亚海军蓝和米色民间艺术
+### No. 98: 斯堪的纳维亚海军蓝和米色民间艺术
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2945,7 +3810,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 74: 极简海军蓝串灯卡片
+### No. 99: 极简海军蓝串灯卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2987,7 +3852,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 75: 受伤的搞笑姜饼人
+### No. 100: 受伤的搞笑姜饼人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3029,7 +3894,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 76: 海军蓝水彩串灯
+### No. 101: 海军蓝水彩串灯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3071,7 +3936,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 77: 对称民间艺术驯鹿
+### No. 102: 对称民间艺术驯鹿
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3112,7 +3977,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 78: 海军蓝和银色闪光雪花
+### No. 103: 海军蓝和银色闪光雪花
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3152,7 +4017,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 79: 经典油画风格圣诞老人与森林动物
+### No. 104: 经典油画风格圣诞老人与森林动物
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3193,7 +4058,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 80: 现代金色圆环花环，带烫金文字
+### No. 105: 现代金色圆环花环，带烫金文字
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3233,7 +4098,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 81: 衍纸圣诞铃铛
+### No. 106: 衍纸圣诞铃铛
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3273,7 +4138,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 82: 复古水彩冬日乡村教堂
+### No. 107: 复古水彩冬日乡村教堂
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3315,7 +4180,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 83: 夜晚宁静的林地动物
+### No. 108: 夜晚宁静的林地动物
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3356,7 +4221,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 84: 雅致水彩盆栽圣诞树
+### No. 109: 雅致水彩盆栽圣诞树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3395,7 +4260,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 85: 极简水彩雪花贺卡
+### No. 110: 极简水彩雪花贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3437,7 +4302,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 86: 简约悬挂装饰图形
+### No. 111: 简约悬挂装饰图形
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3477,7 +4342,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 87: 浮雕冬日风景与红色丝带
+### No. 112: 浮雕冬日风景与红色丝带
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3517,7 +4382,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 88: 天真烂漫的手绘冬日小屋
+### No. 113: 天真烂漫的手绘冬日小屋
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3559,7 +4424,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 89: 现代青色和金色烫金圣诞树
+### No. 114: 现代青色和金色烫金圣诞树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3599,7 +4464,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 90: 抽象泼墨圣诞树
+### No. 115: 抽象泼墨圣诞树
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3638,7 +4503,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 91: 极简水彩驯鹿与知更鸟
+### No. 116: 极简水彩驯鹿与知更鸟
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3671,7 +4536,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 92: 带个性化名字的可爱驯鹿宝宝
+### No. 117: 带个性化名字的可爱驯鹿宝宝
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3711,7 +4576,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 93: 原始民间艺术雪人画
+### No. 118: 原始民间艺术雪人画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3750,7 +4615,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 94: 宁静水彩谷仓与鹿卡片
+### No. 119: 宁静水彩谷仓与鹿卡片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3790,7 +4655,7 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 95: 剪纸和毛毡贴花圣诞老人
+### No. 120: 剪纸和毛毡贴花圣诞老人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3831,202 +4696,29 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 
 ---
 
-### No. 96: 有趣的贪吃姜饼人卡片
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个幽默的可爱风格卡通，描绘了一个巨大的姜饼人狼吞虎咽地吃着圣诞布丁。它还包含一个可自定义的趣味文本框，用于填写有趣的节日问候。
-
-#### 📝 提示词
-
-```
-一张高质量的可打印贺卡插画，比例为 1:1.4，采用可爱有趣的卡哇伊卡通风格，带有清晰的黑色轮廓。
-
-场景设置在纯色柔和的浅蓝色背景下，点缀着代表轻柔雪花的白色小点。
-
-画面中下部坐着一个巨大、滑稽肥胖的姜饼人，头戴一顶小小的红白相间圣诞帽。他张大嘴巴，贪婪地尖叫着，将一个圣诞布丁塞进嘴里。他巨大的肚皮上有两颗红色糖果纽扣。
-
-他被一大堆圣诞布丁包围着，更多的布丁滑稽地粘在他的身上。一个经典风格的小姜饼人站在他的脚下，抬起头，震惊地举起双臂。在巨人的肩膀上，一个头戴冬青叶的粉色小猪角色，带着担忧的表情看着这一切。
-
-每个圣诞布丁都细致地描绘出滴落的白色糖霜和顶部的冬青小枝。整体风格扁平，阴影极少，突出了场景的可爱和幽默感。
-
-贺卡底部中央是自定义文本，采用俏皮的手写字体：{argument name="text" default="Seasons Eatings!"}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592682065_v38f1e_93648d6abd8060ac793c4f839dfc4b1d0d156ca96c1e045f7ceab59c6426e3c0" width="600" alt="有趣的贪吃姜饼人卡片 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **来源:** [Twitter Post](null)
-- **发布时间:** 2025年12月13日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%A0%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E5%8F%AF%E6%89%93%E5%8D%B0%E8%B4%BA%E5%8D%A1%E6%8F%92%E7%94%BB%EF%BC%8C%E6%AF%94%E4%BE%8B%E4%B8%BA%201%3A1.4%EF%BC%8C%E9%87%87%E7%94%A8%E5%8F%AF%E7%88%B1%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8D%A1%E5%93%87%E4%BC%8A%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%EF%BC%8C%E5%B8%A6%E6%9C%89%E6%B8%85%E6%99%B0%E7%9A%84%E9%BB%91%E8%89%B2%E8%BD%AE%E5%BB%93%E3%80%82%0A%0A%E5%9C%BA%E6%99%AF%E8%AE%BE%E7%BD%AE%E5%9C%A8%E7%BA%AF%E8%89%B2%E6%9F%94%E5%92%8C%E7%9A%84%E6%B5%85%E8%93%9D%E8%89%B2%E8%83%8C%E6%99%AF%E4%B8%8B%EF%BC%8C%E7%82%B9%E7%BC%80%E7%9D%80%E4%BB%A3%E8%A1%A8%E8%BD%BB%E6%9F%94%E9%9B%AA%E8%8A%B1%E7%9A%84%E7%99%BD%E8%89%B2%E5%B0%8F%E7%82%B9%E3%80%82%0A%0A%E7%94%BB%E9%9D%A2%E4%B8%AD%E4%B8%8B%E9%83%A8%E5%9D%90%E7%9D%80%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E3%80%81%E6%BB%91%E7%A8%BD%E8%82%A5%E8%83%96%E7%9A%84%E5%A7%9C%E9%A5%BC%E4%BA%BA%EF%BC%8C%E5%A4%B4%E6%88%B4%E4%B8%80%E9%A1%B6%E5%B0%8F%E5%B0%8F%E7%9A%84%E7%BA%A2%E7%99%BD%E7%9B%B8%E9%97%B4%E5%9C%A3%E8%AF%9E%E5%B8%BD%E3%80%82%E4%BB%96%E5%BC%A0%E5%A4%A7%E5%98%B4%E5%B7%B4%EF%BC%8C%E8%B4%AA%E5%A9%AA%E5%9C%B0%E5%B0%96%E5%8F%AB%E7%9D%80%EF%BC%8C%E5%B0%86%E4%B8%80%E4%B8%AA%E5%9C%A3%E8%AF%9E%E5%B8%83%E4%B8%81%E5%A1%9E%E8%BF%9B%E5%98%B4%E9%87%8C%E3%80%82%E4%BB%96%E5%B7%A8%E5%A4%A7%E7%9A%84%E8%82%9A%E7%9A%AE%E4%B8%8A%E6%9C%89%E4%B8%A4%E9%A2%97%E7%BA%A2%E8%89%B2%E7%B3%96%E6%9E%9C%E7%BA%BD%E6%89%A3%E3%80%82%0A%0A%E4%BB%96%E8%A2%AB%E4%B8%80%E5%A4%A7%E5%A0%86%E5%9C%A3%E8%AF%9E%E5%B8%83%E4%B8%81%E5%8C%85%E5%9B%B4%E7%9D%80%EF%BC%8C%E6%9B%B4%E5%A4%9A%E7%9A%84%E5%B8%83%E4%B8%81%E6%BB%91%E7%A8%BD%E5%9C%B0%E7%B2%98%E5%9C%A8%E4%BB%96%E7%9A%84%E8%BA%AB%E4%B8%8A%E3%80%82%E4%B8%80%E4%B8%AA%E7%BB%8F%E5%85%B8%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%B0%8F%E5%A7%9C%E9%A5%BC%E4%BA%BA%E7%AB%99%E5%9C%A8%E4%BB%96%E7%9A%84%E8%84%9A%E4%B8%8B%EF%BC%8C%E6%8A%AC%E8%B5%B7%E5%A4%B4%EF%BC%8C%E9%9C%87%E6%83%8A%E5%9C%B0%E4%B8%BE%E8%B5%B7%E5%8F%8C%E8%87%82%E3%80%82%E5%9C%A8%E5%B7%A8%E4%BA%BA%E7%9A%84%E8%82%A9%E8%86%80%E4%B8%8A%EF%BC%8C%E4%B8%80%E4%B8%AA%E5%A4%B4%E6%88%B4%E5%86%AC%E9%9D%92%E5%8F%B6%E7%9A%84%E7%B2%89%E8%89%B2%E5%B0%8F%E7%8C%AA%E8%A7%92%E8%89%B2%EF%BC%8C%E5%B8%A6%E7%9D%80%E6%8B%85%E5%BF%A7%E7%9A%84%E8%A1%A8%E6%83%85%E7%9C%8B%E7%9D%80%E8%BF%99%E4%B8%80%E5%88%87%E3%80%82%0A%0A%E6%AF%8F%E4%B8%AA%E5%9C%A3%E8%AF%9E%E5%B8%83%E4%B8%81%E9%83%BD%E7%BB%86%E8%87%B4%E5%9C%B0%E6%8F%8F%E7%BB%98%E5%87%BA%E6%BB%B4%E8%90%BD%E7%9A%84%E7%99%BD%E8%89%B2%E7%B3%96%E9%9C%9C%E5%92%8C%E9%A1%B6%E9%83%A8%E7%9A%84%E5%86%AC%E9%9D%92%E5%B0%8F%E6%9E%9D%E3%80%82%E6%95%B4%E4%BD%93%E9%A3%8E%E6%A0%BC%E6%89%81%E5%B9%B3%EF%BC%8C%E9%98%B4%E5%BD%B1%E6%9E%81%E5%B0%91%EF%BC%8C%E7%AA%81%E5%87%BA%E4%BA%86%E5%9C%BA%E6%99%AF%E7%9A%84%E5%8F%AF%E7%88%B1%E5%92%8C%E5%B9%BD%E9%BB%98%E6%84%9F%E3%80%82%0A%0A%E8%B4%BA%E5%8D%A1%E5%BA%95%E9%83%A8%E4%B8%AD%E5%A4%AE%E6%98%AF%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E6%9C%AC%EF%BC%8C%E9%87%87%E7%94%A8%E4%BF%8F%E7%9A%AE%E7%9A%84%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%EF%BC%9A%7Bargument%20name%3D%22text%22%20default%3D%22Seasons%20Eatings!%22%7D)**
-
 ---
 
-### No. 97: 斯堪的纳维亚侏儒和红狐民间艺术
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一幅异想天开的民间艺术插画，描绘了一个斯堪的纳维亚小矮人（Tomte）在夜晚的雪林中与一只红狐狸同行。这种迷人的故事书风格非常适合制作一张温馨的节日贺卡。
-
-#### 📝 提示词
-
-```
-一幅异想天开、引人入胜的圣诞插画，采用美丽的民间艺术和故事书风格。一位小小的斯堪的纳维亚圣诞侏儒（Tomte）在深夜穿过白雪皑皑的森林。他穿着一件简单的红色外套和一顶尖尖的红色帽子，脸庞大部分被长长的白色胡须遮住。他肩上扛着一个装满包装精美礼物的巨大麻袋，手里提着一盏发光的灯笼，将温暖而神奇的光芒投射到下方的雪地上。
-
-一只友善优雅的红狐狸，长着毛茸茸的尾巴和白色的胸脯，优雅地走在侏儒身旁，直视着观者。他们被一片茂密的森林环绕，森林里是风格化的、覆盖着白雪的深蓝色松树。夜空是深靛蓝色，一弯纤细的新月和柔和飘落的雪花点缀其间。整个场景宁静、神奇、温馨。
-
-画意纹理，色彩丰富，细节精致，非常适合印刷。扁平 2D 插画。--ar 1:1.4
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
+## 📚 更多提示词
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592680716_zmo7vz_1765541650655-hwc2pb-LEDlE2LavQ0YM6a6mZooIf3x87L3fPzz8B_tFrwRUSmSvAAAAAElFTkSuQmCC" width="600" alt="斯堪的纳维亚侏儒和红狐民间艺术 - Image 1">
+
+### 🎯 5 更多提示词未在此显示
+
+Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
+
+**[👉 在网页图库中查看所有提示词](https://youmind.com/tools/christmas-cards-maker)**
+
+The gallery features:
+
+✨ 精美的瀑布流网格布局
+
+🔍 全文搜索和筛选
+
+🌍 支持 17 种语言
+
+📱 移动端优化体验
+
 </div>
-
-#### 📌 详情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **来源:** [Twitter Post](null)
-- **发布时间:** 2025年12月13日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%B9%85%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80%E3%80%81%E5%BC%95%E4%BA%BA%E5%85%A5%E8%83%9C%E7%9A%84%E5%9C%A3%E8%AF%9E%E6%8F%92%E7%94%BB%EF%BC%8C%E9%87%87%E7%94%A8%E7%BE%8E%E4%B8%BD%E7%9A%84%E6%B0%91%E9%97%B4%E8%89%BA%E6%9C%AF%E5%92%8C%E6%95%85%E4%BA%8B%E4%B9%A6%E9%A3%8E%E6%A0%BC%E3%80%82%E4%B8%80%E4%BD%8D%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%96%AF%E5%A0%AA%E7%9A%84%E7%BA%B3%E7%BB%B4%E4%BA%9A%E5%9C%A3%E8%AF%9E%E4%BE%8F%E5%84%92%EF%BC%88Tomte%EF%BC%89%E5%9C%A8%E6%B7%B1%E5%A4%9C%E7%A9%BF%E8%BF%87%E7%99%BD%E9%9B%AA%E7%9A%91%E7%9A%91%E7%9A%84%E6%A3%AE%E6%9E%97%E3%80%82%E4%BB%96%E7%A9%BF%E7%9D%80%E4%B8%80%E4%BB%B6%E7%AE%80%E5%8D%95%E7%9A%84%E7%BA%A2%E8%89%B2%E5%A4%96%E5%A5%97%E5%92%8C%E4%B8%80%E9%A1%B6%E5%B0%96%E5%B0%96%E7%9A%84%E7%BA%A2%E8%89%B2%E5%B8%BD%E5%AD%90%EF%BC%8C%E8%84%B8%E5%BA%9E%E5%A4%A7%E9%83%A8%E5%88%86%E8%A2%AB%E9%95%BF%E9%95%BF%E7%9A%84%E7%99%BD%E8%89%B2%E8%83%A1%E9%A1%BB%E9%81%AE%E4%BD%8F%E3%80%82%E4%BB%96%E8%82%A9%E4%B8%8A%E6%89%9B%E7%9D%80%E4%B8%80%E4%B8%AA%E8%A3%85%E6%BB%A1%E5%8C%85%E8%A3%85%E7%B2%BE%E7%BE%8E%E7%A4%BC%E7%89%A9%E7%9A%84%E5%B7%A8%E5%A4%A7%E9%BA%BB%E8%A2%8B%EF%BC%8C%E6%89%8B%E9%87%8C%E6%8F%90%E7%9D%80%E4%B8%80%E7%9B%8F%E5%8F%91%E5%85%89%E7%9A%84%E7%81%AF%E7%AC%BC%EF%BC%8C%E5%B0%86%E6%B8%A9%E6%9A%96%E8%80%8C%E7%A5%9E%E5%A5%87%E7%9A%84%E5%85%89%E8%8A%92%E6%8A%95%E5%B0%84%E5%88%B0%E4%B8%8B%E6%96%B9%E7%9A%84%E9%9B%AA%E5%9C%B0%E4%B8%8A%E3%80%82%0A%0A%E4%B8%80%E5%8F%AA%E5%8F%8B%E5%96%84%E4%BC%98%E9%9B%85%E7%9A%84%E7%BA%A2%E7%8B%90%E7%8B%B8%EF%BC%8C%E9%95%BF%E7%9D%80%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E5%B0%BE%E5%B7%B4%E5%92%8C%E7%99%BD%E8%89%B2%E7%9A%84%E8%83%B8%E8%84%AF%EF%BC%8C%E4%BC%98%E9%9B%85%E5%9C%B0%E8%B5%B0%E5%9C%A8%E4%BE%8F%E5%84%92%E8%BA%AB%E6%97%81%EF%BC%8C%E7%9B%B4%E8%A7%86%E7%9D%80%E8%A7%82%E8%80%85%E3%80%82%E4%BB%96%E4%BB%AC%E8%A2%AB%E4%B8%80%E7%89%87%E8%8C%82%E5%AF%86%E7%9A%84%E6%A3%AE%E6%9E%97%E7%8E%AF%E7%BB%95%EF%BC%8C%E6%A3%AE%E6%9E%97%E9%87%8C%E6%98%AF%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E3%80%81%E8%A6%86%E7%9B%96%E7%9D%80%E7%99%BD%E9%9B%AA%E7%9A%84%E6%B7%B1%E8%93%9D%E8%89%B2%E6%9D%BE%E6%A0%91%E3%80%82%E5%A4%9C%E7%A9%BA%E6%98%AF%E6%B7%B1%E9%9D%9B%E8%93%9D%E8%89%B2%EF%BC%8C%E4%B8%80%E5%BC%AF%E7%BA%A4%E7%BB%86%E7%9A%84%E6%96%B0%E6%9C%88%E5%92%8C%E6%9F%94%E5%92%8C%E9%A3%98%E8%90%BD%E7%9A%84%E9%9B%AA%E8%8A%B1%E7%82%B9%E7%BC%80%E5%85%B6%E9%97%B4%E3%80%82%E6%95%B4%E4%B8%AA%E5%9C%BA%E6%99%AF%E5%AE%81%E9%9D%99%E3%80%81%E7%A5%9E%E5%A5%87%E3%80%81%E6%B8%A9%E9%A6%A8%E3%80%82%0A%0A%E7%94%BB%E6%84%8F%E7%BA%B9%E7%90%86%EF%BC%8C%E8%89%B2%E5%BD%A9%E4%B8%B0%E5%AF%8C%EF%BC%8C%E7%BB%86%E8%8A%82%E7%B2%BE%E8%87%B4%EF%BC%8C%E9%9D%9E%E5%B8%B8%E9%80%82%E5%90%88%E5%8D%B0%E5%88%B7%E3%80%82%E6%89%81%E5%B9%B3%202D%20%E6%8F%92%E7%94%BB%E3%80%82--ar%201%3A1.4)**
-
----
-
-### No. 98: 异想天开的水彩姜饼屋卡片
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一幅迷人的水彩插画，描绘了一座用白色糖霜和糖果装饰的节日姜饼屋，背景是柔和的粉色，伴随着飘落的雪花。它营造出一种可爱、手工制作的感觉，非常适合制作可打印的卡片。
-
-#### 📝 提示词
-
-```
-一幅精美而充满奇思妙想的水彩插画，描绘了一座节日姜饼屋，专为可打印的贺卡设计。这座迷人的姜饼屋由温暖的棕色姜饼制成，居中放置。它被厚厚的白色糖霜华丽地装饰着，糖霜像雪一样从 A 形屋顶和小型山墙入口处滴落。
-
-姜饼屋的墙壁上装饰着复杂的白色糖霜卷轴花纹和金银丝细节。上层有一个拱形窗户，配有粉色窗格和敞开的白色百叶窗，两侧是两颗大的红白相间的薄荷糖。底层有一扇精致的粉色点缀的前门和两扇浅蓝色窗格的窗户，每扇窗户都装饰着一个可爱的粉色蝴蝶结。
-
-场景以柔和的淡粉色背景为衬托，伴随着轻轻飘落的白雪。姜饼屋底部有一层白雪，上面立着几棵装饰着糖霜的小姜饼圣诞树。前景中，包括红绿相间的螺旋棒棒糖在内的彩色糖果增添了一丝甜美。
-
-整体风格可爱、细节丰富、手工制作感强，并带有柔和的水彩纹理。高分辨率、精细，非常适合打印。长宽比为 1:1.4。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592658803_8o17k1_1765541654769-yw0o4d-NR6jOasVbB1lpVe614M2XHd9q0tmel55FGtJGo3h4xWXlrkX1m4pH_PSxz90EOTAZTbagy05xVI6qAqZ6DqOnP81FzKookCrkiqnRytsyCWhOePOccg6U2uGH7nP8Hjp5rCMBkiiwAAAAASUVORK5CYII_" width="600" alt="异想天开的水彩姜饼屋卡片 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **来源:** [Twitter Post](null)
-- **发布时间:** 2025年12月13日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%B9%85%E7%B2%BE%E7%BE%8E%E8%80%8C%E5%85%85%E6%BB%A1%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3%E7%9A%84%E6%B0%B4%E5%BD%A9%E6%8F%92%E7%94%BB%EF%BC%8C%E6%8F%8F%E7%BB%98%E4%BA%86%E4%B8%80%E5%BA%A7%E8%8A%82%E6%97%A5%E5%A7%9C%E9%A5%BC%E5%B1%8B%EF%BC%8C%E4%B8%93%E4%B8%BA%E5%8F%AF%E6%89%93%E5%8D%B0%E7%9A%84%E8%B4%BA%E5%8D%A1%E8%AE%BE%E8%AE%A1%E3%80%82%E8%BF%99%E5%BA%A7%E8%BF%B7%E4%BA%BA%E7%9A%84%E5%A7%9C%E9%A5%BC%E5%B1%8B%E7%94%B1%E6%B8%A9%E6%9A%96%E7%9A%84%E6%A3%95%E8%89%B2%E5%A7%9C%E9%A5%BC%E5%88%B6%E6%88%90%EF%BC%8C%E5%B1%85%E4%B8%AD%E6%94%BE%E7%BD%AE%E3%80%82%E5%AE%83%E8%A2%AB%E5%8E%9A%E5%8E%9A%E7%9A%84%E7%99%BD%E8%89%B2%E7%B3%96%E9%9C%9C%E5%8D%8E%E4%B8%BD%E5%9C%B0%E8%A3%85%E9%A5%B0%E7%9D%80%EF%BC%8C%E7%B3%96%E9%9C%9C%E5%83%8F%E9%9B%AA%E4%B8%80%E6%A0%B7%E4%BB%8E%20A%20%E5%BD%A2%E5%B1%8B%E9%A1%B6%E5%92%8C%E5%B0%8F%E5%9E%8B%E5%B1%B1%E5%A2%99%E5%85%A5%E5%8F%A3%E5%A4%84%E6%BB%B4%E8%90%BD%E3%80%82%0A%0A%E5%A7%9C%E9%A5%BC%E5%B1%8B%E7%9A%84%E5%A2%99%E5%A3%81%E4%B8%8A%E8%A3%85%E9%A5%B0%E7%9D%80%E5%A4%8D%E6%9D%82%E7%9A%84%E7%99%BD%E8%89%B2%E7%B3%96%E9%9C%9C%E5%8D%B7%E8%BD%B4%E8%8A%B1%E7%BA%B9%E5%92%8C%E9%87%91%E9%93%B6%E4%B8%9D%E7%BB%86%E8%8A%82%E3%80%82%E4%B8%8A%E5%B1%82%E6%9C%89%E4%B8%80%E4%B8%AA%E6%8B%B1%E5%BD%A2%E7%AA%97%E6%88%B7%EF%BC%8C%E9%85%8D%E6%9C%89%E7%B2%89%E8%89%B2%E7%AA%97%E6%A0%BC%E5%92%8C%E6%95%9E%E5%BC%80%E7%9A%84%E7%99%BD%E8%89%B2%E7%99%BE%E5%8F%B6%E7%AA%97%EF%BC%8C%E4%B8%A4%E4%BE%A7%E6%98%AF%E4%B8%A4%E9%A2%97%E5%A4%A7%E7%9A%84%E7%BA%A2%E7%99%BD%E7%9B%B8%E9%97%B4%E7%9A%84%E8%96%84%E8%8D%B7%E7%B3%96%E3%80%82%E5%BA%95%E5%B1%82%E6%9C%89%E4%B8%80%E6%89%87%E7%B2%BE%E8%87%B4%E7%9A%84%E7%B2%89%E8%89%B2%E7%82%B9%E7%BC%80%E7%9A%84%E5%89%8D%E9%97%A8%E5%92%8C%E4%B8%A4%E6%89%87%E6%B5%85%E8%93%9D%E8%89%B2%E7%AA%97%E6%A0%BC%E7%9A%84%E7%AA%97%E6%88%B7%EF%BC%8C%E6%AF%8F%E6%89%87%E7%AA%97%E6%88%B7%E9%83%BD%E8%A3%85%E9%A5%B0%E7%9D%80%E4%B8%80%E4%B8%AA%E5%8F%AF%E7%88%B1%E7%9A%84%E7%B2%89%E8%89%B2%E8%9D%B4%E8%9D%B6%E7%BB%93%E3%80%82%0A%0A%E5%9C%BA%E6%99%AF%E4%BB%A5%E6%9F%94%E5%92%8C%E7%9A%84%E6%B7%A1%E7%B2%89%E8%89%B2%E8%83%8C%E6%99%AF%E4%B8%BA%E8%A1%AC%E6%89%98%EF%BC%8C%E4%BC%B4%E9%9A%8F%E7%9D%80%E8%BD%BB%E8%BD%BB%E9%A3%98%E8%90%BD%E7%9A%84%E7%99%BD%E9%9B%AA%E3%80%82%E5%A7%9C%E9%A5%BC%E5%B1%8B%E5%BA%95%E9%83%A8%E6%9C%89%E4%B8%80%E5%B1%82%E7%99%BD%E9%9B%AA%EF%BC%8C%E4%B8%8A%E9%9D%A2%E7%AB%8B%E7%9D%80%E5%87%A0%E6%A3%B5%E8%A3%85%E9%A5%B0%E7%9D%80%E7%B3%96%E9%9C%9C%E7%9A%84%E5%B0%8F%E5%A7%9C%E9%A5%BC%E5%9C%A3%E8%AF%9E%E6%A0%91%E3%80%82%E5%89%8D%E6%99%AF%E4%B8%AD%EF%BC%8C%E5%8C%85%E6%8B%AC%E7%BA%A2%E7%BB%BF%E7%9B%B8%E9%97%B4%E7%9A%84%E8%9E%BA%E6%97%8B%E6%A3%92%E6%A3%92%E7%B3%96%E5%9C%A8%E5%86%85%E7%9A%84%E5%BD%A9%E8%89%B2%E7%B3%96%E6%9E%9C%E5%A2%9E%E6%B7%BB%E4%BA%86%E4%B8%80%E4%B8%9D%E7%94%9C%E7%BE%8E%E3%80%82%0A%0A%E6%95%B4%E4%BD%93%E9%A3%8E%E6%A0%BC%E5%8F%AF%E7%88%B1%E3%80%81%E7%BB%86%E8%8A%82%E4%B8%B0%E5%AF%8C%E3%80%81%E6%89%8B%E5%B7%A5%E5%88%B6%E4%BD%9C%E6%84%9F%E5%BC%BA%EF%BC%8C%E5%B9%B6%E5%B8%A6%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E6%B0%B4%E5%BD%A9%E7%BA%B9%E7%90%86%E3%80%82%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E3%80%81%E7%B2%BE%E7%BB%86%EF%BC%8C%E9%9D%9E%E5%B8%B8%E9%80%82%E5%90%88%E6%89%93%E5%8D%B0%E3%80%82%E9%95%BF%E5%AE%BD%E6%AF%94%E4%B8%BA%201%3A1.4%E3%80%82)**
-
----
-
-### No. 99: 平面矢量圣诞图案卡片
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个精美的可打印贺卡设计，上面有异想天开的重复图案，图案由扁平可爱的圣诞插画组成，如圣诞老人、驯鹿和拐杖糖。底部包含可自定义的脚本问候语。
-
-#### 📝 提示词
-
-```
-一张精美的可打印圣诞贺卡设计，比例为 1:1.4，正面视图。
-
-设计采用简洁的白色背景。上方三分之二覆盖着异想天开、重复出现的扁平可爱圣诞插画图案。图案包括：一个圣诞老人头像、一个微笑的姜饼人、一棵简单的绿色圣诞树、一个戴着红色礼帽的雪人头像、一个红色的驯鹿剪影、一个系着红丝带的黄色铃铛、一根红白相间的拐杖糖、一个穿着红裙子的小天使、带红色浆果的冬青枝、黄色星星和浅棕色雪花。
-
-卡片下方三分之一是干净的白色空间，上面有优雅的手写花体字，写着：{argument name="greeting" default="sweet holiday wishes"}。“sweet”一词是较浅、较细的花体字，而“holiday wishes”则是较粗的红色花体字。
-
-整体风格是扁平矢量插画，迷人且充满节日气氛，配色采用经典的红、绿、黄和棕色。高分辨率，非常适合打印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592656384_3effm5_1765541651729-no0nj1-B24wzvUu2A8OAAAAAElFTkSuQmCC" width="600" alt="平面矢量圣诞图案卡片 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **来源:** [Twitter Post](null)
-- **发布时间:** 2025年12月13日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%A0%E7%B2%BE%E7%BE%8E%E7%9A%84%E5%8F%AF%E6%89%93%E5%8D%B0%E5%9C%A3%E8%AF%9E%E8%B4%BA%E5%8D%A1%E8%AE%BE%E8%AE%A1%EF%BC%8C%E6%AF%94%E4%BE%8B%E4%B8%BA%201%3A1.4%EF%BC%8C%E6%AD%A3%E9%9D%A2%E8%A7%86%E5%9B%BE%E3%80%82%0A%0A%E8%AE%BE%E8%AE%A1%E9%87%87%E7%94%A8%E7%AE%80%E6%B4%81%E7%9A%84%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF%E3%80%82%E4%B8%8A%E6%96%B9%E4%B8%89%E5%88%86%E4%B9%8B%E4%BA%8C%E8%A6%86%E7%9B%96%E7%9D%80%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80%E3%80%81%E9%87%8D%E5%A4%8D%E5%87%BA%E7%8E%B0%E7%9A%84%E6%89%81%E5%B9%B3%E5%8F%AF%E7%88%B1%E5%9C%A3%E8%AF%9E%E6%8F%92%E7%94%BB%E5%9B%BE%E6%A1%88%E3%80%82%E5%9B%BE%E6%A1%88%E5%8C%85%E6%8B%AC%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%9C%A3%E8%AF%9E%E8%80%81%E4%BA%BA%E5%A4%B4%E5%83%8F%E3%80%81%E4%B8%80%E4%B8%AA%E5%BE%AE%E7%AC%91%E7%9A%84%E5%A7%9C%E9%A5%BC%E4%BA%BA%E3%80%81%E4%B8%80%E6%A3%B5%E7%AE%80%E5%8D%95%E7%9A%84%E7%BB%BF%E8%89%B2%E5%9C%A3%E8%AF%9E%E6%A0%91%E3%80%81%E4%B8%80%E4%B8%AA%E6%88%B4%E7%9D%80%E7%BA%A2%E8%89%B2%E7%A4%BC%E5%B8%BD%E7%9A%84%E9%9B%AA%E4%BA%BA%E5%A4%B4%E5%83%8F%E3%80%81%E4%B8%80%E4%B8%AA%E7%BA%A2%E8%89%B2%E7%9A%84%E9%A9%AF%E9%B9%BF%E5%89%AA%E5%BD%B1%E3%80%81%E4%B8%80%E4%B8%AA%E7%B3%BB%E7%9D%80%E7%BA%A2%E4%B8%9D%E5%B8%A6%E7%9A%84%E9%BB%84%E8%89%B2%E9%93%83%E9%93%9B%E3%80%81%E4%B8%80%E6%A0%B9%E7%BA%A2%E7%99%BD%E7%9B%B8%E9%97%B4%E7%9A%84%E6%8B%90%E6%9D%96%E7%B3%96%E3%80%81%E4%B8%80%E4%B8%AA%E7%A9%BF%E7%9D%80%E7%BA%A2%E8%A3%99%E5%AD%90%E7%9A%84%E5%B0%8F%E5%A4%A9%E4%BD%BF%E3%80%81%E5%B8%A6%E7%BA%A2%E8%89%B2%E6%B5%86%E6%9E%9C%E7%9A%84%E5%86%AC%E9%9D%92%E6%9E%9D%E3%80%81%E9%BB%84%E8%89%B2%E6%98%9F%E6%98%9F%E5%92%8C%E6%B5%85%E6%A3%95%E8%89%B2%E9%9B%AA%E8%8A%B1%E3%80%82%0A%0A%E5%8D%A1%E7%89%87%E4%B8%8B%E6%96%B9%E4%B8%89%E5%88%86%E4%B9%8B%E4%B8%80%E6%98%AF%E5%B9%B2%E5%87%80%E7%9A%84%E7%99%BD%E8%89%B2%E7%A9%BA%E9%97%B4%EF%BC%8C%E4%B8%8A%E9%9D%A2%E6%9C%89%E4%BC%98%E9%9B%85%E7%9A%84%E6%89%8B%E5%86%99%E8%8A%B1%E4%BD%93%E5%AD%97%EF%BC%8C%E5%86%99%E7%9D%80%EF%BC%9A%7Bargument%20name%3D%22greeting%22%20default%3D%22sweet%20holiday%20wishes%22%7D%E3%80%82%E2%80%9Csweet%E2%80%9D%E4%B8%80%E8%AF%8D%E6%98%AF%E8%BE%83%E6%B5%85%E3%80%81%E8%BE%83%E7%BB%86%E7%9A%84%E8%8A%B1%E4%BD%93%E5%AD%97%EF%BC%8C%E8%80%8C%E2%80%9Choliday%20wishes%E2%80%9D%E5%88%99%E6%98%AF%E8%BE%83%E7%B2%97%E7%9A%84%E7%BA%A2%E8%89%B2%E8%8A%B1%E4%BD%93%E5%AD%97%E3%80%82%0A%0A%E6%95%B4%E4%BD%93%E9%A3%8E%E6%A0%BC%E6%98%AF%E6%89%81%E5%B9%B3%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%EF%BC%8C%E8%BF%B7%E4%BA%BA%E4%B8%94%E5%85%85%E6%BB%A1%E8%8A%82%E6%97%A5%E6%B0%94%E6%B0%9B%EF%BC%8C%E9%85%8D%E8%89%B2%E9%87%87%E7%94%A8%E7%BB%8F%E5%85%B8%E7%9A%84%E7%BA%A2%E3%80%81%E7%BB%BF%E3%80%81%E9%BB%84%E5%92%8C%E6%A3%95%E8%89%B2%E3%80%82%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%EF%BC%8C%E9%9D%9E%E5%B8%B8%E9%80%82%E5%90%88%E6%89%93%E5%8D%B0%E3%80%82)**
-
----
-
-### No. 100: 复古中世纪几何圣诞贺卡
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张中世纪现代风格的可打印卡片，上面有一系列几何形状的圣诞物品，如风格化的圣诞老人、礼物和一个杯子，构图方正。它包含可定制的复古无衬线字体文本。
-
-#### 📝 提示词
-
-```
-一张精致的、可打印的圣诞贺卡设计，比例为 1:1.4。
-插画采用中世纪现代复古几何风格，线条简洁，色彩平坦。
-
-背景是纯净的米白色。贺卡左下角堆叠着一系列圣诞主题物品，呈块状网格构图。其中包括一个风格化的几何圣诞老人脸、一只红色北美红雀、带有简单图案的包装礼盒、一个大号橙红色咖啡杯、一棵小松树和简约的房屋。这些形状填充着独特的复古调色板：深青色、橙红色、柔和的粉色、深棕色和棕褐色。
-
-上方区域居中是文字 {argument name="text" default="MERRY CHRISTMAS"}，采用简单的深棕色全大写无衬线字体。整体美学风格简约、迷人且高度程式化。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592655055_3vrg3e_1765541649867-cwzgal-6Ts8tpcBM6BAAAAAElFTkSuQmCC" width="600" alt="复古中世纪几何圣诞贺卡 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **来源:** [Twitter Post](null)
-- **发布时间:** 2025年12月13日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%A0%E7%B2%BE%E8%87%B4%E7%9A%84%E3%80%81%E5%8F%AF%E6%89%93%E5%8D%B0%E7%9A%84%E5%9C%A3%E8%AF%9E%E8%B4%BA%E5%8D%A1%E8%AE%BE%E8%AE%A1%EF%BC%8C%E6%AF%94%E4%BE%8B%E4%B8%BA%201%3A1.4%E3%80%82%0A%E6%8F%92%E7%94%BB%E9%87%87%E7%94%A8%E4%B8%AD%E4%B8%96%E7%BA%AA%E7%8E%B0%E4%BB%A3%E5%A4%8D%E5%8F%A4%E5%87%A0%E4%BD%95%E9%A3%8E%E6%A0%BC%EF%BC%8C%E7%BA%BF%E6%9D%A1%E7%AE%80%E6%B4%81%EF%BC%8C%E8%89%B2%E5%BD%A9%E5%B9%B3%E5%9D%A6%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E6%98%AF%E7%BA%AF%E5%87%80%E7%9A%84%E7%B1%B3%E7%99%BD%E8%89%B2%E3%80%82%E8%B4%BA%E5%8D%A1%E5%B7%A6%E4%B8%8B%E8%A7%92%E5%A0%86%E5%8F%A0%E7%9D%80%E4%B8%80%E7%B3%BB%E5%88%97%E5%9C%A3%E8%AF%9E%E4%B8%BB%E9%A2%98%E7%89%A9%E5%93%81%EF%BC%8C%E5%91%88%E5%9D%97%E7%8A%B6%E7%BD%91%E6%A0%BC%E6%9E%84%E5%9B%BE%E3%80%82%E5%85%B6%E4%B8%AD%E5%8C%85%E6%8B%AC%E4%B8%80%E4%B8%AA%E9%A3%8E%E6%A0%BC%E5%8C%96%E7%9A%84%E5%87%A0%E4%BD%95%E5%9C%A3%E8%AF%9E%E8%80%81%E4%BA%BA%E8%84%B8%E3%80%81%E4%B8%80%E5%8F%AA%E7%BA%A2%E8%89%B2%E5%8C%97%E7%BE%8E%E7%BA%A2%E9%9B%80%E3%80%81%E5%B8%A6%E6%9C%89%E7%AE%80%E5%8D%95%E5%9B%BE%E6%A1%88%E7%9A%84%E5%8C%85%E8%A3%85%E7%A4%BC%E7%9B%92%E3%80%81%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%8F%B7%E6%A9%99%E7%BA%A2%E8%89%B2%E5%92%96%E5%95%A1%E6%9D%AF%E3%80%81%E4%B8%80%E6%A3%B5%E5%B0%8F%E6%9D%BE%E6%A0%91%E5%92%8C%E7%AE%80%E7%BA%A6%E7%9A%84%E6%88%BF%E5%B1%8B%E3%80%82%E8%BF%99%E4%BA%9B%E5%BD%A2%E7%8A%B6%E5%A1%AB%E5%85%85%E7%9D%80%E7%8B%AC%E7%89%B9%E7%9A%84%E5%A4%8D%E5%8F%A4%E8%B0%83%E8%89%B2%E6%9D%BF%EF%BC%9A%E6%B7%B1%E9%9D%92%E8%89%B2%E3%80%81%E6%A9%99%E7%BA%A2%E8%89%B2%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E7%B2%89%E8%89%B2%E3%80%81%E6%B7%B1%E6%A3%95%E8%89%B2%E5%92%8C%E6%A3%95%E8%A4%90%E8%89%B2%E3%80%82%0A%0A%E4%B8%8A%E6%96%B9%E5%8C%BA%E5%9F%9F%E5%B1%85%E4%B8%AD%E6%98%AF%E6%96%87%E5%AD%97%20%7Bargument%20name%3D%22text%22%20default%3D%22MERRY%20CHRISTMAS%22%7D%EF%BC%8C%E9%87%87%E7%94%A8%E7%AE%80%E5%8D%95%E7%9A%84%E6%B7%B1%E6%A3%95%E8%89%B2%E5%85%A8%E5%A4%A7%E5%86%99%E6%97%A0%E8%A1%AC%E7%BA%BF%E5%AD%97%E4%BD%93%E3%80%82%E6%95%B4%E4%BD%93%E7%BE%8E%E5%AD%A6%E9%A3%8E%E6%A0%BC%E7%AE%80%E7%BA%A6%E3%80%81%E8%BF%B7%E4%BA%BA%E4%B8%94%E9%AB%98%E5%BA%A6%E7%A8%8B%E5%BC%8F%E5%8C%96%E3%80%82)**
 
 ---
 
@@ -4073,6 +4765,6 @@ A vintage travel poster style Christmas card. A stylized view of a snowy mountai
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2025-12-15T04:38:25.873Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2025-12-15T08:29:19.692Z</sub>
 
 </div>

@@ -86,9 +86,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **100** |
+| 📝 Totale prompt | **125** |
 | ⭐ In evidenza | **0** |
-| 🔄 Ultimo aggiornamento | **lunedì 15 dicembre 2025 alle ore 04:38:35 UTC** |
+| 🔄 Ultimo aggiornamento | **lunedì 15 dicembre 2025 alle ore 08:29:38 UTC** |
 
 </div>
 
@@ -98,7 +98,872 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
-### No. 1: Biglietto di Natale "Stendibiancheria di Babbo Natale"
+### No. 1: Clumsy Penguins Children's Book Animation Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt creates a vertical, printable Christmas photo frame illustrated in a charming, humorous children's book animation style featuring clumsy penguins. The design focuses entirely on the frame itself with a blank photo placeholder, providing a joyful, funny, and animated look for print.
+
+#### 📝 Prompt
+
+```
+A vertical 1:1.4 printable Christmas photo frame illustrated in a charming, humorous children’s book animation style.
+
+The design focuses entirely on the frame itself, with flat illustration and no background environment.
+
+A large blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 portrait ratio and 70% of the frame width, intentionally empty and clearly separated from all decorations.
+
+The surrounding border features clumsy cartoon penguins slipping, stacking ornaments, holding oversized stars, and interacting playfully with festive elements around the edges.
+
+The overall style is joyful, funny, animated, and print-friendly, with no text or lettering.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__" width="600" alt="Clumsy Penguins Children's Book Animation Photo Frame - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vertical%201%3A1.4%20printable%20Christmas%20photo%20frame%20illustrated%20in%20a%20charming%2C%20humorous%20children%E2%80%99s%20book%20animation%20style.%0A%0AThe%20design%20focuses%20entirely%20on%20the%20frame%20itself%2C%20with%20flat%20illustration%20and%20no%20background%20environment.%0A%0AA%20large%20blank%20photo%20placeholder%20is%20reserved%20at%20the%20exact%20horizontal%20and%20vertical%20center%2C%20with%20a%201%3A1.4%20portrait%20ratio%20and%2070%25%20of%20the%20frame%20width%2C%20intentionally%20empty%20and%20clearly%20separated%20from%20all%20decorations.%0A%0AThe%20surrounding%20border%20features%20clumsy%20cartoon%20penguins%20slipping%2C%20stacking%20ornaments%2C%20holding%20oversized%20stars%2C%20and%20interacting%20playfully%20with%20festive%20elements%20around%20the%20edges.%0A%0AThe%20overall%20style%20is%20joyful%2C%20funny%2C%20animated%2C%20and%20print-friendly%2C%20with%20no%20text%20or%20lettering.)**
+
+---
+
+### No. 2: Funny Gingerbread Animated Illustration Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt creates a printable Christmas photo frame illustration in a humorous animated storybook style featuring funny gingerbread characters. The design shows only the frame with a blank photo placeholder, offering a humorous, cozy, and whimsical aesthetic for printing.
+
+#### 📝 Prompt
+
+```
+A printable Christmas photo frame illustration in a vertical 1:1.4 aspect ratio, created in a humorous animated storybook style.
+
+The illustration shows only the frame design, without any external environment or background scenery. The colors are warm and festive with soft paper texture.
+
+At the exact center, reserve a blank photo placeholder that is horizontally and vertically centered, maintaining a 1:1.4 aspect ratio and 70% of the total frame width, completely blank and unobstructed.
+
+The frame border is decorated with playful gingerbread characters striking silly poses, partially broken cookies, frosting details, and candy decorations, all drawn with expressive cartoon faces.
+
+The mood is humorous, cozy, and whimsical, fully optimized for printing, with no typography.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784310981_hlrjof_1765780294344-8suld3-nw38D6_lD8WBy0bTPa2E6DCNqhxc3ZAVzQg5N2eB1mBa0YUupvbF257bbb7r7rztXly4898dTdt5_wksUMiaSIA7ajkXM0yQDW5oIugT1rLlmBsfExT0IuzTiXnXUWtf8PrWnOlBF9AScAAAAASUVORK5CYII_" width="600" alt="Funny Gingerbread Animated Illustration Photo Frame - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20Christmas%20photo%20frame%20illustration%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20created%20in%20a%20humorous%20animated%20storybook%20style.%0A%0AThe%20illustration%20shows%20only%20the%20frame%20design%2C%20without%20any%20external%20environment%20or%20background%20scenery.%20The%20colors%20are%20warm%20and%20festive%20with%20soft%20paper%20texture.%0A%0AAt%20the%20exact%20center%2C%20reserve%20a%20blank%20photo%20placeholder%20that%20is%20horizontally%20and%20vertically%20centered%2C%20maintaining%20a%201%3A1.4%20aspect%20ratio%20and%2070%25%20of%20the%20total%20frame%20width%2C%20completely%20blank%20and%20unobstructed.%0A%0AThe%20frame%20border%20is%20decorated%20with%20playful%20gingerbread%20characters%20striking%20silly%20poses%2C%20partially%20broken%20cookies%2C%20frosting%20details%2C%20and%20candy%20decorations%2C%20all%20drawn%20with%20expressive%20cartoon%20faces.%0A%0AThe%20mood%20is%20humorous%2C%20cozy%2C%20and%20whimsical%2C%20fully%20optimized%20for%20printing%2C%20with%20no%20typography.)**
+
+---
+
+### No. 3: Lazy Sloth Style Animated Christmas Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates a printable Christmas photo frame illustration in a humorous animated storybook style featuring lazy sloths. It's designed as a standalone frame with a blank photo placeholder, perfect for high-quality printing and adding a lighthearted, cozy, and humorous touch to holiday photos.
+
+#### 📝 Prompt
+
+```
+A printable Christmas photo frame illustration designed exclusively as a standalone frame, in a vertical 1:1.4 aspect ratio, suitable for high-quality print.
+
+The illustration focuses only on the frame itself, with no external environment or background scene. The style is a humorous animated storybook illustration with soft textures, clean outlines, and warm colors.
+
+At the exact center of the frame, reserve a blank photo placeholder area that is horizontally and vertically centered. The placeholder has a 1:1.4 portrait aspect ratio, with its width equal to 70% of the total frame width, and must remain completely empty and untouched.
+
+The surrounding frame border features playful cartoon sloths hanging from candy canes, evergreen branches, and festive hooks. The sloths wear cozy knitted sweaters and scarves, striking relaxed, funny poses.
+
+The illustration feels lighthearted, cozy, and humorous, with flat composition and print-friendly colors, no text or typography.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="Lazy Sloth Style Animated Christmas Photo Frame - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20Christmas%20photo%20frame%20illustration%20designed%20exclusively%20as%20a%20standalone%20frame%2C%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20suitable%20for%20high-quality%20print.%0A%0AThe%20illustration%20focuses%20only%20on%20the%20frame%20itself%2C%20with%20no%20external%20environment%20or%20background%20scene.%20The%20style%20is%20a%20humorous%20animated%20storybook%20illustration%20with%20soft%20textures%2C%20clean%20outlines%2C%20and%20warm%20colors.%0A%0AAt%20the%20exact%20center%20of%20the%20frame%2C%20reserve%20a%20blank%20photo%20placeholder%20area%20that%20is%20horizontally%20and%20vertically%20centered.%20The%20placeholder%20has%20a%201%3A1.4%20portrait%20aspect%20ratio%2C%20with%20its%20width%20equal%20to%2070%25%20of%20the%20total%20frame%20width%2C%20and%20must%20remain%20completely%20empty%20and%20untouched.%0A%0AThe%20surrounding%20frame%20border%20features%20playful%20cartoon%20sloths%20hanging%20from%20candy%20canes%2C%20evergreen%20branches%2C%20and%20festive%20hooks.%20The%20sloths%20wear%20cozy%20knitted%20sweaters%20and%20scarves%2C%20striking%20relaxed%2C%20funny%20poses.%0A%0AThe%20illustration%20feels%20lighthearted%2C%20cozy%2C%20and%20humorous%2C%20with%20flat%20composition%20and%20print-friendly%20colors%2C%20no%20text%20or%20typography.)**
+
+---
+
+### No. 4: Playful Polar Bear Cartoon Christmas Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt creates a printable animated Christmas photo frame in a humorous cartoon style featuring playful polar bears. It's designed solely as a frame illustration for print, with a blank photo placeholder, offering a cheerful, funny, and friendly aesthetic for holiday pictures.
+
+#### 📝 Prompt
+
+```
+A printable animated Christmas photo frame in a vertical 1:1.4 aspect ratio, designed solely as a frame illustration for print.
+
+The frame is illustrated in a humorous cartoon style with rounded shapes, expressive characters, and soft shading. No environment, no background scene, only the frame design.
+
+A blank photo placeholder is reserved at the exact horizontal and vertical center, with a 1:1.4 aspect ratio and 70% of the frame width, completely empty and clean.
+
+The border is decorated with playful polar bears sliding, peeking, and clinging to the edges of the frame, interacting with candy canes, ornaments, and snowballs in a silly, exaggerated way.
+
+The overall mood is cheerful, funny, and friendly, optimized for flat printable illustration, with no text.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="Playful Polar Bear Cartoon Christmas Photo Frame - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20printable%20animated%20Christmas%20photo%20frame%20in%20a%20vertical%201%3A1.4%20aspect%20ratio%2C%20designed%20solely%20as%20a%20frame%20illustration%20for%20print.%0A%0AThe%20frame%20is%20illustrated%20in%20a%20humorous%20cartoon%20style%20with%20rounded%20shapes%2C%20expressive%20characters%2C%20and%20soft%20shading.%20No%20environment%2C%20no%20background%20scene%2C%20only%20the%20frame%20design.%0A%0AA%20blank%20photo%20placeholder%20is%20reserved%20at%20the%20exact%20horizontal%20and%20vertical%20center%2C%20with%20a%201%3A1.4%20aspect%20ratio%20and%2070%25%20of%20the%20frame%20width%2C%20completely%20empty%20and%20clean.%0A%0AThe%20border%20is%20decorated%20with%20playful%20polar%20bears%20sliding%2C%20peeking%2C%20and%20clinging%20to%20the%20edges%20of%20the%20frame%2C%20interacting%20with%20candy%20canes%2C%20ornaments%2C%20and%20snowballs%20in%20a%20silly%2C%20exaggerated%20way.%0A%0AThe%20overall%20mood%20is%20cheerful%2C%20funny%2C%20and%20friendly%2C%20optimized%20for%20flat%20printable%20illustration%2C%20with%20no%20text.)**
+
+---
+
+### No. 5: Mischievous Cats Christmas Sticker Style Photo Frame
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates a vertical, printable Christmas photo frame illustrated in a cute, humorous animated sticker style featuring mischievous cats. The design focuses solely on the frame itself with bold outlines, soft colors, and a blank photo placeholder, creating a playful and chaotic holiday feel.
+
+#### 📝 Prompt
+
+```
+A vertical 1:1.4 printable Christmas photo frame illustrated in a cute, humorous animated sticker style.
+
+The design focuses only on the frame itself, with no room, wall, or environmental context. The illustration uses bold outlines, soft colors, and expressive cartoon characters.
+
+In the exact center, a blank photo placeholder area is horizontally and vertically centered, with a 1:1.4 portrait ratio and 70% width of the frame, completely empty and clearly defined.
+
+The surrounding border features mischievous cartoon cats tangled in Christmas lights, knocking over ornaments, climbing garlands, and peeking from the corners, creating a playful and chaotic holiday feel.
+
+The composition remains flat, balanced, and print-ready, with no text elements.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC" width="600" alt="Mischievous Cats Christmas Sticker Style Photo Frame - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20vertical%201%3A1.4%20printable%20Christmas%20photo%20frame%20illustrated%20in%20a%20cute%2C%20humorous%20animated%20sticker%20style.%0A%0AThe%20design%20focuses%20only%20on%20the%20frame%20itself%2C%20with%20no%20room%2C%20wall%2C%20or%20environmental%20context.%20The%20illustration%20uses%20bold%20outlines%2C%20soft%20colors%2C%20and%20expressive%20cartoon%20characters.%0A%0AIn%20the%20exact%20center%2C%20a%20blank%20photo%20placeholder%20area%20is%20horizontally%20and%20vertically%20centered%2C%20with%20a%201%3A1.4%20portrait%20ratio%20and%2070%25%20width%20of%20the%20frame%2C%20completely%20empty%20and%20clearly%20defined.%0A%0AThe%20surrounding%20border%20features%20mischievous%20cartoon%20cats%20tangled%20in%20Christmas%20lights%2C%20knocking%20over%20ornaments%2C%20climbing%20garlands%2C%20and%20peeking%20from%20the%20corners%2C%20creating%20a%20playful%20and%20chaotic%20holiday%20feel.%0A%0AThe%20composition%20remains%20flat%2C%20balanced%2C%20and%20print-ready%2C%20with%20no%20text%20elements.)**
+
+---
+
+### No. 6: Koala Clinging to Christmas Tree
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates a cute printable Christmas card design featuring a grey koala bear clinging to a decorated Christmas tree. It's perfect for sweet and endearing holiday greetings with a soft, crayon-drawing texture.
+
+#### 📝 Prompt
+
+```
+A cute printable Christmas card design, aspect ratio 1:1.4. A grey koala bear is clinging tightly to the trunk of a small, decorated Christmas tree instead of a eucalyptus tree, looking content and sleepy. The tree is covered in shiny silver tinsel and colorful baubles. The koala wears a tiny red bow tie. Solid pastel green background. Soft, crayon drawing texture.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780157326_ckp21g_1765693121569-apj76v-v_H31t5QXhilrDAAAAAElFTkSuQmCC" width="600" alt="Koala Clinging to Christmas Tree - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20grey%20koala%20bear%20is%20clinging%20tightly%20to%20the%20trunk%20of%20a%20small%2C%20decorated%20Christmas%20tree%20instead%20of%20a%20eucalyptus%20tree%2C%20looking%20content%20and%20sleepy.%20The%20tree%20is%20covered%20in%20shiny%20silver%20tinsel%20and%20colorful%20baubles.%20The%20koala%20wears%20a%20tiny%20red%20bow%20tie.%20Solid%20pastel%20green%20background.%20Soft%2C%20crayon%20drawing%20texture.)**
+
+---
+
+### No. 7: Bear Baker with Living Gingerbread Men
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt creates a charming illustration of a friendly brown bear baker making gingerbread men, which have come to life and are running around the kitchen. Perfect for warm and storybook-style holiday cards.
+
+#### 📝 Prompt
+
+```
+A charming illustration of a brown bear baker, aspect ratio 1:1.4. The friendly bear wears a floral apron and a chef's hat, covered in white flour dust. It is happily rolling out dough on a wooden table, surrounded by gingerbread men cookies that have come to life and are running around the kitchen counter laughing. Warm, storybook art style.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780152259_x9tpgp_1765765754561-emrtgw-w_2W4FWpP9VyAAAAABJRU5ErkJggg__" width="600" alt="Bear Baker with Living Gingerbread Men - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20illustration%20of%20a%20brown%20bear%20baker%2C%20aspect%20ratio%201%3A1.4.%20The%20friendly%20bear%20wears%20a%20floral%20apron%20and%20a%20chef's%20hat%2C%20covered%20in%20white%20flour%20dust.%20It%20is%20happily%20rolling%20out%20dough%20on%20a%20wooden%20table%2C%20surrounded%20by%20gingerbread%20men%20cookies%20that%20have%20come%20to%20life%20and%20are%20running%20around%20the%20kitchen%20counter%20laughing.%20Warm%2C%20storybook%20art%20style.)**
+
+---
+
+### No. 8: Pug with Reindeer Antlers and Clown Nose
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates a funny and cute printable card featuring a close-up photographic portrait of a pug reluctantly wearing reindeer antlers and a glowing red clown nose. Ideal for humorous and quirky holiday greetings.
+
+#### 📝 Prompt
+
+```
+A funny and cute printable card, aspect ratio 1:1.4. A close-up photographic portrait of a chubby pug dog's face. It is reluctantly wearing a headband with brown felt reindeer antlers and a very bright, glowing red clown nose over its own nose. The pug has a serious, slightly judging expression, staring straight at the camera. The background is blurred festive red lights.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780150716_6iohh6_1765693108405-xs5mi7-8HDdKJRZ26cGoAAAAASUVORK5CYII_" width="600" alt="Pug with Reindeer Antlers and Clown Nose - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20and%20cute%20printable%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20close-up%20photographic%20portrait%20of%20a%20chubby%20pug%20dog's%20face.%20It%20is%20reluctantly%20wearing%20a%20headband%20with%20brown%20felt%20reindeer%20antlers%20and%20a%20very%20bright%2C%20glowing%20red%20clown%20nose%20over%20its%20own%20nose.%20The%20pug%20has%20a%20serious%2C%20slightly%20judging%20expression%2C%20staring%20straight%20at%20the%20camera.%20The%20background%20is%20blurred%20festive%20red%20lights.)**
+
+---
+
+### No. 9: Dormouse Asleep in Teacup
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates a cozy miniature Christmas illustration of a tiny dormouse curled up asleep inside a festive teacup. Ideal for sweet and delicate holiday card designs.
+
+#### 📝 Prompt
+
+```
+A cozy miniature Christmas illustration, aspect ratio 1:1.4. A tiny dormouse is curled up asleep inside a ceramic teacup that is decorated with a festive red and green holly pattern. The mouse is covered by a small green leaf blanket. The teacup sits on a saucer next to a miniature mince pie on a wooden table surface. Watercolor and colored pencil style.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780150013_3r2ds8_1765765750332-u6dv2j-f7L6RsJkw3KlnwAAAAAElFTkSuQmCC" width="600" alt="Dormouse Asleep in Teacup - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cozy%20miniature%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20tiny%20dormouse%20is%20curled%20up%20asleep%20inside%20a%20ceramic%20teacup%20that%20is%20decorated%20with%20a%20festive%20red%20and%20green%20holly%20pattern.%20The%20mouse%20is%20covered%20by%20a%20small%20green%20leaf%20blanket.%20The%20teacup%20sits%20on%20a%20saucer%20next%20to%20a%20miniature%20mince%20pie%20on%20a%20wooden%20table%20surface.%20Watercolor%20and%20colored%20pencil%20style.)**
+
+---
+
+### No. 10: Octopus Decorating Coral Christmas Tree
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt creates a whimsical underwater Christmas card featuring a friendly purple octopus decorating a coral 'Christmas tree'. Perfect for unique and playful aquatic-themed holiday greetings.
+
+#### 📝 Prompt
+
+```
+A whimsical underwater Christmas card, aspect ratio 1:1.4. A friendly purple octopus is using all eight arms to decorate a large piece of branching coral that looks like a Christmas tree. It's hanging shiny seashells, starfish, and strings of pearls on the branches. A Santa hat floats just above its head. Bubbles rise against a deep blue ocean background. Cute cartoon style.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780144630_0tscw8_1765693091821-qhhkcy-zJJh_aUBJ0oFVKEJRYbqaxivp889_gQSR09EMCDxvoD8Rg0767xzBB2CWUvdpo3J9NqDaUE_1kVMeq5_SXMzP8DXmFImiJYjewAAAAASUVORK5CYII_" width="600" alt="Octopus Decorating Coral Christmas Tree - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20underwater%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20friendly%20purple%20octopus%20is%20using%20all%20eight%20arms%20to%20decorate%20a%20large%20piece%20of%20branching%20coral%20that%20looks%20like%20a%20Christmas%20tree.%20It's%20hanging%20shiny%20seashells%2C%20starfish%2C%20and%20strings%20of%20pearls%20on%20the%20branches.%20A%20Santa%20hat%20floats%20just%20above%20its%20head.%20Bubbles%20rise%20against%20a%20deep%20blue%20ocean%20background.%20Cute%20cartoon%20style.)**
+
+---
+
+### No. 11: Alpaca Overloaded with Presents
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt creates a cute and chaotic Christmas card featuring a fluffy alpaca overloaded with a precarious stack of Christmas presents. Perfect for humorous and charming holiday greetings.
+
+#### 📝 Prompt
+
+```
+A cute and chaotic Christmas card, aspect ratio 1:1.4. A fluffy white alpaca stands against a solid mint green background. Its back is overloaded with an impossibly tall, precarious stack of colorful wrapped Christmas presents with bows that are wobbling wildly. The alpaca has a patient, slightly strained expression, and its skinny legs are shaking slightly under the weight.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780142631_uo5vj6_1765765458317-2gfkgs-N8AAAAASUVORK5CYII_" width="600" alt="Alpaca Overloaded with Presents - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20chaotic%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20fluffy%20white%20alpaca%20stands%20against%20a%20solid%20mint%20green%20background.%20Its%20back%20is%20overloaded%20with%20an%20impossibly%20tall%2C%20precarious%20stack%20of%20colorful%20wrapped%20Christmas%20presents%20with%20bows%20that%20are%20wobbling%20wildly.%20The%20alpaca%20has%20a%20patient%2C%20slightly%20strained%20expression%2C%20and%20its%20skinny%20legs%20are%20shaking%20slightly%20under%20the%20weight.)**
+
+---
+
+### No. 12: Magical Snowy Owl Delivering Mail
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates a magical Christmas illustration of a snowy owl in flight, carrying a small, elegant red envelope. Ideal for enchanting and whimsical holiday card designs.
+
+#### 📝 Prompt
+
+```
+A magical Christmas illustration, aspect ratio 1:1.4. A fluffy white snowy owl with bright yellow eyes is in mid-flight against a dark blue, star-filled night sky. It carries a small, elegant red envelope sealed with a gold wax seal in its beak. A tiny sprig of holly is tucked behind its ear like a feather. The style is detailed and enchanting.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780138272_3svn17_1765765454815-r02l98-39y3ldSxfTVjYHEu7z6e58eW0dWm0gojHuTEKYhMy9CVualCgiWFmYEOeZiJjb6cPH6LFta5rSVvfacF03UX14_C1AQPVY6_iG5ixRy_G49L2ryc_fL9V3UcvzHA3StFyutw6gQMhMAu4RdVOVkZR795zmOd1uiNHIEHATQCi1sjCRI5IyCQt1FBdiEpEWzYS7U0S0BoAw1qqSmElKb0C" width="600" alt="Magical Snowy Owl Delivering Mail - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20magical%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20fluffy%20white%20snowy%20owl%20with%20bright%20yellow%20eyes%20is%20in%20mid-flight%20against%20a%20dark%20blue%2C%20star-filled%20night%20sky.%20It%20carries%20a%20small%2C%20elegant%20red%20envelope%20sealed%20with%20a%20gold%20wax%20seal%20in%20its%20beak.%20A%20tiny%20sprig%20of%20holly%20is%20tucked%20behind%20its%20ear%20like%20a%20feather.%20The%20style%20is%20detailed%20and%20enchanting.)**
+
+---
+
+### No. 13: Sneaky Raccoons Stealing Santa's Treats
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt creates a funny Christmas card design depicting two sneaky raccoons caught stealing Santa's milk and cookies by a fireplace. Perfect for mischievous and humorous holiday greetings.
+
+#### 📝 Prompt
+
+```
+A funny Christmas card design, aspect ratio 1:1.4. A scene at night by a fireplace. Two sneaky raccoons wearing their natural "bandit mask" markings and tiny Santa hats are caught in the act. One is lifting a glass of milk, and the other has a chocolate chip cookie in its mouth, taken from a plate labeled 'For Santa'. Only their eyes are illuminated by the firelight. Cute, mischievous illustration style.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780135041_hfe6vq_1765693073644-d5i9ho-x9Nt6i6Rt8yVwAAAABJRU5ErkJggg__" width="600" alt="Sneaky Raccoons Stealing Santa's Treats - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20A%20scene%20at%20night%20by%20a%20fireplace.%20Two%20sneaky%20raccoons%20wearing%20their%20natural%20%22bandit%20mask%22%20markings%20and%20tiny%20Santa%20hats%20are%20caught%20in%20the%20act.%20One%20is%20lifting%20a%20glass%20of%20milk%2C%20and%20the%20other%20has%20a%20chocolate%20chip%20cookie%20in%20its%20mouth%2C%20taken%20from%20a%20plate%20labeled%20'For%20Santa'.%20Only%20their%20eyes%20are%20illuminated%20by%20the%20firelight.%20Cute%2C%20mischievous%20illustration%20style.)**
+
+---
+
+### No. 14: Penguin Skiing with Candy Canes
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates a whimsical action illustration for a Christmas card, featuring a cheerful penguin skiing down a snowy slope using peppermint candy canes as skis. Ideal for fun and dynamic holiday designs.
+
+#### 📝 Prompt
+
+```
+A whimsical action illustration for a Christmas card, aspect ratio 1:1.4. A cheerful penguin wearing vintage pilot goggles and a flying red scarf is skiing down a snowy slope. Instead of skis, it is using two large peppermint candy canes. Snow sprays out behind it dynamically. In the background, there are simple cartoon pine trees. Fun, dynamic cartoon style with bold outlines.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780134351_n4c7z8_1765693058708-rcwygl-7E9Izca_arBPzsQsVeY_tbHB5P_b1XUclaVdeBnWEuIkUpFvsQH9zdkMF2TvwTQTlyJnjrmFRkUYxyJkutsbDX8qES7SzaOysAjokruFaeJFHKuvUskoNoPkHU9yMP6fKJqpiG1VSqsgqVWH7qHP4XtomX4vCKzPcAAAAASUVORK5CYII_" width="600" alt="Penguin Skiing with Candy Canes - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20action%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20cheerful%20penguin%20wearing%20vintage%20pilot%20goggles%20and%20a%20flying%20red%20scarf%20is%20skiing%20down%20a%20snowy%20slope.%20Instead%20of%20skis%2C%20it%20is%20using%20two%20large%20peppermint%20candy%20canes.%20Snow%20sprays%20out%20behind%20it%20dynamically.%20In%20the%20background%2C%20there%20are%20simple%20cartoon%20pine%20trees.%20Fun%2C%20dynamic%20cartoon%20style%20with%20bold%20outlines.)**
+
+---
+
+### No. 15: Sleeping Polar Bears
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt creates a heartwarming printable Christmas card featuring a mother polar bear and her cub sleeping soundly in a snowy drift. It's perfect for tender and soft children's book style holiday greetings.
+
+#### 📝 Prompt
+
+```
+A heartwarming printable Christmas card, aspect ratio 1:1.4. A large mother polar bear is lying down fast asleep, curled up in a snowy drift. A tiny polar bear cub is sleeping soundly on her broad back, wearing a miniature red and green striped nightcap. A gentle snowfall surrounds them against a soft light blue background. The style is a tender children's book illustration with soft colors.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780129271_va78dc_1765693057760-ebc124-wFMsnpfYefmXwAAAABJRU5ErkJggg__" width="600" alt="Sleeping Polar Bears - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20heartwarming%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20large%20mother%20polar%20bear%20is%20lying%20down%20fast%20asleep%2C%20curled%20up%20in%20a%20snowy%20drift.%20A%20tiny%20polar%20bear%20cub%20is%20sleeping%20soundly%20on%20her%20broad%20back%2C%20wearing%20a%20miniature%20red%20and%20green%20striped%20nightcap.%20A%20gentle%20snowfall%20surrounds%20them%20against%20a%20soft%20light%20blue%20background.%20The%20style%20is%20a%20tender%20children's%20book%20illustration%20with%20soft%20colors.)**
+
+---
+
+### No. 16: Tuxedo Cat Tangled in Ribbon
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates a funny printable Christmas card illustration of a mischievous tuxedo cat hilariously tangled in gift ribbon and wrapping paper. It's great for lighthearted and playful holiday cards.
+
+#### 📝 Prompt
+
+```
+A funny printable Christmas card illustration, aspect ratio 1:1.4. A mischievous black and white tuxedo cat is comically tangled in a massive explosion of red satin gift ribbon and torn festive wrapping paper on a clean white background. Only its wide, surprised green eyes and one paw are visible from the center of the shiny red chaos. A roll of tape is stuck to its tail. Dynamic cartoon sketch style.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780125816_w7gjzg_1765693040741-mb5eqs-oAAAAASUVORK5CYII_" width="600" alt="Tuxedo Cat Tangled in Ribbon - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20mischievous%20black%20and%20white%20tuxedo%20cat%20is%20comically%20tangled%20in%20a%20massive%20explosion%20of%20red%20satin%20gift%20ribbon%20and%20torn%20festive%20wrapping%20paper%20on%20a%20clean%20white%20background.%20Only%20its%20wide%2C%20surprised%20green%20eyes%20and%20one%20paw%20are%20visible%20from%20the%20center%20of%20the%20shiny%20red%20chaos.%20A%20roll%20of%20tape%20is%20stuck%20to%20its%20tail.%20Dynamic%20cartoon%20sketch%20style.)**
+
+---
+
+### No. 17: Felt Appliqué Fox Cub
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt creates a cozy, tactile Christmas card design that looks like handmade felt appliqué stitching, featuring a cute fox cub in a snowy scene. Perfect for unique and crafty holiday visuals.
+
+#### 📝 Prompt
+
+```
+A cozy, tactile Christmas card design, aspect ratio 1:1.4. The illustration looks entirely like handmade felt appliqué stitching. A cute orange fox cub made of fuzzy felt fabric sits in layers of white felt snow, looking up at a felt Christmas tree decorated with colorful button ornaments. The texture of the wool fibers and the stitching around the edges is clearly visible. The background is a soft blue felt sky.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780125142_vqwzrz_1765765736932-w6b2ti-joqONxdrcec4p_fHzcEeMYCEAsu1E12RDxtS4WrUoVzk5TxaZ73RChrBtc45DncUB98QQAca0k5v8fyjkmeojjTpMAAAAASUVORK5CYII_" width="600" alt="Felt Appliqué Fox Cub - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cozy%2C%20tactile%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20The%20illustration%20looks%20entirely%20like%20handmade%20felt%20appliqu%C3%A9%20stitching.%20A%20cute%20orange%20fox%20cub%20made%20of%20fuzzy%20felt%20fabric%20sits%20in%20layers%20of%20white%20felt%20snow%2C%20looking%20up%20at%20a%20felt%20Christmas%20tree%20decorated%20with%20colorful%20button%20ornaments.%20The%20texture%20of%20the%20wool%20fibers%20and%20the%20stitching%20around%20the%20edges%20is%20clearly%20visible.%20The%20background%20is%20a%20soft%20blue%20felt%20sky.)**
+
+---
+
+### No. 18: Capybara in Japanese Hot Spring
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates a relaxing and cute Christmas illustration of a capybara enjoying a Japanese hot spring. Ideal for serene and unique holiday card designs.
+
+#### 📝 Prompt
+
+```
+A relaxing and cute Christmas illustration, aspect ratio 1:1.4. A chill capybara sits peacefully up to its chest in a steaming Japanese hot spring pool (onsen), surrounded by snow-covered rocks. It wears a small folded towel on its head topped with a Santa hat. A yuzu fruit floats next to it. The style is a warm, soft anime illustration with gentle steam rising.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780123056_v02i28_1765693205572-8w5irf-AXqqyI4m5kpHAAAAAElFTkSuQmCC" width="600" alt="Capybara in Japanese Hot Spring - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20relaxing%20and%20cute%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20chill%20capybara%20sits%20peacefully%20up%20to%20its%20chest%20in%20a%20steaming%20Japanese%20hot%20spring%20pool%20(onsen)%2C%20surrounded%20by%20snow-covered%20rocks.%20It%20wears%20a%20small%20folded%20towel%20on%20its%20head%20topped%20with%20a%20Santa%20hat.%20A%20yuzu%20fruit%20floats%20next%20to%20it.%20The%20style%20is%20a%20warm%2C%20soft%20anime%20illustration%20with%20gentle%20steam%20rising.)**
+
+---
+
+### No. 19: Singing Birds on Holly Branch
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt creates a cute and detailed printable Christmas card featuring five tiny garden birds wearing miniature winter hats and singing on a snow-covered holly branch. Perfect for classic and charming holiday greetings.
+
+#### 📝 Prompt
+
+```
+A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plump garden birds (a robin, a blue tit, a sparrow, a goldfinch, a wren) are perched in a row on a snow-covered holly branch with red berries. Each bird wears a different miniature knitted winter hat (bobble hat, beanie, earflap hat) and they all have their beaks open as if singing. The style is a delicate watercolor and ink drawing on textured paper.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780118971_iq7hcj_1765693200318-bzuqbb-MpYGTqgUNkpuE6DuZTGYkL_OfNSELavqabdsIGBfbwDUkP8Gi2zVV1lQ1BQAAAAASUVORK5CYII_" width="600" alt="Singing Birds on Holly Branch - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20cute%20and%20detailed%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20Five%20tiny%2C%20plump%20garden%20birds%20(a%20robin%2C%20a%20blue%20tit%2C%20a%20sparrow%2C%20a%20goldfinch%2C%20a%20wren)%20are%20perched%20in%20a%20row%20on%20a%20snow-covered%20holly%20branch%20with%20red%20berries.%20Each%20bird%20wears%20a%20different%20miniature%20knitted%20winter%20hat%20(bobble%20hat%2C%20beanie%2C%20earflap%20hat)%20and%20they%20all%20have%20their%20beaks%20open%20as%20if%20singing.%20The%20style%20is%20a%20delicate%20watercolor%20and%20ink%20drawing%20on%20textured%20paper.)**
+
+---
+
+### No. 20: Squirrel with Wrapped Acorn
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates a whimsical printable Christmas card featuring a busy red squirrel presenting a meticulously wrapped acorn. It's perfect for unique and charming holiday greetings with a touch of woodland magic.
+
+#### 📝 Prompt
+
+```
+A whimsical printable Christmas card, aspect ratio 1:1.4. A busy red squirrel with fluffy ear tufts stands on a snow-covered tree branch against a pale winter sky. It is holding a single acorn that is meticulously wrapped in tiny red paper with a gold bow, presenting it forward. Behind it, a pile of similarly wrapped acorns is stacked inside a hollow log. The squirrel wears a tiny green knit scarf. Colored pencil texture style.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780115837_0c1gkg_1765692973777-uwo85l-gdvX4ybDwKspAAAAABJRU5ErkJggg__" width="600" alt="Squirrel with Wrapped Acorn - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20printable%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20busy%20red%20squirrel%20with%20fluffy%20ear%20tufts%20stands%20on%20a%20snow-covered%20tree%20branch%20against%20a%20pale%20winter%20sky.%20It%20is%20holding%20a%20single%20acorn%20that%20is%20meticulously%20wrapped%20in%20tiny%20red%20paper%20with%20a%20gold%20bow%2C%20presenting%20it%20forward.%20Behind%20it%2C%20a%20pile%20of%20similarly%20wrapped%20acorns%20is%20stacked%20inside%20a%20hollow%20log.%20The%20squirrel%20wears%20a%20tiny%20green%20knit%20scarf.%20Colored%20pencil%20texture%20style.)**
+
+---
+
+### No. 21: Corgi Stuck in Chimney
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates a humorous Christmas card illustration featuring a Corgi dog stuck upside down in a chimney. Ideal for a funny and lighthearted holiday message.
+
+#### 📝 Prompt
+
+```
+A humorous Christmas card illustration, flat graphic style, aspect ratio 1:1.4. A red brick chimney stack stands against a dark blue night sky with stars. Stuck upside down in the top opening of the chimney is the fluffy orange and white butt of a Corgi dog, with its short back legs wiggling in the air. A tiny Santa hat is falling off one foot. Smoke puffs out around it in the shape of question marks.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780114922_pdkrnq_1765693026895-9ldmsp-C6BJKp_H09UpAAAAAElFTkSuQmCC" width="600" alt="Corgi Stuck in Chimney - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20humorous%20Christmas%20card%20illustration%2C%20flat%20graphic%20style%2C%20aspect%20ratio%201%3A1.4.%20A%20red%20brick%20chimney%20stack%20stands%20against%20a%20dark%20blue%20night%20sky%20with%20stars.%20Stuck%20upside%20down%20in%20the%20top%20opening%20of%20the%20chimney%20is%20the%20fluffy%20orange%20and%20white%20butt%20of%20a%20Corgi%20dog%2C%20with%20its%20short%20back%20legs%20wiggling%20in%20the%20air.%20A%20tiny%20Santa%20hat%20is%20falling%20off%20one%20foot.%20Smoke%20puffs%20out%20around%20it%20in%20the%20shape%20of%20question%20marks.)**
+
+---
+
+### No. 22: Fluffy Highland Cow with Christmas Lights
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt creates a charming and fuzzy Christmas illustration of a Scottish Highland cow with Christmas lights tangled in its hair and horns. Ideal for rustic and heartwarming holiday designs.
+
+#### 📝 Prompt
+
+```
+A charming and fuzzy Christmas illustration, aspect ratio 1:1.4. A close-up portrait of a super fluffy ginger Scottish Highland cow. Its shaggy hair completely covers its eyes, but colorful tangled Christmas lights that are glowing, and small shiny red baubles, are caught in its bangs and long horns. Light snowflakes dust its fur. The background is a soft, blurred snowy pasture. Painterly, textured style.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780111966_dn1z7i_1765692971551-1i3kzo-B7M7DtPmAsUhAAAAAElFTkSuQmCC" width="600" alt="Fluffy Highland Cow with Christmas Lights - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20charming%20and%20fuzzy%20Christmas%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20close-up%20portrait%20of%20a%20super%20fluffy%20ginger%20Scottish%20Highland%20cow.%20Its%20shaggy%20hair%20completely%20covers%20its%20eyes%2C%20but%20colorful%20tangled%20Christmas%20lights%20that%20are%20glowing%2C%20and%20small%20shiny%20red%20baubles%2C%20are%20caught%20in%20its%20bangs%20and%20long%20horns.%20Light%20snowflakes%20dust%20its%20fur.%20The%20background%20is%20a%20soft%2C%20blurred%20snowy%20pasture.%20Painterly%2C%20textured%20style.)**
+
+---
+
+### No. 23: Long Dachshund Christmas Card
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt creates a funny flat vector illustration for a Christmas card, depicting a very long dachshund dog wearing an absurdly long, festive sweater. Ideal for humorous holiday messages and pet-themed cards.
+
+#### 📝 Prompt
+
+```
+A funny flat vector illustration for a Christmas card, aspect ratio 1:1.4. A very long brown dachshund dog stretches horizontally across the entire card against a solid pale blue background. It is wearing an absurdly long, red knitted turtleneck sweater with a repeating pattern of white reindeer and snowflakes. The sweater is so long it sags in the middle, touching the ground. The dog looks content. Text below reads: "Longing for Christmas."
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780099382_hsgl3l_1765692967267-gejgq8-Bek23XMoiWkxAAAAAElFTkSuQmCC" width="600" alt="Long Dachshund Christmas Card - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20funny%20flat%20vector%20illustration%20for%20a%20Christmas%20card%2C%20aspect%20ratio%201%3A1.4.%20A%20very%20long%20brown%20dachshund%20dog%20stretches%20horizontally%20across%20the%20entire%20card%20against%20a%20solid%20pale%20blue%20background.%20It%20is%20wearing%20an%20absurdly%20long%2C%20red%20knitted%20turtleneck%20sweater%20with%20a%20repeating%20pattern%20of%20white%20reindeer%20and%20snowflakes.%20The%20sweater%20is%20so%20long%20it%20sags%20in%20the%20middle%2C%20touching%20the%20ground.%20The%20dog%20looks%20content.%20Text%20below%20reads%3A%20%22Longing%20for%20Christmas.%22)**
+
+---
+
+### No. 24: Whimsical Hedgehog Christmas Card
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates a whimsical printable Christmas card illustration featuring a small, round hedgehog whose spines are comically adorned with tiny Christmas decorations. It's perfect for creating unique and humorous holiday greetings.
+
+#### 📝 Prompt
+
+```
+A whimsical printable Christmas card illustration, aspect ratio 1:1.4. A small, round hedgehog is curled up into a ball on a clean cream background. Its spines are hilariously covered with tiny, colorful Christmas baubles, miniature candy canes, and bits of shiny tinsel that have gotten stuck to them. The hedgehog has a slightly confused but happy expression, with one eye peeking out. The style is a gentle watercolor painting with soft textures.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780101179_ywdvzk_1765693039459-1wv8ex-htP1HdLVAAAAAElFTkSuQmCC" width="600" alt="Whimsical Hedgehog Christmas Card - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=A%20whimsical%20printable%20Christmas%20card%20illustration%2C%20aspect%20ratio%201%3A1.4.%20A%20small%2C%20round%20hedgehog%20is%20curled%20up%20into%20a%20ball%20on%20a%20clean%20cream%20background.%20Its%20spines%20are%20hilariously%20covered%20with%20tiny%2C%20colorful%20Christmas%20baubles%2C%20miniature%20candy%20canes%2C%20and%20bits%20of%20shiny%20tinsel%20that%20have%20gotten%20stuck%20to%20them.%20The%20hedgehog%20has%20a%20slightly%20confused%20but%20happy%20expression%2C%20with%20one%20eye%20peeking%20out.%20The%20style%20is%20a%20gentle%20watercolor%20painting%20with%20soft%20textures.)**
+
+---
+
+### No. 25: Kawaii Otters with Candy Cane
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrizione
+
+This prompt generates an adorable printable Christmas card design featuring two cute furry sea otters floating in icy water and holding a large peppermint candy cane. It's perfect for creating sweet, kawaii-style holiday cards.
+
+#### 📝 Prompt
+
+```
+An adorable printable Christmas card design, aspect ratio 1:1.4. Two cute furry sea otters are floating on their backs in icy blue water, holding paws. Instead of their usual rock, they are jointly holding a large red and white striped peppermint candy cane across their chests. Both wear tiny Santa hats titled on their heads. Soft white ripples surround them. The style is a kawaii cartoon with soft shading.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1765780100132_xzm77l_1765692974848-ens980-h85hatWrURrnAAAAABJRU5ErkJggg__" width="600" alt="Kawaii Otters with Candy Cane - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
+- **Fonte:** [Twitter Post](null)
+- **Pubblicato:** 15 dicembre 2025
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=An%20adorable%20printable%20Christmas%20card%20design%2C%20aspect%20ratio%201%3A1.4.%20Two%20cute%20furry%20sea%20otters%20are%20floating%20on%20their%20backs%20in%20icy%20blue%20water%2C%20holding%20paws.%20Instead%20of%20their%20usual%20rock%2C%20they%20are%20jointly%20holding%20a%20large%20red%20and%20white%20striped%20peppermint%20candy%20cane%20across%20their%20chests.%20Both%20wear%20tiny%20Santa%20hats%20titled%20on%20their%20heads.%20Soft%20white%20ripples%20surround%20them.%20The%20style%20is%20a%20kawaii%20cartoon%20with%20soft%20shading.)**
+
+---
+
+### No. 26: Biglietto di Natale "Stendibiancheria di Babbo Natale"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -131,7 +996,7 @@ Una scena natalizia stravagante e domestica, proporzioni 1:1.4. Un filo per sten
 
 ---
 
-### No. 2: Biglietto di auguri natalizio con bradipo appeso a un bastoncino di zucchero
+### No. 27: Biglietto di auguri natalizio con bradipo appeso a un bastoncino di zucchero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -165,7 +1030,7 @@ Un adorabile design stampabile per biglietti di Natale, proporzioni 1:1,4. Un br
 
 ---
 
-### No. 3: Biglietto di Natale con carlino travestito da elfo
+### No. 28: Biglietto di Natale con carlino travestito da elfo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -199,7 +1064,7 @@ Un'illustrazione vettoriale divertente e piatta per un biglietto di Natale, prop
 
 ---
 
-### No. 4: Biglietto di Natale della Scuola di Volo delle Renne
+### No. 29: Biglietto di Natale della Scuola di Volo delle Renne
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -232,7 +1097,7 @@ Un design per biglietti di Natale affascinante e divertente, con proporzioni 1:1
 
 ---
 
-### No. 5: Biglietto di Natale con vasca idromassaggio di marshmallow
+### No. 30: Biglietto di Natale con vasca idromassaggio di marshmallow
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -265,7 +1130,7 @@ Un'illustrazione di un biglietto di Natale stampabile in stile kawaii, proporzio
 
 ---
 
-### No. 6: Biglietto di auguri natalizio con criceto e mirtillo rosso
+### No. 31: Biglietto di auguri natalizio con criceto e mirtillo rosso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -298,7 +1163,7 @@ Un'illustrazione squisita e stampabile per un biglietto d'auguri natalizio, in u
 
 ---
 
-### No. 7: Biglietto di auguri natalizio con gatto tra le luci di Natale
+### No. 32: Biglietto di auguri natalizio con gatto tra le luci di Natale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -332,7 +1197,7 @@ Un design di biglietto stampabile divertente e carino, con proporzioni 1:1,4. L'
 
 ---
 
-### No. 8: Biglietto di Natale per la lezione di Yoga con l'Omino di Pan di Zenzero
+### No. 33: Biglietto di Natale per la lezione di Yoga con l'Omino di Pan di Zenzero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -366,7 +1231,7 @@ Un design divertente e adorabile per un biglietto di Natale stampabile, con prop
 
 ---
 
-### No. 9: Biglietto di Natale con sciarpa orso polare e pinguino
+### No. 34: Biglietto di Natale con sciarpa orso polare e pinguino
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -399,7 +1264,7 @@ Una copertina di biglietto di Natale commovente e stravagante, con proporzioni 1
 
 ---
 
-### No. 10: Paesaggio Invernale con Casetta ad Acquerello
+### No. 35: Paesaggio Invernale con Casetta ad Acquerello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -433,7 +1298,7 @@ Un sereno paesaggio ad acquerello, --ar 10:14. Una baita solitaria in un vasto c
 
 ---
 
-### No. 11: Biglietto di lusso blu navy con mandala a fiocco di neve
+### No. 36: Biglietto di lusso blu navy con mandala a fiocco di neve
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -467,7 +1332,7 @@ Un raffinato design di carta di lusso, --ar 10:14. Uno sfondo con texture in vel
 
 ---
 
-### No. 12: Poster di viaggio vintage: scena invernale
+### No. 37: Poster di viaggio vintage: scena invernale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -501,7 +1366,7 @@ Un biglietto di Natale in stile poster di viaggio vintage. Una vista stilizzata 
 
 ---
 
-### No. 13: Scena nostalgica della vetrina di un negozio di giocattoli
+### No. 38: Scena nostalgica della vetrina di un negozio di giocattoli
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -534,7 +1399,7 @@ Un'illustrazione nostalgica della vetrina di un negozio di giocattoli di notte. 
 
 ---
 
-### No. 14: Biglietto di Natale Moderno di Metà Secolo
+### No. 39: Biglietto di Natale Moderno di Metà Secolo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -568,7 +1433,7 @@ Un design geometrico retrò, --ar 10:14. Esplosioni stellari atomiche e forme a 
 
 ---
 
-### No. 15: Cartolina vittoriana di Babbo Natale
+### No. 40: Cartolina vittoriana di Babbo Natale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -602,7 +1467,7 @@ Un'illustrazione in stile cartolina di Natale vittoriana vintage, --ar 10:14. Un
 
 ---
 
-### No. 16: Biglietto di Natale con Pila di Animali Assonnati
+### No. 41: Biglietto di Natale con Pila di Animali Assonnati
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -636,7 +1501,7 @@ Un'illustrazione a cartone animato di tre animali assonnati impilati: un {argume
 
 ---
 
-### No. 17: Biglietto "Pinguino in difficoltà con le luci di Natale"
+### No. 42: Biglietto "Pinguino in difficoltà con le luci di Natale"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -670,7 +1535,7 @@ Un simpatico e divertente biglietto di Natale stampabile, --ar 10:14. Un pinguin
 
 ---
 
-### No. 18: Biglietto d'auguri con albero di Natale in tipografia moderna
+### No. 43: Biglietto d'auguri con albero di Natale in tipografia moderna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -704,7 +1569,7 @@ Un moderno biglietto di auguri natalizio con grafica piatta, --ar 10:14. Su uno 
 
 ---
 
-### No. 19: Biglietto di Natale Kawaii con Cioccolata Calda
+### No. 44: Biglietto di Natale Kawaii con Cioccolata Calda
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -738,7 +1603,7 @@ Un biglietto di Natale in stile kawaii. Una tazza di cioccolata calda felice e s
 
 ---
 
-### No. 20: Pupazzo di neve e uccelli su una panchina del parco
+### No. 45: Pupazzo di neve e uccelli su una panchina del parco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -777,7 +1642,7 @@ Alto dettaglio, intricato, bella illustrazione, qualità di stampa. --ar 1:1.4
 
 ---
 
-### No. 21: Biglietto in filigrana argento blu navy
+### No. 46: Biglietto in filigrana argento blu navy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -817,7 +1682,7 @@ Il design complessivo è pulito, minimalista e sofisticato, con una palette di c
 
 ---
 
-### No. 22: Biglietto Botanico in Stile Folk Art al Carbone
+### No. 47: Biglietto Botanico in Stile Folk Art al Carbone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -861,7 +1726,7 @@ Rapporto d'aspetto 1:1.4.
 
 ---
 
-### No. 23: Ritratto di famiglia di pupazzi di neve ad acquerello
+### No. 48: Ritratto di famiglia di pupazzi di neve ad acquerello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -907,7 +1772,7 @@ Il design complessivo è commovente, pulito e festoso. Illustrazione piatta 2D, 
 
 ---
 
-### No. 24: Famiglia di pupazzi di neve personalizzata di quattro persone
+### No. 49: Famiglia di pupazzi di neve personalizzata di quattro persone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -953,7 +1818,7 @@ L'immagine è un design per biglietto d'auguri stampabile, squisito e ad alta ri
 
 ---
 
-### No. 25: Alberi a spazzola per bottiglie Rainbow
+### No. 50: Alberi a spazzola per bottiglie Rainbow
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -994,7 +1859,7 @@ Gli alberi variano leggermente in altezza, creando una linea delicata e irregola
 
 ---
 
-### No. 26: Elegante albero in filigrana dorata su sfondo verde
+### No. 51: Elegante albero in filigrana dorata su sfondo verde
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1036,7 +1901,7 @@ Lo stile generale è moderno, minimalista e molto elegante. Illustrazione grafic
 
 ---
 
-### No. 27: Calze Natalizie Personalizzate ad Acquerello per la Famiglia
+### No. 52: Calze Natalizie Personalizzate ad Acquerello per la Famiglia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1078,7 +1943,7 @@ Il design complessivo è un'illustrazione piatta 2D, con una composizione equili
 
 ---
 
-### No. 28: Personaggi Disney vintage a Natale
+### No. 53: Personaggi Disney vintage a Natale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1120,7 +1985,7 @@ Nella parte inferiore del biglietto, c'è un testo festivo in un carattere sans-
 
 ---
 
-### No. 29: Bouquet floreale vittoriano fustellato
+### No. 54: Bouquet floreale vittoriano fustellato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1162,7 +2027,7 @@ L'intera immagine è una vista frontale e piatta, squisitamente dettagliata e pe
 
 ---
 
-### No. 30: Accogliente soggiorno natalizio ad acquerello
+### No. 55: Accogliente soggiorno natalizio ad acquerello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1199,7 +2064,7 @@ Lo stile generale è leggero e arioso, con una morbida palette di colori gialli,
 
 ---
 
-### No. 31: Albero di Natale con Note Musicali
+### No. 56: Albero di Natale con Note Musicali
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1241,7 +2106,7 @@ Lo stile generale è un'illustrazione grafica 2D pulita, monocromatica e piatta,
 
 ---
 
-### No. 32: Ghirlanda vintage di agrifoglio anni '50
+### No. 57: Ghirlanda vintage di agrifoglio anni '50
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1283,7 +2148,7 @@ Design grafico 2D piatto, alta risoluzione. --ar 1:1.4
 
 ---
 
-### No. 33: Albero floccato di metà secolo su sfondo blu
+### No. 58: Albero floccato di metà secolo su sfondo blu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1323,7 +2188,7 @@ Design squisito e stampabile, illustrazione grafica piatta, vista frontale. Prop
 
 ---
 
-### No. 34: Calze d'arte popolare per un parente speciale
+### No. 59: Calze d'arte popolare per un parente speciale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1365,7 +2230,7 @@ Nella parte inferiore del biglietto, è visualizzato il testo. La frase "{argume
 
 ---
 
-### No. 35: Albero Minimalista con Pennellate Arcobaleno
+### No. 60: Albero Minimalista con Pennellate Arcobaleno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1401,7 +2266,7 @@ Sotto l'albero, il testo '{argument name="text" default="Merry Christmas"}' è s
 
 ---
 
-### No. 36: Notte Stellata di Van Gogh a Natale
+### No. 61: Notte Stellata di Van Gogh a Natale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1441,7 +2306,7 @@ Colori vibranti, altamente dettagliato, squisito, qualità stampabile. --ar 5:7
 
 ---
 
-### No. 37: Snoopy e calze in stile Peanuts
+### No. 62: Snoopy e calze in stile Peanuts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1481,7 +2346,7 @@ La parte inferiore del biglietto presenta un grande albero di Natale stilizzato 
 
 ---
 
-### No. 38: Ghirlanda di Calze ad Acquerello Fantasiose
+### No. 63: Ghirlanda di Calze ad Acquerello Fantasiose
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1521,7 +2386,7 @@ L'intera composizione è piatta, 2D, centrata e vista frontalmente, creando un b
 
 ---
 
-### No. 39: Foresta Invernale di Metà Secolo con Testi
+### No. 64: Foresta Invernale di Metà Secolo con Testi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1567,7 +2432,7 @@ Alta risoluzione, grafica vettoriale, rapporto d'aspetto 1:1.4.
 
 ---
 
-### No. 40: Albero di Natale Moderno Rainbow Pride
+### No. 65: Albero di Natale Moderno Rainbow Pride
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1607,7 +2472,7 @@ L'estetica generale è minimalista, inclusiva e festosa. Vista frontale della co
 
 ---
 
-### No. 41: Albero floccato con ornamenti rossi e bokeh
+### No. 66: Albero floccato con ornamenti rossi e bokeh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1647,7 +2512,7 @@ Sullo sfondo bokeh a destra, il saluto {argument name="greeting" default="Merry 
 
 ---
 
-### No. 42: Lussuoso albero botanico bordeaux e oro
+### No. 67: Lussuoso albero botanico bordeaux e oro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1687,7 +2552,7 @@ Lo stile generale è classico, lussuoso e altamente dettagliato. Illustrazione g
 
 ---
 
-### No. 43: Albero Astratto Lussuoso Nero e Oro
+### No. 68: Albero Astratto Lussuoso Nero e Oro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1727,7 +2592,7 @@ Il design complessivo è ad alto contrasto, lussuoso e pulito. Grafica piatta ad
 
 ---
 
-### No. 44: Albero della tipografia aziendale
+### No. 69: Albero della tipografia aziendale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1769,7 +2634,7 @@ Sotto l'albero, centrato in basso, c'è un testo personalizzato in un carattere 
 
 ---
 
-### No. 45: Ghirlanda rustica di pino disegnata a mano
+### No. 70: Ghirlanda rustica di pino disegnata a mano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1809,7 +2674,7 @@ L'estetica generale è pulita, festosa e commovente, con una qualità illustrati
 
 ---
 
-### No. 46: Via della città natalizia in stile retrò anni '50
+### No. 71: Via della città natalizia in stile retrò anni '50
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1846,7 +2711,7 @@ In primo piano, una classica station wagon rossa e crema degli anni '50 è parch
 
 ---
 
-### No. 47: Babbo Natale vittoriano su un balcone sul tetto
+### No. 72: Babbo Natale vittoriano su un balcone sul tetto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1890,7 +2755,7 @@ Squisito e altamente dettagliato, qualità stampabile, rapporto d'aspetto 1:1.4.
 
 ---
 
-### No. 48: Albero Ritagliato in Carta Stratificata
+### No. 73: Albero Ritagliato in Carta Stratificata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1930,7 +2795,7 @@ In basso, il testo {argument name="text" default="Merry Christmas"} è scritto c
 
 ---
 
-### No. 49: Faccia di renna carina disegnata a mano
+### No. 74: Faccia di renna carina disegnata a mano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1970,7 +2835,7 @@ L'estetica generale è pulita, stravagante e perfetta per un biglietto di auguri
 
 ---
 
-### No. 50: Bambini che vanno in slitta d'epoca
+### No. 75: Bambini che vanno in slitta d'epoca
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2010,7 +2875,7 @@ In basso, un'elegante scritta corsiva dorata recita {argument name='text' defaul
 
 ---
 
-### No. 51: Babbo Natale umoristico su un cartello del Polo Nord
+### No. 76: Babbo Natale umoristico su un cartello del Polo Nord
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2050,7 +2915,7 @@ Sul lato sinistro del biglietto, il testo è disposto verticalmente. In alto, in
 
 ---
 
-### No. 52: Luci e ghirlande retrò di metà secolo
+### No. 77: Luci e ghirlande retrò di metà secolo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2092,7 +2957,7 @@ L'estetica generale è pulita, grafica e deliziosamente nostalgica, in uno stile
 
 ---
 
-### No. 53: Babbo Natale Vintage che fa "Shhh" di Notte
+### No. 78: Babbo Natale Vintage che fa "Shhh" di Notte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2134,7 +2999,7 @@ Nell'angolo in alto a destra, il testo è scritto in un'elegante calligrafia cor
 
 ---
 
-### No. 54: Ritrovo Stravagante di Animali del Bosco
+### No. 79: Ritrovo Stravagante di Animali del Bosco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2178,7 +3043,7 @@ Nell'angolo in alto a sinistra, il testo '{argument name="text" default="Happy H
 
 ---
 
-### No. 55: Foresta Incantata Luminosa e Pupazzo di Neve
+### No. 80: Foresta Incantata Luminosa e Pupazzo di Neve
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2218,7 +3083,7 @@ Fotorealistico con un tocco stravagante, ricchezza di dettagli, bagliore magico.
 
 ---
 
-### No. 56: Ritorno a casa in stile Mid-Century Modern
+### No. 81: Ritorno a casa in stile Mid-Century Modern
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2262,7 +3127,7 @@ Lo stile è stilizzato e nostalgico, con l'aspetto pulito e grafico di un'antica
 
 ---
 
-### No. 57: Renna moderna in stile folk scandinavo
+### No. 82: Renna moderna in stile folk scandinavo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2306,7 +3171,7 @@ Squisito, stampabile, rapporto d'aspetto 1:1.4.
 
 ---
 
-### No. 58: Biglietto Art Déco bordeaux e oro
+### No. 83: Biglietto Art Déco bordeaux e oro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2348,7 +3213,7 @@ L'intero design è racchiuso da un sofisticato bordo a doppia linea dorata. Il b
 
 ---
 
-### No. 59: Scena Invernale Vintage con Pupazzo di Neve
+### No. 84: Scena Invernale Vintage con Pupazzo di Neve
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2394,7 +3259,7 @@ L'estetica generale è piatta, 2D, affascinante e nostalgica, con la texture pun
 
 ---
 
-### No. 60: Bambini vittoriani e pupazzo di neve
+### No. 85: Bambini vittoriani e pupazzo di neve
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2434,7 +3299,7 @@ L'intera illustrazione ha una texture morbida e puntinata e una sensazione nosta
 
 ---
 
-### No. 61: Inchiostro e acquerello botanico minimalista
+### No. 86: Inchiostro e acquerello botanico minimalista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2474,7 +3339,7 @@ Illustrazione piatta 2D, alta risoluzione, perfetta per la stampa.
 
 ---
 
-### No. 62: Gattini cromolitografici vintage
+### No. 87: Gattini cromolitografici vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2512,7 +3377,7 @@ L'atmosfera generale è affascinante e nostalgica, con pelliccia dettagliata e p
 
 ---
 
-### No. 63: Albero di Natale puntinista moderno
+### No. 88: Albero di Natale puntinista moderno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2551,7 +3416,7 @@ Il design dovrebbe riempire l'inquadratura, creata con un rapporto di aspetto di
 
 ---
 
-### No. 64: Orso polare madre e cucciolo ad acquerello
+### No. 89: Orso polare madre e cucciolo ad acquerello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2591,7 +3456,7 @@ Illustrazione piatta 2D, affascinante e artistica, ricca di dettagli.
 
 ---
 
-### No. 65: Doodle di maialino rosa Kawaii e omino di pan di zenzero
+### No. 90: Doodle di maialino rosa Kawaii e omino di pan di zenzero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2630,7 +3495,7 @@ Il cielo azzurro è pieno di neve che cade, e un Babbo Natale di pan di zenzero 
 
 ---
 
-### No. 66: Orsi polari sotto l'Aurora Boreale
+### No. 91: Orsi polari sotto l'Aurora Boreale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2672,7 +3537,7 @@ L'opera d'arte è in un affascinante stile acquerello e gouache, con texture vis
 
 ---
 
-### No. 67: Trio di biscotti pan di zenzero
+### No. 92: Trio di biscotti pan di zenzero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2712,7 +3577,7 @@ Il design è pulito, con contorni audaci e una palette di colori festivi: marron
 
 ---
 
-### No. 68: Carta aziendale di lusso nera e oro
+### No. 93: Carta aziendale di lusso nera e oro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2752,7 +3617,7 @@ L'estetica generale è sofisticata e celebrativa, con un forte contrasto tra il 
 
 ---
 
-### No. 69: Acquerello di Babbo Natale con Spazio per il Testo
+### No. 94: Acquerello di Babbo Natale con Spazio per il Testo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2792,7 +3657,7 @@ Alta risoluzione, dettagli intricati, arte festiva stampabile. --ar 10:14
 
 ---
 
-### No. 70: Volpe Festiva Minimalista ad Acquerello
+### No. 95: Volpe Festiva Minimalista ad Acquerello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2829,7 +3694,7 @@ L'opera d'arte è realizzata in uno stile acquerello dettagliato ma delicato, ch
 
 ---
 
-### No. 71: Omino di pan di zenzero umoristico "Oh Snap"
+### No. 96: Omino di pan di zenzero umoristico "Oh Snap"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2870,7 +3735,7 @@ Lo stile generale è un'illustrazione vettoriale pulita e piatta con un tocco gi
 
 ---
 
-### No. 72: Simpatici pinguini ad acquerello nella neve
+### No. 97: Simpatici pinguini ad acquerello nella neve
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2909,7 +3774,7 @@ Nella zona superiore centrale del biglietto, centrato, si trova il testo {argume
 
 ---
 
-### No. 73: Arte popolare scandinava blu navy e crema
+### No. 98: Arte popolare scandinava blu navy e crema
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2946,7 +3811,7 @@ L'opera d'arte è un'illustrazione vettoriale 2D piatta, con linee pulite e niti
 
 ---
 
-### No. 74: Biglietto minimalista con lucine blu navy
+### No. 99: Biglietto minimalista con lucine blu navy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2987,7 +3852,7 @@ Lo stile generale è piatto, grafico, minimalista e commovente.
 
 ---
 
-### No. 75: Omino di pan di zenzero ferito e divertente
+### No. 100: Omino di pan di zenzero ferito e divertente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3029,7 +3894,7 @@ Sotto l'illustrazione, la frase {argument name="text" default="CHEERS TO SURVIVI
 
 ---
 
-### No. 76: Luci a stringa acquerello blu navy
+### No. 101: Luci a stringa acquerello blu navy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3071,7 +3936,7 @@ L'estetica generale è piatta, grafica e moderna, con un tocco accogliente e dip
 
 ---
 
-### No. 77: Renna simmetrica in stile folk art
+### No. 102: Renna simmetrica in stile folk art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3112,7 +3977,7 @@ Ricco di dettagli, affascinante e commovente, rapporto d'aspetto 1:1.4.
 
 ---
 
-### No. 78: Fiocchi di neve glitterati blu navy e argento
+### No. 103: Fiocchi di neve glitterati blu navy e argento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3152,7 +4017,7 @@ Questa è un'illustrazione grafica stampabile ad alta risoluzione con dettagli n
 
 ---
 
-### No. 79: Babbo Natale pittorico classico e animali del bosco
+### No. 104: Babbo Natale pittorico classico e animali del bosco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3193,7 +4058,7 @@ Fiocchi di neve delicati cadono nell'aria, coprendo l'intera scena. Nello sfondo
 
 ---
 
-### No. 80: Corona moderna con cerchio dorato e testo in lamina
+### No. 105: Corona moderna con cerchio dorato e testo in lamina
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3233,7 +4098,7 @@ Lo stile generale è sofisticato, di alta gamma e celebra la texture con glitter
 
 ---
 
-### No. 81: Campanelle di Natale in Paper Quilling
+### No. 106: Campanelle di Natale in Paper Quilling
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3273,7 +4138,7 @@ L'estetica generale è artigianale, festosa ed eccezionalmente dettagliata. Prop
 
 ---
 
-### No. 82: Chiesa Invernale in Acquerello Vintage
+### No. 107: Chiesa Invernale in Acquerello Vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3315,7 +4180,7 @@ Illustrazione artistica, dettagliata, alta risoluzione, texture morbide. --ar 1:
 
 ---
 
-### No. 83: Animali pacifici del bosco di notte
+### No. 108: Animali pacifici del bosco di notte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3356,7 +4221,7 @@ Lo sfondo mostra una foresta lontana di pini spolverati di neve. L'illuminazione
 
 ---
 
-### No. 84: Elegante Albero di Natale in Vaso ad Acquerello
+### No. 109: Elegante Albero di Natale in Vaso ad Acquerello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3395,7 +4260,7 @@ Lo stile generale è morbido e dipinto a mano, con delicate pennellate e una pal
 
 ---
 
-### No. 85: Biglietto minimalista con fiocco di neve ad acquerello
+### No. 110: Biglietto minimalista con fiocco di neve ad acquerello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3437,7 +4302,7 @@ Lo stile generale è minimalista, artistico e sereno, con un tocco artigianale, 
 
 ---
 
-### No. 86: Grafica di ornamenti pendenti minimalisti
+### No. 111: Grafica di ornamenti pendenti minimalisti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3477,7 +4342,7 @@ Centrato sotto gli ornamenti, il testo {argument name="Greeting" default="Merry 
 
 ---
 
-### No. 87: Paesaggio invernale in rilievo con nastro rosso
+### No. 112: Paesaggio invernale in rilievo con nastro rosso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3517,7 +4382,7 @@ L'intera composizione è presentata come un dipinto su cartoncino di alta qualit
 
 ---
 
-### No. 88: Casetta invernale ingenua disegnata a mano
+### No. 113: Casetta invernale ingenua disegnata a mano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3559,7 +4424,7 @@ L'intera immagine è un'illustrazione piatta 2D con contorni neri audaci, che ri
 
 ---
 
-### No. 89: Albero di Natale moderno color verde acqua e lamina d'oro
+### No. 114: Albero di Natale moderno color verde acqua e lamina d'oro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3599,7 +4464,7 @@ L'opera d'arte presenta un design piatto moderno con una sottile texture di cart
 
 ---
 
-### No. 90: Albero di Natale con Schizzi di Pittura Astratta
+### No. 115: Albero di Natale con Schizzi di Pittura Astratta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3638,7 +4503,7 @@ Lo stile è pulito, festoso e artistico. Un'illustrazione grafica piatta, ad alt
 
 ---
 
-### No. 91: Renna e Pettirosso Minimalisti ad Acquerello
+### No. 116: Renna e Pettirosso Minimalisti ad Acquerello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3671,7 +4536,7 @@ Un design di biglietto di Natale stravagante e commovente, caratterizzato da un'
 
 ---
 
-### No. 92: Renna Carina con Nome Personalizzato
+### No. 117: Renna Carina con Nome Personalizzato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3711,7 +4576,7 @@ Sul lato destro del biglietto, la scritta "Merry Christmas" è elegantemente scr
 
 ---
 
-### No. 93: Pittura di pupazzi di neve in stile folk art primitiva
+### No. 118: Pittura di pupazzi di neve in stile folk art primitiva
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3750,7 +4615,7 @@ Lo stile è primitivo, piatto e dipinto a mano, con un'atmosfera commovente e pa
 
 ---
 
-### No. 94: Biglietto "Serene Watercolor Barn and Deer"
+### No. 119: Biglietto "Serene Watercolor Barn and Deer"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3790,7 +4655,7 @@ L'atmosfera generale è pacifica e sacra. La palette di colori è composta da un
 
 ---
 
-### No. 95: Babbo Natale in carta ritagliata e feltro applicato
+### No. 120: Babbo Natale in carta ritagliata e feltro applicato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3831,202 +4696,29 @@ L'intera scena è incorniciata da un sottile ed elegante bordo a doppia linea in
 
 ---
 
-### No. 96: Divertente biglietto con omino di pan di zenzero goloso
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-Un fumetto umoristico in stile kawaii di un gigantesco omino di pan di zenzero che si abbuffa di budini di Natale. Include un campo di testo personalizzabile e giocoso per un divertente augurio di festa.
-
-#### 📝 Prompt
-
-```
-Un'illustrazione di alta qualità per un biglietto d'auguri stampabile, proporzioni 1:1.4, in uno stile cartone animato kawaii carino e divertente con contorni neri puliti.
-
-La scena è ambientata su uno sfondo a tinta unita, azzurro tenue, con minuscoli puntini bianchi che rappresentano una leggera nevicata.
-
-Nella parte inferiore centrale dell'inquadratura siede un gigantesco, comicamente obeso omino di pan di zenzero che indossa un piccolo cappello di Babbo Natale rosso e bianco. La sua bocca è spalancata in un urlo di golosità mentre vi introduce un Christmas pudding. Ha due bottoni di caramella rossi sulla sua enorme pancia.
-
-È circondato da un'enorme pila di Christmas pudding, con altri pudding comicamente attaccati al suo corpo. Un minuscolo omino di pan di zenzera in stile classico sta alla sua base, guardando in alto scioccato con le braccia alzate. Sulla spalla del gigante, un minuscolo personaggio di maialino rosa con una foglia di agrifoglio sulla testa osserva con un'espressione preoccupata.
-
-Ogni Christmas pudding è dettagliato con glassa bianca che cola e un piccolo rametto di agrifoglio in cima. Lo stile generale è piatto con ombreggiature minime, enfatizzando la natura carina e umoristica della scena.
-
-Nella parte inferiore del biglietto, centrato, c'è il testo personalizzato in un carattere giocoso e scritto a mano: {argument name="text" default="Seasons Eatings!"}
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592682065_v38f1e_93648d6abd8060ac793c4f839dfc4b1d0d156ca96c1e045f7ceab59c6426e3c0" width="600" alt="Divertente biglietto con omino di pan di zenzero goloso - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Fonte:** [Twitter Post](null)
-- **Pubblicato:** 13 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20di%20alta%20qualit%C3%A0%20per%20un%20biglietto%20d'auguri%20stampabile%2C%20proporzioni%201%3A1.4%2C%20in%20uno%20stile%20cartone%20animato%20kawaii%20carino%20e%20divertente%20con%20contorni%20neri%20puliti.%0A%0ALa%20scena%20%C3%A8%20ambientata%20su%20uno%20sfondo%20a%20tinta%20unita%2C%20azzurro%20tenue%2C%20con%20minuscoli%20puntini%20bianchi%20che%20rappresentano%20una%20leggera%20nevicata.%0A%0ANella%20parte%20inferiore%20centrale%20dell'inquadratura%20siede%20un%20gigantesco%2C%20comicamente%20obeso%20omino%20di%20pan%20di%20zenzero%20che%20indossa%20un%20piccolo%20cappello%20di%20Babbo%20Natale%20rosso%20e%20bianco.%20La%20sua%20bocca%20%C3%A8%20spalancata%20in%20un%20urlo%20di%20golosit%C3%A0%20mentre%20vi%20introduce%20un%20Christmas%20pudding.%20Ha%20due%20bottoni%20di%20caramella%20rossi%20sulla%20sua%20enorme%20pancia.%0A%0A%C3%88%20circondato%20da%20un'enorme%20pila%20di%20Christmas%20pudding%2C%20con%20altri%20pudding%20comicamente%20attaccati%20al%20suo%20corpo.%20Un%20minuscolo%20omino%20di%20pan%20di%20zenzera%20in%20stile%20classico%20sta%20alla%20sua%20base%2C%20guardando%20in%20alto%20scioccato%20con%20le%20braccia%20alzate.%20Sulla%20spalla%20del%20gigante%2C%20un%20minuscolo%20personaggio%20di%20maialino%20rosa%20con%20una%20foglia%20di%20agrifoglio%20sulla%20testa%20osserva%20con%20un'espressione%20preoccupata.%0A%0AOgni%20Christmas%20pudding%20%C3%A8%20dettagliato%20con%20glassa%20bianca%20che%20cola%20e%20un%20piccolo%20rametto%20di%20agrifoglio%20in%20cima.%20Lo%20stile%20generale%20%C3%A8%20piatto%20con%20ombreggiature%20minime%2C%20enfatizzando%20la%20natura%20carina%20e%20umoristica%20della%20scena.%0A%0ANella%20parte%20inferiore%20del%20biglietto%2C%20centrato%2C%20c'%C3%A8%20il%20testo%20personalizzato%20in%20un%20carattere%20giocoso%20e%20scritto%20a%20mano%3A%20%7Bargument%20name%3D%22text%22%20default%3D%22Seasons%20Eatings!%22%7D)**
-
 ---
 
-### No. 97: Gnomo scandinavo e volpe rossa: arte popolare
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un'illustrazione stravagante in stile arte popolare che mostra uno gnomo scandinavo (Tomte) che cammina con una volpe rossa attraverso una foresta innevata di notte. Questo incantevole stile da libro di fiabe è perfetto per un caloroso biglietto di auguri natalizio.
-
-#### 📝 Prompt
-
-```
-Un'illustrazione natalizia stravagante e incantevole in un bellissimo stile fiabesco e di arte popolare. Un piccolo gnomo Babbo Natale scandinavo (Tomte) cammina attraverso una foresta innevata nel cuore della notte. Indossa un semplice cappotto rosso e un cappello rosso a punta, il viso in gran parte nascosto da una lunga barba bianca fluente. Porta un grande sacco sulla spalla, pieno di regali incartati in modo brillante, e tiene una lanterna luminosa che proietta una luce calda e magica sulla neve sottostante.
-
-Una volpe rossa amichevole ed elegante con una coda folta e il petto bianco cammina con grazia accanto allo gnomo, guardando direttamente lo spettatore. Sono circondati da una fitta foresta di pini stilizzati e innevati in tonalità di blu intenso. Il cielo notturno è di un indaco scuro, con una delicata luna crescente e soffici fiocchi di neve che cadono. La scena è serena, magica e commovente.
-
-Texture pittorica, colori ricchi, dettagli squisiti, perfetta per la stampa. Illustrazione piatta 2D. --ar 1:1.4
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
+## 📚 Altri prompt disponibili
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592680716_zmo7vz_1765541650655-hwc2pb-LEDlE2LavQ0YM6a6mZooIf3x87L3fPzz8B_tFrwRUSmSvAAAAAElFTkSuQmCC" width="600" alt="Gnomo scandinavo e volpe rossa: arte popolare - Image 1">
+
+### 🎯 5 altri prompt non mostrati qui
+
+Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
+
+**[👉 Vedi tutti i prompt nella nostra galleria web](https://youmind.com/tools/christmas-cards-maker)**
+
+The gallery features:
+
+✨ Layout a griglia Masonry bellissimo
+
+🔍 Ricerca full-text e filtri
+
+🌍 Supporto per 17 lingue
+
+📱 Esperienza ottimizzata per mobile
+
 </div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Fonte:** [Twitter Post](null)
-- **Pubblicato:** 13 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20natalizia%20stravagante%20e%20incantevole%20in%20un%20bellissimo%20stile%20fiabesco%20e%20di%20arte%20popolare.%20Un%20piccolo%20gnomo%20Babbo%20Natale%20scandinavo%20(Tomte)%20cammina%20attraverso%20una%20foresta%20innevata%20nel%20cuore%20della%20notte.%20Indossa%20un%20semplice%20cappotto%20rosso%20e%20un%20cappello%20rosso%20a%20punta%2C%20il%20viso%20in%20gran%20parte%20nascosto%20da%20una%20lunga%20barba%20bianca%20fluente.%20Porta%20un%20grande%20sacco%20sulla%20spalla%2C%20pieno%20di%20regali%20incartati%20in%20modo%20brillante%2C%20e%20tiene%20una%20lanterna%20luminosa%20che%20proietta%20una%20luce%20calda%20e%20magica%20sulla%20neve%20sottostante.%0A%0AUna%20volpe%20rossa%20amichevole%20ed%20elegante%20con%20una%20coda%20folta%20e%20il%20petto%20bianco%20cammina%20con%20grazia%20accanto%20allo%20gnomo%2C%20guardando%20direttamente%20lo%20spettatore.%20Sono%20circondati%20da%20una%20fitta%20foresta%20di%20pini%20stilizzati%20e%20innevati%20in%20tonalit%C3%A0%20di%20blu%20intenso.%20Il%20cielo%20notturno%20%C3%A8%20di%20un%20indaco%20scuro%2C%20con%20una%20delicata%20luna%20crescente%20e%20soffici%20fiocchi%20di%20neve%20che%20cadono.%20La%20scena%20%C3%A8%20serena%2C%20magica%20e%20commovente.%0A%0ATexture%20pittorica%2C%20colori%20ricchi%2C%20dettagli%20squisiti%2C%20perfetta%20per%20la%20stampa.%20Illustrazione%20piatta%202D.%20--ar%201%3A1.4)**
-
----
-
-### No. 98: Biglietto con casetta di pan di zenzero ad acquerello stravagante
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un'incantevole illustrazione ad acquerello di una festosa casetta di pan di zenzero decorata con glassa bianca e caramelle, su uno sfondo rosa pastello con neve che cade. Crea un'atmosfera graziosa e artigianale, perfetta per un biglietto stampabile.
-
-#### 📝 Prompt
-
-```
-Una splendida e fantasiosa illustrazione ad acquerello di una festosa casetta di pan di zenzero, pensata per un biglietto d'auguri stampabile. L'incantevole casetta è fatta di caldo pan di zenzero marrone ed è posizionata centralmente. È sontuosamente decorata con una spessa glassa reale bianca che sembra neve che cola dal tetto a capanna e da un piccolo ingresso a timpano.
-
-La casetta presenta intricati arabeschi di glassa bianca e dettagli in filigrana sulle sue pareti. Al piano superiore, c'è una finestra ad arco con vetri rosa e persiane bianche aperte, affiancata da due grandi caramelle a spirale di menta piperita rosse e bianche. Il piano terra ha una porta d'ingresso dettagliata con accenti rosa e due finestre con vetri azzurri, ognuna adornata con un grazioso fiocco rosa.
-
-La scena è ambientata su uno sfondo rosa pastello tenue con una delicata neve bianca che cade. Alla base della casetta, c'è uno strato di neve bianca dove si ergono piccoli alberi di Natale di pan di zenzero con glassa. Caramelle colorate, inclusi lecca-lecca a spirale rossi e verdi, aggiungono un tocco di dolcezza al primo piano.
-
-Lo stile generale è carino, dettagliato e artigianale, con una morbida texture ad acquerello. Alta risoluzione, intricato e perfetto per la stampa. Rapporto d'aspetto 1:1.4.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592658803_8o17k1_1765541654769-yw0o4d-NR6jOasVbB1lpVe614M2XHd9q0tmel55FGtJGo3h4xWXlrkX1m4pH_PSxz90EOTAZTbagy05xVI6qAqZ6DqOnP81FzKookCrkiqnRytsyCWhOePOccg6U2uGH7nP8Hjp5rCMBkiiwAAAAASUVORK5CYII_" width="600" alt="Biglietto con casetta di pan di zenzero ad acquerello stravagante - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Fonte:** [Twitter Post](null)
-- **Pubblicato:** 13 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20splendida%20e%20fantasiosa%20illustrazione%20ad%20acquerello%20di%20una%20festosa%20casetta%20di%20pan%20di%20zenzero%2C%20pensata%20per%20un%20biglietto%20d'auguri%20stampabile.%20L'incantevole%20casetta%20%C3%A8%20fatta%20di%20caldo%20pan%20di%20zenzero%20marrone%20ed%20%C3%A8%20posizionata%20centralmente.%20%C3%88%20sontuosamente%20decorata%20con%20una%20spessa%20glassa%20reale%20bianca%20che%20sembra%20neve%20che%20cola%20dal%20tetto%20a%20capanna%20e%20da%20un%20piccolo%20ingresso%20a%20timpano.%0A%0ALa%20casetta%20presenta%20intricati%20arabeschi%20di%20glassa%20bianca%20e%20dettagli%20in%20filigrana%20sulle%20sue%20pareti.%20Al%20piano%20superiore%2C%20c'%C3%A8%20una%20finestra%20ad%20arco%20con%20vetri%20rosa%20e%20persiane%20bianche%20aperte%2C%20affiancata%20da%20due%20grandi%20caramelle%20a%20spirale%20di%20menta%20piperita%20rosse%20e%20bianche.%20Il%20piano%20terra%20ha%20una%20porta%20d'ingresso%20dettagliata%20con%20accenti%20rosa%20e%20due%20finestre%20con%20vetri%20azzurri%2C%20ognuna%20adornata%20con%20un%20grazioso%20fiocco%20rosa.%0A%0ALa%20scena%20%C3%A8%20ambientata%20su%20uno%20sfondo%20rosa%20pastello%20tenue%20con%20una%20delicata%20neve%20bianca%20che%20cade.%20Alla%20base%20della%20casetta%2C%20c'%C3%A8%20uno%20strato%20di%20neve%20bianca%20dove%20si%20ergono%20piccoli%20alberi%20di%20Natale%20di%20pan%20di%20zenzero%20con%20glassa.%20Caramelle%20colorate%2C%20inclusi%20lecca-lecca%20a%20spirale%20rossi%20e%20verdi%2C%20aggiungono%20un%20tocco%20di%20dolcezza%20al%20primo%20piano.%0A%0ALo%20stile%20generale%20%C3%A8%20carino%2C%20dettagliato%20e%20artigianale%2C%20con%20una%20morbida%20texture%20ad%20acquerello.%20Alta%20risoluzione%2C%20intricato%20e%20perfetto%20per%20la%20stampa.%20Rapporto%20d'aspetto%201%3A1.4.)**
-
----
-
-### No. 99: Cartolina con motivo natalizio vettoriale piatto
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-Un bellissimo design per biglietti d'auguri stampabile, caratterizzato da un motivo stravagante e ripetuto di illustrazioni natalizie piatte e carine come Babbo Natale, renne e bastoncini di zucchero. Include un augurio personalizzabile in corsivo in basso.
-
-#### 📝 Prompt
-
-```
-Un bellissimo design per biglietto d'auguri di Natale stampabile, rapporto d'aspetto 1:1,4, vista frontale.
-
-Il design presenta uno sfondo bianco pulito. I due terzi superiori sono coperti da un motivo ripetuto e stravagante di illustrazioni natalizie piatte e carine. Il motivo include: una testa di Babbo Natale, un omino di pan di zenzero sorridente, un semplice albero di Natale verde, una testa di pupazzo di neve con un cappello a cilindro rosso, una silhouette di renna rossa, un campanello giallo con un fiocco rosso, un bastoncino di zucchero rosso e bianco, un piccolo angelo in un vestito rosso, rametti di agrifoglio con bacche rosse, stelle gialle e fiocchi di neve marrone chiaro.
-
-Il terzo inferiore del biglietto è uno spazio bianco pulito con un testo elegante in corsivo scritto a mano che recita: {argument name="greeting" default="sweet holiday wishes"}. La parola "sweet" è in un corsivo più chiaro e sottile, mentre "holiday wishes" è in un corsivo rosso più audace.
-
-Lo stile generale è un'illustrazione vettoriale piatta, affascinante e festosa, con una palette di colori rosso, verde, giallo e marrone classici. Alta risoluzione, perfetta per la stampa.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592656384_3effm5_1765541651729-no0nj1-B24wzvUu2A8OAAAAAElFTkSuQmCC" width="600" alt="Cartolina con motivo natalizio vettoriale piatto - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Fonte:** [Twitter Post](null)
-- **Pubblicato:** 13 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20bellissimo%20design%20per%20biglietto%20d'auguri%20di%20Natale%20stampabile%2C%20rapporto%20d'aspetto%201%3A1%2C4%2C%20vista%20frontale.%0A%0AIl%20design%20presenta%20uno%20sfondo%20bianco%20pulito.%20I%20due%20terzi%20superiori%20sono%20coperti%20da%20un%20motivo%20ripetuto%20e%20stravagante%20di%20illustrazioni%20natalizie%20piatte%20e%20carine.%20Il%20motivo%20include%3A%20una%20testa%20di%20Babbo%20Natale%2C%20un%20omino%20di%20pan%20di%20zenzero%20sorridente%2C%20un%20semplice%20albero%20di%20Natale%20verde%2C%20una%20testa%20di%20pupazzo%20di%20neve%20con%20un%20cappello%20a%20cilindro%20rosso%2C%20una%20silhouette%20di%20renna%20rossa%2C%20un%20campanello%20giallo%20con%20un%20fiocco%20rosso%2C%20un%20bastoncino%20di%20zucchero%20rosso%20e%20bianco%2C%20un%20piccolo%20angelo%20in%20un%20vestito%20rosso%2C%20rametti%20di%20agrifoglio%20con%20bacche%20rosse%2C%20stelle%20gialle%20e%20fiocchi%20di%20neve%20marrone%20chiaro.%0A%0AIl%20terzo%20inferiore%20del%20biglietto%20%C3%A8%20uno%20spazio%20bianco%20pulito%20con%20un%20testo%20elegante%20in%20corsivo%20scritto%20a%20mano%20che%20recita%3A%20%7Bargument%20name%3D%22greeting%22%20default%3D%22sweet%20holiday%20wishes%22%7D.%20La%20parola%20%22sweet%22%20%C3%A8%20in%20un%20corsivo%20pi%C3%B9%20chiaro%20e%20sottile%2C%20mentre%20%22holiday%20wishes%22%20%C3%A8%20in%20un%20corsivo%20rosso%20pi%C3%B9%20audace.%0A%0ALo%20stile%20generale%20%C3%A8%20un'illustrazione%20vettoriale%20piatta%2C%20affascinante%20e%20festosa%2C%20con%20una%20palette%20di%20colori%20rosso%2C%20verde%2C%20giallo%20e%20marrone%20classici.%20Alta%20risoluzione%2C%20perfetta%20per%20la%20stampa.)**
-
----
-
-### No. 100: Biglietto di Natale geometrico retrò di metà secolo
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-Un biglietto stampabile in stile moderno di metà secolo con una collezione di oggetti natalizi geometrici come un Babbo Natale stilizzato, regali e una tazza in una composizione a blocchi. Include testo personalizzabile in un carattere sans-serif retrò.
-
-#### 📝 Prompt
-
-```
-Un design squisito e stampabile per biglietti di Natale con un rapporto d'aspetto di 1:1,4.
-L'illustrazione presenta uno stile geometrico retrò, moderno di metà secolo, con linee pulite e colori piatti.
-
-Lo sfondo è un bianco sporco solido e pulito. Nella parte inferiore sinistra del biglietto, una collezione di oggetti a tema natalizio è impilata in una composizione a blocchi, simile a una griglia. Questa disposizione include un volto stilizzato e geometrico di Babbo Natale, un uccello cardinale rosso, scatole regalo avvolte con motivi semplici, una grande tazza da caffè rosso-arancio, un piccolo pino e case minimaliste. Le forme sono riempite con una distinta palette di colori retrò: verde acqua intenso, rosso-arancio, rosa tenue, marrone scuro e marrone chiaro.
-
-Nella parte superiore, centrato, si trova il testo {argument name="text" default="MERRY CHRISTMAS"} in un semplice carattere sans-serif maiuscolo marrone scuro. L'estetica generale è minimalista, affascinante e altamente stilizzata.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1765592655055_3vrg3e_1765541649867-cwzgal-6Ts8tpcBM6BAAAAAElFTkSuQmCC" width="600" alt="Biglietto di Natale geometrico retrò di metà secolo - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Jared Liu](https://x.com/jaredliu_bravo)
-- **Fonte:** [Twitter Post](null)
-- **Pubblicato:** 13 dicembre 2025
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20design%20squisito%20e%20stampabile%20per%20biglietti%20di%20Natale%20con%20un%20rapporto%20d'aspetto%20di%201%3A1%2C4.%0AL'illustrazione%20presenta%20uno%20stile%20geometrico%20retr%C3%B2%2C%20moderno%20di%20met%C3%A0%20secolo%2C%20con%20linee%20pulite%20e%20colori%20piatti.%0A%0ALo%20sfondo%20%C3%A8%20un%20bianco%20sporco%20solido%20e%20pulito.%20Nella%20parte%20inferiore%20sinistra%20del%20biglietto%2C%20una%20collezione%20di%20oggetti%20a%20tema%20natalizio%20%C3%A8%20impilata%20in%20una%20composizione%20a%20blocchi%2C%20simile%20a%20una%20griglia.%20Questa%20disposizione%20include%20un%20volto%20stilizzato%20e%20geometrico%20di%20Babbo%20Natale%2C%20un%20uccello%20cardinale%20rosso%2C%20scatole%20regalo%20avvolte%20con%20motivi%20semplici%2C%20una%20grande%20tazza%20da%20caff%C3%A8%20rosso-arancio%2C%20un%20piccolo%20pino%20e%20case%20minimaliste.%20Le%20forme%20sono%20riempite%20con%20una%20distinta%20palette%20di%20colori%20retr%C3%B2%3A%20verde%20acqua%20intenso%2C%20rosso-arancio%2C%20rosa%20tenue%2C%20marrone%20scuro%20e%20marrone%20chiaro.%0A%0ANella%20parte%20superiore%2C%20centrato%2C%20si%20trova%20il%20testo%20%7Bargument%20name%3D%22text%22%20default%3D%22MERRY%20CHRISTMAS%22%7D%20in%20un%20semplice%20carattere%20sans-serif%20maiuscolo%20marrone%20scuro.%20L'estetica%20generale%20%C3%A8%20minimalista%2C%20affascinante%20e%20altamente%20stilizzata.)**
 
 ---
 
@@ -4073,6 +4765,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-15T04:38:35.600Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-15T08:29:38.674Z</sub>
 
 </div>
