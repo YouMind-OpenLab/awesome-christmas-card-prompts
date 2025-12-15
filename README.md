@@ -88,7 +88,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **100** |
 | ⭐ Featured | **0** |
-| 🔄 Last Updated | **Sunday, December 14, 2025 at 8:19:27 PM UTC** |
+| 🔄 Last Updated | **Monday, December 15, 2025 at 1:27:43 AM UTC** |
 
 </div>
 
@@ -4074,6 +4074,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-12-14T20:19:27.866Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-12-15T01:27:43.269Z</sub>
 
 </div>
