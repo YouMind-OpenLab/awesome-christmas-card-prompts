@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **140** |
 | ⭐ 精選 | **6** |
-| 🔄 最後更新 | **2025年12月18日 星期四 凌晨1:22:06 [UTC]** |
+| 🔄 最後更新 | **2025年12月18日 星期四 凌晨4:32:22 [UTC]** |
 
 </div>
 
@@ -313,20 +313,20 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-此提示會生成一個垂直 1:1.4 比例的俏皮動畫風格聖誕相框。邊框顯示卡通海狸們熱情地建造和過度設計節慶裝飾，帶著誇張的嚴肅感，創造出一個幽默且針對印刷優化的設計。
+此提示會產生一個垂直 1:1.4 比例的俏皮動畫風格聖誕相框。邊框顯示卡通海狸熱情地建造並過度設計節慶裝飾，帶著誇張的嚴肅感，創造出幽默且針對印刷優化的設計。
 
 #### 📝 提示詞
 
 ```
 一個垂直的 1:1.4 可列印聖誕相框，以俏皮的動畫風格呈現。
 
-無背景，僅有相框。
+無背景，只有相框。
 
-中央有一個空白的照片佔位符，比例為 1:1.4，寬度為 70%，完全乾淨。
+中央有一個空白相片佔位符，比例為 1:1.4，寬度為 70%，完全乾淨。
 
-邊框顯示卡通海狸熱情地建造、敲打並過度設計節日裝飾，表情誇張而嚴肅。
+邊框顯示卡通海狸熱情地建造、敲打並過度設計節慶裝飾，帶有誇張的嚴肅感。
 
-扁平化、幽默、針對列印優化，無文字。
+扁平化、幽默、針對印刷優化，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -344,17 +344,17 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E4%BF%8F%E7%9A%AE%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E7%84%A1%E8%83%8C%E6%99%AF%EF%BC%8C%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E3%80%82%0A%0A%E4%B8%AD%E5%A4%AE%E6%9C%89%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E4%B9%BE%E6%B7%A8%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A1%AF%E7%A4%BA%E5%8D%A1%E9%80%9A%E6%B5%B7%E7%8B%B8%E7%86%B1%E6%83%85%E5%9C%B0%E5%BB%BA%E9%80%A0%E3%80%81%E6%95%B2%E6%89%93%E4%B8%A6%E9%81%8E%E5%BA%A6%E8%A8%AD%E8%A8%88%E7%AF%80%E6%97%A5%E8%A3%9D%E9%A3%BE%EF%BC%8C%E8%A1%A8%E6%83%85%E8%AA%87%E5%BC%B5%E8%80%8C%E5%9A%B4%E8%82%85%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E5%B9%BD%E9%BB%98%E3%80%81%E9%87%9D%E5%B0%8D%E5%88%97%E5%8D%B0%E5%84%AA%E5%8C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E4%BF%8F%E7%9A%AE%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E7%84%A1%E8%83%8C%E6%99%AF%EF%BC%8C%E5%8F%AA%E6%9C%89%E7%9B%B8%E6%A1%86%E3%80%82%0A%0A%E4%B8%AD%E5%A4%AE%E6%9C%89%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9B%B8%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E4%B9%BE%E6%B7%A8%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A1%AF%E7%A4%BA%E5%8D%A1%E9%80%9A%E6%B5%B7%E7%8B%B8%E7%86%B1%E6%83%85%E5%9C%B0%E5%BB%BA%E9%80%A0%E3%80%81%E6%95%B2%E6%89%93%E4%B8%A6%E9%81%8E%E5%BA%A6%E8%A8%AD%E8%A8%88%E7%AF%80%E6%85%B6%E8%A3%9D%E9%A3%BE%EF%BC%8C%E5%B8%B6%E6%9C%89%E8%AA%87%E5%BC%B5%E7%9A%84%E5%9A%B4%E8%82%85%E6%84%9F%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E5%B9%BD%E9%BB%98%E3%80%81%E9%87%9D%E5%B0%8D%E5%8D%B0%E5%88%B7%E5%84%AA%E5%8C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 2: 聖誕樹熊 · 愛不釋手相框
+### No. 2: 聖誕無尾熊 · 愛不釋手相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-此提示會建立一個垂直 1:1.4 比例的動畫聖誕相框。邊框飾有卡通無尾熊抱著飾品和花環不放，為可供列印的設計增添了溫馨、柔和的幽默感。
+此提示會建立一個垂直 1:1.4 比例的動畫聖誕相框。邊框設計為卡通無尾熊抱著飾品和花環，不肯放手，為可供列印的設計增添了溫和、溫馨的幽默感。
 
 #### 📝 提示詞
 
@@ -363,11 +363,11 @@ by {argument name="author" default="Steve Jobs"}
 
 僅有相框設計。
 
-一個空白的相片預留位置，水平和垂直居中，比例為 1:1.4，寬度為 70%，完全未經處理。
+一個空白的相片預留位置，水平和垂直居中，長寬比為 1:1.4，寬度為 70%，完全未經處理。
 
 邊框飾有卡通無尾熊抱著飾品、花環和拐杖糖，不肯放手，營造出溫馨、舒適的幽默感。
 
-扁平化、溫暖、可供列印，無文字。
+扁平化、溫暖、可供列印、無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -375,7 +375,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788204234_ce1l17_1765784200508-t4uk0f-B9o2xFjunQjTAAAAAElFTkSuQmCC" width="600" alt="聖誕樹熊 · 愛不釋手相框 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788204234_ce1l17_1765784200508-t4uk0f-B9o2xFjunQjTAAAAAElFTkSuQmCC" width="600" alt="聖誕無尾熊 · 愛不釋手相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -385,7 +385,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E5%8B%95%E7%95%AB%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%A0%BC%E5%BC%8F%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%9B%B8%E7%89%87%E9%A0%90%E7%95%99%E4%BD%8D%E7%BD%AE%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E6%9C%AA%E7%B6%93%E8%99%95%E7%90%86%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E5%8D%A1%E9%80%9A%E7%84%A1%E5%B0%BE%E7%86%8A%E6%8A%B1%E8%91%97%E9%A3%BE%E5%93%81%E3%80%81%E8%8A%B1%E7%92%B0%E5%92%8C%E6%8B%90%E6%9D%96%E7%B3%96%EF%BC%8C%E4%B8%8D%E8%82%AF%E6%94%BE%E6%89%8B%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E6%BA%AB%E9%A6%A8%E3%80%81%E8%88%92%E9%81%A9%E7%9A%84%E5%B9%BD%E9%BB%98%E6%84%9F%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E6%BA%AB%E6%9A%96%E3%80%81%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E5%8B%95%E7%95%AB%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%A0%BC%E5%BC%8F%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%9B%B8%E7%89%87%E9%A0%90%E7%95%99%E4%BD%8D%E7%BD%AE%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E6%9C%AA%E7%B6%93%E8%99%95%E7%90%86%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E5%8D%A1%E9%80%9A%E7%84%A1%E5%B0%BE%E7%86%8A%E6%8A%B1%E8%91%97%E9%A3%BE%E5%93%81%E3%80%81%E8%8A%B1%E7%92%B0%E5%92%8C%E6%8B%90%E6%9D%96%E7%B3%96%EF%BC%8C%E4%B8%8D%E8%82%AF%E6%94%BE%E6%89%8B%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E6%BA%AB%E9%A6%A8%E3%80%81%E8%88%92%E9%81%A9%E7%9A%84%E5%B9%BD%E9%BB%98%E6%84%9F%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E6%BA%AB%E6%9A%96%E3%80%81%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%E3%80%81%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
@@ -395,18 +395,18 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-此提示會生成一個幽默的動畫風格聖誕相框，採用垂直 1:1.4 格式。相框邊緣飾有卡通刺蝟和松鼠，牠們正在爭奪裝飾品，不經意間在相框邊緣製造了節日混亂。
+此提示會生成一個幽默的動畫風格聖誕相框，採用垂直 1:1.4 的比例。相框邊緣有卡通刺蝟和松鼠競相收集裝飾品，不小心在相框周圍造成了節日混亂。
 
 #### 📝 提示詞
 
 ```
-一個垂直的 1:1.4 可列印聖誕相框，以幽默的動畫風格呈現。
+一個垂直的 1:1.4 可列印聖誕相框，以幽默的動畫風格繪製。
 
-僅有相框本身。
+僅限相框本身。
 
-正中央留有空白照片佔位符，比例為 1:1.4，寬度為 70%，乾淨且空白。
+正中央空白照片預留位置，比例 1:1.4，寬度 70%，簡潔留白。
 
-邊框上繪有卡通刺蝟和松鼠競相收集裝飾品，不經意間在邊緣製造了節日混亂。
+邊框描繪卡通刺蝟和松鼠競相收集裝飾品，不經意間在邊緣製造了節日混亂。
 
 平面構圖，無文字。
 ```
@@ -426,30 +426,30 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%E3%80%82%0A%0A%E6%AD%A3%E4%B8%AD%E5%A4%AE%E7%95%99%E6%9C%89%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E4%B9%BE%E6%B7%A8%E4%B8%94%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E4%B8%8A%E7%B9%AA%E6%9C%89%E5%8D%A1%E9%80%9A%E5%88%BA%E8%9D%9F%E5%92%8C%E6%9D%BE%E9%BC%A0%E7%AB%B6%E7%9B%B8%E6%94%B6%E9%9B%86%E8%A3%9D%E9%A3%BE%E5%93%81%EF%BC%8C%E4%B8%8D%E7%B6%93%E6%84%8F%E9%96%93%E5%9C%A8%E9%82%8A%E7%B7%A3%E8%A3%BD%E9%80%A0%E4%BA%86%E7%AF%80%E6%97%A5%E6%B7%B7%E4%BA%82%E3%80%82%0A%0A%E5%B9%B3%E9%9D%A2%E6%A7%8B%E5%9C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E5%83%85%E9%99%90%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%E3%80%82%0A%0A%E6%AD%A3%E4%B8%AD%E5%A4%AE%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E9%A0%90%E7%95%99%E4%BD%8D%E7%BD%AE%EF%BC%8C%E6%AF%94%E4%BE%8B%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%2070%25%EF%BC%8C%E7%B0%A1%E6%BD%94%E7%95%99%E7%99%BD%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E6%8F%8F%E7%B9%AA%E5%8D%A1%E9%80%9A%E5%88%BA%E8%9D%9F%E5%92%8C%E6%9D%BE%E9%BC%A0%E7%AB%B6%E7%9B%B8%E6%94%B6%E9%9B%86%E8%A3%9D%E9%A3%BE%E5%93%81%EF%BC%8C%E4%B8%8D%E7%B6%93%E6%84%8F%E9%96%93%E5%9C%A8%E9%82%8A%E7%B7%A3%E8%A3%BD%E9%80%A0%E4%BA%86%E7%AF%80%E6%97%A5%E6%B7%B7%E4%BA%82%E3%80%82%0A%0A%E5%B9%B3%E9%9D%A2%E6%A7%8B%E5%9C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 4: 聖誕變色龍 · 偽裝失敗畫框
+### No. 4: 聖誕變色龍 · 偽裝失敗框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-此提示會建立一個幽默卡通風格的聖誕相框，採用垂直 1:1.4 的比例。邊框上繪有卡通變色龍，牠們未能成功融入裝飾中，清晰可見且一臉困惑，為這款適合印刷的設計增添了微妙的視覺幽默感。
+此提示會建立一個幽默的卡通風格聖誕相框，採用垂直 1:1.4 的比例。邊框上繪有卡通變色龍，牠們未能成功融入裝飾中，清晰可見且一臉困惑，為這款適合印刷的設計增添了微妙的視覺幽默感。
 
 #### 📝 提示詞
 
 ```
-一張可列印的聖誕相框，垂直比例為 1:1.4，幽默卡通風格。
+一張可列印的聖誕相框，直向 1:1.4，幽默卡通風格。
 
 僅相框插圖。
 
-置中空白照片佔位符，比例為 1:1.4，寬度為 70%，未經處理。
+置中空白照片佔位符，比例 1:1.4，寬度 70%，未經處理。
 
 邊框飾有卡通變色龍，牠們未能成功融入飾品、燈飾和花環中，清晰可見且一臉困惑，增添了微妙的視覺幽默感。
 
-扁平化、便於列印，無文字。
+扁平化、適合列印，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -457,7 +457,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788201283_5hpzxv_1765783637947-37zcm3-L03mwdyBuPoGAAAAAElFTkSuQmCC" width="600" alt="聖誕變色龍 · 偽裝失敗畫框 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788201283_5hpzxv_1765783637947-37zcm3-L03mwdyBuPoGAAAAAElFTkSuQmCC" width="600" alt="聖誕變色龍 · 偽裝失敗框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -467,7 +467,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E5%9E%82%E7%9B%B4%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%B9%BD%E9%BB%98%E5%8D%A1%E9%80%9A%E9%A2%A8%E6%A0%BC%E3%80%82%0A%0A%E5%83%85%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%E3%80%82%0A%0A%E7%BD%AE%E4%B8%AD%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E6%9C%AA%E7%B6%93%E8%99%95%E7%90%86%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E5%8D%A1%E9%80%9A%E8%AE%8A%E8%89%B2%E9%BE%8D%EF%BC%8C%E7%89%A0%E5%80%91%E6%9C%AA%E8%83%BD%E6%88%90%E5%8A%9F%E8%9E%8D%E5%85%A5%E9%A3%BE%E5%93%81%E3%80%81%E7%87%88%E9%A3%BE%E5%92%8C%E8%8A%B1%E7%92%B0%E4%B8%AD%EF%BC%8C%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%E4%B8%94%E4%B8%80%E8%87%89%E5%9B%B0%E6%83%91%EF%BC%8C%E5%A2%9E%E6%B7%BB%E4%BA%86%E5%BE%AE%E5%A6%99%E7%9A%84%E8%A6%96%E8%A6%BA%E5%B9%BD%E9%BB%98%E6%84%9F%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E4%BE%BF%E6%96%BC%E5%88%97%E5%8D%B0%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E7%9B%B4%E5%90%91%201%3A1.4%EF%BC%8C%E5%B9%BD%E9%BB%98%E5%8D%A1%E9%80%9A%E9%A2%A8%E6%A0%BC%E3%80%82%0A%0A%E5%83%85%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%E3%80%82%0A%0A%E7%BD%AE%E4%B8%AD%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%2070%25%EF%BC%8C%E6%9C%AA%E7%B6%93%E8%99%95%E7%90%86%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E5%8D%A1%E9%80%9A%E8%AE%8A%E8%89%B2%E9%BE%8D%EF%BC%8C%E7%89%A0%E5%80%91%E6%9C%AA%E8%83%BD%E6%88%90%E5%8A%9F%E8%9E%8D%E5%85%A5%E9%A3%BE%E5%93%81%E3%80%81%E7%87%88%E9%A3%BE%E5%92%8C%E8%8A%B1%E7%92%B0%E4%B8%AD%EF%BC%8C%E6%B8%85%E6%99%B0%E5%8F%AF%E8%A6%8B%E4%B8%94%E4%B8%80%E8%87%89%E5%9B%B0%E6%83%91%EF%BC%8C%E5%A2%9E%E6%B7%BB%E4%BA%86%E5%BE%AE%E5%A6%99%E7%9A%84%E8%A6%96%E8%A6%BA%E5%B9%BD%E9%BB%98%E6%84%9F%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
@@ -477,20 +477,20 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-此提示會建立一個垂直 1:1.4 比例的動畫故事書風格聖誕邊框。邊框上會有卡通貓頭鷹，牠們以懷疑的眼神凝視著凌亂的裝飾品，並以冷幽默的態度評判著節日的混亂。
+此提示會建立一個垂直 1:1.4 比例的動畫故事書風格聖誕相框。邊框上有卡通貓頭鷹，牠們懷疑地盯著雜亂的裝飾，並以冷面幽默評判著節日混亂。
 
 #### 📝 提示詞
 
 ```
-一個可列印的聖誕節邊框插圖，垂直 1:1.4 比例，動畫故事書風格。
+一張可列印的聖誕節邊框插圖，採用垂直 1:1.4 比例，動畫故事書風格。
 
 僅有邊框構圖。
 
-置中空白照片佔位符，1:1.4 比例，寬度 70%，未經修改。
+置中的空白照片佔位符，比例為 1:1.4，寬度為 70%，未經處理。
 
-邊框飾有卡通貓頭鷹，牠們戴著圍巾和帽子，懷疑地盯著凌亂的裝飾品，手持剪貼板，以冷幽默的態度評判著節日混亂。
+邊框飾有卡通貓頭鷹，牠們戴著圍巾和帽子，懷疑地盯著雜亂的裝飾品，手持剪貼板，以冷幽默的態度評判著節日混亂。
 
-扁平插圖，無文字。
+扁平插畫，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -508,28 +508,28 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%AF%80%E9%82%8A%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E9%A2%A8%E6%A0%BC%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E9%82%8A%E6%A1%86%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%E7%BD%AE%E4%B8%AD%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C1%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E5%AF%AC%E5%BA%A6%2070%25%EF%BC%8C%E6%9C%AA%E7%B6%93%E4%BF%AE%E6%94%B9%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E5%8D%A1%E9%80%9A%E8%B2%93%E9%A0%AD%E9%B7%B9%EF%BC%8C%E7%89%A0%E5%80%91%E6%88%B4%E8%91%97%E5%9C%8D%E5%B7%BE%E5%92%8C%E5%B8%BD%E5%AD%90%EF%BC%8C%E6%87%B7%E7%96%91%E5%9C%B0%E7%9B%AF%E8%91%97%E5%87%8C%E4%BA%82%E7%9A%84%E8%A3%9D%E9%A3%BE%E5%93%81%EF%BC%8C%E6%89%8B%E6%8C%81%E5%89%AA%E8%B2%BC%E6%9D%BF%EF%BC%8C%E4%BB%A5%E5%86%B7%E5%B9%BD%E9%BB%98%E7%9A%84%E6%85%8B%E5%BA%A6%E8%A9%95%E5%88%A4%E8%91%97%E7%AF%80%E6%97%A5%E6%B7%B7%E4%BA%82%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E6%8F%92%E5%9C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%AF%80%E9%82%8A%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E9%A2%A8%E6%A0%BC%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E9%82%8A%E6%A1%86%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%E7%BD%AE%E4%B8%AD%E7%9A%84%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E6%9C%AA%E7%B6%93%E8%99%95%E7%90%86%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E5%8D%A1%E9%80%9A%E8%B2%93%E9%A0%AD%E9%B7%B9%EF%BC%8C%E7%89%A0%E5%80%91%E6%88%B4%E8%91%97%E5%9C%8D%E5%B7%BE%E5%92%8C%E5%B8%BD%E5%AD%90%EF%BC%8C%E6%87%B7%E7%96%91%E5%9C%B0%E7%9B%AF%E8%91%97%E9%9B%9C%E4%BA%82%E7%9A%84%E8%A3%9D%E9%A3%BE%E5%93%81%EF%BC%8C%E6%89%8B%E6%8C%81%E5%89%AA%E8%B2%BC%E6%9D%BF%EF%BC%8C%E4%BB%A5%E5%86%B7%E5%B9%BD%E9%BB%98%E7%9A%84%E6%85%8B%E5%BA%A6%E8%A9%95%E5%88%A4%E8%91%97%E7%AF%80%E6%97%A5%E6%B7%B7%E4%BA%82%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E6%8F%92%E7%95%AB%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 6: 聖誕章魚 · 八爪狂熱相框
+### No. 6: 聖誕章魚 · 八爪狂熱框架
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-此提示會產生一張幽默的卡通動畫風格聖誕相框，採用垂直 1:1.4 比例。邊框上有一隻卡通章魚，牠用所有的觸手來裝飾，營造出歡樂又混亂的節慶氛圍。
+此提示會產生一個幽默的卡通動畫風格聖誕相框，採用垂直 1:1.4 的格式。邊框上有一隻卡通章魚，牠用所有的觸手來裝飾，營造出俏皮又混亂的節慶氛圍。
 
 #### 📝 提示詞
 
 ```
-一個垂直的 1:1.4 可列印聖誕相框，以幽默的卡通動畫風格繪製。
+一個垂直的 1:1.4 可列印聖誕相框，以幽默的卡通動畫風格呈現。
 
 只有相框設計，沒有環境。
 
 一個空白的相片佔位符完美置中，比例為 1:1.4，寬度為 70%，完全空白。
 
-邊框描繪了一隻卡通章魚，牠用所有的觸手同時裝飾著飾品、燈飾、拐杖糖和星星，營造出俏皮的節日混亂感。
+邊框上有一隻卡通章魚，牠用所有的觸手同時裝飾著飾品、燈飾、拐杖糖和星星，營造出歡樂的節日混亂感。
 
 扁平、簡潔、可供列印，無文字。
 ```
@@ -539,7 +539,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_" width="600" alt="聖誕章魚 · 八爪狂熱相框 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_" width="600" alt="聖誕章魚 · 八爪狂熱框架 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -549,11 +549,11 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8D%A1%E9%80%9A%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E5%8F%AA%E6%9C%89%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%EF%BC%8C%E6%B2%92%E6%9C%89%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%9B%B8%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%E5%AE%8C%E7%BE%8E%E7%BD%AE%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E6%8F%8F%E7%B9%AA%E4%BA%86%E4%B8%80%E9%9A%BB%E5%8D%A1%E9%80%9A%E7%AB%A0%E9%AD%9A%EF%BC%8C%E7%89%A0%E7%94%A8%E6%89%80%E6%9C%89%E7%9A%84%E8%A7%B8%E6%89%8B%E5%90%8C%E6%99%82%E8%A3%9D%E9%A3%BE%E8%91%97%E9%A3%BE%E5%93%81%E3%80%81%E7%87%88%E9%A3%BE%E3%80%81%E6%8B%90%E6%9D%96%E7%B3%96%E5%92%8C%E6%98%9F%E6%98%9F%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E4%BF%8F%E7%9A%AE%E7%9A%84%E7%AF%80%E6%97%A5%E6%B7%B7%E4%BA%82%E6%84%9F%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E3%80%81%E7%B0%A1%E6%BD%94%E3%80%81%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8D%A1%E9%80%9A%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E5%8F%AA%E6%9C%89%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%EF%BC%8C%E6%B2%92%E6%9C%89%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%9B%B8%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%E5%AE%8C%E7%BE%8E%E7%BD%AE%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E4%B8%8A%E6%9C%89%E4%B8%80%E9%9A%BB%E5%8D%A1%E9%80%9A%E7%AB%A0%E9%AD%9A%EF%BC%8C%E7%89%A0%E7%94%A8%E6%89%80%E6%9C%89%E7%9A%84%E8%A7%B8%E6%89%8B%E5%90%8C%E6%99%82%E8%A3%9D%E9%A3%BE%E8%91%97%E9%A3%BE%E5%93%81%E3%80%81%E7%87%88%E9%A3%BE%E3%80%81%E6%8B%90%E6%9D%96%E7%B3%96%E5%92%8C%E6%98%9F%E6%98%9F%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E6%AD%A1%E6%A8%82%E7%9A%84%E7%AF%80%E6%97%A5%E6%B7%B7%E4%BA%82%E6%84%9F%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E3%80%81%E7%B0%A1%E6%BD%94%E3%80%81%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 7: 聖誕兔子 · 超忙碌相框
+### No. 7: 聖誕兔子 · 超級忙碌相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -568,9 +568,9 @@ by {argument name="author" default="Steve Jobs"}
 
 僅相框插圖。
 
-置中空白照片佔位符，水平 + 垂直置中，1:1.4，70% 寬度，未觸動。
+置中空白照片佔位符，水平 + 垂直置中，1:1.4，70% 寬度，未經修改。
 
-邊框特色是精力充沛的卡通兔子們，牠們包禮物包得太快，被緞帶絆倒，玩弄著裝飾品，並在相框邊緣四處奔跑。
+邊框描繪著精力充沛的卡通兔子，牠們快速地包裝禮物、被緞帶絆倒、玩弄裝飾品，並在相框邊緣奔跑。
 
 俏皮的混亂，扁平插圖，無文字。
 ```
@@ -580,7 +580,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788197086_iih89c_1765783621085-axc899-D8AbWcYcR2jqAAAAAElFTkSuQmCC" width="600" alt="聖誕兔子 · 超忙碌相框 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788197086_iih89c_1765783621085-axc899-D8AbWcYcR2jqAAAAAElFTkSuQmCC" width="600" alt="聖誕兔子 · 超級忙碌相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -590,7 +590,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E5%8B%95%E7%95%AB%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%A0%BC%E5%BC%8F%E3%80%82%0A%0A%E5%83%85%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%E3%80%82%0A%0A%E7%BD%AE%E4%B8%AD%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%B0%B4%E5%B9%B3%20%2B%20%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD%EF%BC%8C1%3A1.4%EF%BC%8C70%25%20%E5%AF%AC%E5%BA%A6%EF%BC%8C%E6%9C%AA%E8%A7%B8%E5%8B%95%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E7%89%B9%E8%89%B2%E6%98%AF%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B%E7%9A%84%E5%8D%A1%E9%80%9A%E5%85%94%E5%AD%90%E5%80%91%EF%BC%8C%E7%89%A0%E5%80%91%E5%8C%85%E7%A6%AE%E7%89%A9%E5%8C%85%E5%BE%97%E5%A4%AA%E5%BF%AB%EF%BC%8C%E8%A2%AB%E7%B7%9E%E5%B8%B6%E7%B5%86%E5%80%92%EF%BC%8C%E7%8E%A9%E5%BC%84%E8%91%97%E8%A3%9D%E9%A3%BE%E5%93%81%EF%BC%8C%E4%B8%A6%E5%9C%A8%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E5%9B%9B%E8%99%95%E5%A5%94%E8%B7%91%E3%80%82%0A%0A%E4%BF%8F%E7%9A%AE%E7%9A%84%E6%B7%B7%E4%BA%82%EF%BC%8C%E6%89%81%E5%B9%B3%E6%8F%92%E5%9C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E5%8B%95%E7%95%AB%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%A0%BC%E5%BC%8F%E3%80%82%0A%0A%E5%83%85%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%E3%80%82%0A%0A%E7%BD%AE%E4%B8%AD%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%B0%B4%E5%B9%B3%20%2B%20%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD%EF%BC%8C1%3A1.4%EF%BC%8C70%25%20%E5%AF%AC%E5%BA%A6%EF%BC%8C%E6%9C%AA%E7%B6%93%E4%BF%AE%E6%94%B9%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E6%8F%8F%E7%B9%AA%E8%91%97%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B%E7%9A%84%E5%8D%A1%E9%80%9A%E5%85%94%E5%AD%90%EF%BC%8C%E7%89%A0%E5%80%91%E5%BF%AB%E9%80%9F%E5%9C%B0%E5%8C%85%E8%A3%9D%E7%A6%AE%E7%89%A9%E3%80%81%E8%A2%AB%E7%B7%9E%E5%B8%B6%E7%B5%86%E5%80%92%E3%80%81%E7%8E%A9%E5%BC%84%E8%A3%9D%E9%A3%BE%E5%93%81%EF%BC%8C%E4%B8%A6%E5%9C%A8%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E5%A5%94%E8%B7%91%E3%80%82%0A%0A%E4%BF%8F%E7%9A%AE%E7%9A%84%E6%B7%B7%E4%BA%82%EF%BC%8C%E6%89%81%E5%B9%B3%E6%8F%92%E5%9C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
@@ -600,7 +600,7 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-此提示會產生一個幽默的動畫風格聖誕相框，採用垂直 1:1.4 格式。相框邊緣顯示卡通刺蝟不小心將飾品和燈飾收集到牠們的刺上，增添了可愛、誇張的視覺幽默感。
+此提示會生成一個幽默的動畫風格聖誕相框，採用垂直 1:1.4 格式。相框邊緣顯示卡通刺蝟不小心將裝飾品和燈飾收集到牠們的刺上，增添了可愛、誇張的視覺幽默感。
 
 #### 📝 提示詞
 
@@ -611,9 +611,9 @@ by {argument name="author" default="Steve Jobs"}
 
 正中央空白照片佔位符，比例為 1:1.4，寬度為 70%，完全乾淨。
 
-相框邊緣顯示卡通刺蝟不小心將飾品、星星和燈飾收集到牠們的刺上，牠們看起來驚訝又困惑，帶有可愛、誇張的表情。
+相框邊緣顯示卡通刺蝟不小心將飾品、星星和燈飾收集到牠們的刺上，牠們看起來驚訝又困惑，帶點可愛、誇張的表情。
 
-扁平化、針對列印優化，無文字。
+扁平化，針對列印優化，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -631,30 +631,30 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E7%84%A1%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E6%AD%A3%E4%B8%AD%E5%A4%AE%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E4%B9%BE%E6%B7%A8%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E9%A1%AF%E7%A4%BA%E5%8D%A1%E9%80%9A%E5%88%BA%E8%9D%9F%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%B0%87%E9%A3%BE%E5%93%81%E3%80%81%E6%98%9F%E6%98%9F%E5%92%8C%E7%87%88%E9%A3%BE%E6%94%B6%E9%9B%86%E5%88%B0%E7%89%A0%E5%80%91%E7%9A%84%E5%88%BA%E4%B8%8A%EF%BC%8C%E7%89%A0%E5%80%91%E7%9C%8B%E8%B5%B7%E4%BE%86%E9%A9%9A%E8%A8%9D%E5%8F%88%E5%9B%B0%E6%83%91%EF%BC%8C%E5%B8%B6%E6%9C%89%E5%8F%AF%E6%84%9B%E3%80%81%E8%AA%87%E5%BC%B5%E7%9A%84%E8%A1%A8%E6%83%85%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E9%87%9D%E5%B0%8D%E5%88%97%E5%8D%B0%E5%84%AA%E5%8C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E7%84%A1%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E6%AD%A3%E4%B8%AD%E5%A4%AE%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E4%B9%BE%E6%B7%A8%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E9%A1%AF%E7%A4%BA%E5%8D%A1%E9%80%9A%E5%88%BA%E8%9D%9F%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%B0%87%E9%A3%BE%E5%93%81%E3%80%81%E6%98%9F%E6%98%9F%E5%92%8C%E7%87%88%E9%A3%BE%E6%94%B6%E9%9B%86%E5%88%B0%E7%89%A0%E5%80%91%E7%9A%84%E5%88%BA%E4%B8%8A%EF%BC%8C%E7%89%A0%E5%80%91%E7%9C%8B%E8%B5%B7%E4%BE%86%E9%A9%9A%E8%A8%9D%E5%8F%88%E5%9B%B0%E6%83%91%EF%BC%8C%E5%B8%B6%E9%BB%9E%E5%8F%AF%E6%84%9B%E3%80%81%E8%AA%87%E5%BC%B5%E7%9A%84%E8%A1%A8%E6%83%85%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%EF%BC%8C%E9%87%9D%E5%B0%8D%E5%88%97%E5%8D%B0%E5%84%AA%E5%8C%96%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 9: 聖誕熊貓 · 悠閒假日相框
+### No. 9: 聖誕熊貓 · 悠閒假期相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-此提示會生成一個柔和動畫故事書風格的聖誕相框，採用垂直 1:1.4 格式。邊框飾有慵懶的卡通熊貓，牠們或躺在飾品上，或抱著拐杖糖，營造出溫馨、舒適的幽默感。
+此提示會產生一個柔和動畫故事書風格的聖誕相框，採用垂直 1:1.4 比例。邊框飾有慵懶的卡通熊貓，牠們或躺在裝飾品上，或抱著拐杖糖，營造出溫和、舒適的幽默感。
 
 #### 📝 提示詞
 
 ```
 一張可列印的聖誕相框插圖，垂直 1:1.4 比例，以柔和的動畫故事書風格繪製。
 
-僅包含相框構圖。
+僅相框構圖。
 
 一個垂直方向的空白照片佔位符居中，長寬比為 1:1.4，寬度為 70%，完全空白。
 
-邊框特色是慵懶的卡通熊貓，牠們或躺在飾品上，或抱著拐杖糖，半睡半醒地置身於充滿溫和幽默的節慶裝飾中。
+邊框飾有慵懶的卡通熊貓，牠們或躺在飾品上，或抱著拐杖糖，半睡半醒地置身於節慶裝飾中，帶有一絲溫和的幽默感。
 
-扁平化插圖，暖色調，無文字。
+扁平插畫風格，暖色調，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -662,7 +662,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__" width="600" alt="聖誕熊貓 · 悠閒假日相框 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__" width="600" alt="聖誕熊貓 · 悠閒假期相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -672,7 +672,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E4%BB%A5%E6%9F%94%E5%92%8C%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E5%83%85%E5%8C%85%E5%90%AB%E7%9B%B8%E6%A1%86%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E7%9A%84%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%E5%B1%85%E4%B8%AD%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E7%89%B9%E8%89%B2%E6%98%AF%E6%85%B5%E6%87%B6%E7%9A%84%E5%8D%A1%E9%80%9A%E7%86%8A%E8%B2%93%EF%BC%8C%E7%89%A0%E5%80%91%E6%88%96%E8%BA%BA%E5%9C%A8%E9%A3%BE%E5%93%81%E4%B8%8A%EF%BC%8C%E6%88%96%E6%8A%B1%E8%91%97%E6%8B%90%E6%9D%96%E7%B3%96%EF%BC%8C%E5%8D%8A%E7%9D%A1%E5%8D%8A%E9%86%92%E5%9C%B0%E7%BD%AE%E8%BA%AB%E6%96%BC%E5%85%85%E6%BB%BF%E6%BA%AB%E5%92%8C%E5%B9%BD%E9%BB%98%E7%9A%84%E7%AF%80%E6%85%B6%E8%A3%9D%E9%A3%BE%E4%B8%AD%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E6%8F%92%E5%9C%96%EF%BC%8C%E6%9A%96%E8%89%B2%E8%AA%BF%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E4%BB%A5%E6%9F%94%E5%92%8C%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E5%83%85%E7%9B%B8%E6%A1%86%E6%A7%8B%E5%9C%96%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E7%9A%84%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%E5%B1%85%E4%B8%AD%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E6%85%B5%E6%87%B6%E7%9A%84%E5%8D%A1%E9%80%9A%E7%86%8A%E8%B2%93%EF%BC%8C%E7%89%A0%E5%80%91%E6%88%96%E8%BA%BA%E5%9C%A8%E9%A3%BE%E5%93%81%E4%B8%8A%EF%BC%8C%E6%88%96%E6%8A%B1%E8%91%97%E6%8B%90%E6%9D%96%E7%B3%96%EF%BC%8C%E5%8D%8A%E7%9D%A1%E5%8D%8A%E9%86%92%E5%9C%B0%E7%BD%AE%E8%BA%AB%E6%96%BC%E7%AF%80%E6%85%B6%E8%A3%9D%E9%A3%BE%E4%B8%AD%EF%BC%8C%E5%B8%B6%E6%9C%89%E4%B8%80%E7%B5%B2%E6%BA%AB%E5%92%8C%E7%9A%84%E5%B9%BD%E9%BB%98%E6%84%9F%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E6%8F%92%E7%95%AB%E9%A2%A8%E6%A0%BC%EF%BC%8C%E6%9A%96%E8%89%B2%E8%AA%BF%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
@@ -682,20 +682,20 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-此提示會建立一個垂直的 1:1.4 可列印聖誕相框，風格為平靜又帶點幽默的卡通。邊框飾有悠哉的卡通烏龜，以誇張的慢速移動，為設計增添溫和、寧靜的幽默感。
+此提示會建立一個垂直的 1:1.4 可列印聖誕相框，風格為平靜而幽默的卡通。邊框飾有悠閒的卡通烏龜，以誇張的緩慢速度移動，為設計增添了溫和、寧靜的幽默感。
 
 #### 📝 提示詞
 
 ```
-一個垂直、比例為 1:1.4 的可列印聖誕相框，風格為平靜而幽默的卡通。
+一個垂直的 1:1.4 可列印聖誕相框，風格為平靜而幽默的卡通。
 
-僅有相框插圖，無背景場景。
+只有相框插圖，沒有背景場景。
 
-一個空白的照片佔位符完美置中，比例為 1:1.4，寬度為 70%，保持原樣。
+一個空白的照片佔位符完美地置中，比例為 1:1.4，寬度為 70%，保持原樣。
 
-邊框裝飾著戴圍巾的悠閒卡通烏龜，牠們平靜地堆疊飾品、伴隨著節日燈光冥想，並以誇張的慢速移動。
+邊框裝飾著戴著圍巾的悠閒卡通烏龜，牠們平靜地堆疊飾品、伴隨著節日燈光冥想，並以誇張的慢速移動。
 
-扁平化、平衡、適合列印，無文字。
+扁平、平衡、適合列印，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -713,7 +713,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E3%80%81%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%20%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E9%A2%A8%E6%A0%BC%E7%82%BA%E5%B9%B3%E9%9D%9C%E8%80%8C%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8D%A1%E9%80%9A%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E7%84%A1%E8%83%8C%E6%99%AF%E5%A0%B4%E6%99%AF%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%E5%AE%8C%E7%BE%8E%E7%BD%AE%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E4%BF%9D%E6%8C%81%E5%8E%9F%E6%A8%A3%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E8%A3%9D%E9%A3%BE%E8%91%97%E6%88%B4%E5%9C%8D%E5%B7%BE%E7%9A%84%E6%82%A0%E9%96%92%E5%8D%A1%E9%80%9A%E7%83%8F%E9%BE%9C%EF%BC%8C%E7%89%A0%E5%80%91%E5%B9%B3%E9%9D%9C%E5%9C%B0%E5%A0%86%E7%96%8A%E9%A3%BE%E5%93%81%E3%80%81%E4%BC%B4%E9%9A%A8%E8%91%97%E7%AF%80%E6%97%A5%E7%87%88%E5%85%89%E5%86%A5%E6%83%B3%EF%BC%8C%E4%B8%A6%E4%BB%A5%E8%AA%87%E5%BC%B5%E7%9A%84%E6%85%A2%E9%80%9F%E7%A7%BB%E5%8B%95%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E5%B9%B3%E8%A1%A1%E3%80%81%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E9%A2%A8%E6%A0%BC%E7%82%BA%E5%B9%B3%E9%9D%9C%E8%80%8C%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8D%A1%E9%80%9A%E3%80%82%0A%0A%E5%8F%AA%E6%9C%89%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%B2%92%E6%9C%89%E8%83%8C%E6%99%AF%E5%A0%B4%E6%99%AF%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%E5%AE%8C%E7%BE%8E%E5%9C%B0%E7%BD%AE%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E4%BF%9D%E6%8C%81%E5%8E%9F%E6%A8%A3%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E8%A3%9D%E9%A3%BE%E8%91%97%E6%88%B4%E8%91%97%E5%9C%8D%E5%B7%BE%E7%9A%84%E6%82%A0%E9%96%92%E5%8D%A1%E9%80%9A%E7%83%8F%E9%BE%9C%EF%BC%8C%E7%89%A0%E5%80%91%E5%B9%B3%E9%9D%9C%E5%9C%B0%E5%A0%86%E7%96%8A%E9%A3%BE%E5%93%81%E3%80%81%E4%BC%B4%E9%9A%A8%E8%91%97%E7%AF%80%E6%97%A5%E7%87%88%E5%85%89%E5%86%A5%E6%83%B3%EF%BC%8C%E4%B8%A6%E4%BB%A5%E8%AA%87%E5%BC%B5%E7%9A%84%E6%85%A2%E9%80%9F%E7%A7%BB%E5%8B%95%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E3%80%81%E5%B9%B3%E8%A1%A1%E3%80%81%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
@@ -723,20 +723,20 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-此提示會產生一個幽默的動畫聖誕相框，採用垂直 1:1.4 的格式。邊框設計為卡通松鼠們瘋狂地囤積飾品和塞滿聖誕襪，為這款適合列印的設計增添了溫馨的幽默感。
+此提示會生成一個幽默的動畫聖誕相框，採用垂直 1:1.4 的格式。邊框設計以瘋狂的卡通松鼠囤積裝飾品和塞滿聖誕襪為特色，為這款適合列印的設計增添了溫馨的幽默感。
 
 #### 📝 提示詞
 
 ```
 一張可列印的聖誕相框插圖，採用垂直 1:1.4 比例，以幽默的動畫風格繪製。
 
-僅有相框設計，無背景環境。
+僅有相框設計，無背景。
 
-置中空白照片佔位符，水平和垂直居中，1:1.4 比例，佔相框寬度 70%，完全空白。
+置中的空白照片佔位符，水平和垂直居中，1:1.4 比例，佔相框寬度 70%，完全空白。
 
-邊框上繪有瘋狂的卡通松鼠，牠們正在囤積飾品、塞滿聖誕襪、將堅果藏在聖誕球中，並從裝飾品後面緊張地偷看。
+邊框上繪有瘋狂的卡通松鼠，牠們正在囤積飾品、塞滿聖誕襪、將堅果藏在聖誕球裡，並從裝飾品後面緊張地偷看。
 
-扁平化插圖，溫馨幽默，無文字。
+扁平插圖，溫馨幽默，無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -754,7 +754,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%EF%BC%8C%E7%84%A1%E8%83%8C%E6%99%AF%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E7%BD%AE%E4%B8%AD%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C1%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E4%B8%8A%E7%B9%AA%E6%9C%89%E7%98%8B%E7%8B%82%E7%9A%84%E5%8D%A1%E9%80%9A%E6%9D%BE%E9%BC%A0%EF%BC%8C%E7%89%A0%E5%80%91%E6%AD%A3%E5%9C%A8%E5%9B%A4%E7%A9%8D%E9%A3%BE%E5%93%81%E3%80%81%E5%A1%9E%E6%BB%BF%E8%81%96%E8%AA%95%E8%A5%AA%E3%80%81%E5%B0%87%E5%A0%85%E6%9E%9C%E8%97%8F%E5%9C%A8%E8%81%96%E8%AA%95%E7%90%83%E4%B8%AD%EF%BC%8C%E4%B8%A6%E5%BE%9E%E8%A3%9D%E9%A3%BE%E5%93%81%E5%BE%8C%E9%9D%A2%E7%B7%8A%E5%BC%B5%E5%9C%B0%E5%81%B7%E7%9C%8B%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E6%8F%92%E5%9C%96%EF%BC%8C%E6%BA%AB%E9%A6%A8%E5%B9%BD%E9%BB%98%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%EF%BC%8C%E7%84%A1%E8%83%8C%E6%99%AF%E3%80%82%0A%0A%E7%BD%AE%E4%B8%AD%E7%9A%84%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C1%3A1.4%20%E6%AF%94%E4%BE%8B%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E4%B8%8A%E7%B9%AA%E6%9C%89%E7%98%8B%E7%8B%82%E7%9A%84%E5%8D%A1%E9%80%9A%E6%9D%BE%E9%BC%A0%EF%BC%8C%E7%89%A0%E5%80%91%E6%AD%A3%E5%9C%A8%E5%9B%A4%E7%A9%8D%E9%A3%BE%E5%93%81%E3%80%81%E5%A1%9E%E6%BB%BF%E8%81%96%E8%AA%95%E8%A5%AA%E3%80%81%E5%B0%87%E5%A0%85%E6%9E%9C%E8%97%8F%E5%9C%A8%E8%81%96%E8%AA%95%E7%90%83%E8%A3%A1%EF%BC%8C%E4%B8%A6%E5%BE%9E%E8%A3%9D%E9%A3%BE%E5%93%81%E5%BE%8C%E9%9D%A2%E7%B7%8A%E5%BC%B5%E5%9C%B0%E5%81%B7%E7%9C%8B%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E6%8F%92%E5%9C%96%EF%BC%8C%E6%BA%AB%E9%A6%A8%E5%B9%BD%E9%BB%98%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
@@ -769,15 +769,15 @@ by {argument name="author" default="Steve Jobs"}
 #### 📝 提示詞
 
 ```
-一個垂直的 1:1.4 可列印動畫聖誕相框，充滿俏皮的卡通活力。
+一個垂直的 1:1.4 可列印動畫聖誕相框，充滿活潑的卡通活力。
 
-無背景，只有相框本身。
+無背景，僅有相框本身。
 
 一個大型空白照片佔位符，水平和垂直居中，比例為 1:1.4，寬度為 70%，完全空白。
 
-相框邊緣飾有活潑生動的卡通猴子，牠們在花環上盪鞦韆、偷星星、倒掛著，並做出滑稽的表情，以生動的動畫風格呈現。
+相框邊緣飾有活潑的卡通猴子，牠們在花環上盪鞦韆、偷星星、倒掛著，並做出滑稽的表情，以生動的動畫風格呈現。
 
-扁平化、平衡、可供印刷、無文字。
+扁平化、平衡、可供列印、無文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -795,7 +795,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E5%8B%95%E7%95%AB%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E5%85%85%E6%BB%BF%E4%BF%8F%E7%9A%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E6%B4%BB%E5%8A%9B%E3%80%82%0A%0A%E7%84%A1%E8%83%8C%E6%99%AF%EF%BC%8C%E5%8F%AA%E6%9C%89%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E5%A4%A7%E5%9E%8B%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E9%A3%BE%E6%9C%89%E6%B4%BB%E6%BD%91%E7%94%9F%E5%8B%95%E7%9A%84%E5%8D%A1%E9%80%9A%E7%8C%B4%E5%AD%90%EF%BC%8C%E7%89%A0%E5%80%91%E5%9C%A8%E8%8A%B1%E7%92%B0%E4%B8%8A%E7%9B%AA%E9%9E%A6%E9%9F%86%E3%80%81%E5%81%B7%E6%98%9F%E6%98%9F%E3%80%81%E5%80%92%E6%8E%9B%E8%91%97%EF%BC%8C%E4%B8%A6%E5%81%9A%E5%87%BA%E6%BB%91%E7%A8%BD%E7%9A%84%E8%A1%A8%E6%83%85%EF%BC%8C%E4%BB%A5%E7%94%9F%E5%8B%95%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E5%B9%B3%E8%A1%A1%E3%80%81%E5%8F%AF%E4%BE%9B%E5%8D%B0%E5%88%B7%E3%80%81%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E5%8B%95%E7%95%AB%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E5%85%85%E6%BB%BF%E6%B4%BB%E6%BD%91%E7%9A%84%E5%8D%A1%E9%80%9A%E6%B4%BB%E5%8A%9B%E3%80%82%0A%0A%E7%84%A1%E8%83%8C%E6%99%AF%EF%BC%8C%E5%83%85%E6%9C%89%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E5%A4%A7%E5%9E%8B%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E9%A3%BE%E6%9C%89%E6%B4%BB%E6%BD%91%E7%9A%84%E5%8D%A1%E9%80%9A%E7%8C%B4%E5%AD%90%EF%BC%8C%E7%89%A0%E5%80%91%E5%9C%A8%E8%8A%B1%E7%92%B0%E4%B8%8A%E7%9B%AA%E9%9E%A6%E9%9F%86%E3%80%81%E5%81%B7%E6%98%9F%E6%98%9F%E3%80%81%E5%80%92%E6%8E%9B%E8%91%97%EF%BC%8C%E4%B8%A6%E5%81%9A%E5%87%BA%E6%BB%91%E7%A8%BD%E7%9A%84%E8%A1%A8%E6%83%85%EF%BC%8C%E4%BB%A5%E7%94%9F%E5%8B%95%E7%9A%84%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E5%8C%96%E3%80%81%E5%B9%B3%E8%A1%A1%E3%80%81%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%E3%80%81%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
@@ -805,18 +805,18 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-此提示會建立一個幽默的動畫兒童讀物風格聖誕相框，其中有緩慢移動的卡通蝸牛拖曳著裝飾品並留下閃閃發光的痕跡。它採用垂直 1:1.4 的長寬比，僅專注於相框設計。
+此提示會建立一個幽默的動畫兒童讀物風格聖誕相框，其中有緩慢移動的卡通蝸牛拖曳著飾品並留下閃閃發光的痕跡。這是一個垂直的 1:1.4 長寬比，僅專注於相框設計。
 
 #### 📝 提示詞
 
 ```
-一張可列印的聖誕相框插圖，採用垂直 1:1.4 的長寬比，以幽默的動畫兒童讀物風格繪製。
+一張可列印的聖誕相框插圖，採用垂直 1:1.4 的長寬比，以幽默的動畫兒童繪本風格繪製。
 
 插圖僅聚焦於相框設計。
 
 在正中央，包含一個空白照片佔位區，水平和垂直居中，長寬比為 1:1.4，佔總寬度的 70%，完全乾淨。
 
-邊框特色是緩慢移動的卡通蝸牛，戴著小小的聖誕帽，拖著飾品，留下閃閃發光的痕跡，並以荒謬悠閒的速度攀爬節日裝飾。
+邊框特色是緩慢移動的卡通蝸牛，戴著迷你聖誕帽，拖曳著飾品，留下閃閃發光的痕跡，並以荒謬悠閒的速度攀爬節慶裝飾。
 
 扁平插圖，溫馨幽默，無文字。
 ```
@@ -836,7 +836,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E5%85%92%E7%AB%A5%E8%AE%80%E7%89%A9%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E6%8F%92%E5%9C%96%E5%83%85%E8%81%9A%E7%84%A6%E6%96%BC%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E3%80%82%0A%0A%E5%9C%A8%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E5%8C%85%E5%90%AB%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E5%8D%80%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E4%BD%94%E7%B8%BD%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E4%B9%BE%E6%B7%A8%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E7%89%B9%E8%89%B2%E6%98%AF%E7%B7%A9%E6%85%A2%E7%A7%BB%E5%8B%95%E7%9A%84%E5%8D%A1%E9%80%9A%E8%9D%B8%E7%89%9B%EF%BC%8C%E6%88%B4%E8%91%97%E5%B0%8F%E5%B0%8F%E7%9A%84%E8%81%96%E8%AA%95%E5%B8%BD%EF%BC%8C%E6%8B%96%E8%91%97%E9%A3%BE%E5%93%81%EF%BC%8C%E7%95%99%E4%B8%8B%E9%96%83%E9%96%83%E7%99%BC%E5%85%89%E7%9A%84%E7%97%95%E8%B7%A1%EF%BC%8C%E4%B8%A6%E4%BB%A5%E8%8D%92%E8%AC%AC%E6%82%A0%E9%96%92%E7%9A%84%E9%80%9F%E5%BA%A6%E6%94%80%E7%88%AC%E7%AF%80%E6%97%A5%E8%A3%9D%E9%A3%BE%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E6%8F%92%E5%9C%96%EF%BC%8C%E6%BA%AB%E9%A6%A8%E5%B9%BD%E9%BB%98%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E5%85%92%E7%AB%A5%E7%B9%AA%E6%9C%AC%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%E3%80%82%0A%0A%E6%8F%92%E5%9C%96%E5%83%85%E8%81%9A%E7%84%A6%E6%96%BC%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E3%80%82%0A%0A%E5%9C%A8%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E5%8C%85%E5%90%AB%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E5%8D%80%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E4%BD%94%E7%B8%BD%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E4%B9%BE%E6%B7%A8%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E7%89%B9%E8%89%B2%E6%98%AF%E7%B7%A9%E6%85%A2%E7%A7%BB%E5%8B%95%E7%9A%84%E5%8D%A1%E9%80%9A%E8%9D%B8%E7%89%9B%EF%BC%8C%E6%88%B4%E8%91%97%E8%BF%B7%E4%BD%A0%E8%81%96%E8%AA%95%E5%B8%BD%EF%BC%8C%E6%8B%96%E6%9B%B3%E8%91%97%E9%A3%BE%E5%93%81%EF%BC%8C%E7%95%99%E4%B8%8B%E9%96%83%E9%96%83%E7%99%BC%E5%85%89%E7%9A%84%E7%97%95%E8%B7%A1%EF%BC%8C%E4%B8%A6%E4%BB%A5%E8%8D%92%E8%AC%AC%E6%82%A0%E9%96%92%E7%9A%84%E9%80%9F%E5%BA%A6%E6%94%80%E7%88%AC%E7%AF%80%E6%85%B6%E8%A3%9D%E9%A3%BE%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E6%8F%92%E5%9C%96%EF%BC%8C%E6%BA%AB%E9%A6%A8%E5%B9%BD%E9%BB%98%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
@@ -846,7 +846,7 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-此提示會產生一個幽默、垂直 1:1.4 的可列印聖誕相框，風格為卡通動畫。相框邊緣充滿了興奮的卡通狗，牠們被燈飾纏住並撞倒了裝飾品，營造出歡樂、充滿活力的場景。
+此提示會生成一個幽默、垂直比例為 1:1.4 的可列印聖誕相框，風格為卡通動畫。相框邊緣充滿了興奮的卡通狗狗，牠們被燈飾纏繞，並打翻了裝飾品，營造出歡樂、充滿活力的場景。
 
 #### 📝 提示詞
 
@@ -855,11 +855,11 @@ by {argument name="author" default="Steve Jobs"}
 
 設計僅顯示相框本身，沒有背景環境。
 
-在水平和垂直方向的正中央預留了一個空白照片佔位符，其長寬比為 1:1.4，寬度為相框的 70%，完全空白且清晰定義。
+在水平和垂直方向的中心預留了一個空白照片佔位符，長寬比為 1:1.4，佔相框寬度的 70%，完全空白且清晰定義。
 
-相框邊緣充滿了興奮的卡通狗，牠們纏繞在聖誕燈飾中、追逐飾品、打翻裝飾品，並穿著誇張的超大節日毛衣。
+相框邊緣充滿了興奮的卡通狗，牠們纏繞在聖誕燈飾中、追逐裝飾品、打翻擺設，並穿著誇張的超大節日毛衣。
 
-歡快、充滿活力、扁平化，並針對列印進行了優化，沒有文字。
+歡快、充滿活力、扁平化設計，並針對列印進行了優化，沒有文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -877,7 +877,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8D%A1%E9%80%9A%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E8%A8%AD%E8%A8%88%E5%83%85%E9%A1%AF%E7%A4%BA%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E8%83%8C%E6%99%AF%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E5%9C%A8%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E7%9A%84%E6%AD%A3%E4%B8%AD%E5%A4%AE%E9%A0%90%E7%95%99%E4%BA%86%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E5%85%B6%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%E7%9B%B8%E6%A1%86%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E6%B8%85%E6%99%B0%E5%AE%9A%E7%BE%A9%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E5%85%85%E6%BB%BF%E4%BA%86%E8%88%88%E5%A5%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E7%8B%97%EF%BC%8C%E7%89%A0%E5%80%91%E7%BA%8F%E7%B9%9E%E5%9C%A8%E8%81%96%E8%AA%95%E7%87%88%E9%A3%BE%E4%B8%AD%E3%80%81%E8%BF%BD%E9%80%90%E9%A3%BE%E5%93%81%E3%80%81%E6%89%93%E7%BF%BB%E8%A3%9D%E9%A3%BE%E5%93%81%EF%BC%8C%E4%B8%A6%E7%A9%BF%E8%91%97%E8%AA%87%E5%BC%B5%E7%9A%84%E8%B6%85%E5%A4%A7%E7%AF%80%E6%97%A5%E6%AF%9B%E8%A1%A3%E3%80%82%0A%0A%E6%AD%A1%E5%BF%AB%E3%80%81%E5%85%85%E6%BB%BF%E6%B4%BB%E5%8A%9B%E3%80%81%E6%89%81%E5%B9%B3%E5%8C%96%EF%BC%8C%E4%B8%A6%E9%87%9D%E5%B0%8D%E5%88%97%E5%8D%B0%E9%80%B2%E8%A1%8C%E4%BA%86%E5%84%AA%E5%8C%96%EF%BC%8C%E6%B2%92%E6%9C%89%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8D%A1%E9%80%9A%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E8%A8%AD%E8%A8%88%E5%83%85%E9%A1%AF%E7%A4%BA%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E8%83%8C%E6%99%AF%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E5%9C%A8%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E7%9A%84%E4%B8%AD%E5%BF%83%E9%A0%90%E7%95%99%E4%BA%86%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E6%B8%85%E6%99%B0%E5%AE%9A%E7%BE%A9%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E5%85%85%E6%BB%BF%E4%BA%86%E8%88%88%E5%A5%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E7%8B%97%EF%BC%8C%E7%89%A0%E5%80%91%E7%BA%8F%E7%B9%9E%E5%9C%A8%E8%81%96%E8%AA%95%E7%87%88%E9%A3%BE%E4%B8%AD%E3%80%81%E8%BF%BD%E9%80%90%E8%A3%9D%E9%A3%BE%E5%93%81%E3%80%81%E6%89%93%E7%BF%BB%E6%93%BA%E8%A8%AD%EF%BC%8C%E4%B8%A6%E7%A9%BF%E8%91%97%E8%AA%87%E5%BC%B5%E7%9A%84%E8%B6%85%E5%A4%A7%E7%AF%80%E6%97%A5%E6%AF%9B%E8%A1%A3%E3%80%82%0A%0A%E6%AD%A1%E5%BF%AB%E3%80%81%E5%85%85%E6%BB%BF%E6%B4%BB%E5%8A%9B%E3%80%81%E6%89%81%E5%B9%B3%E5%8C%96%E8%A8%AD%E8%A8%88%EF%BC%8C%E4%B8%A6%E9%87%9D%E5%B0%8D%E5%88%97%E5%8D%B0%E9%80%B2%E8%A1%8C%E4%BA%86%E5%84%AA%E5%8C%96%EF%BC%8C%E6%B2%92%E6%9C%89%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
@@ -887,18 +887,18 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-此提示會生成一個可列印的聖誕相框插圖，圖中頑皮的浣熊正在偷竊飾品和拐杖糖，營造出俏皮、混亂的節日氛圍。它設計為一個獨立的相框，長寬比為 1:1.4，適合高品質列印。
+此提示會生成一個可列印的聖誕相框插圖，其中有頑皮的浣熊偷竊飾品和拐杖糖，營造出俏皮、混亂的節日氛圍。它設計為獨立相框，長寬比為 1:1.4，適合高品質列印。
 
 #### 📝 提示詞
 
 ```
-一個專為獨立相框設計的可列印聖誕相框插圖，採用垂直 1:1.4 的長寬比，適合高品質列印。
+這是一個專為獨立相框設計的可列印聖誕相框插圖，採用垂直 1:1.4 的長寬比，適合高品質列印。
 
-此插圖僅聚焦於相框本身，沒有外部環境或背景場景。風格為幽默的動畫故事書插圖，具有清晰的輪廓和柔和的紋理。
+此插圖僅專注於相框本身，沒有外部環境或背景場景。風格為幽默的動畫故事書插圖，具有清晰的輪廓和柔和的紋理。
 
 在相框的正中央，保留一個空白的照片佔位區，該區域水平和垂直居中，長寬比為 1:1.4 的肖像模式，佔相框總寬度的 70%，完全空白且未經觸碰。
 
-周圍的相框邊緣描繪著頑皮的卡通浣熊偷竊飾品、藏匿拐杖糖、從角落偷看，以及倒掛在花環上，營造出活潑混亂的節日氛圍。
+周圍的相框邊緣描繪著頑皮的卡通浣熊偷竊飾品、藏匿拐杖糖、從角落偷窺以及倒掛在花環上，營造出活潑混亂的節日氛圍。
 
 扁平構圖，適合列印的色彩，無文字。
 ```
@@ -918,7 +918,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%B0%88%E7%82%BA%E7%8D%A8%E7%AB%8B%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E9%81%A9%E5%90%88%E9%AB%98%E5%93%81%E8%B3%AA%E5%88%97%E5%8D%B0%E3%80%82%0A%0A%E6%AD%A4%E6%8F%92%E5%9C%96%E5%83%85%E8%81%9A%E7%84%A6%E6%96%BC%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E6%88%96%E8%83%8C%E6%99%AF%E5%A0%B4%E6%99%AF%E3%80%82%E9%A2%A8%E6%A0%BC%E7%82%BA%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E6%8F%92%E5%9C%96%EF%BC%8C%E5%85%B7%E6%9C%89%E6%B8%85%E6%99%B0%E7%9A%84%E8%BC%AA%E5%BB%93%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E7%B4%8B%E7%90%86%E3%80%82%0A%0A%E5%9C%A8%E7%9B%B8%E6%A1%86%E7%9A%84%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E4%BF%9D%E7%95%99%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E5%8D%80%EF%BC%8C%E8%A9%B2%E5%8D%80%E5%9F%9F%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%20%E7%9A%84%E8%82%96%E5%83%8F%E6%A8%A1%E5%BC%8F%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E7%B8%BD%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E6%9C%AA%E7%B6%93%E8%A7%B8%E7%A2%B0%E3%80%82%0A%0A%E5%91%A8%E5%9C%8D%E7%9A%84%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E6%8F%8F%E7%B9%AA%E8%91%97%E9%A0%91%E7%9A%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E6%B5%A3%E7%86%8A%E5%81%B7%E7%AB%8A%E9%A3%BE%E5%93%81%E3%80%81%E8%97%8F%E5%8C%BF%E6%8B%90%E6%9D%96%E7%B3%96%E3%80%81%E5%BE%9E%E8%A7%92%E8%90%BD%E5%81%B7%E7%9C%8B%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%80%92%E6%8E%9B%E5%9C%A8%E8%8A%B1%E7%92%B0%E4%B8%8A%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E6%B4%BB%E6%BD%91%E6%B7%B7%E4%BA%82%E7%9A%84%E7%AF%80%E6%97%A5%E6%B0%9B%E5%9C%8D%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E6%A7%8B%E5%9C%96%EF%BC%8C%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%E7%9A%84%E8%89%B2%E5%BD%A9%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%80%99%E6%98%AF%E4%B8%80%E5%80%8B%E5%B0%88%E7%82%BA%E7%8D%A8%E7%AB%8B%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E9%81%A9%E5%90%88%E9%AB%98%E5%93%81%E8%B3%AA%E5%88%97%E5%8D%B0%E3%80%82%0A%0A%E6%AD%A4%E6%8F%92%E5%9C%96%E5%83%85%E5%B0%88%E6%B3%A8%E6%96%BC%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E6%88%96%E8%83%8C%E6%99%AF%E5%A0%B4%E6%99%AF%E3%80%82%E9%A2%A8%E6%A0%BC%E7%82%BA%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E6%8F%92%E5%9C%96%EF%BC%8C%E5%85%B7%E6%9C%89%E6%B8%85%E6%99%B0%E7%9A%84%E8%BC%AA%E5%BB%93%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E7%B4%8B%E7%90%86%E3%80%82%0A%0A%E5%9C%A8%E7%9B%B8%E6%A1%86%E7%9A%84%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E4%BF%9D%E7%95%99%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E5%8D%80%EF%BC%8C%E8%A9%B2%E5%8D%80%E5%9F%9F%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%20%E7%9A%84%E8%82%96%E5%83%8F%E6%A8%A1%E5%BC%8F%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E7%B8%BD%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E6%9C%AA%E7%B6%93%E8%A7%B8%E7%A2%B0%E3%80%82%0A%0A%E5%91%A8%E5%9C%8D%E7%9A%84%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E6%8F%8F%E7%B9%AA%E8%91%97%E9%A0%91%E7%9A%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E6%B5%A3%E7%86%8A%E5%81%B7%E7%AB%8A%E9%A3%BE%E5%93%81%E3%80%81%E8%97%8F%E5%8C%BF%E6%8B%90%E6%9D%96%E7%B3%96%E3%80%81%E5%BE%9E%E8%A7%92%E8%90%BD%E5%81%B7%E7%AA%BA%E4%BB%A5%E5%8F%8A%E5%80%92%E6%8E%9B%E5%9C%A8%E8%8A%B1%E7%92%B0%E4%B8%8A%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E6%B4%BB%E6%BD%91%E6%B7%B7%E4%BA%82%E7%9A%84%E7%AF%80%E6%97%A5%E6%B0%9B%E5%9C%8D%E3%80%82%0A%0A%E6%89%81%E5%B9%B3%E6%A7%8B%E5%9C%96%EF%BC%8C%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%E7%9A%84%E8%89%B2%E5%BD%A9%EF%BC%8C%E7%84%A1%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
@@ -928,20 +928,20 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-此提示會建立一個垂直、可列印的聖誕相框，其插圖採用迷人、幽默的兒童讀物動畫風格，並以笨拙的企鵝為特色。設計完全著重於相框本身，並帶有空白的照片佔位符，為列印提供歡樂、有趣且生動的外觀。
+這個提示會建立一個垂直、可列印的聖誕相框，其插圖風格迷人且幽默，帶有兒童繪本動畫的特色，並以笨拙的企鵝為主題。設計完全聚焦於相框本身，並留有空白的照片佔位符，為列印品帶來歡樂、有趣且生動的視覺效果。
 
 #### 📝 提示詞
 
 ```
 一個垂直的 1:1.4 可列印聖誕相框，以迷人、幽默的兒童讀物動畫風格呈現。
 
-設計完全聚焦於相框本身，採用平面插畫，沒有背景環境。
+設計完全聚焦於相框本身，採用扁平插畫，沒有背景環境。
 
-相框正中央預留了一個大型空白照片佔位符，比例為 1:1.4 的直向，佔相框寬度的 70%，刻意留空並與所有裝飾清晰區隔。
+一個大型空白照片佔位符精確地保留在水平和垂直中心，比例為 1:1.4 肖像，佔相框寬度的 70%，刻意留空並與所有裝飾品清晰區隔。
 
-周圍的邊框飾有笨拙的卡通企鵝，牠們正在滑倒、堆疊飾品、手持超大星星，並與邊緣的節慶元素俏皮互動。
+周圍的邊框飾有笨拙的卡通企鵝，牠們滑倒、堆疊飾品、手持超大星星，並與邊緣的節慶元素俏皮互動。
 
-整體風格歡樂、有趣、生動且適合列印，沒有任何文字或字樣。
+整體風格歡樂、有趣、生動且易於列印，沒有任何文字或字母。
 ```
 
 #### 🖼️ 生成圖片
@@ -959,7 +959,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E8%BF%B7%E4%BA%BA%E3%80%81%E5%B9%BD%E9%BB%98%E7%9A%84%E5%85%92%E7%AB%A5%E8%AE%80%E7%89%A9%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E8%A8%AD%E8%A8%88%E5%AE%8C%E5%85%A8%E8%81%9A%E7%84%A6%E6%96%BC%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%B9%B3%E9%9D%A2%E6%8F%92%E7%95%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E8%83%8C%E6%99%AF%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E6%AD%A3%E4%B8%AD%E5%A4%AE%E9%A0%90%E7%95%99%E4%BA%86%E4%B8%80%E5%80%8B%E5%A4%A7%E5%9E%8B%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%20%E7%9A%84%E7%9B%B4%E5%90%91%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%88%BB%E6%84%8F%E7%95%99%E7%A9%BA%E4%B8%A6%E8%88%87%E6%89%80%E6%9C%89%E8%A3%9D%E9%A3%BE%E6%B8%85%E6%99%B0%E5%8D%80%E9%9A%94%E3%80%82%0A%0A%E5%91%A8%E5%9C%8D%E7%9A%84%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E7%AC%A8%E6%8B%99%E7%9A%84%E5%8D%A1%E9%80%9A%E4%BC%81%E9%B5%9D%EF%BC%8C%E7%89%A0%E5%80%91%E6%AD%A3%E5%9C%A8%E6%BB%91%E5%80%92%E3%80%81%E5%A0%86%E7%96%8A%E9%A3%BE%E5%93%81%E3%80%81%E6%89%8B%E6%8C%81%E8%B6%85%E5%A4%A7%E6%98%9F%E6%98%9F%EF%BC%8C%E4%B8%A6%E8%88%87%E9%82%8A%E7%B7%A3%E7%9A%84%E7%AF%80%E6%85%B6%E5%85%83%E7%B4%A0%E4%BF%8F%E7%9A%AE%E4%BA%92%E5%8B%95%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E9%A2%A8%E6%A0%BC%E6%AD%A1%E6%A8%82%E3%80%81%E6%9C%89%E8%B6%A3%E3%80%81%E7%94%9F%E5%8B%95%E4%B8%94%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E6%88%96%E5%AD%97%E6%A8%A3%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E8%BF%B7%E4%BA%BA%E3%80%81%E5%B9%BD%E9%BB%98%E7%9A%84%E5%85%92%E7%AB%A5%E8%AE%80%E7%89%A9%E5%8B%95%E7%95%AB%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E8%A8%AD%E8%A8%88%E5%AE%8C%E5%85%A8%E8%81%9A%E7%84%A6%E6%96%BC%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%8E%A1%E7%94%A8%E6%89%81%E5%B9%B3%E6%8F%92%E7%95%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E8%83%8C%E6%99%AF%E7%92%B0%E5%A2%83%E3%80%82%0A%0A%E4%B8%80%E5%80%8B%E5%A4%A7%E5%9E%8B%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%E7%B2%BE%E7%A2%BA%E5%9C%B0%E4%BF%9D%E7%95%99%E5%9C%A8%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E4%B8%AD%E5%BF%83%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%20%E8%82%96%E5%83%8F%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%88%BB%E6%84%8F%E7%95%99%E7%A9%BA%E4%B8%A6%E8%88%87%E6%89%80%E6%9C%89%E8%A3%9D%E9%A3%BE%E5%93%81%E6%B8%85%E6%99%B0%E5%8D%80%E9%9A%94%E3%80%82%0A%0A%E5%91%A8%E5%9C%8D%E7%9A%84%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E7%AC%A8%E6%8B%99%E7%9A%84%E5%8D%A1%E9%80%9A%E4%BC%81%E9%B5%9D%EF%BC%8C%E7%89%A0%E5%80%91%E6%BB%91%E5%80%92%E3%80%81%E5%A0%86%E7%96%8A%E9%A3%BE%E5%93%81%E3%80%81%E6%89%8B%E6%8C%81%E8%B6%85%E5%A4%A7%E6%98%9F%E6%98%9F%EF%BC%8C%E4%B8%A6%E8%88%87%E9%82%8A%E7%B7%A3%E7%9A%84%E7%AF%80%E6%85%B6%E5%85%83%E7%B4%A0%E4%BF%8F%E7%9A%AE%E4%BA%92%E5%8B%95%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E9%A2%A8%E6%A0%BC%E6%AD%A1%E6%A8%82%E3%80%81%E6%9C%89%E8%B6%A3%E3%80%81%E7%94%9F%E5%8B%95%E4%B8%94%E6%98%93%E6%96%BC%E5%88%97%E5%8D%B0%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E6%88%96%E5%AD%97%E6%AF%8D%E3%80%82)**
 
 ---
 
@@ -969,20 +969,20 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-此提示會建立一個可列印的聖誕相框插圖，風格為幽默的動畫故事書，其中包含有趣的薑餅人角色。設計僅顯示相框，並留有空白照片佔位符，為列印提供幽默、舒適且異想天開的美感。
+此提示會建立一個可列印的聖誕相框插圖，風格為幽默的動畫故事書，並以有趣的薑餅人角色為特色。設計僅顯示相框和空白照片佔位符，為列印提供幽默、舒適和異想天開的美感。
 
 #### 📝 提示詞
 
 ```
-一個可列印的聖誕相框插圖，採用垂直 1:1.4 的長寬比，以幽默的動畫故事書風格創作。
+一張可列印的聖誕相框插圖，採用垂直 1:1.4 的長寬比，以幽默的動畫故事書風格創作。
 
-插圖僅顯示相框設計，沒有任何外部環境或背景風景。色彩溫暖且富有節日氣氛，帶有柔和的紙張紋理。
+插圖僅顯示相框設計，沒有任何外部環境或背景風景。色彩溫暖且充滿節慶氣氛，帶有柔和的紙張紋理。
 
-在正中央，預留一個空白的照片佔位符，該佔位符水平和垂直居中，保持 1:1.4 的長寬比，並佔總相框寬度的 70%，完全空白且無遮擋。
+在正中央，預留一個空白的照片佔位符，該佔位符水平和垂直居中，保持 1:1.4 的長寬比，佔總相框寬度的 70%，完全空白且無遮擋。
 
-相框邊緣裝飾著俏皮的薑餅角色，擺出滑稽的姿勢，還有部分破碎的餅乾、糖霜細節和糖果裝飾，所有這些都繪有富有表現力的卡通臉孔。
+相框邊緣裝飾著俏皮的薑餅人角色擺出滑稽的姿勢、部分破碎的餅乾、糖霜細節和糖果裝飾，所有這些都繪有富有表現力的卡通臉孔。
 
-整體氛圍幽默、溫馨且異想天開，完全針對列印進行了優化，沒有任何文字排版。
+整體氛圍幽默、溫馨且異想天開，完全針對列印進行了優化，沒有任何文字。
 ```
 
 #### 🖼️ 生成圖片
@@ -1000,30 +1000,30 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E9%A2%A8%E6%A0%BC%E5%89%B5%E4%BD%9C%E3%80%82%0A%0A%E6%8F%92%E5%9C%96%E5%83%85%E9%A1%AF%E7%A4%BA%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E6%88%96%E8%83%8C%E6%99%AF%E9%A2%A8%E6%99%AF%E3%80%82%E8%89%B2%E5%BD%A9%E6%BA%AB%E6%9A%96%E4%B8%94%E5%AF%8C%E6%9C%89%E7%AF%80%E6%97%A5%E6%B0%A3%E6%B0%9B%EF%BC%8C%E5%B8%B6%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E7%B4%99%E5%BC%B5%E7%B4%8B%E7%90%86%E3%80%82%0A%0A%E5%9C%A8%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E9%A0%90%E7%95%99%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E8%A9%B2%E4%BD%94%E4%BD%8D%E7%AC%A6%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E4%BF%9D%E6%8C%81%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E4%B8%A6%E4%BD%94%E7%B8%BD%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E7%84%A1%E9%81%AE%E6%93%8B%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E8%A3%9D%E9%A3%BE%E8%91%97%E4%BF%8F%E7%9A%AE%E7%9A%84%E8%96%91%E9%A4%85%E8%A7%92%E8%89%B2%EF%BC%8C%E6%93%BA%E5%87%BA%E6%BB%91%E7%A8%BD%E7%9A%84%E5%A7%BF%E5%8B%A2%EF%BC%8C%E9%82%84%E6%9C%89%E9%83%A8%E5%88%86%E7%A0%B4%E7%A2%8E%E7%9A%84%E9%A4%85%E4%B9%BE%E3%80%81%E7%B3%96%E9%9C%9C%E7%B4%B0%E7%AF%80%E5%92%8C%E7%B3%96%E6%9E%9C%E8%A3%9D%E9%A3%BE%EF%BC%8C%E6%89%80%E6%9C%89%E9%80%99%E4%BA%9B%E9%83%BD%E7%B9%AA%E6%9C%89%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E7%9A%84%E5%8D%A1%E9%80%9A%E8%87%89%E5%AD%94%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E5%B9%BD%E9%BB%98%E3%80%81%E6%BA%AB%E9%A6%A8%E4%B8%94%E7%95%B0%E6%83%B3%E5%A4%A9%E9%96%8B%EF%BC%8C%E5%AE%8C%E5%85%A8%E9%87%9D%E5%B0%8D%E5%88%97%E5%8D%B0%E9%80%B2%E8%A1%8C%E4%BA%86%E5%84%AA%E5%8C%96%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E6%8E%92%E7%89%88%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E9%A2%A8%E6%A0%BC%E5%89%B5%E4%BD%9C%E3%80%82%0A%0A%E6%8F%92%E5%9C%96%E5%83%85%E9%A1%AF%E7%A4%BA%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E6%88%96%E8%83%8C%E6%99%AF%E9%A2%A8%E6%99%AF%E3%80%82%E8%89%B2%E5%BD%A9%E6%BA%AB%E6%9A%96%E4%B8%94%E5%85%85%E6%BB%BF%E7%AF%80%E6%85%B6%E6%B0%A3%E6%B0%9B%EF%BC%8C%E5%B8%B6%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E7%B4%99%E5%BC%B5%E7%B4%8B%E7%90%86%E3%80%82%0A%0A%E5%9C%A8%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E9%A0%90%E7%95%99%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E8%A9%B2%E4%BD%94%E4%BD%8D%E7%AC%A6%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E4%BF%9D%E6%8C%81%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E4%BD%94%E7%B8%BD%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E7%84%A1%E9%81%AE%E6%93%8B%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E8%A3%9D%E9%A3%BE%E8%91%97%E4%BF%8F%E7%9A%AE%E7%9A%84%E8%96%91%E9%A4%85%E4%BA%BA%E8%A7%92%E8%89%B2%E6%93%BA%E5%87%BA%E6%BB%91%E7%A8%BD%E7%9A%84%E5%A7%BF%E5%8B%A2%E3%80%81%E9%83%A8%E5%88%86%E7%A0%B4%E7%A2%8E%E7%9A%84%E9%A4%85%E4%B9%BE%E3%80%81%E7%B3%96%E9%9C%9C%E7%B4%B0%E7%AF%80%E5%92%8C%E7%B3%96%E6%9E%9C%E8%A3%9D%E9%A3%BE%EF%BC%8C%E6%89%80%E6%9C%89%E9%80%99%E4%BA%9B%E9%83%BD%E7%B9%AA%E6%9C%89%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E7%9A%84%E5%8D%A1%E9%80%9A%E8%87%89%E5%AD%94%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E5%B9%BD%E9%BB%98%E3%80%81%E6%BA%AB%E9%A6%A8%E4%B8%94%E7%95%B0%E6%83%B3%E5%A4%A9%E9%96%8B%EF%BC%8C%E5%AE%8C%E5%85%A8%E9%87%9D%E5%B0%8D%E5%88%97%E5%8D%B0%E9%80%B2%E8%A1%8C%E4%BA%86%E5%84%AA%E5%8C%96%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 18: 慵懶樹懶風格聖誕動畫相框
+### No. 18: 樹懶風格動畫聖誕相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-此提示會產生一張可列印的聖誕節相框插圖，風格為幽默的動畫故事書，並以懶惰的樹懶為主題。它設計成一個獨立的相框，帶有空白的照片佔位符，非常適合高品質列印，並為節日照片增添輕鬆、溫馨和幽默的氣息。
+此提示會產生一個可列印的聖誕節相框插圖，風格為幽默的動畫故事書，主角是懶惰的樹懶。它設計成一個獨立的相框，帶有空白的照片佔位符，非常適合高品質列印，為節日照片增添輕鬆、溫馨和幽默的氣息。
 
 #### 📝 提示詞
 
 ```
-這是一個專為獨立相框設計的可列印聖誕相框插圖，採用垂直 1:1.4 的長寬比，適合高品質列印。
+一個專為獨立相框設計的可列印聖誕相框插圖，採用垂直 1:1.4 的長寬比，適合高品質列印。
 
-插圖僅聚焦於相框本身，沒有外部環境或背景場景。風格是幽默的動畫故事書插圖，具有柔和的紋理、清晰的輪廓和溫暖的色彩。
+此插圖僅專注於相框本身，沒有外部環境或背景場景。風格為幽默的動畫故事書插圖，具有柔和的紋理、清晰的輪廓和溫暖的色彩。
 
-在相框的正中央，保留一個水平和垂直居中的空白照片佔位區。該佔位區具有 1:1.4 的肖像長寬比，其寬度等於相框總寬度的 70%，並且必須保持完全空白和未觸動。
+在相框的正中央，保留一個空白的照片預留區，該區域水平和垂直居中。此預留區具有 1:1.4 的肖像長寬比，其寬度等於相框總寬度的 70%，並且必須保持完全空白且未被觸及。
 
-周圍的相框邊緣飾有俏皮的卡通樹懶，牠們掛在拐杖糖、常青樹枝和節日掛鉤上。樹懶們穿著舒適的針織毛衣和圍巾，擺出輕鬆有趣的姿勢。
+周圍的相框邊緣飾有俏皮的卡通樹懶，牠們懸掛在拐杖糖、常青樹枝和節日掛鉤上。樹懶們穿著舒適的針織毛衣和圍巾，擺出輕鬆有趣的姿勢。
 
-插圖給人一種輕鬆、舒適和幽默的感覺，採用扁平構圖和適合列印的色彩，沒有任何文字或排版。
+此插圖給人一種輕鬆、舒適和幽默的感覺，具有扁平構圖和適合列印的色彩，沒有任何文字或排版。
 ```
 
 #### 🖼️ 生成圖片
@@ -1031,7 +1031,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="慵懶樹懶風格聖誕動畫相框 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="樹懶風格動畫聖誕相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1041,7 +1041,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E9%80%99%E6%98%AF%E4%B8%80%E5%80%8B%E5%B0%88%E7%82%BA%E7%8D%A8%E7%AB%8B%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E9%81%A9%E5%90%88%E9%AB%98%E5%93%81%E8%B3%AA%E5%88%97%E5%8D%B0%E3%80%82%0A%0A%E6%8F%92%E5%9C%96%E5%83%85%E8%81%9A%E7%84%A6%E6%96%BC%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E6%88%96%E8%83%8C%E6%99%AF%E5%A0%B4%E6%99%AF%E3%80%82%E9%A2%A8%E6%A0%BC%E6%98%AF%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E6%8F%92%E5%9C%96%EF%BC%8C%E5%85%B7%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E7%B4%8B%E7%90%86%E3%80%81%E6%B8%85%E6%99%B0%E7%9A%84%E8%BC%AA%E5%BB%93%E5%92%8C%E6%BA%AB%E6%9A%96%E7%9A%84%E8%89%B2%E5%BD%A9%E3%80%82%0A%0A%E5%9C%A8%E7%9B%B8%E6%A1%86%E7%9A%84%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E4%BF%9D%E7%95%99%E4%B8%80%E5%80%8B%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%E7%9A%84%E7%A9%BA%E7%99%BD%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E5%8D%80%E3%80%82%E8%A9%B2%E4%BD%94%E4%BD%8D%E5%8D%80%E5%85%B7%E6%9C%89%201%3A1.4%20%E7%9A%84%E8%82%96%E5%83%8F%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E5%85%B6%E5%AF%AC%E5%BA%A6%E7%AD%89%E6%96%BC%E7%9B%B8%E6%A1%86%E7%B8%BD%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E4%B8%A6%E4%B8%94%E5%BF%85%E9%A0%88%E4%BF%9D%E6%8C%81%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E5%92%8C%E6%9C%AA%E8%A7%B8%E5%8B%95%E3%80%82%0A%0A%E5%91%A8%E5%9C%8D%E7%9A%84%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E9%A3%BE%E6%9C%89%E4%BF%8F%E7%9A%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E6%A8%B9%E6%87%B6%EF%BC%8C%E7%89%A0%E5%80%91%E6%8E%9B%E5%9C%A8%E6%8B%90%E6%9D%96%E7%B3%96%E3%80%81%E5%B8%B8%E9%9D%92%E6%A8%B9%E6%9E%9D%E5%92%8C%E7%AF%80%E6%97%A5%E6%8E%9B%E9%89%A4%E4%B8%8A%E3%80%82%E6%A8%B9%E6%87%B6%E5%80%91%E7%A9%BF%E8%91%97%E8%88%92%E9%81%A9%E7%9A%84%E9%87%9D%E7%B9%94%E6%AF%9B%E8%A1%A3%E5%92%8C%E5%9C%8D%E5%B7%BE%EF%BC%8C%E6%93%BA%E5%87%BA%E8%BC%95%E9%AC%86%E6%9C%89%E8%B6%A3%E7%9A%84%E5%A7%BF%E5%8B%A2%E3%80%82%0A%0A%E6%8F%92%E5%9C%96%E7%B5%A6%E4%BA%BA%E4%B8%80%E7%A8%AE%E8%BC%95%E9%AC%86%E3%80%81%E8%88%92%E9%81%A9%E5%92%8C%E5%B9%BD%E9%BB%98%E7%9A%84%E6%84%9F%E8%A6%BA%EF%BC%8C%E6%8E%A1%E7%94%A8%E6%89%81%E5%B9%B3%E6%A7%8B%E5%9C%96%E5%92%8C%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%E7%9A%84%E8%89%B2%E5%BD%A9%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E6%88%96%E6%8E%92%E7%89%88%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%B0%88%E7%82%BA%E7%8D%A8%E7%AB%8B%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E9%81%A9%E5%90%88%E9%AB%98%E5%93%81%E8%B3%AA%E5%88%97%E5%8D%B0%E3%80%82%0A%0A%E6%AD%A4%E6%8F%92%E5%9C%96%E5%83%85%E5%B0%88%E6%B3%A8%E6%96%BC%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%E6%88%96%E8%83%8C%E6%99%AF%E5%A0%B4%E6%99%AF%E3%80%82%E9%A2%A8%E6%A0%BC%E7%82%BA%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E6%95%85%E4%BA%8B%E6%9B%B8%E6%8F%92%E5%9C%96%EF%BC%8C%E5%85%B7%E6%9C%89%E6%9F%94%E5%92%8C%E7%9A%84%E7%B4%8B%E7%90%86%E3%80%81%E6%B8%85%E6%99%B0%E7%9A%84%E8%BC%AA%E5%BB%93%E5%92%8C%E6%BA%AB%E6%9A%96%E7%9A%84%E8%89%B2%E5%BD%A9%E3%80%82%0A%0A%E5%9C%A8%E7%9B%B8%E6%A1%86%E7%9A%84%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E4%BF%9D%E7%95%99%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E9%A0%90%E7%95%99%E5%8D%80%EF%BC%8C%E8%A9%B2%E5%8D%80%E5%9F%9F%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%E3%80%82%E6%AD%A4%E9%A0%90%E7%95%99%E5%8D%80%E5%85%B7%E6%9C%89%201%3A1.4%20%E7%9A%84%E8%82%96%E5%83%8F%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E5%85%B6%E5%AF%AC%E5%BA%A6%E7%AD%89%E6%96%BC%E7%9B%B8%E6%A1%86%E7%B8%BD%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E4%B8%A6%E4%B8%94%E5%BF%85%E9%A0%88%E4%BF%9D%E6%8C%81%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E6%9C%AA%E8%A2%AB%E8%A7%B8%E5%8F%8A%E3%80%82%0A%0A%E5%91%A8%E5%9C%8D%E7%9A%84%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%E9%A3%BE%E6%9C%89%E4%BF%8F%E7%9A%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E6%A8%B9%E6%87%B6%EF%BC%8C%E7%89%A0%E5%80%91%E6%87%B8%E6%8E%9B%E5%9C%A8%E6%8B%90%E6%9D%96%E7%B3%96%E3%80%81%E5%B8%B8%E9%9D%92%E6%A8%B9%E6%9E%9D%E5%92%8C%E7%AF%80%E6%97%A5%E6%8E%9B%E9%89%A4%E4%B8%8A%E3%80%82%E6%A8%B9%E6%87%B6%E5%80%91%E7%A9%BF%E8%91%97%E8%88%92%E9%81%A9%E7%9A%84%E9%87%9D%E7%B9%94%E6%AF%9B%E8%A1%A3%E5%92%8C%E5%9C%8D%E5%B7%BE%EF%BC%8C%E6%93%BA%E5%87%BA%E8%BC%95%E9%AC%86%E6%9C%89%E8%B6%A3%E7%9A%84%E5%A7%BF%E5%8B%A2%E3%80%82%0A%0A%E6%AD%A4%E6%8F%92%E5%9C%96%E7%B5%A6%E4%BA%BA%E4%B8%80%E7%A8%AE%E8%BC%95%E9%AC%86%E3%80%81%E8%88%92%E9%81%A9%E5%92%8C%E5%B9%BD%E9%BB%98%E7%9A%84%E6%84%9F%E8%A6%BA%EF%BC%8C%E5%85%B7%E6%9C%89%E6%89%81%E5%B9%B3%E6%A7%8B%E5%9C%96%E5%92%8C%E9%81%A9%E5%90%88%E5%88%97%E5%8D%B0%E7%9A%84%E8%89%B2%E5%BD%A9%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E6%88%96%E6%8E%92%E7%89%88%E3%80%82)**
 
 ---
 
@@ -1051,18 +1051,18 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-這個提示會建立一個可列印的動畫聖誕相框，採用幽默的卡通風格，並以俏皮的北極熊為特色。它專為列印用途設計，僅作為相框插圖，並留有空白的照片佔位符，為節日照片提供歡樂、有趣且友善的美感。
+這個提示會建立一個可列印的動畫聖誕相框，採用幽默的卡通風格，並以俏皮的北極熊為特色。它專為列印而設計，僅作為相框插圖，並留有空白的照片佔位符，為節日照片提供歡樂、有趣和友善的美感。
 
 #### 📝 提示詞
 
 ```
 一個可列印的動畫聖誕相框，採用垂直 1:1.4 的長寬比，專為列印而設計，僅作為相框插圖。
 
-相框以幽默的卡通風格繪製，具有圓潤的形狀、富有表現力的角色和柔和的陰影。沒有環境、沒有背景場景，只有相框設計。
+相框以幽默的卡通風格繪製，具有圓潤的形狀、富有表現力的角色和柔和的陰影。沒有環境，沒有背景場景，只有相框設計。
 
 在水平和垂直正中央保留了一個空白的照片佔位符，長寬比為 1:1.4，佔相框寬度的 70%，完全空白且乾淨。
 
-邊框裝飾著頑皮的北極熊，牠們滑行、偷看並攀附在相框邊緣，以一種滑稽、誇張的方式與拐杖糖、裝飾品和雪球互動。
+邊框裝飾著玩耍的北極熊，牠們滑行、偷看並攀附在相框邊緣，以一種滑稽、誇張的方式與拐杖糖、裝飾品和雪球互動。
 
 整體氛圍歡快、有趣、友善，針對平面可列印插圖進行了優化，沒有文字。
 ```
@@ -1082,30 +1082,30 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E5%8B%95%E7%95%AB%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E5%B0%88%E7%82%BA%E5%88%97%E5%8D%B0%E8%80%8C%E8%A8%AD%E8%A8%88%EF%BC%8C%E5%83%85%E4%BD%9C%E7%82%BA%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8D%A1%E9%80%9A%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%EF%BC%8C%E5%85%B7%E6%9C%89%E5%9C%93%E6%BD%A4%E7%9A%84%E5%BD%A2%E7%8B%80%E3%80%81%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E7%9A%84%E8%A7%92%E8%89%B2%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E9%99%B0%E5%BD%B1%E3%80%82%E6%B2%92%E6%9C%89%E7%92%B0%E5%A2%83%E3%80%81%E6%B2%92%E6%9C%89%E8%83%8C%E6%99%AF%E5%A0%B4%E6%99%AF%EF%BC%8C%E5%8F%AA%E6%9C%89%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E3%80%82%0A%0A%E5%9C%A8%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E6%AD%A3%E4%B8%AD%E5%A4%AE%E4%BF%9D%E7%95%99%E4%BA%86%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E4%B9%BE%E6%B7%A8%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E8%A3%9D%E9%A3%BE%E8%91%97%E9%A0%91%E7%9A%AE%E7%9A%84%E5%8C%97%E6%A5%B5%E7%86%8A%EF%BC%8C%E7%89%A0%E5%80%91%E6%BB%91%E8%A1%8C%E3%80%81%E5%81%B7%E7%9C%8B%E4%B8%A6%E6%94%80%E9%99%84%E5%9C%A8%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%EF%BC%8C%E4%BB%A5%E4%B8%80%E7%A8%AE%E6%BB%91%E7%A8%BD%E3%80%81%E8%AA%87%E5%BC%B5%E7%9A%84%E6%96%B9%E5%BC%8F%E8%88%87%E6%8B%90%E6%9D%96%E7%B3%96%E3%80%81%E8%A3%9D%E9%A3%BE%E5%93%81%E5%92%8C%E9%9B%AA%E7%90%83%E4%BA%92%E5%8B%95%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E6%AD%A1%E5%BF%AB%E3%80%81%E6%9C%89%E8%B6%A3%E3%80%81%E5%8F%8B%E5%96%84%EF%BC%8C%E9%87%9D%E5%B0%8D%E5%B9%B3%E9%9D%A2%E5%8F%AF%E5%88%97%E5%8D%B0%E6%8F%92%E5%9C%96%E9%80%B2%E8%A1%8C%E4%BA%86%E5%84%AA%E5%8C%96%EF%BC%8C%E6%B2%92%E6%9C%89%E6%96%87%E5%AD%97%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E5%8B%95%E7%95%AB%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E6%8E%A1%E7%94%A8%E5%9E%82%E7%9B%B4%201%3A1.4%20%E7%9A%84%E9%95%B7%E5%AF%AC%E6%AF%94%EF%BC%8C%E5%B0%88%E7%82%BA%E5%88%97%E5%8D%B0%E8%80%8C%E8%A8%AD%E8%A8%88%EF%BC%8C%E5%83%85%E4%BD%9C%E7%82%BA%E7%9B%B8%E6%A1%86%E6%8F%92%E5%9C%96%E3%80%82%0A%0A%E7%9B%B8%E6%A1%86%E4%BB%A5%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8D%A1%E9%80%9A%E9%A2%A8%E6%A0%BC%E7%B9%AA%E8%A3%BD%EF%BC%8C%E5%85%B7%E6%9C%89%E5%9C%93%E6%BD%A4%E7%9A%84%E5%BD%A2%E7%8B%80%E3%80%81%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E7%9A%84%E8%A7%92%E8%89%B2%E5%92%8C%E6%9F%94%E5%92%8C%E7%9A%84%E9%99%B0%E5%BD%B1%E3%80%82%E6%B2%92%E6%9C%89%E7%92%B0%E5%A2%83%EF%BC%8C%E6%B2%92%E6%9C%89%E8%83%8C%E6%99%AF%E5%A0%B4%E6%99%AF%EF%BC%8C%E5%8F%AA%E6%9C%89%E7%9B%B8%E6%A1%86%E8%A8%AD%E8%A8%88%E3%80%82%0A%0A%E5%9C%A8%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E6%AD%A3%E4%B8%AD%E5%A4%AE%E4%BF%9D%E7%95%99%E4%BA%86%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E7%AC%A6%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E4%B9%BE%E6%B7%A8%E3%80%82%0A%0A%E9%82%8A%E6%A1%86%E8%A3%9D%E9%A3%BE%E8%91%97%E7%8E%A9%E8%80%8D%E7%9A%84%E5%8C%97%E6%A5%B5%E7%86%8A%EF%BC%8C%E7%89%A0%E5%80%91%E6%BB%91%E8%A1%8C%E3%80%81%E5%81%B7%E7%9C%8B%E4%B8%A6%E6%94%80%E9%99%84%E5%9C%A8%E7%9B%B8%E6%A1%86%E9%82%8A%E7%B7%A3%EF%BC%8C%E4%BB%A5%E4%B8%80%E7%A8%AE%E6%BB%91%E7%A8%BD%E3%80%81%E8%AA%87%E5%BC%B5%E7%9A%84%E6%96%B9%E5%BC%8F%E8%88%87%E6%8B%90%E6%9D%96%E7%B3%96%E3%80%81%E8%A3%9D%E9%A3%BE%E5%93%81%E5%92%8C%E9%9B%AA%E7%90%83%E4%BA%92%E5%8B%95%E3%80%82%0A%0A%E6%95%B4%E9%AB%94%E6%B0%9B%E5%9C%8D%E6%AD%A1%E5%BF%AB%E3%80%81%E6%9C%89%E8%B6%A3%E3%80%81%E5%8F%8B%E5%96%84%EF%BC%8C%E9%87%9D%E5%B0%8D%E5%B9%B3%E9%9D%A2%E5%8F%AF%E5%88%97%E5%8D%B0%E6%8F%92%E5%9C%96%E9%80%B2%E8%A1%8C%E4%BA%86%E5%84%AA%E5%8C%96%EF%BC%8C%E6%B2%92%E6%9C%89%E6%96%87%E5%AD%97%E3%80%82)**
 
 ---
 
-### No. 20: 淘氣貓咪聖誕貼紙風格相框
+### No. 20: 淘氣貓咪聖誕貼圖風格相框
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-此提示會產生一個垂直、可列印的聖誕相框，以可愛、幽默的動畫貼紙風格繪製，其中包含頑皮的貓咪。設計僅專注於相框本身，具有粗體輪廓、柔和色彩和空白照片佔位符，營造出俏皮而混亂的節日氛圍。
+此提示會產生一個垂直、可列印的聖誕相框，以可愛、幽默的動畫貼紙風格繪製，其中包含頑皮的貓咪。設計僅專注於相框本身，具有粗體輪廓、柔和的色彩和空白照片佔位符，營造出俏皮而混亂的節日氛圍。
 
 #### 📝 提示詞
 
 ```
-一個垂直的 1:1.4 可列印聖誕相框，以可愛、幽默的動畫貼紙風格呈現。
+一個垂直 1:1.4 可列印的聖誕相框，以可愛、幽默的動畫貼紙風格呈現。
 
-設計僅專注於相框本身，沒有房間、牆壁或環境背景。插圖採用粗體輪廓、柔和色彩和富有表現力的卡通人物。
+設計僅專注於相框本身，沒有房間、牆壁或環境背景。插圖採用粗獷的輪廓、柔和的色彩和富有表現力的卡通人物。
 
-在正中央，有一個空白的相片預留位置，水平和垂直居中，比例為 1:1.4 的肖像模式，佔相框寬度的 70%，完全空白且清晰界定。
+在正中央，有一個空白的照片佔位區，水平和垂直居中，比例為 1:1.4 的肖像模式，寬度為相框的 70%，完全空白且清晰可辨。
 
 周圍的邊框飾有調皮的卡通貓咪，牠們纏繞在聖誕燈飾中、打翻裝飾品、攀爬花環，並從角落探出頭來，營造出俏皮而混亂的節日氛圍。
 
-構圖保持扁平、平衡且可供列印，沒有任何文字元素。
+構圖保持扁平、平衡且可供列印，不含任何文字元素。
 ```
 
 #### 🖼️ 生成圖片
@@ -1113,7 +1113,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC" width="600" alt="淘氣貓咪聖誕貼紙風格相框 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC" width="600" alt="淘氣貓咪聖誕貼圖風格相框 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1123,7 +1123,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%E7%9A%84%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%8F%AF%E6%84%9B%E3%80%81%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E8%B2%BC%E7%B4%99%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E8%A8%AD%E8%A8%88%E5%83%85%E5%B0%88%E6%B3%A8%E6%96%BC%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E6%88%BF%E9%96%93%E3%80%81%E7%89%86%E5%A3%81%E6%88%96%E7%92%B0%E5%A2%83%E8%83%8C%E6%99%AF%E3%80%82%E6%8F%92%E5%9C%96%E6%8E%A1%E7%94%A8%E7%B2%97%E9%AB%94%E8%BC%AA%E5%BB%93%E3%80%81%E6%9F%94%E5%92%8C%E8%89%B2%E5%BD%A9%E5%92%8C%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E7%9A%84%E5%8D%A1%E9%80%9A%E4%BA%BA%E7%89%A9%E3%80%82%0A%0A%E5%9C%A8%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E6%9C%89%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%9B%B8%E7%89%87%E9%A0%90%E7%95%99%E4%BD%8D%E7%BD%AE%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%20%E7%9A%84%E8%82%96%E5%83%8F%E6%A8%A1%E5%BC%8F%EF%BC%8C%E4%BD%94%E7%9B%B8%E6%A1%86%E5%AF%AC%E5%BA%A6%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E6%B8%85%E6%99%B0%E7%95%8C%E5%AE%9A%E3%80%82%0A%0A%E5%91%A8%E5%9C%8D%E7%9A%84%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E8%AA%BF%E7%9A%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E8%B2%93%E5%92%AA%EF%BC%8C%E7%89%A0%E5%80%91%E7%BA%8F%E7%B9%9E%E5%9C%A8%E8%81%96%E8%AA%95%E7%87%88%E9%A3%BE%E4%B8%AD%E3%80%81%E6%89%93%E7%BF%BB%E8%A3%9D%E9%A3%BE%E5%93%81%E3%80%81%E6%94%80%E7%88%AC%E8%8A%B1%E7%92%B0%EF%BC%8C%E4%B8%A6%E5%BE%9E%E8%A7%92%E8%90%BD%E6%8E%A2%E5%87%BA%E9%A0%AD%E4%BE%86%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E4%BF%8F%E7%9A%AE%E8%80%8C%E6%B7%B7%E4%BA%82%E7%9A%84%E7%AF%80%E6%97%A5%E6%B0%9B%E5%9C%8D%E3%80%82%0A%0A%E6%A7%8B%E5%9C%96%E4%BF%9D%E6%8C%81%E6%89%81%E5%B9%B3%E3%80%81%E5%B9%B3%E8%A1%A1%E4%B8%94%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E5%85%83%E7%B4%A0%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%80%8B%E5%9E%82%E7%9B%B4%201%3A1.4%20%E5%8F%AF%E5%88%97%E5%8D%B0%E7%9A%84%E8%81%96%E8%AA%95%E7%9B%B8%E6%A1%86%EF%BC%8C%E4%BB%A5%E5%8F%AF%E6%84%9B%E3%80%81%E5%B9%BD%E9%BB%98%E7%9A%84%E5%8B%95%E7%95%AB%E8%B2%BC%E7%B4%99%E9%A2%A8%E6%A0%BC%E5%91%88%E7%8F%BE%E3%80%82%0A%0A%E8%A8%AD%E8%A8%88%E5%83%85%E5%B0%88%E6%B3%A8%E6%96%BC%E7%9B%B8%E6%A1%86%E6%9C%AC%E8%BA%AB%EF%BC%8C%E6%B2%92%E6%9C%89%E6%88%BF%E9%96%93%E3%80%81%E7%89%86%E5%A3%81%E6%88%96%E7%92%B0%E5%A2%83%E8%83%8C%E6%99%AF%E3%80%82%E6%8F%92%E5%9C%96%E6%8E%A1%E7%94%A8%E7%B2%97%E7%8D%B7%E7%9A%84%E8%BC%AA%E5%BB%93%E3%80%81%E6%9F%94%E5%92%8C%E7%9A%84%E8%89%B2%E5%BD%A9%E5%92%8C%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8F%BE%E5%8A%9B%E7%9A%84%E5%8D%A1%E9%80%9A%E4%BA%BA%E7%89%A9%E3%80%82%0A%0A%E5%9C%A8%E6%AD%A3%E4%B8%AD%E5%A4%AE%EF%BC%8C%E6%9C%89%E4%B8%80%E5%80%8B%E7%A9%BA%E7%99%BD%E7%9A%84%E7%85%A7%E7%89%87%E4%BD%94%E4%BD%8D%E5%8D%80%EF%BC%8C%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%EF%BC%8C%E6%AF%94%E4%BE%8B%E7%82%BA%201%3A1.4%20%E7%9A%84%E8%82%96%E5%83%8F%E6%A8%A1%E5%BC%8F%EF%BC%8C%E5%AF%AC%E5%BA%A6%E7%82%BA%E7%9B%B8%E6%A1%86%E7%9A%84%2070%25%EF%BC%8C%E5%AE%8C%E5%85%A8%E7%A9%BA%E7%99%BD%E4%B8%94%E6%B8%85%E6%99%B0%E5%8F%AF%E8%BE%A8%E3%80%82%0A%0A%E5%91%A8%E5%9C%8D%E7%9A%84%E9%82%8A%E6%A1%86%E9%A3%BE%E6%9C%89%E8%AA%BF%E7%9A%AE%E7%9A%84%E5%8D%A1%E9%80%9A%E8%B2%93%E5%92%AA%EF%BC%8C%E7%89%A0%E5%80%91%E7%BA%8F%E7%B9%9E%E5%9C%A8%E8%81%96%E8%AA%95%E7%87%88%E9%A3%BE%E4%B8%AD%E3%80%81%E6%89%93%E7%BF%BB%E8%A3%9D%E9%A3%BE%E5%93%81%E3%80%81%E6%94%80%E7%88%AC%E8%8A%B1%E7%92%B0%EF%BC%8C%E4%B8%A6%E5%BE%9E%E8%A7%92%E8%90%BD%E6%8E%A2%E5%87%BA%E9%A0%AD%E4%BE%86%EF%BC%8C%E7%87%9F%E9%80%A0%E5%87%BA%E4%BF%8F%E7%9A%AE%E8%80%8C%E6%B7%B7%E4%BA%82%E7%9A%84%E7%AF%80%E6%97%A5%E6%B0%9B%E5%9C%8D%E3%80%82%0A%0A%E6%A7%8B%E5%9C%96%E4%BF%9D%E6%8C%81%E6%89%81%E5%B9%B3%E3%80%81%E5%B9%B3%E8%A1%A1%E4%B8%94%E5%8F%AF%E4%BE%9B%E5%88%97%E5%8D%B0%EF%BC%8C%E4%B8%8D%E5%90%AB%E4%BB%BB%E4%BD%95%E6%96%87%E5%AD%97%E5%85%83%E7%B4%A0%E3%80%82)**
 
 ---
 
@@ -1133,12 +1133,12 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 描述
 
-此提示會產生一張可愛的可列印聖誕卡設計，內容是一隻灰色的無尾熊緊抱著一棵裝飾過的聖誕樹。它非常適合用來傳達溫馨可愛的節日問候，並帶有柔和的蠟筆繪畫質感。
+此提示會產生一張可愛的可列印聖誕卡設計，內容是一隻灰色的無尾熊緊抱著一棵裝飾過的聖誕樹。它非常適合用於傳達溫馨可愛的節日問候，並帶有柔和的蠟筆繪畫質感。
 
 #### 📝 提示詞
 
 ```
-一張可愛的可列印聖誕卡設計，長寬比為 1:1.4。一隻灰色的無尾熊緊緊抱著一棵小小的裝飾聖誕樹，而不是尤加利樹，看起來心滿意足且睡意惺忪。聖誕樹上掛滿了閃亮的銀色金蔥和五顏六色的聖誕球。無尾熊戴著一個小小的紅色領結。純色柔和的淡綠色背景。柔和的蠟筆畫質感。
+一張可愛的可列印聖誕卡設計，長寬比為 1:1.4。一隻灰色的無尾熊緊緊抱著一棵小小的、裝飾過的聖誕樹樹幹，而不是尤加利樹，看起來心滿意足又睏倦。聖誕樹上掛滿了閃亮的銀色金屬絲和五顏六色的聖誕球。無尾熊戴著一個小小的紅色領結。純色柔和的淡綠色背景。柔和的蠟筆畫質感。
 ```
 
 #### 🖼️ 生成圖片
@@ -1156,7 +1156,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2025年12月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E5%8D%A1%E8%A8%AD%E8%A8%88%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E7%81%B0%E8%89%B2%E7%9A%84%E7%84%A1%E5%B0%BE%E7%86%8A%E7%B7%8A%E7%B7%8A%E6%8A%B1%E8%91%97%E4%B8%80%E6%A3%B5%E5%B0%8F%E5%B0%8F%E7%9A%84%E8%A3%9D%E9%A3%BE%E8%81%96%E8%AA%95%E6%A8%B9%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%B0%A4%E5%8A%A0%E5%88%A9%E6%A8%B9%EF%BC%8C%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%BF%83%E6%BB%BF%E6%84%8F%E8%B6%B3%E4%B8%94%E7%9D%A1%E6%84%8F%E6%83%BA%E5%BF%AA%E3%80%82%E8%81%96%E8%AA%95%E6%A8%B9%E4%B8%8A%E6%8E%9B%E6%BB%BF%E4%BA%86%E9%96%83%E4%BA%AE%E7%9A%84%E9%8A%80%E8%89%B2%E9%87%91%E8%94%A5%E5%92%8C%E4%BA%94%E9%A1%8F%E5%85%AD%E8%89%B2%E7%9A%84%E8%81%96%E8%AA%95%E7%90%83%E3%80%82%E7%84%A1%E5%B0%BE%E7%86%8A%E6%88%B4%E8%91%97%E4%B8%80%E5%80%8B%E5%B0%8F%E5%B0%8F%E7%9A%84%E7%B4%85%E8%89%B2%E9%A0%98%E7%B5%90%E3%80%82%E7%B4%94%E8%89%B2%E6%9F%94%E5%92%8C%E7%9A%84%E6%B7%A1%E7%B6%A0%E8%89%B2%E8%83%8C%E6%99%AF%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E8%A0%9F%E7%AD%86%E7%95%AB%E8%B3%AA%E6%84%9F%E3%80%82)**
+**[👉 立即嘗試 →](https://youmind.com/tools/christmas-cards-maker?prompt=%E4%B8%80%E5%BC%B5%E5%8F%AF%E6%84%9B%E7%9A%84%E5%8F%AF%E5%88%97%E5%8D%B0%E8%81%96%E8%AA%95%E5%8D%A1%E8%A8%AD%E8%A8%88%EF%BC%8C%E9%95%B7%E5%AF%AC%E6%AF%94%E7%82%BA%201%3A1.4%E3%80%82%E4%B8%80%E9%9A%BB%E7%81%B0%E8%89%B2%E7%9A%84%E7%84%A1%E5%B0%BE%E7%86%8A%E7%B7%8A%E7%B7%8A%E6%8A%B1%E8%91%97%E4%B8%80%E6%A3%B5%E5%B0%8F%E5%B0%8F%E7%9A%84%E3%80%81%E8%A3%9D%E9%A3%BE%E9%81%8E%E7%9A%84%E8%81%96%E8%AA%95%E6%A8%B9%E6%A8%B9%E5%B9%B9%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%B0%A4%E5%8A%A0%E5%88%A9%E6%A8%B9%EF%BC%8C%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%BF%83%E6%BB%BF%E6%84%8F%E8%B6%B3%E5%8F%88%E7%9D%8F%E5%80%A6%E3%80%82%E8%81%96%E8%AA%95%E6%A8%B9%E4%B8%8A%E6%8E%9B%E6%BB%BF%E4%BA%86%E9%96%83%E4%BA%AE%E7%9A%84%E9%8A%80%E8%89%B2%E9%87%91%E5%B1%AC%E7%B5%B2%E5%92%8C%E4%BA%94%E9%A1%8F%E5%85%AD%E8%89%B2%E7%9A%84%E8%81%96%E8%AA%95%E7%90%83%E3%80%82%E7%84%A1%E5%B0%BE%E7%86%8A%E6%88%B4%E8%91%97%E4%B8%80%E5%80%8B%E5%B0%8F%E5%B0%8F%E7%9A%84%E7%B4%85%E8%89%B2%E9%A0%98%E7%B5%90%E3%80%82%E7%B4%94%E8%89%B2%E6%9F%94%E5%92%8C%E7%9A%84%E6%B7%A1%E7%B6%A0%E8%89%B2%E8%83%8C%E6%99%AF%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E8%A0%9F%E7%AD%86%E7%95%AB%E8%B3%AA%E6%84%9F%E3%80%82)**
 
 ---
 
@@ -5032,6 +5032,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-18T01:22:06.509Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-18T04:32:22.762Z</sub>
 
 </div>

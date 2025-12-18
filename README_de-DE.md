@@ -88,7 +88,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **140** |
 | ⭐ Ausgewählt | **6** |
-| 🔄 Zuletzt aktualisiert | **Donnerstag, 18. Dezember 2025 um 01:22:29 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 18. Dezember 2025 um 04:32:44 UTC** |
 
 </div>
 
@@ -325,7 +325,7 @@ Keine Umgebung, nur der Rahmen.
 
 Ein leerer Foto-Platzhalter ist zentriert, im Verhältnis 1:1,4, 70 % Breite, komplett sauber.
 
-Der Rahmen zeigt Cartoon-Biber, die enthusiastisch festliche Dekorationen mit übertriebener Ernsthaftigkeit bauen, hämmern und überkonstruieren.
+Der Rand zeigt Cartoon-Biber, die enthusiastisch festliche Dekorationen mit übertriebener Ernsthaftigkeit bauen, hämmern und überkonstruieren.
 
 Flach, humorvoll, druckoptimiert, kein Text.
 ```
@@ -345,17 +345,17 @@ Flach, humorvoll, druckoptimiert, kein Text.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20im%20Ma%C3%9Fstab%201%3A1%2C4%20druckbarer%20Weihnachts-Fotorahmen%2C%20illustriert%20in%20einem%20verspielten%2C%20animierten%20Stil.%0A%0AKeine%20Umgebung%2C%20nur%20der%20Rahmen.%0A%0AEin%20leerer%20Foto-Platzhalter%20ist%20zentriert%2C%20im%20Verh%C3%A4ltnis%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20komplett%20sauber.%0A%0ADer%20Rahmen%20zeigt%20Cartoon-Biber%2C%20die%20enthusiastisch%20festliche%20Dekorationen%20mit%20%C3%BCbertriebener%20Ernsthaftigkeit%20bauen%2C%20h%C3%A4mmern%20und%20%C3%BCberkonstruieren.%0A%0AFlach%2C%20humorvoll%2C%20druckoptimiert%2C%20kein%20Text.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20im%20Ma%C3%9Fstab%201%3A1%2C4%20druckbarer%20Weihnachts-Fotorahmen%2C%20illustriert%20in%20einem%20verspielten%2C%20animierten%20Stil.%0A%0AKeine%20Umgebung%2C%20nur%20der%20Rahmen.%0A%0AEin%20leerer%20Foto-Platzhalter%20ist%20zentriert%2C%20im%20Verh%C3%A4ltnis%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20komplett%20sauber.%0A%0ADer%20Rand%20zeigt%20Cartoon-Biber%2C%20die%20enthusiastisch%20festliche%20Dekorationen%20mit%20%C3%BCbertriebener%20Ernsthaftigkeit%20bauen%2C%20h%C3%A4mmern%20und%20%C3%BCberkonstruieren.%0A%0AFlach%2C%20humorvoll%2C%20druckoptimiert%2C%20kein%20Text.)**
 
 ---
 
-### No. 2: Weihnachts-Koalas · Can't-Let-Go Rahmen
+### No. 2: Weihnachts-Koalas · Unvergesslicher Rahmen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Dieser Prompt erstellt einen animierten Weihnachts-Fotorahmen im vertikalen 1:1.4-Format. Der Rahmen zeigt Cartoon-Koalas, die Ornamente und Girlanden umarmen und sich weigern loszulassen, was einen sanften, gemütlichen Humor in einem druckfertigen Design erzeugt.
+Dieser Prompt erstellt einen animierten Weihnachts-Fotorahmen im vertikalen 1:1,4-Format. Der Rahmen zeigt Cartoon-Koalas, die Ornamente und Girlanden umarmen und sich weigern loszulassen, was einen sanften, gemütlichen Humor in einem druckfertigen Design erzeugt.
 
 #### 📝 Prompt
 
@@ -364,9 +364,9 @@ Ein druckbarer animierter Weihnachts-Fotorahmen im vertikalen 1:1,4-Format.
 
 Design nur für den Rahmen.
 
-Ein leerer Foto-Platzhalter ist sowohl horizontal als auch vertikal zentriert, im Seitenverhältnis 1:1,4, 70 % Breite, komplett unberührt.
+Ein leerer Foto-Platzhalter ist horizontal und vertikal zentriert, im Seitenverhältnis 1:1,4, 70 % Breite, komplett unberührt.
 
-Der Rahmen zeigt Cartoon-Koalas, die Ornamente, Girlanden und Zuckerstangen umarmen und sich weigern loszulassen, was einen sanften, gemütlichen Humor erzeugt.
+Der Rahmen zeigt Cartoon-Koalas, die Ornamente, Girlanden und Zuckerstangen umarmen und nicht loslassen wollen, was einen sanften, gemütlichen Humor erzeugt.
 
 Flach, warm, druckfertig, kein Text.
 ```
@@ -376,7 +376,7 @@ Flach, warm, druckfertig, kein Text.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788204234_ce1l17_1765784200508-t4uk0f-B9o2xFjunQjTAAAAAElFTkSuQmCC" width="600" alt="Weihnachts-Koalas · Can't-Let-Go Rahmen - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788204234_ce1l17_1765784200508-t4uk0f-B9o2xFjunQjTAAAAAElFTkSuQmCC" width="600" alt="Weihnachts-Koalas · Unvergesslicher Rahmen - Image 1">
 </div>
 
 #### 📌 Details
@@ -386,7 +386,7 @@ Flach, warm, druckfertig, kein Text.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20druckbarer%20animierter%20Weihnachts-Fotorahmen%20im%20vertikalen%201%3A1%2C4-Format.%0A%0ADesign%20nur%20f%C3%BCr%20den%20Rahmen.%0A%0AEin%20leerer%20Foto-Platzhalter%20ist%20sowohl%20horizontal%20als%20auch%20vertikal%20zentriert%2C%20im%20Seitenverh%C3%A4ltnis%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20komplett%20unber%C3%BChrt.%0A%0ADer%20Rahmen%20zeigt%20Cartoon-Koalas%2C%20die%20Ornamente%2C%20Girlanden%20und%20Zuckerstangen%20umarmen%20und%20sich%20weigern%20loszulassen%2C%20was%20einen%20sanften%2C%20gem%C3%BCtlichen%20Humor%20erzeugt.%0A%0AFlach%2C%20warm%2C%20druckfertig%2C%20kein%20Text.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20druckbarer%20animierter%20Weihnachts-Fotorahmen%20im%20vertikalen%201%3A1%2C4-Format.%0A%0ADesign%20nur%20f%C3%BCr%20den%20Rahmen.%0A%0AEin%20leerer%20Foto-Platzhalter%20ist%20horizontal%20und%20vertikal%20zentriert%2C%20im%20Seitenverh%C3%A4ltnis%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20komplett%20unber%C3%BChrt.%0A%0ADer%20Rahmen%20zeigt%20Cartoon-Koalas%2C%20die%20Ornamente%2C%20Girlanden%20und%20Zuckerstangen%20umarmen%20und%20nicht%20loslassen%20wollen%2C%20was%20einen%20sanften%2C%20gem%C3%BCtlichen%20Humor%20erzeugt.%0A%0AFlach%2C%20warm%2C%20druckfertig%2C%20kein%20Text.)**
 
 ---
 
@@ -405,9 +405,9 @@ Ein vertikaler, druckbarer Weihnachtsrahmen im Format 1:1,4, illustriert in eine
 
 Nur der Rahmen selbst.
 
-Exakt mittig platzierter, leerer Fotoplatzhalter, 1:1,4, 70 % Breite, sauber und leer.
+Exakte mittige, leere Foto-Platzhalterfläche, 1:1,4, 70 % Breite, sauber und leer.
 
-Der Rand zeigt Cartoon-Igel und -Eichhörnchen, die um das Sammeln von Dekorationen wetteifern und dabei versehentlich festliches Chaos an den Rändern verursachen.
+Der Rahmen zeigt Cartoon-Igel und -Eichhörnchen, die um das Sammeln von Dekorationen wetteifern und dabei versehentlich festliches Chaos an den Rändern verursachen.
 
 Flache Komposition, kein Text.
 ```
@@ -427,17 +427,17 @@ Flache Komposition, kein Text.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20druckbarer%20Weihnachtsrahmen%20im%20Format%201%3A1%2C4%2C%20illustriert%20in%20einem%20humorvollen%2C%20animierten%20Stil.%0A%0ANur%20der%20Rahmen%20selbst.%0A%0AExakt%20mittig%20platzierter%2C%20leerer%20Fotoplatzhalter%2C%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20sauber%20und%20leer.%0A%0ADer%20Rand%20zeigt%20Cartoon-Igel%20und%20-Eichh%C3%B6rnchen%2C%20die%20um%20das%20Sammeln%20von%20Dekorationen%20wetteifern%20und%20dabei%20versehentlich%20festliches%20Chaos%20an%20den%20R%C3%A4ndern%20verursachen.%0A%0AFlache%20Komposition%2C%20kein%20Text.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20druckbarer%20Weihnachtsrahmen%20im%20Format%201%3A1%2C4%2C%20illustriert%20in%20einem%20humorvollen%2C%20animierten%20Stil.%0A%0ANur%20der%20Rahmen%20selbst.%0A%0AExakte%20mittige%2C%20leere%20Foto-Platzhalterfl%C3%A4che%2C%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20sauber%20und%20leer.%0A%0ADer%20Rahmen%20zeigt%20Cartoon-Igel%20und%20-Eichh%C3%B6rnchen%2C%20die%20um%20das%20Sammeln%20von%20Dekorationen%20wetteifern%20und%20dabei%20versehentlich%20festliches%20Chaos%20an%20den%20R%C3%A4ndern%20verursachen.%0A%0AFlache%20Komposition%2C%20kein%20Text.)**
 
 ---
 
-### No. 4: Weihnachts-Chamäleons · Fehlgeschlagener Tarnungsrahmen
+### No. 4: Weihnachts-Chamäleons · Fehlgeschlagener Tarnrahmen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Dieser Prompt erstellt einen humorvollen Weihnachtsrahmen im Cartoon-Stil im vertikalen 1:1,4-Format. Der Rahmen zeigt Cartoon-Chamäleons, die erfolglos versuchen, sich in die Dekorationen einzufügen, deutlich sichtbar und verwirrt, was dem druckfreundlichen Design einen subtilen visuellen Humor verleiht.
+Dieser Prompt erstellt einen humorvollen Weihnachtsrahmen im Cartoon-Stil im vertikalen 1:1,4-Format. Der Rahmen zeigt Cartoon-Chamäleons, die erfolglos versuchen, sich in die Dekoration einzufügen, deutlich sichtbar und verwirrt, was dem druckfreundlichen Design einen subtilen visuellen Humor verleiht.
 
 #### 📝 Prompt
 
@@ -448,7 +448,7 @@ Nur Rahmen-Illustration.
 
 Zentrierter leerer Foto-Platzhalter, 1:1,4, 70 % Breite, unberührt.
 
-Der Rand zeigt Cartoon-Chamäleons, die erfolglos versuchen, sich in Ornamente, Lichter und Girlanden einzufügen, deutlich sichtbar und verwirrt, was einen subtilen visuellen Humor hinzufügt.
+Der Rahmen zeigt Cartoon-Chamäleons, die erfolglos versuchen, sich in Ornamente, Lichter und Girlanden einzufügen, dabei aber deutlich sichtbar und verwirrt sind, was für subtilen visuellen Humor sorgt.
 
 Flach, druckfreundlich, keine Beschriftung.
 ```
@@ -458,7 +458,7 @@ Flach, druckfreundlich, keine Beschriftung.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788201283_5hpzxv_1765783637947-37zcm3-L03mwdyBuPoGAAAAAElFTkSuQmCC" width="600" alt="Weihnachts-Chamäleons · Fehlgeschlagener Tarnungsrahmen - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788201283_5hpzxv_1765783637947-37zcm3-L03mwdyBuPoGAAAAAElFTkSuQmCC" width="600" alt="Weihnachts-Chamäleons · Fehlgeschlagener Tarnrahmen - Image 1">
 </div>
 
 #### 📌 Details
@@ -468,7 +468,7 @@ Flach, druckfreundlich, keine Beschriftung.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20druckbarer%20Weihnachtsrahmen%20im%20Hochformat%201%3A1%2C4%2C%20im%20humorvollen%20Cartoon-Stil.%0A%0ANur%20Rahmen-Illustration.%0A%0AZentrierter%20leerer%20Foto-Platzhalter%2C%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20unber%C3%BChrt.%0A%0ADer%20Rand%20zeigt%20Cartoon-Cham%C3%A4leons%2C%20die%20erfolglos%20versuchen%2C%20sich%20in%20Ornamente%2C%20Lichter%20und%20Girlanden%20einzuf%C3%BCgen%2C%20deutlich%20sichtbar%20und%20verwirrt%2C%20was%20einen%20subtilen%20visuellen%20Humor%20hinzuf%C3%BCgt.%0A%0AFlach%2C%20druckfreundlich%2C%20keine%20Beschriftung.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20druckbarer%20Weihnachtsrahmen%20im%20Hochformat%201%3A1%2C4%2C%20im%20humorvollen%20Cartoon-Stil.%0A%0ANur%20Rahmen-Illustration.%0A%0AZentrierter%20leerer%20Foto-Platzhalter%2C%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20unber%C3%BChrt.%0A%0ADer%20Rahmen%20zeigt%20Cartoon-Cham%C3%A4leons%2C%20die%20erfolglos%20versuchen%2C%20sich%20in%20Ornamente%2C%20Lichter%20und%20Girlanden%20einzuf%C3%BCgen%2C%20dabei%20aber%20deutlich%20sichtbar%20und%20verwirrt%20sind%2C%20was%20f%C3%BCr%20subtilen%20visuellen%20Humor%20sorgt.%0A%0AFlach%2C%20druckfreundlich%2C%20keine%20Beschriftung.)**
 
 ---
 
@@ -489,7 +489,7 @@ Nur Rahmenkomposition.
 
 Zentrierter leerer Foto-Platzhalter, 1:1,4, 70 % Breite, unberührt.
 
-Der Rahmen zeigt Cartoon-Eulen mit Schals und Mützen, die skeptisch auf unordentliche Dekorationen starren, Klemmbretter halten und das Feiertagschaos mit trockenem Humor beurteilen.
+Der Rahmen zeigt Cartoon-Eulen, die Schals und Mützen tragen, skeptisch auf unordentliche Dekorationen starren, Klemmbretter halten und das Feiertagschaos mit trockenem Humor beurteilen.
 
 Flache Illustration, kein Text.
 ```
@@ -509,11 +509,11 @@ Flache Illustration, kein Text.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachtsrahmen-Illustration%20im%20Hochformat%201%3A1%2C4%2C%20im%20animierten%20M%C3%A4rchenbuchstil.%0A%0ANur%20Rahmenkomposition.%0A%0AZentrierter%20leerer%20Foto-Platzhalter%2C%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20unber%C3%BChrt.%0A%0ADer%20Rahmen%20zeigt%20Cartoon-Eulen%20mit%20Schals%20und%20M%C3%BCtzen%2C%20die%20skeptisch%20auf%20unordentliche%20Dekorationen%20starren%2C%20Klemmbretter%20halten%20und%20das%20Feiertagschaos%20mit%20trockenem%20Humor%20beurteilen.%0A%0AFlache%20Illustration%2C%20kein%20Text.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachtsrahmen-Illustration%20im%20Hochformat%201%3A1%2C4%2C%20im%20animierten%20M%C3%A4rchenbuchstil.%0A%0ANur%20Rahmenkomposition.%0A%0AZentrierter%20leerer%20Foto-Platzhalter%2C%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20unber%C3%BChrt.%0A%0ADer%20Rahmen%20zeigt%20Cartoon-Eulen%2C%20die%20Schals%20und%20M%C3%BCtzen%20tragen%2C%20skeptisch%20auf%20unordentliche%20Dekorationen%20starren%2C%20Klemmbretter%20halten%20und%20das%20Feiertagschaos%20mit%20trockenem%20Humor%20beurteilen.%0A%0AFlache%20Illustration%2C%20kein%20Text.)**
 
 ---
 
-### No. 6: Weihnachts-Oktopus · Achtarmiger Ränke-Rahmen
+### No. 6: Weihnachts-Oktopus · Achtarmiger Rausch-Rahmen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -524,13 +524,13 @@ Dieser Prompt generiert einen humorvollen Weihnachts-Fotorahmen im Cartoon-Anima
 #### 📝 Prompt
 
 ```
-Ein vertikaler, druckbarer Weihnachts-Fotorahmen im Format 1:1,4, illustriert im humorvollen Cartoon-Animationsstil.
+Ein vertikaler, druckbarer Weihnachts-Fotorahmen im Verhältnis 1:1,4, illustriert in einem humorvollen Cartoon-Animationsstil.
 
 Nur das Rahmendesign, keine Umgebung.
 
 Ein leerer Foto-Platzhalter ist perfekt zentriert, im Verhältnis 1:1,4, 70 % Breite, vollständig leer.
 
-Der Rahmen zeigt einen Cartoon-Oktopus, der alle seine Arme benutzt, um gleichzeitig Ornamente, Lichter, Zuckerstangen und Sterne zu dekorieren, was zu einem spielerischen, festlichen Chaos führt.
+Der Rahmen zeigt einen Cartoon-Oktopus, der alle seine Arme benutzt, um gleichzeitig Ornamente, Lichter, Zuckerstangen und Sterne zu schmücken, was zu einem verspielten festlichen Chaos führt.
 
 Flach, sauber, druckfertig, keine Typografie.
 ```
@@ -540,7 +540,7 @@ Flach, sauber, druckfertig, keine Typografie.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_" width="600" alt="Weihnachts-Oktopus · Achtarmiger Ränke-Rahmen - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_" width="600" alt="Weihnachts-Oktopus · Achtarmiger Rausch-Rahmen - Image 1">
 </div>
 
 #### 📌 Details
@@ -550,7 +550,7 @@ Flach, sauber, druckfertig, keine Typografie.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20druckbarer%20Weihnachts-Fotorahmen%20im%20Format%201%3A1%2C4%2C%20illustriert%20im%20humorvollen%20Cartoon-Animationsstil.%0A%0ANur%20das%20Rahmendesign%2C%20keine%20Umgebung.%0A%0AEin%20leerer%20Foto-Platzhalter%20ist%20perfekt%20zentriert%2C%20im%20Verh%C3%A4ltnis%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20vollst%C3%A4ndig%20leer.%0A%0ADer%20Rahmen%20zeigt%20einen%20Cartoon-Oktopus%2C%20der%20alle%20seine%20Arme%20benutzt%2C%20um%20gleichzeitig%20Ornamente%2C%20Lichter%2C%20Zuckerstangen%20und%20Sterne%20zu%20dekorieren%2C%20was%20zu%20einem%20spielerischen%2C%20festlichen%20Chaos%20f%C3%BChrt.%0A%0AFlach%2C%20sauber%2C%20druckfertig%2C%20keine%20Typografie.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20druckbarer%20Weihnachts-Fotorahmen%20im%20Verh%C3%A4ltnis%201%3A1%2C4%2C%20illustriert%20in%20einem%20humorvollen%20Cartoon-Animationsstil.%0A%0ANur%20das%20Rahmendesign%2C%20keine%20Umgebung.%0A%0AEin%20leerer%20Foto-Platzhalter%20ist%20perfekt%20zentriert%2C%20im%20Verh%C3%A4ltnis%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20vollst%C3%A4ndig%20leer.%0A%0ADer%20Rahmen%20zeigt%20einen%20Cartoon-Oktopus%2C%20der%20alle%20seine%20Arme%20benutzt%2C%20um%20gleichzeitig%20Ornamente%2C%20Lichter%2C%20Zuckerstangen%20und%20Sterne%20zu%20schm%C3%BCcken%2C%20was%20zu%20einem%20verspielten%20festlichen%20Chaos%20f%C3%BChrt.%0A%0AFlach%2C%20sauber%2C%20druckfertig%2C%20keine%20Typografie.)**
 
 ---
 
@@ -571,7 +571,7 @@ Illustration nur des Rahmens.
 
 Zentrierter leerer Fotoplatzhalter, horizontal + vertikal zentriert, 1:1,4, 70 % Breite, unberührt.
 
-Der Rahmen zeigt energiegeladene Cartoon-Kaninchen, die zu schnell Geschenke einpacken, über Bänder stolpern, Ornamente jonglieren und am Rand des Rahmens herumhuschen.
+Der Rahmen zeigt energiegeladene Cartoon-Kaninchen, die zu schnell Geschenke einpacken, über Bänder stolpern, Ornamente jonglieren und am Rand des Rahmens herumhasten.
 
 Spielerisches Chaos, flache Illustration, kein Text.
 ```
@@ -591,7 +591,7 @@ Spielerisches Chaos, flache Illustration, kein Text.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20druckbarer%20animierter%20Weihnachtsrahmen%20im%20vertikalen%201%3A1%2C4-Format.%0A%0AIllustration%20nur%20des%20Rahmens.%0A%0AZentrierter%20leerer%20Fotoplatzhalter%2C%20horizontal%20%2B%20vertikal%20zentriert%2C%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20unber%C3%BChrt.%0A%0ADer%20Rahmen%20zeigt%20energiegeladene%20Cartoon-Kaninchen%2C%20die%20zu%20schnell%20Geschenke%20einpacken%2C%20%C3%BCber%20B%C3%A4nder%20stolpern%2C%20Ornamente%20jonglieren%20und%20am%20Rand%20des%20Rahmens%20herumhuschen.%0A%0ASpielerisches%20Chaos%2C%20flache%20Illustration%2C%20kein%20Text.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20druckbarer%20animierter%20Weihnachtsrahmen%20im%20vertikalen%201%3A1%2C4-Format.%0A%0AIllustration%20nur%20des%20Rahmens.%0A%0AZentrierter%20leerer%20Fotoplatzhalter%2C%20horizontal%20%2B%20vertikal%20zentriert%2C%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20unber%C3%BChrt.%0A%0ADer%20Rahmen%20zeigt%20energiegeladene%20Cartoon-Kaninchen%2C%20die%20zu%20schnell%20Geschenke%20einpacken%2C%20%C3%BCber%20B%C3%A4nder%20stolpern%2C%20Ornamente%20jonglieren%20und%20am%20Rand%20des%20Rahmens%20herumhasten.%0A%0ASpielerisches%20Chaos%2C%20flache%20Illustration%2C%20kein%20Text.)**
 
 ---
 
@@ -647,9 +647,9 @@ Dieser Prompt generiert einen weichen, animierten Fotorahmen im Stil eines Weihn
 #### 📝 Prompt
 
 ```
-Eine druckbare Weihnachts-Fotorahmen-Illustration im Hochformat 1:1,4, gezeichnet im Stil eines sanften animierten Märchenbuchs.
+Eine druckbare Weihnachts-Fotorahmen-Illustration im Hochformat 1:1,4, gezeichnet im Stil eines sanften, animierten Märchenbuchs.
 
-Komposition nur mit Rahmen.
+Nur Rahmen-Komposition.
 
 Ein vertikal ausgerichteter, leerer Foto-Platzhalter ist zentriert, im Seitenverhältnis 1:1,4, 70 % Breite, komplett leer.
 
@@ -673,7 +673,7 @@ Flache Illustration, warme Farbpalette, kein Text.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachts-Fotorahmen-Illustration%20im%20Hochformat%201%3A1%2C4%2C%20gezeichnet%20im%20Stil%20eines%20sanften%20animierten%20M%C3%A4rchenbuchs.%0A%0AKomposition%20nur%20mit%20Rahmen.%0A%0AEin%20vertikal%20ausgerichteter%2C%20leerer%20Foto-Platzhalter%20ist%20zentriert%2C%20im%20Seitenverh%C3%A4ltnis%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20komplett%20leer.%0A%0ADer%20Rand%20zeigt%20entspannte%20Cartoon-Pandas%2C%20die%20auf%20Ornamenten%20l%C3%BCmmeln%2C%20Zuckerstangen%20umarmen%20und%20halb%20schlafend%20in%20festlicher%20Dekoration%20mit%20sanftem%20Humor%20dargestellt%20sind.%0A%0AFlache%20Illustration%2C%20warme%20Farbpalette%2C%20kein%20Text.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachts-Fotorahmen-Illustration%20im%20Hochformat%201%3A1%2C4%2C%20gezeichnet%20im%20Stil%20eines%20sanften%2C%20animierten%20M%C3%A4rchenbuchs.%0A%0ANur%20Rahmen-Komposition.%0A%0AEin%20vertikal%20ausgerichteter%2C%20leerer%20Foto-Platzhalter%20ist%20zentriert%2C%20im%20Seitenverh%C3%A4ltnis%201%3A1%2C4%2C%2070%20%25%20Breite%2C%20komplett%20leer.%0A%0ADer%20Rand%20zeigt%20entspannte%20Cartoon-Pandas%2C%20die%20auf%20Ornamenten%20l%C3%BCmmeln%2C%20Zuckerstangen%20umarmen%20und%20halb%20schlafend%20in%20festlicher%20Dekoration%20mit%20sanftem%20Humor%20dargestellt%20sind.%0A%0AFlache%20Illustration%2C%20warme%20Farbpalette%2C%20kein%20Text.)**
 
 ---
 
@@ -683,7 +683,7 @@ Flache Illustration, warme Farbpalette, kein Text.
 
 #### 📖 Beschreibung
 
-Dieser Prompt erstellt einen vertikalen, druckbaren Weihnachtsrahmen im Format 1:1,4, in einem ruhigen und doch humorvollen Cartoon-Stil. Der Rahmen zeigt entspannte Cartoon-Schildkröten, die sich übertrieben langsam bewegen, was dem Design einen sanften, friedlichen Humor verleiht.
+Dieser Prompt erstellt einen vertikalen, druckbaren Weihnachtsrahmen im Format 1:1,4, der in einem ruhigen und doch humorvollen Cartoon-Stil gehalten ist. Der Rahmen zeigt entspannte Cartoon-Schildkröten, die sich übertrieben langsam bewegen, was dem Design einen sanften, friedlichen Humor verleiht.
 
 #### 📝 Prompt
 
@@ -692,9 +692,9 @@ Ein vertikaler, druckbarer Weihnachtsrahmen im Format 1:1,4, im ruhigen, aber hu
 
 Nur die Rahmenillustration, keine Hintergrundszene.
 
-Ein leerer Fotoplatzhalter sitzt perfekt zentriert, im Verhältnis 1:1,4 und 70 % Breite, unberührt.
+Ein leerer Fotoplatzhalter ist perfekt zentriert, im Verhältnis 1:1,4 und 70 % Breite, unberührt.
 
-Der Rahmen ist mit entspannten Cartoon-Schildkröten verziert, die Schals tragen, ruhig Ornamente stapeln, mit Weihnachtsbeleuchtung meditieren und sich übertrieben langsam bewegen.
+Der Rahmen ist verziert mit entspannten Cartoon-Schildkröten, die Schals tragen, gelassen Ornamente stapeln, mit Weihnachtsbeleuchtung meditieren und sich übertrieben langsam bewegen.
 
 Flach, ausgewogen, druckfreundlich, kein Text.
 ```
@@ -714,7 +714,7 @@ Flach, ausgewogen, druckfreundlich, kein Text.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20druckbarer%20Weihnachtsrahmen%20im%20Format%201%3A1%2C4%2C%20im%20ruhigen%2C%20aber%20humorvollen%20Cartoon-Stil.%0A%0ANur%20die%20Rahmenillustration%2C%20keine%20Hintergrundszene.%0A%0AEin%20leerer%20Fotoplatzhalter%20sitzt%20perfekt%20zentriert%2C%20im%20Verh%C3%A4ltnis%201%3A1%2C4%20und%2070%20%25%20Breite%2C%20unber%C3%BChrt.%0A%0ADer%20Rahmen%20ist%20mit%20entspannten%20Cartoon-Schildkr%C3%B6ten%20verziert%2C%20die%20Schals%20tragen%2C%20ruhig%20Ornamente%20stapeln%2C%20mit%20Weihnachtsbeleuchtung%20meditieren%20und%20sich%20%C3%BCbertrieben%20langsam%20bewegen.%0A%0AFlach%2C%20ausgewogen%2C%20druckfreundlich%2C%20kein%20Text.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20druckbarer%20Weihnachtsrahmen%20im%20Format%201%3A1%2C4%2C%20im%20ruhigen%2C%20aber%20humorvollen%20Cartoon-Stil.%0A%0ANur%20die%20Rahmenillustration%2C%20keine%20Hintergrundszene.%0A%0AEin%20leerer%20Fotoplatzhalter%20ist%20perfekt%20zentriert%2C%20im%20Verh%C3%A4ltnis%201%3A1%2C4%20und%2070%20%25%20Breite%2C%20unber%C3%BChrt.%0A%0ADer%20Rahmen%20ist%20verziert%20mit%20entspannten%20Cartoon-Schildkr%C3%B6ten%2C%20die%20Schals%20tragen%2C%20gelassen%20Ornamente%20stapeln%2C%20mit%20Weihnachtsbeleuchtung%20meditieren%20und%20sich%20%C3%BCbertrieben%20langsam%20bewegen.%0A%0AFlach%2C%20ausgewogen%2C%20druckfreundlich%2C%20kein%20Text.)**
 
 ---
 
@@ -731,11 +731,11 @@ Dieser Prompt generiert einen humorvollen animierten Weihnachts-Fotorahmen im ve
 ```
 Eine druckbare Weihnachts-Fotorahmen-Illustration im vertikalen 1:1,4-Format, illustriert in einem humorvollen, animierten Stil.
 
-Nur Rahmen-Design, keine Umgebung.
+Nur Rahmendesign, keine Umgebung.
 
-Zentrierter, leerer Foto-Platzhalter, horizontal und vertikal mittig, 1:1,4-Seitenverhältnis, 70 % Rahmenbreite, komplett leer.
+Zentrierter, leerer Fotoplatzhalter, horizontal und vertikal zentriert, 1:1,4-Seitenverhältnis, 70 % Rahmenbreite, komplett leer.
 
-Der Rand zeigt hektische Cartoon-Eichhörnchen, die Ornamente horten, Strümpfe stopfen, Nüsse in Kugeln verstecken und nervös hinter Dekorationen hervorlugen.
+Der Rahmen zeigt hektische Cartoon-Eichhörnchen, die Ornamente horten, Strümpfe stopfen, Nüsse in Kugeln verstecken und nervös hinter Dekorationen hervorlugen.
 
 Flache Illustration, gemütlicher Humor, keine Typografie.
 ```
@@ -755,7 +755,7 @@ Flache Illustration, gemütlicher Humor, keine Typografie.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachts-Fotorahmen-Illustration%20im%20vertikalen%201%3A1%2C4-Format%2C%20illustriert%20in%20einem%20humorvollen%2C%20animierten%20Stil.%0A%0ANur%20Rahmen-Design%2C%20keine%20Umgebung.%0A%0AZentrierter%2C%20leerer%20Foto-Platzhalter%2C%20horizontal%20und%20vertikal%20mittig%2C%201%3A1%2C4-Seitenverh%C3%A4ltnis%2C%2070%20%25%20Rahmenbreite%2C%20komplett%20leer.%0A%0ADer%20Rand%20zeigt%20hektische%20Cartoon-Eichh%C3%B6rnchen%2C%20die%20Ornamente%20horten%2C%20Str%C3%BCmpfe%20stopfen%2C%20N%C3%BCsse%20in%20Kugeln%20verstecken%20und%20nerv%C3%B6s%20hinter%20Dekorationen%20hervorlugen.%0A%0AFlache%20Illustration%2C%20gem%C3%BCtlicher%20Humor%2C%20keine%20Typografie.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachts-Fotorahmen-Illustration%20im%20vertikalen%201%3A1%2C4-Format%2C%20illustriert%20in%20einem%20humorvollen%2C%20animierten%20Stil.%0A%0ANur%20Rahmendesign%2C%20keine%20Umgebung.%0A%0AZentrierter%2C%20leerer%20Fotoplatzhalter%2C%20horizontal%20und%20vertikal%20zentriert%2C%201%3A1%2C4-Seitenverh%C3%A4ltnis%2C%2070%20%25%20Rahmenbreite%2C%20komplett%20leer.%0A%0ADer%20Rahmen%20zeigt%20hektische%20Cartoon-Eichh%C3%B6rnchen%2C%20die%20Ornamente%20horten%2C%20Str%C3%BCmpfe%20stopfen%2C%20N%C3%BCsse%20in%20Kugeln%20verstecken%20und%20nerv%C3%B6s%20hinter%20Dekorationen%20hervorlugen.%0A%0AFlache%20Illustration%2C%20gem%C3%BCtlicher%20Humor%2C%20keine%20Typografie.)**
 
 ---
 
@@ -774,9 +774,9 @@ Ein vertikaler, druckbarer animierter Weihnachts-Fotorahmen im Format 1:1,4 mit 
 
 Keine Umgebung, nur der Rahmen selbst.
 
-Ein großer, leerer Foto-Platzhalter ist horizontal und vertikal zentriert, im Verhältnis 1:1,4 und mit 70 % Breite, vollständig leer.
+Ein großer, leerer Foto-Platzhalter ist horizontal und vertikal zentriert, im Verhältnis 1:1,4 und 70 % Breite, vollständig leer.
 
-Der Rahmenrand zeigt freche Cartoon-Affen, die an Girlanden schwingen, Sterne stehlen, kopfüber hängen und lustige Grimassen schneiden, illustriert in einem lebhaften Animationsstil.
+Der Rahmenrand zeigt freche Cartoon-Affen, die an Girlanden schwingen, Sterne stehlen, kopfüber hängen und alberne Grimassen ziehen, illustriert in einem lebhaften Animationsstil.
 
 Flach, ausgewogen, druckfertig, kein Text.
 ```
@@ -796,7 +796,7 @@ Flach, ausgewogen, druckfertig, kein Text.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20druckbarer%20animierter%20Weihnachts-Fotorahmen%20im%20Format%201%3A1%2C4%20mit%20verspielter%20Cartoon-Energie.%0A%0AKeine%20Umgebung%2C%20nur%20der%20Rahmen%20selbst.%0A%0AEin%20gro%C3%9Fer%2C%20leerer%20Foto-Platzhalter%20ist%20horizontal%20und%20vertikal%20zentriert%2C%20im%20Verh%C3%A4ltnis%201%3A1%2C4%20und%20mit%2070%20%25%20Breite%2C%20vollst%C3%A4ndig%20leer.%0A%0ADer%20Rahmenrand%20zeigt%20freche%20Cartoon-Affen%2C%20die%20an%20Girlanden%20schwingen%2C%20Sterne%20stehlen%2C%20kopf%C3%BCber%20h%C3%A4ngen%20und%20lustige%20Grimassen%20schneiden%2C%20illustriert%20in%20einem%20lebhaften%20Animationsstil.%0A%0AFlach%2C%20ausgewogen%2C%20druckfertig%2C%20kein%20Text.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20druckbarer%20animierter%20Weihnachts-Fotorahmen%20im%20Format%201%3A1%2C4%20mit%20verspielter%20Cartoon-Energie.%0A%0AKeine%20Umgebung%2C%20nur%20der%20Rahmen%20selbst.%0A%0AEin%20gro%C3%9Fer%2C%20leerer%20Foto-Platzhalter%20ist%20horizontal%20und%20vertikal%20zentriert%2C%20im%20Verh%C3%A4ltnis%201%3A1%2C4%20und%2070%20%25%20Breite%2C%20vollst%C3%A4ndig%20leer.%0A%0ADer%20Rahmenrand%20zeigt%20freche%20Cartoon-Affen%2C%20die%20an%20Girlanden%20schwingen%2C%20Sterne%20stehlen%2C%20kopf%C3%BCber%20h%C3%A4ngen%20und%20alberne%20Grimassen%20ziehen%2C%20illustriert%20in%20einem%20lebhaften%20Animationsstil.%0A%0AFlach%2C%20ausgewogen%2C%20druckfertig%2C%20kein%20Text.)**
 
 ---
 
@@ -815,9 +815,9 @@ Eine druckbare Weihnachts-Fotorahmen-Illustration im vertikalen 1:1,4-Seitenverh
 
 Die Illustration konzentriert sich ausschließlich auf das Rahmendesign.
 
-Genau in der Mitte befindet sich ein leerer Foto-Platzhalterbereich, horizontal und vertikal zentriert, im 1:1,4-Seitenverhältnis, 70 % der Gesamtbreite, komplett sauber.
+Genau in der Mitte befindet sich ein leerer Platzhalter für ein Foto, horizontal und vertikal zentriert, im 1:1,4-Seitenverhältnis, 70 % der Gesamtbreite, komplett sauber.
 
-Der Rahmen zeigt sich langsam bewegende Cartoon-Schnecken, die winzige Weihnachtsmützen tragen, Ornamente schleppen, glitzernde Spuren hinterlassen und festliche Dekorationen in einem absurd entspannten Tempo erklimmen.
+Der Rand zeigt sich langsam bewegende Cartoon-Schnecken, die winzige Weihnachtsmützen tragen, Ornamente ziehen, glitzernde Spuren hinterlassen und festliche Dekorationen in einem absurd entspannten Tempo erklimmen.
 
 Flache Illustration, gemütlicher Humor, kein Text.
 ```
@@ -837,7 +837,7 @@ Flache Illustration, gemütlicher Humor, kein Text.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachts-Fotorahmen-Illustration%20im%20vertikalen%201%3A1%2C4-Seitenverh%C3%A4ltnis%2C%20gezeichnet%20im%20humorvollen%20Stil%20eines%20animierten%20Kinderbuchs.%0A%0ADie%20Illustration%20konzentriert%20sich%20ausschlie%C3%9Flich%20auf%20das%20Rahmendesign.%0A%0AGenau%20in%20der%20Mitte%20befindet%20sich%20ein%20leerer%20Foto-Platzhalterbereich%2C%20horizontal%20und%20vertikal%20zentriert%2C%20im%201%3A1%2C4-Seitenverh%C3%A4ltnis%2C%2070%20%25%20der%20Gesamtbreite%2C%20komplett%20sauber.%0A%0ADer%20Rahmen%20zeigt%20sich%20langsam%20bewegende%20Cartoon-Schnecken%2C%20die%20winzige%20Weihnachtsm%C3%BCtzen%20tragen%2C%20Ornamente%20schleppen%2C%20glitzernde%20Spuren%20hinterlassen%20und%20festliche%20Dekorationen%20in%20einem%20absurd%20entspannten%20Tempo%20erklimmen.%0A%0AFlache%20Illustration%2C%20gem%C3%BCtlicher%20Humor%2C%20kein%20Text.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachts-Fotorahmen-Illustration%20im%20vertikalen%201%3A1%2C4-Seitenverh%C3%A4ltnis%2C%20gezeichnet%20im%20humorvollen%20Stil%20eines%20animierten%20Kinderbuchs.%0A%0ADie%20Illustration%20konzentriert%20sich%20ausschlie%C3%9Flich%20auf%20das%20Rahmendesign.%0A%0AGenau%20in%20der%20Mitte%20befindet%20sich%20ein%20leerer%20Platzhalter%20f%C3%BCr%20ein%20Foto%2C%20horizontal%20und%20vertikal%20zentriert%2C%20im%201%3A1%2C4-Seitenverh%C3%A4ltnis%2C%2070%20%25%20der%20Gesamtbreite%2C%20komplett%20sauber.%0A%0ADer%20Rand%20zeigt%20sich%20langsam%20bewegende%20Cartoon-Schnecken%2C%20die%20winzige%20Weihnachtsm%C3%BCtzen%20tragen%2C%20Ornamente%20ziehen%2C%20glitzernde%20Spuren%20hinterlassen%20und%20festliche%20Dekorationen%20in%20einem%20absurd%20entspannten%20Tempo%20erklimmen.%0A%0AFlache%20Illustration%2C%20gem%C3%BCtlicher%20Humor%2C%20kein%20Text.)**
 
 ---
 
@@ -847,7 +847,7 @@ Flache Illustration, gemütlicher Humor, kein Text.
 
 #### 📖 Beschreibung
 
-Dieser Prompt generiert einen humorvollen, vertikalen, druckbaren Weihnachts-Fotorahmen im Format 1:1,4 im Cartoon-Animationsstil. Der Rahmenrand ist gefüllt mit aufgeregten Cartoon-Hunden, die sich in Lichterketten verheddern und Dekorationen umwerfen, was eine fröhliche, energiegeladene Szene erzeugt.
+Dieser Prompt generiert einen humorvollen, vertikalen, druckbaren Weihnachts-Fotorahmen im Format 1:1,4 im Zeichentrickstil. Der Rahmenrand ist gefüllt mit aufgeregten Cartoon-Hunden, die sich in Lichterketten verheddern und Dekorationen umwerfen, wodurch eine fröhliche, energiegeladene Szene entsteht.
 
 #### 📝 Prompt
 
@@ -858,7 +858,7 @@ Das Design zeigt nur den Rahmen selbst, ohne Hintergrundumgebung.
 
 Ein leerer Foto-Platzhalter ist exakt horizontal und vertikal zentriert, mit einem Seitenverhältnis von 1:1,4 und 70 % der Rahmenbreite, vollständig leer und klar definiert.
 
-Der Rahmenrand ist gefüllt mit aufgeregten Cartoon-Hunden, die sich in Weihnachtsbeleuchtung verheddern, Ornamente jagen, Dekorationen umstoßen und überdimensionierte festliche Pullover in übertriebenen Posen tragen.
+Der Rahmenrand ist gefüllt mit aufgeregten Cartoon-Hunden, die sich in Weihnachtslichter verheddern, Ornamente jagen, Dekorationen umstoßen und überdimensionale festliche Pullover in übertriebenen Posen tragen.
 
 Fröhlich, energiegeladen, flach und für den Druck optimiert, keine Beschriftung.
 ```
@@ -878,7 +878,7 @@ Fröhlich, energiegeladen, flach und für den Druck optimiert, keine Beschriftun
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20druckbarer%20Weihnachts-Fotorahmen%20im%20Format%201%3A1%2C4%2C%20illustriert%20in%20einem%20humorvollen%20Cartoon-Animationsstil.%0A%0ADas%20Design%20zeigt%20nur%20den%20Rahmen%20selbst%2C%20ohne%20Hintergrundumgebung.%0A%0AEin%20leerer%20Foto-Platzhalter%20ist%20exakt%20horizontal%20und%20vertikal%20zentriert%2C%20mit%20einem%20Seitenverh%C3%A4ltnis%20von%201%3A1%2C4%20und%2070%20%25%20der%20Rahmenbreite%2C%20vollst%C3%A4ndig%20leer%20und%20klar%20definiert.%0A%0ADer%20Rahmenrand%20ist%20gef%C3%BCllt%20mit%20aufgeregten%20Cartoon-Hunden%2C%20die%20sich%20in%20Weihnachtsbeleuchtung%20verheddern%2C%20Ornamente%20jagen%2C%20Dekorationen%20umsto%C3%9Fen%20und%20%C3%BCberdimensionierte%20festliche%20Pullover%20in%20%C3%BCbertriebenen%20Posen%20tragen.%0A%0AFr%C3%B6hlich%2C%20energiegeladen%2C%20flach%20und%20f%C3%BCr%20den%20Druck%20optimiert%2C%20keine%20Beschriftung.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20druckbarer%20Weihnachts-Fotorahmen%20im%20Format%201%3A1%2C4%2C%20illustriert%20in%20einem%20humorvollen%20Cartoon-Animationsstil.%0A%0ADas%20Design%20zeigt%20nur%20den%20Rahmen%20selbst%2C%20ohne%20Hintergrundumgebung.%0A%0AEin%20leerer%20Foto-Platzhalter%20ist%20exakt%20horizontal%20und%20vertikal%20zentriert%2C%20mit%20einem%20Seitenverh%C3%A4ltnis%20von%201%3A1%2C4%20und%2070%20%25%20der%20Rahmenbreite%2C%20vollst%C3%A4ndig%20leer%20und%20klar%20definiert.%0A%0ADer%20Rahmenrand%20ist%20gef%C3%BCllt%20mit%20aufgeregten%20Cartoon-Hunden%2C%20die%20sich%20in%20Weihnachtslichter%20verheddern%2C%20Ornamente%20jagen%2C%20Dekorationen%20umsto%C3%9Fen%20und%20%C3%BCberdimensionale%20festliche%20Pullover%20in%20%C3%BCbertriebenen%20Posen%20tragen.%0A%0AFr%C3%B6hlich%2C%20energiegeladen%2C%20flach%20und%20f%C3%BCr%20den%20Druck%20optimiert%2C%20keine%20Beschriftung.)**
 
 ---
 
@@ -929,7 +929,7 @@ Flache Komposition, druckfreundliche Farben, kein Text.
 
 #### 📖 Beschreibung
 
-Dieser Prompt erstellt einen vertikalen, druckbaren Weihnachts-Fotorahmen, illustriert im charmanten, humorvollen Animationsstil eines Kinderbuchs, mit tollpatschigen Pinguinen. Das Design konzentriert sich ausschließlich auf den Rahmen selbst mit einem leeren Foto-Platzhalter und bietet einen fröhlichen, lustigen und animierten Look für den Druck.
+Dieser Prompt erstellt einen vertikalen, druckbaren Weihnachts-Fotorahmen im charmanten, humorvollen Kinderbuch-Animationsstil mit tollpatschigen Pinguinen. Das Design konzentriert sich ausschließlich auf den Rahmen selbst mit einem leeren Foto-Platzhalter und bietet einen fröhlichen, lustigen und animierten Look für den Druck.
 
 #### 📝 Prompt
 
@@ -979,9 +979,9 @@ Eine druckbare Weihnachts-Fotorahmen-Illustration im vertikalen 1:1,4-Seitenverh
 
 Die Illustration zeigt nur das Rahmendesign, ohne externe Umgebung oder Hintergrundkulisse. Die Farben sind warm und festlich mit einer weichen Papiertextur.
 
-Genau in der Mitte ist ein leerer Foto-Platzhalter horizontal und vertikal zentriert, der ein Seitenverhältnis von 1:1,4 und 70 % der gesamten Rahmenbreite beibehält, vollständig leer und unbehindert.
+Genau in der Mitte ist ein leerer Foto-Platzhalter horizontal und vertikal zentriert, der ein 1:1,4-Seitenverhältnis und 70 % der gesamten Rahmenbreite beibehält, vollständig leer und unverdeckt.
 
-Der Rahmenrand ist mit verspielten Lebkuchenfiguren in albernen Posen, teilweise zerbrochenen Keksen, Zuckergussdetails und Süßigkeitenverzierungen dekoriert, alle mit ausdrucksstarken Cartoon-Gesichtern gezeichnet.
+Der Rahmenrand ist mit verspielten Lebkuchenfiguren in lustigen Posen, teilweise zerbrochenen Keksen, Zuckergussdetails und Süßigkeiten-Dekorationen verziert, alle mit ausdrucksstarken Cartoon-Gesichtern gezeichnet.
 
 Die Stimmung ist humorvoll, gemütlich und skurril, vollständig für den Druck optimiert, ohne Typografie.
 ```
@@ -1001,26 +1001,26 @@ Die Stimmung ist humorvoll, gemütlich und skurril, vollständig für den Druck 
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachts-Fotorahmen-Illustration%20im%20vertikalen%201%3A1%2C4-Seitenverh%C3%A4ltnis%2C%20erstellt%20im%20humorvollen%2C%20animierten%20Bilderbuchstil.%0A%0ADie%20Illustration%20zeigt%20nur%20das%20Rahmendesign%2C%20ohne%20externe%20Umgebung%20oder%20Hintergrundkulisse.%20Die%20Farben%20sind%20warm%20und%20festlich%20mit%20einer%20weichen%20Papiertextur.%0A%0AGenau%20in%20der%20Mitte%20ist%20ein%20leerer%20Foto-Platzhalter%20horizontal%20und%20vertikal%20zentriert%2C%20der%20ein%20Seitenverh%C3%A4ltnis%20von%201%3A1%2C4%20und%2070%20%25%20der%20gesamten%20Rahmenbreite%20beibeh%C3%A4lt%2C%20vollst%C3%A4ndig%20leer%20und%20unbehindert.%0A%0ADer%20Rahmenrand%20ist%20mit%20verspielten%20Lebkuchenfiguren%20in%20albernen%20Posen%2C%20teilweise%20zerbrochenen%20Keksen%2C%20Zuckergussdetails%20und%20S%C3%BC%C3%9Figkeitenverzierungen%20dekoriert%2C%20alle%20mit%20ausdrucksstarken%20Cartoon-Gesichtern%20gezeichnet.%0A%0ADie%20Stimmung%20ist%20humorvoll%2C%20gem%C3%BCtlich%20und%20skurril%2C%20vollst%C3%A4ndig%20f%C3%BCr%20den%20Druck%20optimiert%2C%20ohne%20Typografie.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachts-Fotorahmen-Illustration%20im%20vertikalen%201%3A1%2C4-Seitenverh%C3%A4ltnis%2C%20erstellt%20im%20humorvollen%2C%20animierten%20Bilderbuchstil.%0A%0ADie%20Illustration%20zeigt%20nur%20das%20Rahmendesign%2C%20ohne%20externe%20Umgebung%20oder%20Hintergrundkulisse.%20Die%20Farben%20sind%20warm%20und%20festlich%20mit%20einer%20weichen%20Papiertextur.%0A%0AGenau%20in%20der%20Mitte%20ist%20ein%20leerer%20Foto-Platzhalter%20horizontal%20und%20vertikal%20zentriert%2C%20der%20ein%201%3A1%2C4-Seitenverh%C3%A4ltnis%20und%2070%20%25%20der%20gesamten%20Rahmenbreite%20beibeh%C3%A4lt%2C%20vollst%C3%A4ndig%20leer%20und%20unverdeckt.%0A%0ADer%20Rahmenrand%20ist%20mit%20verspielten%20Lebkuchenfiguren%20in%20lustigen%20Posen%2C%20teilweise%20zerbrochenen%20Keksen%2C%20Zuckergussdetails%20und%20S%C3%BC%C3%9Figkeiten-Dekorationen%20verziert%2C%20alle%20mit%20ausdrucksstarken%20Cartoon-Gesichtern%20gezeichnet.%0A%0ADie%20Stimmung%20ist%20humorvoll%2C%20gem%C3%BCtlich%20und%20skurril%2C%20vollst%C3%A4ndig%20f%C3%BCr%20den%20Druck%20optimiert%2C%20ohne%20Typografie.)**
 
 ---
 
-### No. 18: Animierter Weihnachts-Fotorahmen im Lazy Sloth-Stil
+### No. 18: Animierter Weihnachts-Fotorahmen im Faultier-Stil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Dieser Prompt generiert eine druckbare Weihnachts-Fotorahmen-Illustration im humorvollen, animierten Märchenbuchstil mit faulen Faultieren. Er ist als eigenständiger Rahmen mit einem leeren Foto-Platzhalter konzipiert und eignet sich perfekt für hochwertigen Druck, um Urlaubsfotos eine unbeschwerte, gemütliche und humorvolle Note zu verleihen.
+Dieser Prompt generiert eine druckbare Weihnachts-Fotorahmen-Illustration im humorvollen, animierten Märchenbuchstil mit faulen Faultieren. Er ist als eigenständiger Rahmen mit einem leeren Foto-Platzhalter konzipiert, perfekt für hochwertigen Druck und um Urlaubsfotos eine unbeschwerte, gemütliche und humorvolle Note zu verleihen.
 
 #### 📝 Prompt
 
 ```
-Eine druckbare Weihnachts-Fotorahmen-Illustration, exklusiv als eigenständiger Rahmen konzipiert, im vertikalen Seitenverhältnis 1:1,4, geeignet für hochwertigen Druck.
+Eine druckbare Weihnachts-Fotorahmen-Illustration, exklusiv als eigenständiger Rahmen konzipiert, im vertikalen 1:1,4-Seitenverhältnis, geeignet für hochwertigen Druck.
 
 Die Illustration konzentriert sich ausschließlich auf den Rahmen selbst, ohne externe Umgebung oder Hintergrundszene. Der Stil ist eine humorvolle, animierte Märchenbuch-Illustration mit weichen Texturen, klaren Konturen und warmen Farben.
 
-Genau in der Mitte des Rahmens ist ein leerer Foto-Platzhalterbereich horizontal und vertikal zentriert. Der Platzhalter hat ein Hochformat-Seitenverhältnis von 1:1,4, wobei seine Breite 70 % der Gesamtbreite des Rahmens beträgt, und muss vollständig leer und unberührt bleiben.
+Genau in der Mitte des Rahmens ist ein leerer Foto-Platzhalterbereich reserviert, der horizontal und vertikal zentriert ist. Der Platzhalter hat ein 1:1,4-Hochformat-Seitenverhältnis, wobei seine Breite 70 % der Gesamtbreite des Rahmens beträgt, und muss vollständig leer und unberührt bleiben.
 
 Der umgebende Rahmenrand zeigt verspielte Cartoon-Faultiere, die an Zuckerstangen, immergrünen Zweigen und festlichen Haken hängen. Die Faultiere tragen gemütliche Strickpullover und Schals und nehmen entspannte, lustige Posen ein.
 
@@ -1032,7 +1032,7 @@ Die Illustration wirkt unbeschwert, gemütlich und humorvoll, mit einer flachen 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="Animierter Weihnachts-Fotorahmen im Lazy Sloth-Stil - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="Animierter Weihnachts-Fotorahmen im Faultier-Stil - Image 1">
 </div>
 
 #### 📌 Details
@@ -1042,28 +1042,28 @@ Die Illustration wirkt unbeschwert, gemütlich und humorvoll, mit einer flachen 
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachts-Fotorahmen-Illustration%2C%20exklusiv%20als%20eigenst%C3%A4ndiger%20Rahmen%20konzipiert%2C%20im%20vertikalen%20Seitenverh%C3%A4ltnis%201%3A1%2C4%2C%20geeignet%20f%C3%BCr%20hochwertigen%20Druck.%0A%0ADie%20Illustration%20konzentriert%20sich%20ausschlie%C3%9Flich%20auf%20den%20Rahmen%20selbst%2C%20ohne%20externe%20Umgebung%20oder%20Hintergrundszene.%20Der%20Stil%20ist%20eine%20humorvolle%2C%20animierte%20M%C3%A4rchenbuch-Illustration%20mit%20weichen%20Texturen%2C%20klaren%20Konturen%20und%20warmen%20Farben.%0A%0AGenau%20in%20der%20Mitte%20des%20Rahmens%20ist%20ein%20leerer%20Foto-Platzhalterbereich%20horizontal%20und%20vertikal%20zentriert.%20Der%20Platzhalter%20hat%20ein%20Hochformat-Seitenverh%C3%A4ltnis%20von%201%3A1%2C4%2C%20wobei%20seine%20Breite%2070%20%25%20der%20Gesamtbreite%20des%20Rahmens%20betr%C3%A4gt%2C%20und%20muss%20vollst%C3%A4ndig%20leer%20und%20unber%C3%BChrt%20bleiben.%0A%0ADer%20umgebende%20Rahmenrand%20zeigt%20verspielte%20Cartoon-Faultiere%2C%20die%20an%20Zuckerstangen%2C%20immergr%C3%BCnen%20Zweigen%20und%20festlichen%20Haken%20h%C3%A4ngen.%20Die%20Faultiere%20tragen%20gem%C3%BCtliche%20Strickpullover%20und%20Schals%20und%20nehmen%20entspannte%2C%20lustige%20Posen%20ein.%0A%0ADie%20Illustration%20wirkt%20unbeschwert%2C%20gem%C3%BCtlich%20und%20humorvoll%2C%20mit%20einer%20flachen%20Komposition%20und%20druckfreundlichen%20Farben%2C%20ohne%20Text%20oder%20Typografie.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Eine%20druckbare%20Weihnachts-Fotorahmen-Illustration%2C%20exklusiv%20als%20eigenst%C3%A4ndiger%20Rahmen%20konzipiert%2C%20im%20vertikalen%201%3A1%2C4-Seitenverh%C3%A4ltnis%2C%20geeignet%20f%C3%BCr%20hochwertigen%20Druck.%0A%0ADie%20Illustration%20konzentriert%20sich%20ausschlie%C3%9Flich%20auf%20den%20Rahmen%20selbst%2C%20ohne%20externe%20Umgebung%20oder%20Hintergrundszene.%20Der%20Stil%20ist%20eine%20humorvolle%2C%20animierte%20M%C3%A4rchenbuch-Illustration%20mit%20weichen%20Texturen%2C%20klaren%20Konturen%20und%20warmen%20Farben.%0A%0AGenau%20in%20der%20Mitte%20des%20Rahmens%20ist%20ein%20leerer%20Foto-Platzhalterbereich%20reserviert%2C%20der%20horizontal%20und%20vertikal%20zentriert%20ist.%20Der%20Platzhalter%20hat%20ein%201%3A1%2C4-Hochformat-Seitenverh%C3%A4ltnis%2C%20wobei%20seine%20Breite%2070%20%25%20der%20Gesamtbreite%20des%20Rahmens%20betr%C3%A4gt%2C%20und%20muss%20vollst%C3%A4ndig%20leer%20und%20unber%C3%BChrt%20bleiben.%0A%0ADer%20umgebende%20Rahmenrand%20zeigt%20verspielte%20Cartoon-Faultiere%2C%20die%20an%20Zuckerstangen%2C%20immergr%C3%BCnen%20Zweigen%20und%20festlichen%20Haken%20h%C3%A4ngen.%20Die%20Faultiere%20tragen%20gem%C3%BCtliche%20Strickpullover%20und%20Schals%20und%20nehmen%20entspannte%2C%20lustige%20Posen%20ein.%0A%0ADie%20Illustration%20wirkt%20unbeschwert%2C%20gem%C3%BCtlich%20und%20humorvoll%2C%20mit%20einer%20flachen%20Komposition%20und%20druckfreundlichen%20Farben%2C%20ohne%20Text%20oder%20Typografie.)**
 
 ---
 
-### No. 19: Lustiger Eisbär-Cartoon-Weihnachtsfotorahmen
+### No. 19: Verspielter Eisbär Cartoon Weihnachts-Fotorahmen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Dieser Prompt erstellt einen druckbaren, animierten Weihnachts-Fotorahmen im humorvollen Cartoon-Stil mit verspielten Eisbären. Er ist ausschließlich als Rahmenillustration für den Druck konzipiert, mit einem leeren Platzhalter für Fotos, und bietet eine fröhliche, lustige und freundliche Ästhetik für Weihnachtsbilder.
+Dieser Prompt erstellt einen druckbaren, animierten Weihnachts-Fotorahmen im humorvollen Cartoon-Stil mit verspielten Eisbären. Er ist ausschließlich als Rahmenillustration für den Druck konzipiert, mit einem leeren Foto-Platzhalter, und bietet eine fröhliche, lustige und freundliche Ästhetik für Weihnachtsbilder.
 
 #### 📝 Prompt
 
 ```
-Ein druckbarer animierter Weihnachts-Fotorahmen im vertikalen Seitenverhältnis 1:1,4, ausschließlich als Rahmenillustration für den Druck konzipiert.
+Ein druckbarer animierter Weihnachts-Fotorahmen im vertikalen 1:1,4-Seitenverhältnis, ausschließlich als Rahmenillustration für den Druck konzipiert.
 
 Der Rahmen ist in einem humorvollen Cartoon-Stil mit abgerundeten Formen, ausdrucksstarken Charakteren und weichen Schattierungen illustriert. Keine Umgebung, keine Hintergrundszene, nur das Rahmendesign.
 
-Ein leerer Foto-Platzhalter ist genau horizontal und vertikal zentriert, mit einem Seitenverhältnis von 1:1,4 und 70 % der Rahmenbreite, komplett leer und sauber.
+Ein leerer Foto-Platzhalter ist exakt horizontal und vertikal zentriert, mit einem 1:1,4-Seitenverhältnis und 70 % der Rahmenbreite, komplett leer und sauber.
 
-Der Rand ist mit verspielten Eisbären verziert, die rutschen, hervorlugen und sich an die Ränder des Rahmens klammern und auf alberne, übertriebene Weise mit Zuckerstangen, Ornamenten und Schneebällen interagieren.
+Der Rand ist mit verspielten Eisbären verziert, die rutschen, hervorlugen und sich an den Rändern des Rahmens festhalten und auf alberne, übertriebene Weise mit Zuckerstangen, Ornamenten und Schneebällen interagieren.
 
 Die Gesamtstimmung ist fröhlich, lustig und freundlich, optimiert für eine flache, druckbare Illustration, ohne Text.
 ```
@@ -1073,7 +1073,7 @@ Die Gesamtstimmung ist fröhlich, lustig und freundlich, optimiert für eine fla
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="Lustiger Eisbär-Cartoon-Weihnachtsfotorahmen - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="Verspielter Eisbär Cartoon Weihnachts-Fotorahmen - Image 1">
 </div>
 
 #### 📌 Details
@@ -1083,7 +1083,7 @@ Die Gesamtstimmung ist fröhlich, lustig und freundlich, optimiert für eine fla
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20druckbarer%20animierter%20Weihnachts-Fotorahmen%20im%20vertikalen%20Seitenverh%C3%A4ltnis%201%3A1%2C4%2C%20ausschlie%C3%9Flich%20als%20Rahmenillustration%20f%C3%BCr%20den%20Druck%20konzipiert.%0A%0ADer%20Rahmen%20ist%20in%20einem%20humorvollen%20Cartoon-Stil%20mit%20abgerundeten%20Formen%2C%20ausdrucksstarken%20Charakteren%20und%20weichen%20Schattierungen%20illustriert.%20Keine%20Umgebung%2C%20keine%20Hintergrundszene%2C%20nur%20das%20Rahmendesign.%0A%0AEin%20leerer%20Foto-Platzhalter%20ist%20genau%20horizontal%20und%20vertikal%20zentriert%2C%20mit%20einem%20Seitenverh%C3%A4ltnis%20von%201%3A1%2C4%20und%2070%20%25%20der%20Rahmenbreite%2C%20komplett%20leer%20und%20sauber.%0A%0ADer%20Rand%20ist%20mit%20verspielten%20Eisb%C3%A4ren%20verziert%2C%20die%20rutschen%2C%20hervorlugen%20und%20sich%20an%20die%20R%C3%A4nder%20des%20Rahmens%20klammern%20und%20auf%20alberne%2C%20%C3%BCbertriebene%20Weise%20mit%20Zuckerstangen%2C%20Ornamenten%20und%20Schneeb%C3%A4llen%20interagieren.%0A%0ADie%20Gesamtstimmung%20ist%20fr%C3%B6hlich%2C%20lustig%20und%20freundlich%2C%20optimiert%20f%C3%BCr%20eine%20flache%2C%20druckbare%20Illustration%2C%20ohne%20Text.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20druckbarer%20animierter%20Weihnachts-Fotorahmen%20im%20vertikalen%201%3A1%2C4-Seitenverh%C3%A4ltnis%2C%20ausschlie%C3%9Flich%20als%20Rahmenillustration%20f%C3%BCr%20den%20Druck%20konzipiert.%0A%0ADer%20Rahmen%20ist%20in%20einem%20humorvollen%20Cartoon-Stil%20mit%20abgerundeten%20Formen%2C%20ausdrucksstarken%20Charakteren%20und%20weichen%20Schattierungen%20illustriert.%20Keine%20Umgebung%2C%20keine%20Hintergrundszene%2C%20nur%20das%20Rahmendesign.%0A%0AEin%20leerer%20Foto-Platzhalter%20ist%20exakt%20horizontal%20und%20vertikal%20zentriert%2C%20mit%20einem%201%3A1%2C4-Seitenverh%C3%A4ltnis%20und%2070%20%25%20der%20Rahmenbreite%2C%20komplett%20leer%20und%20sauber.%0A%0ADer%20Rand%20ist%20mit%20verspielten%20Eisb%C3%A4ren%20verziert%2C%20die%20rutschen%2C%20hervorlugen%20und%20sich%20an%20den%20R%C3%A4ndern%20des%20Rahmens%20festhalten%20und%20auf%20alberne%2C%20%C3%BCbertriebene%20Weise%20mit%20Zuckerstangen%2C%20Ornamenten%20und%20Schneeb%C3%A4llen%20interagieren.%0A%0ADie%20Gesamtstimmung%20ist%20fr%C3%B6hlich%2C%20lustig%20und%20freundlich%2C%20optimiert%20f%C3%BCr%20eine%20flache%2C%20druckbare%20Illustration%2C%20ohne%20Text.)**
 
 ---
 
@@ -1093,18 +1093,18 @@ Die Gesamtstimmung ist fröhlich, lustig und freundlich, optimiert für eine fla
 
 #### 📖 Beschreibung
 
-Dieser Prompt generiert einen vertikalen, druckbaren Weihnachts-Fotorahmen, illustriert im niedlichen, humorvollen animierten Sticker-Stil mit schelmischen Katzen. Das Design konzentriert sich ausschließlich auf den Rahmen selbst mit kräftigen Umrissen, sanften Farben und einem leeren Foto-Platzhalter, wodurch ein verspieltes und chaotisches Weihnachtsgefühl entsteht.
+Dieser Prompt generiert einen vertikalen, druckbaren Weihnachts-Fotorahmen im Stil eines niedlichen, humorvollen animierten Stickers mit schelmischen Katzen. Das Design konzentriert sich ausschließlich auf den Rahmen selbst mit kräftigen Umrissen, sanften Farben und einem leeren Foto-Platzhalter, wodurch eine verspielte und chaotische Weihnachtsstimmung entsteht.
 
 #### 📝 Prompt
 
 ```
 Ein vertikaler, im Verhältnis 1:1,4 druckbarer Weihnachts-Fotorahmen, illustriert im niedlichen, humorvollen Stil eines animierten Stickers.
 
-Das Design konzentriert sich ausschließlich auf den Rahmen selbst, ohne Raum-, Wand- oder Umgebungsbezug. Die Illustration verwendet kräftige Umrisse, sanfte Farben und ausdrucksstarke Cartoon-Charaktere.
+Das Design konzentriert sich ausschließlich auf den Rahmen selbst, ohne Raum-, Wand- oder Umgebungskontext. Die Illustration verwendet kräftige Umrisse, sanfte Farben und ausdrucksstarke Zeichentrickfiguren.
 
-Genau in der Mitte befindet sich ein leerer Platzhalter für ein Foto, horizontal und vertikal zentriert, mit einem Hochformat-Verhältnis von 1:1,4 und 70 % der Rahmenbreite, völlig leer und klar definiert.
+Genau in der Mitte befindet sich ein leerer Platzhalterbereich für ein Foto, horizontal und vertikal zentriert, mit einem Hochformat-Verhältnis von 1:1,4 und 70 % der Rahmenbreite, völlig leer und klar definiert.
 
-Der umgebende Rand zeigt schelmische Cartoon-Katzen, die sich in Weihnachtsbeleuchtung verheddern, Ornamente umstoßen, Girlanden erklimmen und aus den Ecken lugen, was ein spielerisches und chaotisches Weihnachtsgefühl erzeugt.
+Der umgebende Rand zeigt schelmische Zeichentrickkatzen, die sich in Weihnachtsbeleuchtung verheddern, Ornamente umstoßen, Girlanden erklimmen und aus den Ecken lugen, was ein verspieltes und chaotisches Weihnachtsgefühl erzeugt.
 
 Die Komposition bleibt flach, ausgewogen und druckfertig, ohne Textelemente.
 ```
@@ -1124,7 +1124,7 @@ Die Komposition bleibt flach, ausgewogen und druckfertig, ohne Textelemente.
 - **Veröffentlicht:** 15. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20im%20Verh%C3%A4ltnis%201%3A1%2C4%20druckbarer%20Weihnachts-Fotorahmen%2C%20illustriert%20im%20niedlichen%2C%20humorvollen%20Stil%20eines%20animierten%20Stickers.%0A%0ADas%20Design%20konzentriert%20sich%20ausschlie%C3%9Flich%20auf%20den%20Rahmen%20selbst%2C%20ohne%20Raum-%2C%20Wand-%20oder%20Umgebungsbezug.%20Die%20Illustration%20verwendet%20kr%C3%A4ftige%20Umrisse%2C%20sanfte%20Farben%20und%20ausdrucksstarke%20Cartoon-Charaktere.%0A%0AGenau%20in%20der%20Mitte%20befindet%20sich%20ein%20leerer%20Platzhalter%20f%C3%BCr%20ein%20Foto%2C%20horizontal%20und%20vertikal%20zentriert%2C%20mit%20einem%20Hochformat-Verh%C3%A4ltnis%20von%201%3A1%2C4%20und%2070%20%25%20der%20Rahmenbreite%2C%20v%C3%B6llig%20leer%20und%20klar%20definiert.%0A%0ADer%20umgebende%20Rand%20zeigt%20schelmische%20Cartoon-Katzen%2C%20die%20sich%20in%20Weihnachtsbeleuchtung%20verheddern%2C%20Ornamente%20umsto%C3%9Fen%2C%20Girlanden%20erklimmen%20und%20aus%20den%20Ecken%20lugen%2C%20was%20ein%20spielerisches%20und%20chaotisches%20Weihnachtsgef%C3%BChl%20erzeugt.%0A%0ADie%20Komposition%20bleibt%20flach%2C%20ausgewogen%20und%20druckfertig%2C%20ohne%20Textelemente.)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/tools/christmas-cards-maker?prompt=Ein%20vertikaler%2C%20im%20Verh%C3%A4ltnis%201%3A1%2C4%20druckbarer%20Weihnachts-Fotorahmen%2C%20illustriert%20im%20niedlichen%2C%20humorvollen%20Stil%20eines%20animierten%20Stickers.%0A%0ADas%20Design%20konzentriert%20sich%20ausschlie%C3%9Flich%20auf%20den%20Rahmen%20selbst%2C%20ohne%20Raum-%2C%20Wand-%20oder%20Umgebungskontext.%20Die%20Illustration%20verwendet%20kr%C3%A4ftige%20Umrisse%2C%20sanfte%20Farben%20und%20ausdrucksstarke%20Zeichentrickfiguren.%0A%0AGenau%20in%20der%20Mitte%20befindet%20sich%20ein%20leerer%20Platzhalterbereich%20f%C3%BCr%20ein%20Foto%2C%20horizontal%20und%20vertikal%20zentriert%2C%20mit%20einem%20Hochformat-Verh%C3%A4ltnis%20von%201%3A1%2C4%20und%2070%20%25%20der%20Rahmenbreite%2C%20v%C3%B6llig%20leer%20und%20klar%20definiert.%0A%0ADer%20umgebende%20Rand%20zeigt%20schelmische%20Zeichentrickkatzen%2C%20die%20sich%20in%20Weihnachtsbeleuchtung%20verheddern%2C%20Ornamente%20umsto%C3%9Fen%2C%20Girlanden%20erklimmen%20und%20aus%20den%20Ecken%20lugen%2C%20was%20ein%20verspieltes%20und%20chaotisches%20Weihnachtsgef%C3%BChl%20erzeugt.%0A%0ADie%20Komposition%20bleibt%20flach%2C%20ausgewogen%20und%20druckfertig%2C%20ohne%20Textelemente.)**
 
 ---
 
@@ -5034,6 +5034,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-18T01:22:29.770Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-18T04:32:44.516Z</sub>
 
 </div>

@@ -88,7 +88,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **140** |
 | ⭐ Destaque | **6** |
-| 🔄 Última atualização | **quinta-feira, 18 de dezembro de 2025 às 01:22:37 UTC** |
+| 🔄 Última atualização | **quinta-feira, 18 de dezembro de 2025 às 04:32:54 UTC** |
 
 </div>
 
@@ -314,7 +314,7 @@ Um cartão de Natal fofo e caótico, proporção 1:1,4. Uma alpaca branca e fofa
 
 #### 📖 Descrição
 
-Este prompt gera uma moldura de foto de Natal divertida em estilo animado, no formato vertical 1:1.4. A borda mostra castores de desenho animado construindo e super-engenheirando decorações festivas com entusiasmo e seriedade exagerada, criando um design bem-humorado e otimizado para impressão.
+Este prompt gera uma moldura de Natal animada e divertida em um formato vertical de 1:1,4. A borda mostra castores em estilo desenho animado construindo e super-engenheirando decorações festivas com entusiasmo e seriedade exagerada, criando um design bem-humorado e otimizado para impressão.
 
 #### 📝 Prompt
 
@@ -325,7 +325,7 @@ Sem ambiente, apenas a moldura.
 
 Um espaço reservado para foto em branco está centralizado, proporção 1:1.4, 70% da largura, completamente limpo.
 
-A borda mostra castores de desenho animado construindo, martelando e super-projetando decorações festivas com seriedade exagerada.
+A borda mostra castores de desenho animado construindo, martelando e super-engenheirando decorações festivas com seriedade exagerada.
 
 Plano, bem-humorado, otimizado para impressão, sem texto.
 ```
@@ -345,7 +345,7 @@ Plano, bem-humorado, otimizado para impressão, sem texto.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20vertical%201%3A1.4%20imprim%C3%ADvel%2C%20ilustrada%20em%20um%20estilo%20animado%20e%20divertido.%0A%0ASem%20ambiente%2C%20apenas%20a%20moldura.%0A%0AUm%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20est%C3%A1%20centralizado%2C%20propor%C3%A7%C3%A3o%201%3A1.4%2C%2070%25%20da%20largura%2C%20completamente%20limpo.%0A%0AA%20borda%20mostra%20castores%20de%20desenho%20animado%20construindo%2C%20martelando%20e%20super-projetando%20decora%C3%A7%C3%B5es%20festivas%20com%20seriedade%20exagerada.%0A%0APlano%2C%20bem-humorado%2C%20otimizado%20para%20impress%C3%A3o%2C%20sem%20texto.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20vertical%201%3A1.4%20imprim%C3%ADvel%2C%20ilustrada%20em%20um%20estilo%20animado%20e%20divertido.%0A%0ASem%20ambiente%2C%20apenas%20a%20moldura.%0A%0AUm%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20est%C3%A1%20centralizado%2C%20propor%C3%A7%C3%A3o%201%3A1.4%2C%2070%25%20da%20largura%2C%20completamente%20limpo.%0A%0AA%20borda%20mostra%20castores%20de%20desenho%20animado%20construindo%2C%20martelando%20e%20super-engenheirando%20decora%C3%A7%C3%B5es%20festivas%20com%20seriedade%20exagerada.%0A%0APlano%2C%20bem-humorado%2C%20otimizado%20para%20impress%C3%A3o%2C%20sem%20texto.)**
 
 ---
 
@@ -355,7 +355,7 @@ Plano, bem-humorado, otimizado para impressão, sem texto.
 
 #### 📖 Descrição
 
-Este prompt cria uma moldura de foto de Natal animada em formato vertical 1:1.4. A borda apresenta coalas de desenho animado abraçando enfeites e guirlandas, recusando-se a soltá-los, criando um humor suave e aconchegante em um design pronto para impressão.
+Este prompt cria uma moldura de foto de Natal animada no formato vertical 1:1.4. A borda apresenta coalas de desenho animado abraçando enfeites e guirlandas, recusando-se a soltar, criando um humor suave e aconchegante em um design pronto para impressão.
 
 #### 📝 Prompt
 
@@ -390,13 +390,13 @@ Plano, quente, pronto para impressão, sem texto.
 
 ---
 
-### No. 3: Ouriços e Esquilos de Natal · Quadro de Desastres Conjuntos
+### No. 3: Ouriços + Esquilos de Natal · Quadro de Desastre Conjunto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-Este prompt gera uma moldura de Natal bem-humorada em estilo animado, no formato vertical 1:1.4. A borda apresenta ouriços e esquilos de desenho animado competindo para coletar decorações, acidentalmente causando um caos festivo ao redor das bordas da moldura.
+Este prompt gera uma moldura de Natal bem-humorada em estilo animado, no formato vertical 1:1,4. A borda apresenta ouriços e esquilos de desenho animado competindo para coletar decorações, acidentalmente causando um caos festivo ao redor das bordas da moldura.
 
 #### 📝 Prompt
 
@@ -407,7 +407,7 @@ Apenas a moldura em si.
 
 Espaço para foto em branco, centralizado, 1:1.4, 70% da largura, limpo e vazio.
 
-A borda apresenta ouriços e esquilos em estilo desenho animado competindo para coletar decorações, acidentalmente causando um caos festivo nas laterais.
+A borda apresenta ouriços e esquilos em estilo desenho animado competindo para coletar decorações, acidentalmente causando um caos festivo nas bordas.
 
 Composição plana, sem texto.
 ```
@@ -417,7 +417,7 @@ Composição plana, sem texto.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788202576_2wfuzq_1765783647682-r45pga-fD2rQlsAAAAASUVORK5CYII_" width="600" alt="Ouriços e Esquilos de Natal · Quadro de Desastres Conjuntos - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788202576_2wfuzq_1765783647682-r45pga-fD2rQlsAAAAASUVORK5CYII_" width="600" alt="Ouriços + Esquilos de Natal · Quadro de Desastre Conjunto - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -427,7 +427,7 @@ Composição plana, sem texto.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20Natal%20vertical%201%3A1.4%20para%20impress%C3%A3o%2C%20ilustrada%20em%20um%20estilo%20animado%20e%20bem-humorado.%0A%0AApenas%20a%20moldura%20em%20si.%0A%0AEspa%C3%A7o%20para%20foto%20em%20branco%2C%20centralizado%2C%201%3A1.4%2C%2070%25%20da%20largura%2C%20limpo%20e%20vazio.%0A%0AA%20borda%20apresenta%20ouri%C3%A7os%20e%20esquilos%20em%20estilo%20desenho%20animado%20competindo%20para%20coletar%20decora%C3%A7%C3%B5es%2C%20acidentalmente%20causando%20um%20caos%20festivo%20nas%20laterais.%0A%0AComposi%C3%A7%C3%A3o%20plana%2C%20sem%20texto.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20Natal%20vertical%201%3A1.4%20para%20impress%C3%A3o%2C%20ilustrada%20em%20um%20estilo%20animado%20e%20bem-humorado.%0A%0AApenas%20a%20moldura%20em%20si.%0A%0AEspa%C3%A7o%20para%20foto%20em%20branco%2C%20centralizado%2C%201%3A1.4%2C%2070%25%20da%20largura%2C%20limpo%20e%20vazio.%0A%0AA%20borda%20apresenta%20ouri%C3%A7os%20e%20esquilos%20em%20estilo%20desenho%20animado%20competindo%20para%20coletar%20decora%C3%A7%C3%B5es%2C%20acidentalmente%20causando%20um%20caos%20festivo%20nas%20bordas.%0A%0AComposi%C3%A7%C3%A3o%20plana%2C%20sem%20texto.)**
 
 ---
 
@@ -483,7 +483,7 @@ Este prompt cria um quadro de Natal animado no estilo de livro de histórias, em
 #### 📝 Prompt
 
 ```
-Uma ilustração de moldura de Natal para impressão, em formato vertical 1:1.4, estilo livro de histórias animado.
+Uma ilustração de moldura de Natal para impressão, na proporção vertical 1:1.4, em estilo de livro de histórias animado.
 
 Composição apenas da moldura.
 
@@ -509,7 +509,7 @@ Ilustração plana, sem texto.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20Natal%20para%20impress%C3%A3o%2C%20em%20formato%20vertical%201%3A1.4%2C%20estilo%20livro%20de%20hist%C3%B3rias%20animado.%0A%0AComposi%C3%A7%C3%A3o%20apenas%20da%20moldura.%0A%0AEspa%C3%A7o%20em%20branco%20centralizado%20para%20foto%2C%201%3A1.4%2C%2070%25%20da%20largura%2C%20intocado.%0A%0AA%20borda%20apresenta%20corujas%20de%20desenho%20animado%20usando%20cachec%C3%B3is%20e%20chap%C3%A9us%2C%20olhando%20ceticamente%20para%20decora%C3%A7%C3%B5es%20bagun%C3%A7adas%2C%20segurando%20pranchetas%20e%20julgando%20o%20caos%20natalino%20com%20humor%20seco.%0A%0AIlustra%C3%A7%C3%A3o%20plana%2C%20sem%20texto.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20Natal%20para%20impress%C3%A3o%2C%20na%20propor%C3%A7%C3%A3o%20vertical%201%3A1.4%2C%20em%20estilo%20de%20livro%20de%20hist%C3%B3rias%20animado.%0A%0AComposi%C3%A7%C3%A3o%20apenas%20da%20moldura.%0A%0AEspa%C3%A7o%20em%20branco%20centralizado%20para%20foto%2C%201%3A1.4%2C%2070%25%20da%20largura%2C%20intocado.%0A%0AA%20borda%20apresenta%20corujas%20de%20desenho%20animado%20usando%20cachec%C3%B3is%20e%20chap%C3%A9us%2C%20olhando%20ceticamente%20para%20decora%C3%A7%C3%B5es%20bagun%C3%A7adas%2C%20segurando%20pranchetas%20e%20julgando%20o%20caos%20natalino%20com%20humor%20seco.%0A%0AIlustra%C3%A7%C3%A3o%20plana%2C%20sem%20texto.)**
 
 ---
 
@@ -519,7 +519,7 @@ Ilustração plana, sem texto.
 
 #### 📖 Descrição
 
-Este prompt gera uma moldura de foto de Natal em estilo de animação de desenho animado, com um toque de humor, no formato vertical 1:1.4. A borda apresenta um polvo de desenho animado usando todos os seus braços para decorar, resultando em um caos festivo e divertido.
+Este prompt gera uma moldura de Natal em estilo de desenho animado humorístico, em formato vertical 1:1.4. A borda apresenta um polvo de desenho animado usando todos os seus braços para decorar, resultando em um caos festivo e divertido.
 
 #### 📝 Prompt
 
@@ -532,7 +532,7 @@ Um espaço reservado para foto em branco está perfeitamente centralizado, propo
 
 A borda apresenta um polvo de desenho animado usando todos os seus braços para decorar enfeites, luzes, bengalas doces e estrelas simultaneamente, resultando em um caos festivo e divertido.
 
-Plano, limpo, pronto para impressão, sem tipografia.
+Plana, limpa, pronta para impressão, sem tipografia.
 ```
 
 #### 🖼️ Imagens geradas
@@ -550,7 +550,7 @@ Plano, limpo, pronto para impressão, sem tipografia.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20vertical%201%3A1.4%20imprim%C3%ADvel%2C%20ilustrada%20em%20um%20estilo%20de%20anima%C3%A7%C3%A3o%20de%20desenho%20animado%20bem-humorado.%0A%0AApenas%20o%20design%20da%20moldura%2C%20sem%20ambiente.%0A%0AUm%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20est%C3%A1%20perfeitamente%20centralizado%2C%20propor%C3%A7%C3%A3o%201%3A1.4%2C%2070%25%20da%20largura%2C%20completamente%20vazio.%0A%0AA%20borda%20apresenta%20um%20polvo%20de%20desenho%20animado%20usando%20todos%20os%20seus%20bra%C3%A7os%20para%20decorar%20enfeites%2C%20luzes%2C%20bengalas%20doces%20e%20estrelas%20simultaneamente%2C%20resultando%20em%20um%20caos%20festivo%20e%20divertido.%0A%0APlano%2C%20limpo%2C%20pronto%20para%20impress%C3%A3o%2C%20sem%20tipografia.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20vertical%201%3A1.4%20imprim%C3%ADvel%2C%20ilustrada%20em%20um%20estilo%20de%20anima%C3%A7%C3%A3o%20de%20desenho%20animado%20bem-humorado.%0A%0AApenas%20o%20design%20da%20moldura%2C%20sem%20ambiente.%0A%0AUm%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20est%C3%A1%20perfeitamente%20centralizado%2C%20propor%C3%A7%C3%A3o%201%3A1.4%2C%2070%25%20da%20largura%2C%20completamente%20vazio.%0A%0AA%20borda%20apresenta%20um%20polvo%20de%20desenho%20animado%20usando%20todos%20os%20seus%20bra%C3%A7os%20para%20decorar%20enfeites%2C%20luzes%2C%20bengalas%20doces%20e%20estrelas%20simultaneamente%2C%20resultando%20em%20um%20caos%20festivo%20e%20divertido.%0A%0APlana%2C%20limpa%2C%20pronta%20para%20impress%C3%A3o%2C%20sem%20tipografia.)**
 
 ---
 
@@ -565,11 +565,11 @@ Este prompt cria uma moldura de Natal animada em formato vertical 1:1.4, apresen
 #### 📝 Prompt
 
 ```
-Uma moldura de Natal animada para impressão, em formato vertical 1:1.4.
+Uma moldura de Natal animada para impressão, em formato vertical 1:1,4.
 
 Ilustração apenas da moldura.
 
-Espaço reservado para foto em branco, centralizado, centro horizontal + vertical, 1:1.4, 70% da largura, intocado.
+Espaço reservado para foto em branco centralizado, centro horizontal + vertical, 1:1,4, 70% da largura, intocado.
 
 A borda apresenta coelhos de desenho animado energéticos embrulhando presentes muito rápido, tropeçando em fitas, fazendo malabarismos com enfeites e correndo pelas bordas da moldura.
 
@@ -591,11 +591,11 @@ Caos divertido, ilustração plana, sem texto.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20Natal%20animada%20para%20impress%C3%A3o%2C%20em%20formato%20vertical%201%3A1.4.%0A%0AIlustra%C3%A7%C3%A3o%20apenas%20da%20moldura.%0A%0AEspa%C3%A7o%20reservado%20para%20foto%20em%20branco%2C%20centralizado%2C%20centro%20horizontal%20%2B%20vertical%2C%201%3A1.4%2C%2070%25%20da%20largura%2C%20intocado.%0A%0AA%20borda%20apresenta%20coelhos%20de%20desenho%20animado%20energ%C3%A9ticos%20embrulhando%20presentes%20muito%20r%C3%A1pido%2C%20trope%C3%A7ando%20em%20fitas%2C%20fazendo%20malabarismos%20com%20enfeites%20e%20correndo%20pelas%20bordas%20da%20moldura.%0A%0ACaos%20divertido%2C%20ilustra%C3%A7%C3%A3o%20plana%2C%20sem%20texto.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20Natal%20animada%20para%20impress%C3%A3o%2C%20em%20formato%20vertical%201%3A1%2C4.%0A%0AIlustra%C3%A7%C3%A3o%20apenas%20da%20moldura.%0A%0AEspa%C3%A7o%20reservado%20para%20foto%20em%20branco%20centralizado%2C%20centro%20horizontal%20%2B%20vertical%2C%201%3A1%2C4%2C%2070%25%20da%20largura%2C%20intocado.%0A%0AA%20borda%20apresenta%20coelhos%20de%20desenho%20animado%20energ%C3%A9ticos%20embrulhando%20presentes%20muito%20r%C3%A1pido%2C%20trope%C3%A7ando%20em%20fitas%2C%20fazendo%20malabarismos%20com%20enfeites%20e%20correndo%20pelas%20bordas%20da%20moldura.%0A%0ACaos%20divertido%2C%20ilustra%C3%A7%C3%A3o%20plana%2C%20sem%20texto.)**
 
 ---
 
-### No. 8: Ouriços de Natal · Quadro de Coleção de Enfeites
+### No. 8: Ouriços de Natal · Quadro Colecionador de Enfeites
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -612,7 +612,7 @@ Sem ambiente externo.
 
 Espaço para foto em branco exatamente no centro, 1:1.4, 70% da largura, completamente limpo.
 
-A borda da moldura mostra ouriços de desenho animado acidentalmente coletando enfeites, estrelas e luzes em seus espinhos, parecendo surpresos e confusos de uma forma fofa e exagerada.
+A borda da moldura mostra ouriços de desenho animado coletando acidentalmente enfeites, estrelas e luzes em seus espinhos, parecendo surpresos e confusos de uma forma fofa e exagerada.
 
 Plana, otimizada para impressão, sem letras.
 ```
@@ -622,7 +622,7 @@ Plana, otimizada para impressão, sem letras.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788195072_7x6vjr_1765783609947-icw1oe-gXUQAAAABJRU5ErkJggg__" width="600" alt="Ouriços de Natal · Quadro de Coleção de Enfeites - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788195072_7x6vjr_1765783609947-icw1oe-gXUQAAAABJRU5ErkJggg__" width="600" alt="Ouriços de Natal · Quadro Colecionador de Enfeites - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -632,26 +632,26 @@ Plana, otimizada para impressão, sem letras.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20vertical%201%3A1.4%20imprim%C3%ADvel%2C%20ilustrada%20em%20um%20estilo%20animado%20e%20bem-humorado.%0A%0ASem%20ambiente%20externo.%0A%0AEspa%C3%A7o%20para%20foto%20em%20branco%20exatamente%20no%20centro%2C%201%3A1.4%2C%2070%25%20da%20largura%2C%20completamente%20limpo.%0A%0AA%20borda%20da%20moldura%20mostra%20ouri%C3%A7os%20de%20desenho%20animado%20acidentalmente%20coletando%20enfeites%2C%20estrelas%20e%20luzes%20em%20seus%20espinhos%2C%20parecendo%20surpresos%20e%20confusos%20de%20uma%20forma%20fofa%20e%20exagerada.%0A%0APlana%2C%20otimizada%20para%20impress%C3%A3o%2C%20sem%20letras.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20vertical%201%3A1.4%20imprim%C3%ADvel%2C%20ilustrada%20em%20um%20estilo%20animado%20e%20bem-humorado.%0A%0ASem%20ambiente%20externo.%0A%0AEspa%C3%A7o%20para%20foto%20em%20branco%20exatamente%20no%20centro%2C%201%3A1.4%2C%2070%25%20da%20largura%2C%20completamente%20limpo.%0A%0AA%20borda%20da%20moldura%20mostra%20ouri%C3%A7os%20de%20desenho%20animado%20coletando%20acidentalmente%20enfeites%2C%20estrelas%20e%20luzes%20em%20seus%20espinhos%2C%20parecendo%20surpresos%20e%20confusos%20de%20uma%20forma%20fofa%20e%20exagerada.%0A%0APlana%2C%20otimizada%20para%20impress%C3%A3o%2C%20sem%20letras.)**
 
 ---
 
-### No. 9: Pandas de Natal · Moldura de Férias Relaxantes
+### No. 9: Pandas de Natal · Moldura de Férias Relaxante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-Este prompt gera uma moldura de foto de Natal em estilo de livro de histórias animado e suave, em formato vertical 1:1.4. A borda apresenta pandas de desenho animado relaxando em enfeites e abraçando bengalas doces, criando um humor gentil e aconchegante.
+Este prompt gera uma moldura de Natal animada e suave no estilo de livro de histórias, em formato vertical 1:1.4. A borda apresenta pandas de desenho animado relaxando em enfeites e abraçando bengalas doces, criando um humor gentil e aconchegante.
 
 #### 📝 Prompt
 
 ```
-Uma ilustração de moldura de foto de Natal para impressão na proporção vertical de 1:1.4, desenhada em um estilo suave de livro de histórias animado.
+Uma ilustração de moldura de foto de Natal para imprimir, na vertical 1:1.4, desenhada em um estilo suave de livro de histórias animado.
 
 Composição apenas da moldura.
 
-Um espaço reservado para foto em branco, orientado verticalmente, centralizado, com proporção de 1:1.4 e 70% da largura, completamente vazio.
+Um espaço reservado para foto em branco, orientado verticalmente, centralizado, proporção 1:1.4, 70% da largura, completamente vazio.
 
 A borda apresenta pandas de desenho animado relaxando em enfeites, abraçando bengalas doces, meio adormecidos em decorações festivas com um humor gentil.
 
@@ -663,7 +663,7 @@ Ilustração plana, paleta quente, sem texto.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__" width="600" alt="Pandas de Natal · Moldura de Férias Relaxantes - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__" width="600" alt="Pandas de Natal · Moldura de Férias Relaxante - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -673,22 +673,22 @@ Ilustração plana, paleta quente, sem texto.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20foto%20de%20Natal%20para%20impress%C3%A3o%20na%20propor%C3%A7%C3%A3o%20vertical%20de%201%3A1.4%2C%20desenhada%20em%20um%20estilo%20suave%20de%20livro%20de%20hist%C3%B3rias%20animado.%0A%0AComposi%C3%A7%C3%A3o%20apenas%20da%20moldura.%0A%0AUm%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%2C%20orientado%20verticalmente%2C%20centralizado%2C%20com%20propor%C3%A7%C3%A3o%20de%201%3A1.4%20e%2070%25%20da%20largura%2C%20completamente%20vazio.%0A%0AA%20borda%20apresenta%20pandas%20de%20desenho%20animado%20relaxando%20em%20enfeites%2C%20abra%C3%A7ando%20bengalas%20doces%2C%20meio%20adormecidos%20em%20decora%C3%A7%C3%B5es%20festivas%20com%20um%20humor%20gentil.%0A%0AIlustra%C3%A7%C3%A3o%20plana%2C%20paleta%20quente%2C%20sem%20texto.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20foto%20de%20Natal%20para%20imprimir%2C%20na%20vertical%201%3A1.4%2C%20desenhada%20em%20um%20estilo%20suave%20de%20livro%20de%20hist%C3%B3rias%20animado.%0A%0AComposi%C3%A7%C3%A3o%20apenas%20da%20moldura.%0A%0AUm%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%2C%20orientado%20verticalmente%2C%20centralizado%2C%20propor%C3%A7%C3%A3o%201%3A1.4%2C%2070%25%20da%20largura%2C%20completamente%20vazio.%0A%0AA%20borda%20apresenta%20pandas%20de%20desenho%20animado%20relaxando%20em%20enfeites%2C%20abra%C3%A7ando%20bengalas%20doces%2C%20meio%20adormecidos%20em%20decora%C3%A7%C3%B5es%20festivas%20com%20um%20humor%20gentil.%0A%0AIlustra%C3%A7%C3%A3o%20plana%2C%20paleta%20quente%2C%20sem%20texto.)**
 
 ---
 
-### No. 10: Tartarugas de Natal · Quadro "Vá com Calma"
+### No. 10: Tartarugas de Natal · Quadro "Vá Com Calma"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-Este prompt cria uma moldura de Natal vertical 1:1.4 para impressão, em um estilo de desenho animado calmo e bem-humorado. A borda apresenta tartarugas de desenho animado relaxadas, movendo-se em um ritmo exageradamente lento, adicionando um humor gentil e tranquilo ao design.
+Este prompt cria uma moldura de Natal imprimível vertical 1:1.4 em um estilo de desenho animado calmo, mas bem-humorado. A borda apresenta tartarugas de desenho animado relaxadas movendo-se em um ritmo exageradamente lento, adicionando um humor gentil e pacífico ao design.
 
 #### 📝 Prompt
 
 ```
-Uma moldura de Natal vertical 1:1.4 para impressão, em um estilo de desenho animado calmo e bem-humorado.
+Uma moldura de Natal vertical 1:1.4 para impressão, em um estilo de desenho animado calmo, mas bem-humorado.
 
 Apenas a ilustração da moldura, sem cenário de fundo.
 
@@ -704,7 +704,7 @@ Plana, equilibrada, fácil de imprimir, sem texto.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788193159_ioxmaa_1765783608149-8brem0-kCAcQJAzIhi0RAIMVp0Kt0wYCn1BUksOO_vgCY6SvGWFFiQCx8b9gjAmwhqYYioemYQIDKA_P8DD9Kp4aKugaMAAAAASUVORK5CYII_" width="600" alt="Tartarugas de Natal · Quadro "Vá com Calma" - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788193159_ioxmaa_1765783608149-8brem0-kCAcQJAzIhi0RAIMVp0Kt0wYCn1BUksOO_vgCY6SvGWFFiQCx8b9gjAmwhqYYioemYQIDKA_P8DD9Kp4aKugaMAAAAASUVORK5CYII_" width="600" alt="Tartarugas de Natal · Quadro "Vá Com Calma" - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -714,11 +714,11 @@ Plana, equilibrada, fácil de imprimir, sem texto.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20Natal%20vertical%201%3A1.4%20para%20impress%C3%A3o%2C%20em%20um%20estilo%20de%20desenho%20animado%20calmo%20e%20bem-humorado.%0A%0AApenas%20a%20ilustra%C3%A7%C3%A3o%20da%20moldura%2C%20sem%20cen%C3%A1rio%20de%20fundo.%0A%0AUm%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20fica%20perfeitamente%20centralizado%2C%20com%20propor%C3%A7%C3%A3o%201%3A1.4%20e%2070%25%20de%20largura%2C%20intocado.%0A%0AA%20borda%20%C3%A9%20decorada%20com%20tartarugas%20de%20desenho%20animado%20relaxadas%20usando%20cachec%C3%B3is%2C%20empilhando%20enfeites%20calmamente%2C%20meditando%20com%20luzes%20de%20Natal%20e%20movendo-se%20em%20um%20ritmo%20exageradamente%20lento.%0A%0APlana%2C%20equilibrada%2C%20f%C3%A1cil%20de%20imprimir%2C%20sem%20texto.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20Natal%20vertical%201%3A1.4%20para%20impress%C3%A3o%2C%20em%20um%20estilo%20de%20desenho%20animado%20calmo%2C%20mas%20bem-humorado.%0A%0AApenas%20a%20ilustra%C3%A7%C3%A3o%20da%20moldura%2C%20sem%20cen%C3%A1rio%20de%20fundo.%0A%0AUm%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20fica%20perfeitamente%20centralizado%2C%20com%20propor%C3%A7%C3%A3o%201%3A1.4%20e%2070%25%20de%20largura%2C%20intocado.%0A%0AA%20borda%20%C3%A9%20decorada%20com%20tartarugas%20de%20desenho%20animado%20relaxadas%20usando%20cachec%C3%B3is%2C%20empilhando%20enfeites%20calmamente%2C%20meditando%20com%20luzes%20de%20Natal%20e%20movendo-se%20em%20um%20ritmo%20exageradamente%20lento.%0A%0APlana%2C%20equilibrada%2C%20f%C3%A1cil%20de%20imprimir%2C%20sem%20texto.)**
 
 ---
 
-### No. 11: Esquilos de Natal · Quadro de Frenesi de Acúmulo
+### No. 11: Christmas Squirrels · Hoarding Frenzy Frame
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -733,9 +733,9 @@ Uma ilustração de moldura de foto de Natal para impressão em formato vertical
 
 Design apenas da moldura, sem ambiente.
 
-Espaço reservado para foto em branco centralizado, centro horizontal e vertical, proporção de 1:1.4, 70% da largura da moldura, completamente vazio.
+Espaço reservado para foto em branco centralizado, centro horizontal e vertical, proporção 1:1.4, 70% da largura da moldura, completamente vazio.
 
-A borda apresenta esquilos de desenho animado frenéticos acumulando enfeites, enchendo meias, escondendo nozes dentro de bolas de Natal e espiando nervosamente por trás das decorações.
+A borda apresenta esquilos de desenho animado frenéticos acumulando enfeites, enchendo meias, escondendo nozes dentro de bolas e espiando nervosamente por trás das decorações.
 
 Ilustração plana, humor aconchegante, sem tipografia.
 ```
@@ -745,7 +745,7 @@ Ilustração plana, humor aconchegante, sem tipografia.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788190847_uts5dc_1765784417851-tvxey7-b_RQnrr59P8BW4BdIdd1RXYAAAAASUVORK5CYII_" width="600" alt="Esquilos de Natal · Quadro de Frenesi de Acúmulo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788190847_uts5dc_1765784417851-tvxey7-b_RQnrr59P8BW4BdIdd1RXYAAAAASUVORK5CYII_" width="600" alt="Christmas Squirrels · Hoarding Frenzy Frame - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -755,7 +755,7 @@ Ilustração plana, humor aconchegante, sem tipografia.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20foto%20de%20Natal%20para%20impress%C3%A3o%20em%20formato%20vertical%201%3A1.4%2C%20ilustrada%20em%20um%20estilo%20animado%20e%20bem-humorado.%0A%0ADesign%20apenas%20da%20moldura%2C%20sem%20ambiente.%0A%0AEspa%C3%A7o%20reservado%20para%20foto%20em%20branco%20centralizado%2C%20centro%20horizontal%20e%20vertical%2C%20propor%C3%A7%C3%A3o%20de%201%3A1.4%2C%2070%25%20da%20largura%20da%20moldura%2C%20completamente%20vazio.%0A%0AA%20borda%20apresenta%20esquilos%20de%20desenho%20animado%20fren%C3%A9ticos%20acumulando%20enfeites%2C%20enchendo%20meias%2C%20escondendo%20nozes%20dentro%20de%20bolas%20de%20Natal%20e%20espiando%20nervosamente%20por%20tr%C3%A1s%20das%20decora%C3%A7%C3%B5es.%0A%0AIlustra%C3%A7%C3%A3o%20plana%2C%20humor%20aconchegante%2C%20sem%20tipografia.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20foto%20de%20Natal%20para%20impress%C3%A3o%20em%20formato%20vertical%201%3A1.4%2C%20ilustrada%20em%20um%20estilo%20animado%20e%20bem-humorado.%0A%0ADesign%20apenas%20da%20moldura%2C%20sem%20ambiente.%0A%0AEspa%C3%A7o%20reservado%20para%20foto%20em%20branco%20centralizado%2C%20centro%20horizontal%20e%20vertical%2C%20propor%C3%A7%C3%A3o%201%3A1.4%2C%2070%25%20da%20largura%20da%20moldura%2C%20completamente%20vazio.%0A%0AA%20borda%20apresenta%20esquilos%20de%20desenho%20animado%20fren%C3%A9ticos%20acumulando%20enfeites%2C%20enchendo%20meias%2C%20escondendo%20nozes%20dentro%20de%20bolas%20e%20espiando%20nervosamente%20por%20tr%C3%A1s%20das%20decora%C3%A7%C3%B5es.%0A%0AIlustra%C3%A7%C3%A3o%20plana%2C%20humor%20aconchegante%2C%20sem%20tipografia.)**
 
 ---
 
@@ -765,16 +765,16 @@ Ilustração plana, humor aconchegante, sem tipografia.
 
 #### 📖 Descrição
 
-Este prompt gera uma moldura de foto de Natal animada e imprimível, vertical 1:1.4, com uma energia de desenho animado divertida. A borda apresenta macacos atrevidos balançando em guirlandas e roubando estrelas, ilustrados em um estilo de animação vibrante.
+Este prompt gera um porta-retrato de Natal animado e imprimível, na proporção vertical de 1:1.4, com uma energia de desenho animado divertida. A borda apresenta macacos atrevidos balançando em guirlandas e roubando estrelas, ilustrados em um estilo de animação vibrante.
 
 #### 📝 Prompt
 
 ```
-Uma moldura de foto de Natal animada imprimível vertical 1:1.4 com energia de desenho animado divertida.
+Uma moldura de foto de Natal animada e imprimível, vertical, 1:1.4, com energia de desenho animado divertida.
 
 Sem ambiente, apenas a moldura em si.
 
-Um grande espaço em branco para foto está centralizado horizontal e verticalmente, com proporção 1:1.4 e 70% de largura, totalmente vazio.
+Um grande espaço em branco para foto está centralizado horizontal e verticalmente, com proporção 1:1.4 e 70% de largura, completamente vazio.
 
 A borda da moldura apresenta macacos de desenho animado atrevidos balançando em guirlandas, roubando estrelas, pendurados de cabeça para baixo e fazendo expressões engraçadas, ilustrados em um estilo de animação vibrante.
 
@@ -796,7 +796,7 @@ Plana, equilibrada, pronta para impressão, sem texto.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20animada%20imprim%C3%ADvel%20vertical%201%3A1.4%20com%20energia%20de%20desenho%20animado%20divertida.%0A%0ASem%20ambiente%2C%20apenas%20a%20moldura%20em%20si.%0A%0AUm%20grande%20espa%C3%A7o%20em%20branco%20para%20foto%20est%C3%A1%20centralizado%20horizontal%20e%20verticalmente%2C%20com%20propor%C3%A7%C3%A3o%201%3A1.4%20e%2070%25%20de%20largura%2C%20totalmente%20vazio.%0A%0AA%20borda%20da%20moldura%20apresenta%20macacos%20de%20desenho%20animado%20atrevidos%20balan%C3%A7ando%20em%20guirlandas%2C%20roubando%20estrelas%2C%20pendurados%20de%20cabe%C3%A7a%20para%20baixo%20e%20fazendo%20express%C3%B5es%20engra%C3%A7adas%2C%20ilustrados%20em%20um%20estilo%20de%20anima%C3%A7%C3%A3o%20vibrante.%0A%0APlana%2C%20equilibrada%2C%20pronta%20para%20impress%C3%A3o%2C%20sem%20texto.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20animada%20e%20imprim%C3%ADvel%2C%20vertical%2C%201%3A1.4%2C%20com%20energia%20de%20desenho%20animado%20divertida.%0A%0ASem%20ambiente%2C%20apenas%20a%20moldura%20em%20si.%0A%0AUm%20grande%20espa%C3%A7o%20em%20branco%20para%20foto%20est%C3%A1%20centralizado%20horizontal%20e%20verticalmente%2C%20com%20propor%C3%A7%C3%A3o%201%3A1.4%20e%2070%25%20de%20largura%2C%20completamente%20vazio.%0A%0AA%20borda%20da%20moldura%20apresenta%20macacos%20de%20desenho%20animado%20atrevidos%20balan%C3%A7ando%20em%20guirlandas%2C%20roubando%20estrelas%2C%20pendurados%20de%20cabe%C3%A7a%20para%20baixo%20e%20fazendo%20express%C3%B5es%20engra%C3%A7adas%2C%20ilustrados%20em%20um%20estilo%20de%20anima%C3%A7%C3%A3o%20vibrante.%0A%0APlana%2C%20equilibrada%2C%20pronta%20para%20impress%C3%A3o%2C%20sem%20texto.)**
 
 ---
 
@@ -806,7 +806,7 @@ Plana, equilibrada, pronta para impressão, sem texto.
 
 #### 📖 Descrição
 
-Este prompt cria uma moldura de Natal bem-humorada no estilo de livro infantil animado, apresentando caracóis de desenho animado em movimento lento arrastando enfeites e deixando rastros brilhantes. A proporção é vertical de 1:1.4, focando apenas no design da moldura.
+Este prompt cria uma moldura de Natal bem-humorada no estilo de livro infantil animado, apresentando caracóis de desenho animado em movimento lento arrastando enfeites e deixando rastros brilhantes. É uma proporção vertical de 1:1,4, focando apenas no design da moldura.
 
 #### 📝 Prompt
 
@@ -815,9 +815,9 @@ Uma ilustração de moldura de foto de Natal para impressão, em proporção 1:1
 
 A ilustração foca apenas no design da moldura.
 
-No centro exato, inclua uma área de placeholder de foto em branco, centralizada horizontal e verticalmente, proporção 1:1.4, 70% da largura total, completamente limpa.
+No centro exato, inclua uma área de espaço reservado para foto em branco, centralizada horizontal e verticalmente, proporção 1:1.4, 70% da largura total, completamente limpa.
 
-A borda apresenta caracóis de desenho animado em movimento lento, usando pequenos gorros de Papai Noel, arrastando enfeites, deixando rastros brilhantes e escalando decorações festivas em um ritmo absurdamente relaxado.
+A borda apresenta caracóis de desenho animado em movimento lento usando minúsculos chapéus de Papai Noel, arrastando enfeites, deixando rastros brilhantes e escalando decorações festivas em um ritmo absurdamente relaxado.
 
 Ilustração plana, humor aconchegante, sem texto.
 ```
@@ -837,7 +837,7 @@ Ilustração plana, humor aconchegante, sem texto.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20foto%20de%20Natal%20para%20impress%C3%A3o%2C%20em%20propor%C3%A7%C3%A3o%201%3A1.4%20vertical%2C%20desenhada%20no%20estilo%20de%20livro%20infantil%20animado%20e%20bem-humorado.%0A%0AA%20ilustra%C3%A7%C3%A3o%20foca%20apenas%20no%20design%20da%20moldura.%0A%0ANo%20centro%20exato%2C%20inclua%20uma%20%C3%A1rea%20de%20placeholder%20de%20foto%20em%20branco%2C%20centralizada%20horizontal%20e%20verticalmente%2C%20propor%C3%A7%C3%A3o%201%3A1.4%2C%2070%25%20da%20largura%20total%2C%20completamente%20limpa.%0A%0AA%20borda%20apresenta%20carac%C3%B3is%20de%20desenho%20animado%20em%20movimento%20lento%2C%20usando%20pequenos%20gorros%20de%20Papai%20Noel%2C%20arrastando%20enfeites%2C%20deixando%20rastros%20brilhantes%20e%20escalando%20decora%C3%A7%C3%B5es%20festivas%20em%20um%20ritmo%20absurdamente%20relaxado.%0A%0AIlustra%C3%A7%C3%A3o%20plana%2C%20humor%20aconchegante%2C%20sem%20texto.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20foto%20de%20Natal%20para%20impress%C3%A3o%2C%20em%20propor%C3%A7%C3%A3o%201%3A1.4%20vertical%2C%20desenhada%20no%20estilo%20de%20livro%20infantil%20animado%20e%20bem-humorado.%0A%0AA%20ilustra%C3%A7%C3%A3o%20foca%20apenas%20no%20design%20da%20moldura.%0A%0ANo%20centro%20exato%2C%20inclua%20uma%20%C3%A1rea%20de%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%2C%20centralizada%20horizontal%20e%20verticalmente%2C%20propor%C3%A7%C3%A3o%201%3A1.4%2C%2070%25%20da%20largura%20total%2C%20completamente%20limpa.%0A%0AA%20borda%20apresenta%20carac%C3%B3is%20de%20desenho%20animado%20em%20movimento%20lento%20usando%20min%C3%BAsculos%20chap%C3%A9us%20de%20Papai%20Noel%2C%20arrastando%20enfeites%2C%20deixando%20rastros%20brilhantes%20e%20escalando%20decora%C3%A7%C3%B5es%20festivas%20em%20um%20ritmo%20absurdamente%20relaxado.%0A%0AIlustra%C3%A7%C3%A3o%20plana%2C%20humor%20aconchegante%2C%20sem%20texto.)**
 
 ---
 
@@ -847,18 +847,18 @@ Ilustração plana, humor aconchegante, sem texto.
 
 #### 📖 Descrição
 
-Este prompt gera uma moldura de foto de Natal imprimível, bem-humorada e vertical (proporção 1:1,4), em estilo de desenho animado. A borda da moldura é preenchida com cães animados de desenho animado, emaranhados em luzes e derrubando decorações, criando uma cena alegre e cheia de energia.
+Este prompt gera uma moldura de foto de Natal imprimível, vertical, no formato 1:1.4, em estilo de desenho animado, com um toque de humor. A borda da moldura é preenchida com cães de desenho animado animados, emaranhados em luzes e derrubando decorações, criando uma cena alegre e cheia de energia.
 
 #### 📝 Prompt
 
 ```
-Uma moldura de foto de Natal vertical 1:1.4 imprimível, ilustrada em um estilo de animação de desenho animado bem-humorado.
+Uma moldura de Natal vertical 1:1.4 para impressão, ilustrada em um estilo de animação de desenho animado bem-humorado.
 
 O design mostra apenas a moldura em si, sem ambiente de fundo.
 
-Um espaço reservado para foto em branco é reservado exatamente no centro horizontal e vertical, com proporção de 1:1.4 e 70% da largura da moldura, totalmente vazio e claramente definido.
+Um espaço reservado para foto em branco é reservado no centro horizontal e vertical exato, com proporção de 1:1.4 e 70% da largura da moldura, totalmente vazio e claramente definido.
 
-A borda da moldura é preenchida com cães de desenho animado animados emaranhados em luzes de Natal, perseguindo enfeites, derrubando decorações e vestindo suéteres festivos grandes demais em poses exageradas.
+A borda da moldura é preenchida com cães de desenho animado animados emaranhados em luzes de Natal, perseguindo enfeites, derrubando decorações e usando suéteres festivos grandes em poses exageradas.
 
 Alegre, energético, plano e otimizado para impressão, sem letras.
 ```
@@ -878,7 +878,7 @@ Alegre, energético, plano e otimizado para impressão, sem letras.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20vertical%201%3A1.4%20imprim%C3%ADvel%2C%20ilustrada%20em%20um%20estilo%20de%20anima%C3%A7%C3%A3o%20de%20desenho%20animado%20bem-humorado.%0A%0AO%20design%20mostra%20apenas%20a%20moldura%20em%20si%2C%20sem%20ambiente%20de%20fundo.%0A%0AUm%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20%C3%A9%20reservado%20exatamente%20no%20centro%20horizontal%20e%20vertical%2C%20com%20propor%C3%A7%C3%A3o%20de%201%3A1.4%20e%2070%25%20da%20largura%20da%20moldura%2C%20totalmente%20vazio%20e%20claramente%20definido.%0A%0AA%20borda%20da%20moldura%20%C3%A9%20preenchida%20com%20c%C3%A3es%20de%20desenho%20animado%20animados%20emaranhados%20em%20luzes%20de%20Natal%2C%20perseguindo%20enfeites%2C%20derrubando%20decora%C3%A7%C3%B5es%20e%20vestindo%20su%C3%A9teres%20festivos%20grandes%20demais%20em%20poses%20exageradas.%0A%0AAlegre%2C%20energ%C3%A9tico%2C%20plano%20e%20otimizado%20para%20impress%C3%A3o%2C%20sem%20letras.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20Natal%20vertical%201%3A1.4%20para%20impress%C3%A3o%2C%20ilustrada%20em%20um%20estilo%20de%20anima%C3%A7%C3%A3o%20de%20desenho%20animado%20bem-humorado.%0A%0AO%20design%20mostra%20apenas%20a%20moldura%20em%20si%2C%20sem%20ambiente%20de%20fundo.%0A%0AUm%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20%C3%A9%20reservado%20no%20centro%20horizontal%20e%20vertical%20exato%2C%20com%20propor%C3%A7%C3%A3o%20de%201%3A1.4%20e%2070%25%20da%20largura%20da%20moldura%2C%20totalmente%20vazio%20e%20claramente%20definido.%0A%0AA%20borda%20da%20moldura%20%C3%A9%20preenchida%20com%20c%C3%A3es%20de%20desenho%20animado%20animados%20emaranhados%20em%20luzes%20de%20Natal%2C%20perseguindo%20enfeites%2C%20derrubando%20decora%C3%A7%C3%B5es%20e%20usando%20su%C3%A9teres%20festivos%20grandes%20em%20poses%20exageradas.%0A%0AAlegre%2C%20energ%C3%A9tico%2C%20plano%20e%20otimizado%20para%20impress%C3%A3o%2C%20sem%20letras.)**
 
 ---
 
@@ -888,18 +888,18 @@ Alegre, energético, plano e otimizado para impressão, sem letras.
 
 #### 📖 Descrição
 
-Este prompt gera uma ilustração de moldura de foto de Natal imprimível, apresentando guaxinins travessos roubando enfeites e bengalas doces, criando uma atmosfera de feriado divertida e caótica. Ela foi projetada como uma moldura autônoma com uma proporção de 1:1,4, adequada para impressão de alta qualidade.
+Este prompt gera uma ilustração de moldura de foto de Natal imprimível com guaxinins travessos roubando enfeites e bengalas doces, criando uma atmosfera de feriado divertida e caótica. Ela foi projetada como uma moldura autônoma com uma proporção de 1:1,4, adequada para impressão de alta qualidade.
 
 #### 📝 Prompt
 
 ```
-Uma ilustração de moldura de foto de Natal para impressão, projetada exclusivamente como uma moldura autônoma, em uma proporção de aspecto vertical de 1:1.4, adequada para impressão de alta qualidade.
+Uma ilustração de moldura de foto de Natal para impressão, projetada exclusivamente como uma moldura autônoma, em uma proporção vertical de 1:1.4, adequada para impressão de alta qualidade.
 
 A ilustração foca apenas na moldura em si, sem ambiente externo ou cena de fundo. O estilo é uma ilustração de livro de histórias animado e bem-humorado, com contornos limpos e texturas suaves.
 
-No centro exato da moldura, reserve uma área de espaço reservado para foto em branco, centralizada horizontal e verticalmente, com uma proporção de aspecto de retrato de 1:1.4 e 70% da largura total da moldura, completamente vazia e intocada.
+No centro exato da moldura, reserve uma área vazia para foto, centralizada horizontal e verticalmente, com uma proporção de retrato de 1:1.4 e 70% da largura total da moldura, completamente vazia e intocada.
 
-A borda da moldura circundante apresenta guaxinins de desenho animado travessos roubando enfeites, escondendo bengalas doces, espiando dos cantos e pendurados de cabeça para baixo em guirlandas, criando uma vibração festiva caótica e divertida.
+A borda da moldura circundante apresenta guaxinins de desenho animado travessos roubando enfeites, escondendo bengalas doces, espiando dos cantos e pendurados de cabeça para baixo em guirlandas, criando uma atmosfera festiva caótica e divertida.
 
 Composição plana, cores amigáveis para impressão, sem texto.
 ```
@@ -919,11 +919,11 @@ Composição plana, cores amigáveis para impressão, sem texto.
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20foto%20de%20Natal%20para%20impress%C3%A3o%2C%20projetada%20exclusivamente%20como%20uma%20moldura%20aut%C3%B4noma%2C%20em%20uma%20propor%C3%A7%C3%A3o%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20adequada%20para%20impress%C3%A3o%20de%20alta%20qualidade.%0A%0AA%20ilustra%C3%A7%C3%A3o%20foca%20apenas%20na%20moldura%20em%20si%2C%20sem%20ambiente%20externo%20ou%20cena%20de%20fundo.%20O%20estilo%20%C3%A9%20uma%20ilustra%C3%A7%C3%A3o%20de%20livro%20de%20hist%C3%B3rias%20animado%20e%20bem-humorado%2C%20com%20contornos%20limpos%20e%20texturas%20suaves.%0A%0ANo%20centro%20exato%20da%20moldura%2C%20reserve%20uma%20%C3%A1rea%20de%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%2C%20centralizada%20horizontal%20e%20verticalmente%2C%20com%20uma%20propor%C3%A7%C3%A3o%20de%20aspecto%20de%20retrato%20de%201%3A1.4%20e%2070%25%20da%20largura%20total%20da%20moldura%2C%20completamente%20vazia%20e%20intocada.%0A%0AA%20borda%20da%20moldura%20circundante%20apresenta%20guaxinins%20de%20desenho%20animado%20travessos%20roubando%20enfeites%2C%20escondendo%20bengalas%20doces%2C%20espiando%20dos%20cantos%20e%20pendurados%20de%20cabe%C3%A7a%20para%20baixo%20em%20guirlandas%2C%20criando%20uma%20vibra%C3%A7%C3%A3o%20festiva%20ca%C3%B3tica%20e%20divertida.%0A%0AComposi%C3%A7%C3%A3o%20plana%2C%20cores%20amig%C3%A1veis%20para%20impress%C3%A3o%2C%20sem%20texto.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20foto%20de%20Natal%20para%20impress%C3%A3o%2C%20projetada%20exclusivamente%20como%20uma%20moldura%20aut%C3%B4noma%2C%20em%20uma%20propor%C3%A7%C3%A3o%20vertical%20de%201%3A1.4%2C%20adequada%20para%20impress%C3%A3o%20de%20alta%20qualidade.%0A%0AA%20ilustra%C3%A7%C3%A3o%20foca%20apenas%20na%20moldura%20em%20si%2C%20sem%20ambiente%20externo%20ou%20cena%20de%20fundo.%20O%20estilo%20%C3%A9%20uma%20ilustra%C3%A7%C3%A3o%20de%20livro%20de%20hist%C3%B3rias%20animado%20e%20bem-humorado%2C%20com%20contornos%20limpos%20e%20texturas%20suaves.%0A%0ANo%20centro%20exato%20da%20moldura%2C%20reserve%20uma%20%C3%A1rea%20vazia%20para%20foto%2C%20centralizada%20horizontal%20e%20verticalmente%2C%20com%20uma%20propor%C3%A7%C3%A3o%20de%20retrato%20de%201%3A1.4%20e%2070%25%20da%20largura%20total%20da%20moldura%2C%20completamente%20vazia%20e%20intocada.%0A%0AA%20borda%20da%20moldura%20circundante%20apresenta%20guaxinins%20de%20desenho%20animado%20travessos%20roubando%20enfeites%2C%20escondendo%20bengalas%20doces%2C%20espiando%20dos%20cantos%20e%20pendurados%20de%20cabe%C3%A7a%20para%20baixo%20em%20guirlandas%2C%20criando%20uma%20atmosfera%20festiva%20ca%C3%B3tica%20e%20divertida.%0A%0AComposi%C3%A7%C3%A3o%20plana%2C%20cores%20amig%C3%A1veis%20para%20impress%C3%A3o%2C%20sem%20texto.)**
 
 ---
 
-### No. 16: Moldura de Animação para Livro Infantil Pinguins Desajeitados
+### No. 16: Moldura de Foto de Animação do Livro Infantil Pinguins Desajeitados
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -934,13 +934,13 @@ Este prompt cria uma moldura de foto de Natal vertical e imprimível, ilustrada 
 #### 📝 Prompt
 
 ```
-Uma moldura de foto de Natal vertical 1:1.4 imprimível, ilustrada em um estilo de animação de livro infantil charmoso e bem-humorado.
+Uma moldura de foto de Natal vertical 1:1.4 para impressão, ilustrada em um estilo de animação de livro infantil charmoso e bem-humorado.
 
 O design foca inteiramente na moldura em si, com ilustração plana e sem ambiente de fundo.
 
-Um grande espaço em branco para foto é reservado exatamente no centro horizontal e vertical, com uma proporção de retrato de 1:1.4 e 70% da largura da moldura, intencionalmente vazio e claramente separado de todas as decorações.
+Um grande espaço reservado para foto em branco é mantido no centro horizontal e vertical exato, com uma proporção de retrato de 1:1.4 e 70% da largura da moldura, intencionalmente vazio e claramente separado de todas as decorações.
 
-A borda circundante apresenta pinguins de desenho animado desajeitados escorregando, empilhando enfeites, segurando estrelas superdimensionadas e interagindo de forma divertida com elementos festivos ao redor das bordas.
+A borda ao redor apresenta pinguins desajeitados de desenho animado escorregando, empilhando enfeites, segurando estrelas gigantes e interagindo de forma divertida com elementos festivos nas bordas.
 
 O estilo geral é alegre, engraçado, animado e fácil de imprimir, sem texto ou letras.
 ```
@@ -950,7 +950,7 @@ O estilo geral é alegre, engraçado, animado e fácil de imprimir, sem texto ou
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__" width="600" alt="Moldura de Animação para Livro Infantil Pinguins Desajeitados - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__" width="600" alt="Moldura de Foto de Animação do Livro Infantil Pinguins Desajeitados - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -960,7 +960,7 @@ O estilo geral é alegre, engraçado, animado e fácil de imprimir, sem texto ou
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20vertical%201%3A1.4%20imprim%C3%ADvel%2C%20ilustrada%20em%20um%20estilo%20de%20anima%C3%A7%C3%A3o%20de%20livro%20infantil%20charmoso%20e%20bem-humorado.%0A%0AO%20design%20foca%20inteiramente%20na%20moldura%20em%20si%2C%20com%20ilustra%C3%A7%C3%A3o%20plana%20e%20sem%20ambiente%20de%20fundo.%0A%0AUm%20grande%20espa%C3%A7o%20em%20branco%20para%20foto%20%C3%A9%20reservado%20exatamente%20no%20centro%20horizontal%20e%20vertical%2C%20com%20uma%20propor%C3%A7%C3%A3o%20de%20retrato%20de%201%3A1.4%20e%2070%25%20da%20largura%20da%20moldura%2C%20intencionalmente%20vazio%20e%20claramente%20separado%20de%20todas%20as%20decora%C3%A7%C3%B5es.%0A%0AA%20borda%20circundante%20apresenta%20pinguins%20de%20desenho%20animado%20desajeitados%20escorregando%2C%20empilhando%20enfeites%2C%20segurando%20estrelas%20superdimensionadas%20e%20interagindo%20de%20forma%20divertida%20com%20elementos%20festivos%20ao%20redor%20das%20bordas.%0A%0AO%20estilo%20geral%20%C3%A9%20alegre%2C%20engra%C3%A7ado%2C%20animado%20e%20f%C3%A1cil%20de%20imprimir%2C%20sem%20texto%20ou%20letras.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20vertical%201%3A1.4%20para%20impress%C3%A3o%2C%20ilustrada%20em%20um%20estilo%20de%20anima%C3%A7%C3%A3o%20de%20livro%20infantil%20charmoso%20e%20bem-humorado.%0A%0AO%20design%20foca%20inteiramente%20na%20moldura%20em%20si%2C%20com%20ilustra%C3%A7%C3%A3o%20plana%20e%20sem%20ambiente%20de%20fundo.%0A%0AUm%20grande%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20%C3%A9%20mantido%20no%20centro%20horizontal%20e%20vertical%20exato%2C%20com%20uma%20propor%C3%A7%C3%A3o%20de%20retrato%20de%201%3A1.4%20e%2070%25%20da%20largura%20da%20moldura%2C%20intencionalmente%20vazio%20e%20claramente%20separado%20de%20todas%20as%20decora%C3%A7%C3%B5es.%0A%0AA%20borda%20ao%20redor%20apresenta%20pinguins%20desajeitados%20de%20desenho%20animado%20escorregando%2C%20empilhando%20enfeites%2C%20segurando%20estrelas%20gigantes%20e%20interagindo%20de%20forma%20divertida%20com%20elementos%20festivos%20nas%20bordas.%0A%0AO%20estilo%20geral%20%C3%A9%20alegre%2C%20engra%C3%A7ado%2C%20animado%20e%20f%C3%A1cil%20de%20imprimir%2C%20sem%20texto%20ou%20letras.)**
 
 ---
 
@@ -979,7 +979,7 @@ Uma ilustração de moldura de foto de Natal para impressão em uma proporção 
 
 A ilustração mostra apenas o design da moldura, sem nenhum ambiente externo ou cenário de fundo. As cores são quentes e festivas, com uma textura de papel suave.
 
-No centro exato, reserve um espaço em branco para foto que seja centralizado horizontal e verticalmente, mantendo uma proporção de 1:1,4 e 70% da largura total da moldura, completamente em branco e desobstruído.
+No centro exato, reserve um espaço em branco para a foto, centralizado horizontal e verticalmente, mantendo uma proporção de 1:1,4 e 70% da largura total da moldura, completamente em branco e desobstruído.
 
 A borda da moldura é decorada com personagens de biscoito de gengibre brincalhões em poses engraçadas, biscoitos parcialmente quebrados, detalhes de glacê e decorações de doces, todos desenhados com rostos expressivos de desenho animado.
 
@@ -1001,7 +1001,7 @@ O clima é bem-humorado, aconchegante e caprichoso, totalmente otimizado para im
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20foto%20de%20Natal%20para%20impress%C3%A3o%20em%20uma%20propor%C3%A7%C3%A3o%20vertical%20de%201%3A1%2C4%2C%20criada%20em%20um%20estilo%20de%20livro%20de%20hist%C3%B3rias%20animado%20e%20bem-humorado.%0A%0AA%20ilustra%C3%A7%C3%A3o%20mostra%20apenas%20o%20design%20da%20moldura%2C%20sem%20nenhum%20ambiente%20externo%20ou%20cen%C3%A1rio%20de%20fundo.%20As%20cores%20s%C3%A3o%20quentes%20e%20festivas%2C%20com%20uma%20textura%20de%20papel%20suave.%0A%0ANo%20centro%20exato%2C%20reserve%20um%20espa%C3%A7o%20em%20branco%20para%20foto%20que%20seja%20centralizado%20horizontal%20e%20verticalmente%2C%20mantendo%20uma%20propor%C3%A7%C3%A3o%20de%201%3A1%2C4%20e%2070%25%20da%20largura%20total%20da%20moldura%2C%20completamente%20em%20branco%20e%20desobstru%C3%ADdo.%0A%0AA%20borda%20da%20moldura%20%C3%A9%20decorada%20com%20personagens%20de%20biscoito%20de%20gengibre%20brincalh%C3%B5es%20em%20poses%20engra%C3%A7adas%2C%20biscoitos%20parcialmente%20quebrados%2C%20detalhes%20de%20glac%C3%AA%20e%20decora%C3%A7%C3%B5es%20de%20doces%2C%20todos%20desenhados%20com%20rostos%20expressivos%20de%20desenho%20animado.%0A%0AO%20clima%20%C3%A9%20bem-humorado%2C%20aconchegante%20e%20caprichoso%2C%20totalmente%20otimizado%20para%20impress%C3%A3o%2C%20sem%20tipografia.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20foto%20de%20Natal%20para%20impress%C3%A3o%20em%20uma%20propor%C3%A7%C3%A3o%20vertical%20de%201%3A1%2C4%2C%20criada%20em%20um%20estilo%20de%20livro%20de%20hist%C3%B3rias%20animado%20e%20bem-humorado.%0A%0AA%20ilustra%C3%A7%C3%A3o%20mostra%20apenas%20o%20design%20da%20moldura%2C%20sem%20nenhum%20ambiente%20externo%20ou%20cen%C3%A1rio%20de%20fundo.%20As%20cores%20s%C3%A3o%20quentes%20e%20festivas%2C%20com%20uma%20textura%20de%20papel%20suave.%0A%0ANo%20centro%20exato%2C%20reserve%20um%20espa%C3%A7o%20em%20branco%20para%20a%20foto%2C%20centralizado%20horizontal%20e%20verticalmente%2C%20mantendo%20uma%20propor%C3%A7%C3%A3o%20de%201%3A1%2C4%20e%2070%25%20da%20largura%20total%20da%20moldura%2C%20completamente%20em%20branco%20e%20desobstru%C3%ADdo.%0A%0AA%20borda%20da%20moldura%20%C3%A9%20decorada%20com%20personagens%20de%20biscoito%20de%20gengibre%20brincalh%C3%B5es%20em%20poses%20engra%C3%A7adas%2C%20biscoitos%20parcialmente%20quebrados%2C%20detalhes%20de%20glac%C3%AA%20e%20decora%C3%A7%C3%B5es%20de%20doces%2C%20todos%20desenhados%20com%20rostos%20expressivos%20de%20desenho%20animado.%0A%0AO%20clima%20%C3%A9%20bem-humorado%2C%20aconchegante%20e%20caprichoso%2C%20totalmente%20otimizado%20para%20impress%C3%A3o%2C%20sem%20tipografia.)**
 
 ---
 
@@ -1011,7 +1011,7 @@ O clima é bem-humorado, aconchegante e caprichoso, totalmente otimizado para im
 
 #### 📖 Descrição
 
-Este prompt gera uma ilustração de moldura de foto de Natal imprimível em um estilo de livro de histórias animado e bem-humorado, apresentando preguiças. Ele foi projetado como uma moldura autônoma com um espaço em branco para fotos, perfeita para impressão de alta qualidade e para adicionar um toque leve, aconchegante e divertido às fotos de feriado.
+Este prompt gera uma ilustração de moldura de foto de Natal imprimível em um estilo de livro de histórias animado e bem-humorado, apresentando preguiças. Ele foi projetado como uma moldura autônoma com um espaço em branco para fotos, perfeito para impressão de alta qualidade e para adicionar um toque divertido, aconchegante e bem-humorado às fotos de feriado.
 
 #### 📝 Prompt
 
@@ -1022,9 +1022,9 @@ A ilustração foca apenas na moldura em si, sem ambiente externo ou cena de fun
 
 No centro exato da moldura, reserve uma área de espaço reservado para foto em branco que seja centralizada horizontal e verticalmente. O espaço reservado tem uma proporção de retrato de 1:1.4, com sua largura igual a 70% da largura total da moldura, e deve permanecer completamente vazio e intocado.
 
-A borda da moldura circundante apresenta preguiças de desenho animado brincalhonas penduradas em bengalas doces, galhos de pinheiro e ganchos festivos. As preguiças usam suéteres e cachecóis de tricô aconchegantes, em poses relaxadas e engraçadas.
+A borda da moldura circundante apresenta preguiças de desenho animado brincalhonas penduradas em bengalas doces, galhos de pinheiro e ganchos festivos. As preguiças usam suéteres e cachecóis de malha aconchegantes, em poses relaxadas e engraçadas.
 
-A ilustração transmite uma sensação de leveza, aconchego e humor, com composição plana e cores amigáveis à impressão, sem texto ou tipografia.
+A ilustração transmite uma sensação de leveza, aconchego e humor, com composição plana e cores amigáveis para impressão, sem texto ou tipografia.
 ```
 
 #### 🖼️ Imagens geradas
@@ -1042,7 +1042,7 @@ A ilustração transmite uma sensação de leveza, aconchego e humor, com compos
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20foto%20de%20Natal%20para%20impress%C3%A3o%2C%20projetada%20exclusivamente%20como%20uma%20moldura%20aut%C3%B4noma%2C%20em%20uma%20propor%C3%A7%C3%A3o%20vertical%20de%201%3A1.4%2C%20adequada%20para%20impress%C3%A3o%20de%20alta%20qualidade.%0A%0AA%20ilustra%C3%A7%C3%A3o%20foca%20apenas%20na%20moldura%20em%20si%2C%20sem%20ambiente%20externo%20ou%20cena%20de%20fundo.%20O%20estilo%20%C3%A9%20uma%20ilustra%C3%A7%C3%A3o%20de%20livro%20de%20hist%C3%B3rias%20animado%20e%20bem-humorado%2C%20com%20texturas%20suaves%2C%20contornos%20limpos%20e%20cores%20quentes.%0A%0ANo%20centro%20exato%20da%20moldura%2C%20reserve%20uma%20%C3%A1rea%20de%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20que%20seja%20centralizada%20horizontal%20e%20verticalmente.%20O%20espa%C3%A7o%20reservado%20tem%20uma%20propor%C3%A7%C3%A3o%20de%20retrato%20de%201%3A1.4%2C%20com%20sua%20largura%20igual%20a%2070%25%20da%20largura%20total%20da%20moldura%2C%20e%20deve%20permanecer%20completamente%20vazio%20e%20intocado.%0A%0AA%20borda%20da%20moldura%20circundante%20apresenta%20pregui%C3%A7as%20de%20desenho%20animado%20brincalhonas%20penduradas%20em%20bengalas%20doces%2C%20galhos%20de%20pinheiro%20e%20ganchos%20festivos.%20As%20pregui%C3%A7as%20usam%20su%C3%A9teres%20e%20cachec%C3%B3is%20de%20tric%C3%B4%20aconchegantes%2C%20em%20poses%20relaxadas%20e%20engra%C3%A7adas.%0A%0AA%20ilustra%C3%A7%C3%A3o%20transmite%20uma%20sensa%C3%A7%C3%A3o%20de%20leveza%2C%20aconchego%20e%20humor%2C%20com%20composi%C3%A7%C3%A3o%20plana%20e%20cores%20amig%C3%A1veis%20%C3%A0%20impress%C3%A3o%2C%20sem%20texto%20ou%20tipografia.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20ilustra%C3%A7%C3%A3o%20de%20moldura%20de%20foto%20de%20Natal%20para%20impress%C3%A3o%2C%20projetada%20exclusivamente%20como%20uma%20moldura%20aut%C3%B4noma%2C%20em%20uma%20propor%C3%A7%C3%A3o%20vertical%20de%201%3A1.4%2C%20adequada%20para%20impress%C3%A3o%20de%20alta%20qualidade.%0A%0AA%20ilustra%C3%A7%C3%A3o%20foca%20apenas%20na%20moldura%20em%20si%2C%20sem%20ambiente%20externo%20ou%20cena%20de%20fundo.%20O%20estilo%20%C3%A9%20uma%20ilustra%C3%A7%C3%A3o%20de%20livro%20de%20hist%C3%B3rias%20animado%20e%20bem-humorado%2C%20com%20texturas%20suaves%2C%20contornos%20limpos%20e%20cores%20quentes.%0A%0ANo%20centro%20exato%20da%20moldura%2C%20reserve%20uma%20%C3%A1rea%20de%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20que%20seja%20centralizada%20horizontal%20e%20verticalmente.%20O%20espa%C3%A7o%20reservado%20tem%20uma%20propor%C3%A7%C3%A3o%20de%20retrato%20de%201%3A1.4%2C%20com%20sua%20largura%20igual%20a%2070%25%20da%20largura%20total%20da%20moldura%2C%20e%20deve%20permanecer%20completamente%20vazio%20e%20intocado.%0A%0AA%20borda%20da%20moldura%20circundante%20apresenta%20pregui%C3%A7as%20de%20desenho%20animado%20brincalhonas%20penduradas%20em%20bengalas%20doces%2C%20galhos%20de%20pinheiro%20e%20ganchos%20festivos.%20As%20pregui%C3%A7as%20usam%20su%C3%A9teres%20e%20cachec%C3%B3is%20de%20malha%20aconchegantes%2C%20em%20poses%20relaxadas%20e%20engra%C3%A7adas.%0A%0AA%20ilustra%C3%A7%C3%A3o%20transmite%20uma%20sensa%C3%A7%C3%A3o%20de%20leveza%2C%20aconchego%20e%20humor%2C%20com%20composi%C3%A7%C3%A3o%20plana%20e%20cores%20amig%C3%A1veis%20para%20impress%C3%A3o%2C%20sem%20texto%20ou%20tipografia.)**
 
 ---
 
@@ -1093,12 +1093,12 @@ O clima geral é alegre, engraçado e amigável, otimizado para ilustração pla
 
 #### 📖 Descrição
 
-Este prompt gera uma moldura de foto de Natal vertical e imprimível, ilustrada em um estilo de adesivo animado fofo e bem-humorado, apresentando gatos travessos. O design foca apenas na própria moldura, com contornos ousados, cores suaves e um espaço reservado para a foto em branco, criando uma sensação de feriado divertida e caótica.
+Este prompt gera uma moldura de foto de Natal vertical e imprimível, ilustrada em um estilo de adesivo animado fofo e bem-humorado, apresentando gatos travessos. O design se concentra apenas na própria moldura, com contornos ousados, cores suaves e um espaço reservado para a foto em branco, criando uma sensação de feriado divertida e caótica.
 
 #### 📝 Prompt
 
 ```
-Uma moldura de foto de Natal vertical 1:1.4 imprimível, ilustrada em um estilo de adesivo animado fofo e divertido.
+Uma moldura de foto de Natal vertical 1:1.4 imprimível, ilustrada em um estilo de adesivo animado fofo e bem-humorado.
 
 O design foca apenas na moldura em si, sem contexto de cômodo, parede ou ambiente. A ilustração usa contornos fortes, cores suaves e personagens de desenho animados expressivos.
 
@@ -1124,7 +1124,7 @@ A composição permanece plana, equilibrada e pronta para impressão, sem elemen
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20vertical%201%3A1.4%20imprim%C3%ADvel%2C%20ilustrada%20em%20um%20estilo%20de%20adesivo%20animado%20fofo%20e%20divertido.%0A%0AO%20design%20foca%20apenas%20na%20moldura%20em%20si%2C%20sem%20contexto%20de%20c%C3%B4modo%2C%20parede%20ou%20ambiente.%20A%20ilustra%C3%A7%C3%A3o%20usa%20contornos%20fortes%2C%20cores%20suaves%20e%20personagens%20de%20desenho%20animados%20expressivos.%0A%0ANo%20centro%20exato%2C%20uma%20%C3%A1rea%20de%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20%C3%A9%20centralizada%20horizontal%20e%20verticalmente%2C%20com%20uma%20propor%C3%A7%C3%A3o%20de%20retrato%20de%201%3A1.4%20e%2070%25%20da%20largura%20da%20moldura%2C%20completamente%20vazia%20e%20claramente%20definida.%0A%0AA%20borda%20ao%20redor%20apresenta%20gatos%20de%20desenho%20animados%20travessos%20emaranhados%20em%20luzes%20de%20Natal%2C%20derrubando%20enfeites%2C%20escalando%20guirlandas%20e%20espiando%20dos%20cantos%2C%20criando%20uma%20sensa%C3%A7%C3%A3o%20de%20feriado%20divertida%20e%20ca%C3%B3tica.%0A%0AA%20composi%C3%A7%C3%A3o%20permanece%20plana%2C%20equilibrada%20e%20pronta%20para%20impress%C3%A3o%2C%20sem%20elementos%20de%20texto.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Uma%20moldura%20de%20foto%20de%20Natal%20vertical%201%3A1.4%20imprim%C3%ADvel%2C%20ilustrada%20em%20um%20estilo%20de%20adesivo%20animado%20fofo%20e%20bem-humorado.%0A%0AO%20design%20foca%20apenas%20na%20moldura%20em%20si%2C%20sem%20contexto%20de%20c%C3%B4modo%2C%20parede%20ou%20ambiente.%20A%20ilustra%C3%A7%C3%A3o%20usa%20contornos%20fortes%2C%20cores%20suaves%20e%20personagens%20de%20desenho%20animados%20expressivos.%0A%0ANo%20centro%20exato%2C%20uma%20%C3%A1rea%20de%20espa%C3%A7o%20reservado%20para%20foto%20em%20branco%20%C3%A9%20centralizada%20horizontal%20e%20verticalmente%2C%20com%20uma%20propor%C3%A7%C3%A3o%20de%20retrato%20de%201%3A1.4%20e%2070%25%20da%20largura%20da%20moldura%2C%20completamente%20vazia%20e%20claramente%20definida.%0A%0AA%20borda%20ao%20redor%20apresenta%20gatos%20de%20desenho%20animados%20travessos%20emaranhados%20em%20luzes%20de%20Natal%2C%20derrubando%20enfeites%2C%20escalando%20guirlandas%20e%20espiando%20dos%20cantos%2C%20criando%20uma%20sensa%C3%A7%C3%A3o%20de%20feriado%20divertida%20e%20ca%C3%B3tica.%0A%0AA%20composi%C3%A7%C3%A3o%20permanece%20plana%2C%20equilibrada%20e%20pronta%20para%20impress%C3%A3o%2C%20sem%20elementos%20de%20texto.)**
 
 ---
 
@@ -1134,12 +1134,12 @@ A composição permanece plana, equilibrada e pronta para impressão, sem elemen
 
 #### 📖 Descrição
 
-Este prompt gera um design fofo de cartão de Natal imprimível, apresentando um coala cinza agarrado a uma árvore de Natal decorada. É perfeito para saudações de fim de ano doces e encantadoras com uma textura suave de desenho a lápis de cera.
+Este prompt gera um design fofo de cartão de Natal imprimível, apresentando um coala cinza agarrado a uma árvore de Natal decorada. É perfeito para saudações de fim de ano doces e encantadoras com uma textura suave de desenho a giz de cera.
 
 #### 📝 Prompt
 
 ```
-Um design fofo de cartão de Natal para imprimir, proporção 1:1,4. Um coala cinza está agarrado firmemente ao tronco de uma pequena árvore de Natal decorada em vez de um eucalipto, parecendo contente e sonolento. A árvore está coberta de festão prateado brilhante e bolas coloridas. O coala usa uma pequena gravata borboleta vermelha. Fundo verde pastel sólido. Textura suave de desenho a giz de cera.
+Um design fofo de cartão de Natal para imprimir, proporção 1:1,4. Um coala cinza está agarrado firmemente ao tronco de uma pequena árvore de Natal decorada, em vez de um eucalipto, parecendo contente e sonolento. A árvore está coberta de festão prateado brilhante e bolas coloridas. O coala usa uma pequena gravata borboleta vermelha. Fundo verde pastel sólido. Textura suave de desenho a giz de cera.
 ```
 
 #### 🖼️ Imagens geradas
@@ -1157,7 +1157,7 @@ Um design fofo de cartão de Natal para imprimir, proporção 1:1,4. Um coala ci
 - **Publicado:** 15 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Um%20design%20fofo%20de%20cart%C3%A3o%20de%20Natal%20para%20imprimir%2C%20propor%C3%A7%C3%A3o%201%3A1%2C4.%20Um%20coala%20cinza%20est%C3%A1%20agarrado%20firmemente%20ao%20tronco%20de%20uma%20pequena%20%C3%A1rvore%20de%20Natal%20decorada%20em%20vez%20de%20um%20eucalipto%2C%20parecendo%20contente%20e%20sonolento.%20A%20%C3%A1rvore%20est%C3%A1%20coberta%20de%20fest%C3%A3o%20prateado%20brilhante%20e%20bolas%20coloridas.%20O%20coala%20usa%20uma%20pequena%20gravata%20borboleta%20vermelha.%20Fundo%20verde%20pastel%20s%C3%B3lido.%20Textura%20suave%20de%20desenho%20a%20giz%20de%20cera.)**
+**[👉 Experimente agora →](https://youmind.com/tools/christmas-cards-maker?prompt=Um%20design%20fofo%20de%20cart%C3%A3o%20de%20Natal%20para%20imprimir%2C%20propor%C3%A7%C3%A3o%201%3A1%2C4.%20Um%20coala%20cinza%20est%C3%A1%20agarrado%20firmemente%20ao%20tronco%20de%20uma%20pequena%20%C3%A1rvore%20de%20Natal%20decorada%2C%20em%20vez%20de%20um%20eucalipto%2C%20parecendo%20contente%20e%20sonolento.%20A%20%C3%A1rvore%20est%C3%A1%20coberta%20de%20fest%C3%A3o%20prateado%20brilhante%20e%20bolas%20coloridas.%20O%20coala%20usa%20uma%20pequena%20gravata%20borboleta%20vermelha.%20Fundo%20verde%20pastel%20s%C3%B3lido.%20Textura%20suave%20de%20desenho%20a%20giz%20de%20cera.)**
 
 ---
 
@@ -5036,6 +5036,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-12-18T01:22:37.333Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-12-18T04:32:54.402Z</sub>
 
 </div>

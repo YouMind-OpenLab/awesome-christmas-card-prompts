@@ -88,7 +88,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **140** |
 | ⭐ In evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **giovedì 18 dicembre 2025 alle ore 01:22:34 UTC** |
+| 🔄 Ultimo aggiornamento | **giovedì 18 dicembre 2025 alle ore 04:32:50 UTC** |
 
 </div>
 
@@ -319,15 +319,15 @@ Questo prompt genera una cornice fotografica natalizia in stile animato giocoso,
 #### 📝 Prompt
 
 ```
-Una cornice fotografica natalizia stampabile verticale 1:1,4, illustrata in uno stile animato giocoso.
+Una cornice fotografica natalizia verticale stampabile in formato 1:1.4, illustrata in uno stile giocoso e animato.
 
 Nessun ambiente, solo la cornice.
 
-Un segnaposto per foto vuoto è centrato, rapporto 1:1,4, larghezza 70%, completamente pulito.
+Un segnaposto fotografico vuoto è centrato, con rapporto 1:1.4, larghezza del 70%, completamente pulito.
 
 Il bordo mostra castori dei cartoni animati che costruiscono, martellano e ingegnerizzano con entusiasmo decorazioni festive con serietà esagerata.
 
-Piatto, umoristico, ottimizzato per la stampa, senza testo.
+Piatta, umoristica, ottimizzata per la stampa, senza testo.
 ```
 
 #### 🖼️ Immagini generate
@@ -345,26 +345,26 @@ Piatto, umoristico, ottimizzato per la stampa, senza testo.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20fotografica%20natalizia%20stampabile%20verticale%201%3A1%2C4%2C%20illustrata%20in%20uno%20stile%20animato%20giocoso.%0A%0ANessun%20ambiente%2C%20solo%20la%20cornice.%0A%0AUn%20segnaposto%20per%20foto%20vuoto%20%C3%A8%20centrato%2C%20rapporto%201%3A1%2C4%2C%20larghezza%2070%25%2C%20completamente%20pulito.%0A%0AIl%20bordo%20mostra%20castori%20dei%20cartoni%20animati%20che%20costruiscono%2C%20martellano%20e%20ingegnerizzano%20con%20entusiasmo%20decorazioni%20festive%20con%20seriet%C3%A0%20esagerata.%0A%0APiatto%2C%20umoristico%2C%20ottimizzato%20per%20la%20stampa%2C%20senza%20testo.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20fotografica%20natalizia%20verticale%20stampabile%20in%20formato%201%3A1.4%2C%20illustrata%20in%20uno%20stile%20giocoso%20e%20animato.%0A%0ANessun%20ambiente%2C%20solo%20la%20cornice.%0A%0AUn%20segnaposto%20fotografico%20vuoto%20%C3%A8%20centrato%2C%20con%20rapporto%201%3A1.4%2C%20larghezza%20del%2070%25%2C%20completamente%20pulito.%0A%0AIl%20bordo%20mostra%20castori%20dei%20cartoni%20animati%20che%20costruiscono%2C%20martellano%20e%20ingegnerizzano%20con%20entusiasmo%20decorazioni%20festive%20con%20seriet%C3%A0%20esagerata.%0A%0APiatta%2C%20umoristica%2C%20ottimizzata%20per%20la%20stampa%2C%20senza%20testo.)**
 
 ---
 
-### No. 2: Koala natalizi · Cornice irrinunciabile
+### No. 2: Koala di Natale · Cornice da cui non ci si vuole separare
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-Questo prompt crea una cornice animata per foto di Natale in formato verticale 1:1.4. Il bordo presenta koala a fumetti che abbracciano ornamenti e ghirlande, rifiutandosi di lasciarli andare, creando un umorismo delicato e accogliente in un design pronto per la stampa.
+Questo prompt crea una cornice animata per foto di Natale in formato verticale 1:1,4. Il bordo presenta koala a fumetti che abbracciano ornamenti e ghirlande, rifiutandosi di lasciarli andare, creando un umorismo delicato e accogliente in un design pronto per la stampa.
 
 #### 📝 Prompt
 
 ```
-Una cornice per foto di Natale animata e stampabile in formato verticale 1:1.4.
+Una cornice fotografica natalizia animata stampabile in formato verticale 1:1.4.
 
 Design solo cornice.
 
-Un segnaposto per foto vuoto è centrato sia orizzontalmente che verticalmente, con proporzioni 1:1.4, larghezza del 70%, completamente intatto.
+Un segnaposto fotografico vuoto è centrato sia orizzontalmente che verticalmente, con proporzioni 1:1.4, larghezza del 70%, completamente intatto.
 
 Il bordo presenta koala a fumetti che abbracciano ornamenti, ghirlande e bastoncini di zucchero, rifiutandosi di lasciarli andare, creando un umorismo delicato e accogliente.
 
@@ -376,7 +376,7 @@ Piatto, caldo, pronto per la stampa, senza testo.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788204234_ce1l17_1765784200508-t4uk0f-B9o2xFjunQjTAAAAAElFTkSuQmCC" width="600" alt="Koala natalizi · Cornice irrinunciabile - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788204234_ce1l17_1765784200508-t4uk0f-B9o2xFjunQjTAAAAAElFTkSuQmCC" width="600" alt="Koala di Natale · Cornice da cui non ci si vuole separare - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -386,17 +386,17 @@ Piatto, caldo, pronto per la stampa, senza testo.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20per%20foto%20di%20Natale%20animata%20e%20stampabile%20in%20formato%20verticale%201%3A1.4.%0A%0ADesign%20solo%20cornice.%0A%0AUn%20segnaposto%20per%20foto%20vuoto%20%C3%A8%20centrato%20sia%20orizzontalmente%20che%20verticalmente%2C%20con%20proporzioni%201%3A1.4%2C%20larghezza%20del%2070%25%2C%20completamente%20intatto.%0A%0AIl%20bordo%20presenta%20koala%20a%20fumetti%20che%20abbracciano%20ornamenti%2C%20ghirlande%20e%20bastoncini%20di%20zucchero%2C%20rifiutandosi%20di%20lasciarli%20andare%2C%20creando%20un%20umorismo%20delicato%20e%20accogliente.%0A%0APiatto%2C%20caldo%2C%20pronto%20per%20la%20stampa%2C%20senza%20testo.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20fotografica%20natalizia%20animata%20stampabile%20in%20formato%20verticale%201%3A1.4.%0A%0ADesign%20solo%20cornice.%0A%0AUn%20segnaposto%20fotografico%20vuoto%20%C3%A8%20centrato%20sia%20orizzontalmente%20che%20verticalmente%2C%20con%20proporzioni%201%3A1.4%2C%20larghezza%20del%2070%25%2C%20completamente%20intatto.%0A%0AIl%20bordo%20presenta%20koala%20a%20fumetti%20che%20abbracciano%20ornamenti%2C%20ghirlande%20e%20bastoncini%20di%20zucchero%2C%20rifiutandosi%20di%20lasciarli%20andare%2C%20creando%20un%20umorismo%20delicato%20e%20accogliente.%0A%0APiatto%2C%20caldo%2C%20pronto%20per%20la%20stampa%2C%20senza%20testo.)**
 
 ---
 
-### No. 3: Ricci e scoiattoli di Natale · Cornice con disastro congiunto
+### No. 3: Ricci + Scoiattoli di Natale · Cornice per disastri congiunti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-Questo prompt genera una cornice natalizia in stile animato umoristico, in formato verticale 1:1.4. Il bordo presenta ricci e scoiattoli dei cartoni animati che competono per raccogliere decorazioni, causando accidentalmente un caos festivo attorno ai bordi della cornice.
+Questo prompt genera una cornice natalizia in stile animato umoristico, in formato verticale 1:1.4. Il bordo presenta ricci e scoiattoli dei cartoni animati che competono per raccogliere le decorazioni, causando accidentalmente il caos festivo intorno ai bordi della cornice.
 
 #### 📝 Prompt
 
@@ -407,7 +407,7 @@ Solo la cornice.
 
 Segnaposto per foto vuoto esattamente al centro, 1:1.4, 70% di larghezza, pulito e vuoto.
 
-Il bordo presenta ricci e scoiattoli dei cartoni animati che gareggiano per raccogliere decorazioni, causando accidentalmente un caos festivo intorno ai bordi.
+Il bordo presenta ricci e scoiattoli dei cartoni animati che competono per raccogliere decorazioni, causando accidentalmente un caos festivo intorno ai bordi.
 
 Composizione piatta, senza testo.
 ```
@@ -417,7 +417,7 @@ Composizione piatta, senza testo.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788202576_2wfuzq_1765783647682-r45pga-fD2rQlsAAAAASUVORK5CYII_" width="600" alt="Ricci e scoiattoli di Natale · Cornice con disastro congiunto - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788202576_2wfuzq_1765783647682-r45pga-fD2rQlsAAAAASUVORK5CYII_" width="600" alt="Ricci + Scoiattoli di Natale · Cornice per disastri congiunti - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -427,17 +427,17 @@ Composizione piatta, senza testo.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20natalizia%20stampabile%20verticale%201%3A1.4%20illustrata%20in%20uno%20stile%20animato%20e%20divertente.%0A%0ASolo%20la%20cornice.%0A%0ASegnaposto%20per%20foto%20vuoto%20esattamente%20al%20centro%2C%201%3A1.4%2C%2070%25%20di%20larghezza%2C%20pulito%20e%20vuoto.%0A%0AIl%20bordo%20presenta%20ricci%20e%20scoiattoli%20dei%20cartoni%20animati%20che%20gareggiano%20per%20raccogliere%20decorazioni%2C%20causando%20accidentalmente%20un%20caos%20festivo%20intorno%20ai%20bordi.%0A%0AComposizione%20piatta%2C%20senza%20testo.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20natalizia%20stampabile%20verticale%201%3A1.4%20illustrata%20in%20uno%20stile%20animato%20e%20divertente.%0A%0ASolo%20la%20cornice.%0A%0ASegnaposto%20per%20foto%20vuoto%20esattamente%20al%20centro%2C%201%3A1.4%2C%2070%25%20di%20larghezza%2C%20pulito%20e%20vuoto.%0A%0AIl%20bordo%20presenta%20ricci%20e%20scoiattoli%20dei%20cartoni%20animati%20che%20competono%20per%20raccogliere%20decorazioni%2C%20causando%20accidentalmente%20un%20caos%20festivo%20intorno%20ai%20bordi.%0A%0AComposizione%20piatta%2C%20senza%20testo.)**
 
 ---
 
-### No. 4: Camaleonti di Natale · Cornice Camouflage Fallita
+### No. 4: Camaleonti di Natale · Cornice con camuffamento fallito
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-Questo prompt crea una cornice natalizia in stile fumetto umoristico in formato verticale 1:1,4. Il bordo presenta camaleonti a fumetti che tentano, senza successo, di mimetizzarsi tra le decorazioni, ben visibili e confusi, aggiungendo un sottile umorismo visivo al design adatto alla stampa.
+Questo prompt crea una cornice natalizia in stile fumetto umoristico in formato verticale 1:1,4. Il bordo presenta camaleonti a fumetti che tentano, senza successo, di mimetizzarsi tra le decorazioni, chiaramente visibili e confusi, aggiungendo un sottile umorismo visivo al design adatto alla stampa.
 
 #### 📝 Prompt
 
@@ -446,11 +446,11 @@ Una cornice natalizia stampabile in verticale 1:1.4, in stile fumetto umoristico
 
 Illustrazione solo della cornice.
 
-Segnaposto centrale per foto vuoto, 1:1.4, 70% di larghezza, intatto.
+Segnaposto centrale per foto vuoto, 1:1.4, larghezza 70%, intatto.
 
-Il bordo presenta camaleonti in stile fumetto che tentano senza successo di mimetizzarsi tra ornamenti, luci e ghirlande, chiaramente visibili e confusi, aggiungendo un sottile umorismo visivo.
+Il bordo presenta camaleonti a fumetti che tentano senza successo di mimetizzarsi tra ornamenti, luci e ghirlande, chiaramente visibili e confusi, aggiungendo un sottile umorismo visivo.
 
-Piatto, adatto alla stampa, senza scritte.
+Piatta, adatta alla stampa, senza scritte.
 ```
 
 #### 🖼️ Immagini generate
@@ -458,7 +458,7 @@ Piatto, adatto alla stampa, senza scritte.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788201283_5hpzxv_1765783637947-37zcm3-L03mwdyBuPoGAAAAAElFTkSuQmCC" width="600" alt="Camaleonti di Natale · Cornice Camouflage Fallita - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788201283_5hpzxv_1765783637947-37zcm3-L03mwdyBuPoGAAAAAElFTkSuQmCC" width="600" alt="Camaleonti di Natale · Cornice con camuffamento fallito - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -468,28 +468,28 @@ Piatto, adatto alla stampa, senza scritte.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20natalizia%20stampabile%20in%20verticale%201%3A1.4%2C%20in%20stile%20fumetto%20umoristico.%0A%0AIllustrazione%20solo%20della%20cornice.%0A%0ASegnaposto%20centrale%20per%20foto%20vuoto%2C%201%3A1.4%2C%2070%25%20di%20larghezza%2C%20intatto.%0A%0AIl%20bordo%20presenta%20camaleonti%20in%20stile%20fumetto%20che%20tentano%20senza%20successo%20di%20mimetizzarsi%20tra%20ornamenti%2C%20luci%20e%20ghirlande%2C%20chiaramente%20visibili%20e%20confusi%2C%20aggiungendo%20un%20sottile%20umorismo%20visivo.%0A%0APiatto%2C%20adatto%20alla%20stampa%2C%20senza%20scritte.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20natalizia%20stampabile%20in%20verticale%201%3A1.4%2C%20in%20stile%20fumetto%20umoristico.%0A%0AIllustrazione%20solo%20della%20cornice.%0A%0ASegnaposto%20centrale%20per%20foto%20vuoto%2C%201%3A1.4%2C%20larghezza%2070%25%2C%20intatto.%0A%0AIl%20bordo%20presenta%20camaleonti%20a%20fumetti%20che%20tentano%20senza%20successo%20di%20mimetizzarsi%20tra%20ornamenti%2C%20luci%20e%20ghirlande%2C%20chiaramente%20visibili%20e%20confusi%2C%20aggiungendo%20un%20sottile%20umorismo%20visivo.%0A%0APiatta%2C%20adatta%20alla%20stampa%2C%20senza%20scritte.)**
 
 ---
 
-### No. 5: Gufi Natalizi · Cornice Troppo Seria
+### No. 5: Gufi di Natale · Cornice Troppo Seria
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-Questo prompt crea una cornice natalizia animata in stile libro di fiabe, in formato verticale 1:1.4. Il bordo presenta gufi animati che fissano scettici le decorazioni disordinate e giudicano il caos delle feste con umorismo secco.
+Questo prompt crea una cornice natalizia animata in stile libro di fiabe, in formato verticale 1:1.4. Il bordo presenta gufi animati che osservano scettici le decorazioni disordinate e giudicano il caos delle feste con umorismo secco.
 
 #### 📝 Prompt
 
 ```
-Un'illustrazione stampabile di una cornice natalizia in formato verticale 1:1.4, in stile libro di fiabe animato.
+Un'illustrazione di una cornice natalizia stampabile in formato verticale 1:1.4, in stile libro di fiabe animato.
 
 Composizione solo cornice.
 
 Segnaposto fotografico vuoto centrato, 1:1.4, 70% di larghezza, intatto.
 
-Il bordo presenta gufi a fumetti che indossano sciarpe e cappelli, osservando scetticamente decorazioni disordinate, tenendo in mano appunti e giudicando il caos delle feste con umorismo secco.
+Il bordo presenta gufi a fumetto che indossano sciarpe e cappelli, che fissano scetticamente decorazioni disordinate, tengono appunti e giudicano il caos delle feste con umorismo secco.
 
 Illustrazione piatta, senza testo.
 ```
@@ -499,7 +499,7 @@ Illustrazione piatta, senza testo.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788199406_laq4zp_1765784189761-bd5rom-A4qlDwrbnbqJAAAAAElFTkSuQmCC" width="600" alt="Gufi Natalizi · Cornice Troppo Seria - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788199406_laq4zp_1765784189761-bd5rom-A4qlDwrbnbqJAAAAAElFTkSuQmCC" width="600" alt="Gufi di Natale · Cornice Troppo Seria - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -509,28 +509,28 @@ Illustrazione piatta, senza testo.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20natalizia%20in%20formato%20verticale%201%3A1.4%2C%20in%20stile%20libro%20di%20fiabe%20animato.%0A%0AComposizione%20solo%20cornice.%0A%0ASegnaposto%20fotografico%20vuoto%20centrato%2C%201%3A1.4%2C%2070%25%20di%20larghezza%2C%20intatto.%0A%0AIl%20bordo%20presenta%20gufi%20a%20fumetti%20che%20indossano%20sciarpe%20e%20cappelli%2C%20osservando%20scetticamente%20decorazioni%20disordinate%2C%20tenendo%20in%20mano%20appunti%20e%20giudicando%20il%20caos%20delle%20feste%20con%20umorismo%20secco.%0A%0AIllustrazione%20piatta%2C%20senza%20testo.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20di%20una%20cornice%20natalizia%20stampabile%20in%20formato%20verticale%201%3A1.4%2C%20in%20stile%20libro%20di%20fiabe%20animato.%0A%0AComposizione%20solo%20cornice.%0A%0ASegnaposto%20fotografico%20vuoto%20centrato%2C%201%3A1.4%2C%2070%25%20di%20larghezza%2C%20intatto.%0A%0AIl%20bordo%20presenta%20gufi%20a%20fumetto%20che%20indossano%20sciarpe%20e%20cappelli%2C%20che%20fissano%20scetticamente%20decorazioni%20disordinate%2C%20tengono%20appunti%20e%20giudicano%20il%20caos%20delle%20feste%20con%20umorismo%20secco.%0A%0AIllustrazione%20piatta%2C%20senza%20testo.)**
 
 ---
 
-### No. 6: Polpo Natalizio · Cornice Frenetica a Otto Braccia
+### No. 6: Polpo di Natale · Cornice Frenesia a Otto Braccia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-Questo prompt genera una cornice fotografica natalizia in stile cartone animato umoristico, in formato verticale 1:1.4. Il bordo presenta un polpo fumetto che usa tutte le sue braccia per decorare, creando un giocoso caos festivo.
+Questo prompt genera una cornice fotografica natalizia in stile cartone animato umoristico, in formato verticale 1:1,4. Il bordo presenta un polpo fumetto che usa tutte le sue braccia per decorare, creando un giocoso caos festivo.
 
 #### 📝 Prompt
 
 ```
-Una cornice fotografica natalizia verticale stampabile in formato 1:1.4, illustrata in uno stile umoristico a cartone animato.
+Una cornice fotografica natalizia stampabile verticale 1:1.4, illustrata in uno stile di animazione a fumetti umoristico.
 
-Solo il design della cornice, senza ambiente.
+Solo il design della cornice, nessun ambiente.
 
-Un segnaposto fotografico vuoto è perfettamente centrato, con proporzioni 1:1.4, larghezza del 70%, completamente vuoto.
+Un segnaposto fotografico vuoto è perfettamente centrato, con un rapporto 1:1.4, larghezza del 70%, completamente vuoto.
 
-Il bordo presenta un polpo a cartone animato che usa tutte le sue braccia per decorare contemporaneamente ornamenti, luci, bastoncini di zucchero e stelle, creando un giocoso caos festivo.
+Il bordo presenta un polpo a fumetti che usa tutte le sue braccia per decorare contemporaneamente ornamenti, luci, bastoncini di zucchero e stelle, creando un giocoso caos festivo.
 
 Piatto, pulito, pronto per la stampa, senza tipografia.
 ```
@@ -540,7 +540,7 @@ Piatto, pulito, pronto per la stampa, senza tipografia.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_" width="600" alt="Polpo Natalizio · Cornice Frenetica a Otto Braccia - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_" width="600" alt="Polpo di Natale · Cornice Frenesia a Otto Braccia - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -550,11 +550,11 @@ Piatto, pulito, pronto per la stampa, senza tipografia.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20fotografica%20natalizia%20verticale%20stampabile%20in%20formato%201%3A1.4%2C%20illustrata%20in%20uno%20stile%20umoristico%20a%20cartone%20animato.%0A%0ASolo%20il%20design%20della%20cornice%2C%20senza%20ambiente.%0A%0AUn%20segnaposto%20fotografico%20vuoto%20%C3%A8%20perfettamente%20centrato%2C%20con%20proporzioni%201%3A1.4%2C%20larghezza%20del%2070%25%2C%20completamente%20vuoto.%0A%0AIl%20bordo%20presenta%20un%20polpo%20a%20cartone%20animato%20che%20usa%20tutte%20le%20sue%20braccia%20per%20decorare%20contemporaneamente%20ornamenti%2C%20luci%2C%20bastoncini%20di%20zucchero%20e%20stelle%2C%20creando%20un%20giocoso%20caos%20festivo.%0A%0APiatto%2C%20pulito%2C%20pronto%20per%20la%20stampa%2C%20senza%20tipografia.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20fotografica%20natalizia%20stampabile%20verticale%201%3A1.4%2C%20illustrata%20in%20uno%20stile%20di%20animazione%20a%20fumetti%20umoristico.%0A%0ASolo%20il%20design%20della%20cornice%2C%20nessun%20ambiente.%0A%0AUn%20segnaposto%20fotografico%20vuoto%20%C3%A8%20perfettamente%20centrato%2C%20con%20un%20rapporto%201%3A1.4%2C%20larghezza%20del%2070%25%2C%20completamente%20vuoto.%0A%0AIl%20bordo%20presenta%20un%20polpo%20a%20fumetti%20che%20usa%20tutte%20le%20sue%20braccia%20per%20decorare%20contemporaneamente%20ornamenti%2C%20luci%2C%20bastoncini%20di%20zucchero%20e%20stelle%2C%20creando%20un%20giocoso%20caos%20festivo.%0A%0APiatto%2C%20pulito%2C%20pronto%20per%20la%20stampa%2C%20senza%20tipografia.)**
 
 ---
 
-### No. 7: Conigli di Natale · Cornice Super-Impegnata
+### No. 7: Coniglietti di Natale · Cornice Super-Impegnata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -569,9 +569,9 @@ Una cornice natalizia animata stampabile in formato verticale 1:1,4.
 
 Illustrazione solo della cornice.
 
-Segnaposto fotografico vuoto centrato, centro orizzontale + verticale, 1:1,4, 70% di larghezza, intatto.
+Segnaposto per foto vuoto centrato, centro orizzontale + verticale, 1:1,4, larghezza 70%, intatto.
 
-Il bordo presenta coniglietti animati energici che impacchettano regali troppo velocemente, inciampano sui nastri, fanno giocoleria con gli ornamenti e si affrettano intorno ai bordi della cornice.
+Il bordo presenta coniglietti animati energici che impacchettano regali troppo velocemente, inciampano nei nastri, fanno giocoleria con gli ornamenti e si affrettano intorno ai bordi della cornice.
 
 Caos giocoso, illustrazione piatta, senza testo.
 ```
@@ -581,7 +581,7 @@ Caos giocoso, illustrazione piatta, senza testo.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788197086_iih89c_1765783621085-axc899-D8AbWcYcR2jqAAAAAElFTkSuQmCC" width="600" alt="Conigli di Natale · Cornice Super-Impegnata - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788197086_iih89c_1765783621085-axc899-D8AbWcYcR2jqAAAAAElFTkSuQmCC" width="600" alt="Coniglietti di Natale · Cornice Super-Impegnata - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -591,7 +591,7 @@ Caos giocoso, illustrazione piatta, senza testo.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20natalizia%20animata%20stampabile%20in%20formato%20verticale%201%3A1%2C4.%0A%0AIllustrazione%20solo%20della%20cornice.%0A%0ASegnaposto%20fotografico%20vuoto%20centrato%2C%20centro%20orizzontale%20%2B%20verticale%2C%201%3A1%2C4%2C%2070%25%20di%20larghezza%2C%20intatto.%0A%0AIl%20bordo%20presenta%20coniglietti%20animati%20energici%20che%20impacchettano%20regali%20troppo%20velocemente%2C%20inciampano%20sui%20nastri%2C%20fanno%20giocoleria%20con%20gli%20ornamenti%20e%20si%20affrettano%20intorno%20ai%20bordi%20della%20cornice.%0A%0ACaos%20giocoso%2C%20illustrazione%20piatta%2C%20senza%20testo.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20natalizia%20animata%20stampabile%20in%20formato%20verticale%201%3A1%2C4.%0A%0AIllustrazione%20solo%20della%20cornice.%0A%0ASegnaposto%20per%20foto%20vuoto%20centrato%2C%20centro%20orizzontale%20%2B%20verticale%2C%201%3A1%2C4%2C%20larghezza%2070%25%2C%20intatto.%0A%0AIl%20bordo%20presenta%20coniglietti%20animati%20energici%20che%20impacchettano%20regali%20troppo%20velocemente%2C%20inciampano%20nei%20nastri%2C%20fanno%20giocoleria%20con%20gli%20ornamenti%20e%20si%20affrettano%20intorno%20ai%20bordi%20della%20cornice.%0A%0ACaos%20giocoso%2C%20illustrazione%20piatta%2C%20senza%20testo.)**
 
 ---
 
@@ -601,12 +601,12 @@ Caos giocoso, illustrazione piatta, senza testo.
 
 #### 📖 Descrizione
 
-Questo prompt genera una cornice fotografica natalizia in stile animato umoristico, in formato verticale 1:1.4. Il bordo della cornice mostra ricci di cartone animato che raccolgono accidentalmente ornamenti e luci sulle loro spine, aggiungendo un umorismo visivo carino ed esagerato.
+Questo prompt genera una cornice fotografica natalizia in stile animato umoristico, in formato verticale 1:1.4. Il bordo della cornice mostra ricci dei cartoni animati che raccolgono accidentalmente ornamenti e luci sulle loro spine, aggiungendo un umorismo visivo carino ed esagerato.
 
 #### 📝 Prompt
 
 ```
-Una cornice verticale per foto di Natale stampabile in formato 1:1,4, illustrata in uno stile animato umoristico.
+Una cornice per foto di Natale verticale stampabile in formato 1:1,4, illustrata in uno stile animato umoristico.
 
 Nessun ambiente esterno.
 
@@ -614,7 +614,7 @@ Segnaposto per foto vuoto esattamente al centro, 1:1,4, 70% di larghezza, comple
 
 Il bordo della cornice mostra ricci dei cartoni animati che raccolgono accidentalmente ornamenti, stelle e luci sulle loro spine, con un'espressione sorpresa e confusa in modo carino ed esagerato.
 
-Piatto, ottimizzato per la stampa, senza scritte.
+Piatta, ottimizzata per la stampa, senza scritte.
 ```
 
 #### 🖼️ Immagini generate
@@ -632,17 +632,17 @@ Piatto, ottimizzato per la stampa, senza scritte.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20verticale%20per%20foto%20di%20Natale%20stampabile%20in%20formato%201%3A1%2C4%2C%20illustrata%20in%20uno%20stile%20animato%20umoristico.%0A%0ANessun%20ambiente%20esterno.%0A%0ASegnaposto%20per%20foto%20vuoto%20esattamente%20al%20centro%2C%201%3A1%2C4%2C%2070%25%20di%20larghezza%2C%20completamente%20pulito.%0A%0AIl%20bordo%20della%20cornice%20mostra%20ricci%20dei%20cartoni%20animati%20che%20raccolgono%20accidentalmente%20ornamenti%2C%20stelle%20e%20luci%20sulle%20loro%20spine%2C%20con%20un'espressione%20sorpresa%20e%20confusa%20in%20modo%20carino%20ed%20esagerato.%0A%0APiatto%2C%20ottimizzato%20per%20la%20stampa%2C%20senza%20scritte.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20per%20foto%20di%20Natale%20verticale%20stampabile%20in%20formato%201%3A1%2C4%2C%20illustrata%20in%20uno%20stile%20animato%20umoristico.%0A%0ANessun%20ambiente%20esterno.%0A%0ASegnaposto%20per%20foto%20vuoto%20esattamente%20al%20centro%2C%201%3A1%2C4%2C%2070%25%20di%20larghezza%2C%20completamente%20pulito.%0A%0AIl%20bordo%20della%20cornice%20mostra%20ricci%20dei%20cartoni%20animati%20che%20raccolgono%20accidentalmente%20ornamenti%2C%20stelle%20e%20luci%20sulle%20loro%20spine%2C%20con%20un'espressione%20sorpresa%20e%20confusa%20in%20modo%20carino%20ed%20esagerato.%0A%0APiatta%2C%20ottimizzata%20per%20la%20stampa%2C%20senza%20scritte.)**
 
 ---
 
-### No. 9: Christmas Pandas · Cornice natalizia rilassante
+### No. 9: Panda Natalizi · Cornice per Vacanze Rilassanti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-Questo prompt genera una cornice fotografica natalizia in stile libro di fiabe animato e delicato, in formato verticale 1:1.4. Il bordo presenta simpatici panda cartoon che si rilassano su ornamenti e abbracciano bastoncini di zucchero, creando un umorismo dolce e accogliente.
+Questo prompt genera una cornice fotografica natalizia in stile libro di fiabe animato e delicato, in formato verticale 1:1.4. Il bordo presenta simpatici panda in stile cartone animato che si rilassano su ornamenti e abbracciano bastoncini di zucchero, creando un umorismo dolce e accogliente.
 
 #### 📝 Prompt
 
@@ -653,7 +653,7 @@ Composizione solo cornice.
 
 Un segnaposto per foto vuoto orientato verticalmente è centrato, con rapporto d'aspetto 1:1.4, larghezza del 70%, completamente vuoto.
 
-Il bordo presenta panda cartone animato rilassati che si adagiano su ornamenti, abbracciano bastoncini di zucchero, mezzi addormentati tra decorazioni festive con un umorismo delicato.
+Il bordo presenta panda fumetto rilassati che si adagiano su ornamenti, abbracciano bastoncini di zucchero, mezzi addormentati in decorazioni festive con un umorismo delicato.
 
 Illustrazione piatta, palette calda, nessun testo.
 ```
@@ -663,7 +663,7 @@ Illustrazione piatta, palette calda, nessun testo.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__" width="600" alt="Christmas Pandas · Cornice natalizia rilassante - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__" width="600" alt="Panda Natalizi · Cornice per Vacanze Rilassanti - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -673,7 +673,7 @@ Illustrazione piatta, palette calda, nessun testo.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20per%20foto%20natalizia%20in%20formato%20verticale%201%3A1.4%2C%20disegnata%20in%20uno%20stile%20morbido%20da%20libro%20di%20fiabe%20animato.%0A%0AComposizione%20solo%20cornice.%0A%0AUn%20segnaposto%20per%20foto%20vuoto%20orientato%20verticalmente%20%C3%A8%20centrato%2C%20con%20rapporto%20d'aspetto%201%3A1.4%2C%20larghezza%20del%2070%25%2C%20completamente%20vuoto.%0A%0AIl%20bordo%20presenta%20panda%20cartone%20animato%20rilassati%20che%20si%20adagiano%20su%20ornamenti%2C%20abbracciano%20bastoncini%20di%20zucchero%2C%20mezzi%20addormentati%20tra%20decorazioni%20festive%20con%20un%20umorismo%20delicato.%0A%0AIllustrazione%20piatta%2C%20palette%20calda%2C%20nessun%20testo.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20per%20foto%20natalizia%20in%20formato%20verticale%201%3A1.4%2C%20disegnata%20in%20uno%20stile%20morbido%20da%20libro%20di%20fiabe%20animato.%0A%0AComposizione%20solo%20cornice.%0A%0AUn%20segnaposto%20per%20foto%20vuoto%20orientato%20verticalmente%20%C3%A8%20centrato%2C%20con%20rapporto%20d'aspetto%201%3A1.4%2C%20larghezza%20del%2070%25%2C%20completamente%20vuoto.%0A%0AIl%20bordo%20presenta%20panda%20fumetto%20rilassati%20che%20si%20adagiano%20su%20ornamenti%2C%20abbracciano%20bastoncini%20di%20zucchero%2C%20mezzi%20addormentati%20in%20decorazioni%20festive%20con%20un%20umorismo%20delicato.%0A%0AIllustrazione%20piatta%2C%20palette%20calda%2C%20nessun%20testo.)**
 
 ---
 
@@ -683,7 +683,7 @@ Illustrazione piatta, palette calda, nessun testo.
 
 #### 📖 Descrizione
 
-Questo prompt crea una cornice natalizia stampabile verticale 1:1,4 in uno stile fumetto calmo ma umoristico. Il bordo presenta tartarughe cartone animato rilassate che si muovono a una velocità esageratamente lenta, aggiungendo un umorismo delicato e pacifico al design.
+Questo prompt crea una cornice natalizia stampabile verticale 1:1.4 in uno stile fumetto calmo ma umoristico. Il bordo presenta tartarughe fumetto rilassate che si muovono a un ritmo esageratamente lento, aggiungendo un umorismo delicato e pacifico al design.
 
 #### 📝 Prompt
 
@@ -694,7 +694,7 @@ Solo l'illustrazione della cornice, senza sfondo.
 
 Un segnaposto per foto vuoto è perfettamente centrato, con rapporto 1:1.4 e larghezza del 70%, intatto.
 
-Il bordo è decorato con tartarughe cartone animato rilassate che indossano sciarpe, impilano con calma ornamenti, meditano con luci natalizie e si muovono a un ritmo esageratamente lento.
+Il bordo è decorato con tartarughe fumetto rilassate che indossano sciarpe, impilano con calma ornamenti, meditano con luci natalizie e si muovono a un ritmo esageratamente lento.
 
 Piatto, equilibrato, adatto alla stampa, senza testo.
 ```
@@ -714,7 +714,7 @@ Piatto, equilibrato, adatto alla stampa, senza testo.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20natalizia%20stampabile%20verticale%201%3A1.4%20in%20uno%20stile%20fumetto%20calmo%20ma%20umoristico.%0A%0ASolo%20l'illustrazione%20della%20cornice%2C%20senza%20sfondo.%0A%0AUn%20segnaposto%20per%20foto%20vuoto%20%C3%A8%20perfettamente%20centrato%2C%20con%20rapporto%201%3A1.4%20e%20larghezza%20del%2070%25%2C%20intatto.%0A%0AIl%20bordo%20%C3%A8%20decorato%20con%20tartarughe%20cartone%20animato%20rilassate%20che%20indossano%20sciarpe%2C%20impilano%20con%20calma%20ornamenti%2C%20meditano%20con%20luci%20natalizie%20e%20si%20muovono%20a%20un%20ritmo%20esageratamente%20lento.%0A%0APiatto%2C%20equilibrato%2C%20adatto%20alla%20stampa%2C%20senza%20testo.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20natalizia%20stampabile%20verticale%201%3A1.4%20in%20uno%20stile%20fumetto%20calmo%20ma%20umoristico.%0A%0ASolo%20l'illustrazione%20della%20cornice%2C%20senza%20sfondo.%0A%0AUn%20segnaposto%20per%20foto%20vuoto%20%C3%A8%20perfettamente%20centrato%2C%20con%20rapporto%201%3A1.4%20e%20larghezza%20del%2070%25%2C%20intatto.%0A%0AIl%20bordo%20%C3%A8%20decorato%20con%20tartarughe%20fumetto%20rilassate%20che%20indossano%20sciarpe%2C%20impilano%20con%20calma%20ornamenti%2C%20meditano%20con%20luci%20natalizie%20e%20si%20muovono%20a%20un%20ritmo%20esageratamente%20lento.%0A%0APiatto%2C%20equilibrato%2C%20adatto%20alla%20stampa%2C%20senza%20testo.)**
 
 ---
 
@@ -724,16 +724,16 @@ Piatto, equilibrato, adatto alla stampa, senza testo.
 
 #### 📖 Descrizione
 
-Questo prompt genera una cornice animata e divertente a tema natalizio, in formato verticale 1:1.4. Il bordo presenta frenetici scoiattoli in stile cartone animato che accumulano ornamenti e riempiono calze, aggiungendo un tocco di umorismo accogliente a un design adatto alla stampa.
+Questo prompt genera una cornice animata e divertente per foto di Natale, in formato verticale 1:1.4. Il bordo presenta scoiattoli animati e frenetici che accumulano ornamenti e riempiono calze, aggiungendo un tocco di umorismo accogliente a un design adatto alla stampa.
 
 #### 📝 Prompt
 
 ```
-Un'illustrazione stampabile di una cornice natalizia in formato verticale 1:1,4, illustrata in uno stile animato e umoristico.
+Un'illustrazione stampabile di una cornice per foto natalizia in formato verticale 1:1.4, illustrata in uno stile animato e umoristico.
 
 Design solo cornice, senza ambiente.
 
-Segnaposto fotografico vuoto centrato, centrato orizzontalmente e verticalmente, rapporto d'aspetto 1:1,4, larghezza della cornice del 70%, completamente vuoto.
+Segnaposto per foto vuoto e centrato, centrato orizzontalmente e verticalmente, rapporto d'aspetto 1:1.4, larghezza della cornice del 70%, completamente vuoto.
 
 Il bordo presenta scoiattoli dei cartoni animati frenetici che accumulano ornamenti, riempiono calze, nascondono noci all'interno di palline e sbirciano nervosamente da dietro le decorazioni.
 
@@ -755,7 +755,7 @@ Illustrazione piatta, umorismo accogliente, nessuna tipografia.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20natalizia%20in%20formato%20verticale%201%3A1%2C4%2C%20illustrata%20in%20uno%20stile%20animato%20e%20umoristico.%0A%0ADesign%20solo%20cornice%2C%20senza%20ambiente.%0A%0ASegnaposto%20fotografico%20vuoto%20centrato%2C%20centrato%20orizzontalmente%20e%20verticalmente%2C%20rapporto%20d'aspetto%201%3A1%2C4%2C%20larghezza%20della%20cornice%20del%2070%25%2C%20completamente%20vuoto.%0A%0AIl%20bordo%20presenta%20scoiattoli%20dei%20cartoni%20animati%20frenetici%20che%20accumulano%20ornamenti%2C%20riempiono%20calze%2C%20nascondono%20noci%20all'interno%20di%20palline%20e%20sbirciano%20nervosamente%20da%20dietro%20le%20decorazioni.%0A%0AIllustrazione%20piatta%2C%20umorismo%20accogliente%2C%20nessuna%20tipografia.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20per%20foto%20natalizia%20in%20formato%20verticale%201%3A1.4%2C%20illustrata%20in%20uno%20stile%20animato%20e%20umoristico.%0A%0ADesign%20solo%20cornice%2C%20senza%20ambiente.%0A%0ASegnaposto%20per%20foto%20vuoto%20e%20centrato%2C%20centrato%20orizzontalmente%20e%20verticalmente%2C%20rapporto%20d'aspetto%201%3A1.4%2C%20larghezza%20della%20cornice%20del%2070%25%2C%20completamente%20vuoto.%0A%0AIl%20bordo%20presenta%20scoiattoli%20dei%20cartoni%20animati%20frenetici%20che%20accumulano%20ornamenti%2C%20riempiono%20calze%2C%20nascondono%20noci%20all'interno%20di%20palline%20e%20sbirciano%20nervosamente%20da%20dietro%20le%20decorazioni.%0A%0AIllustrazione%20piatta%2C%20umorismo%20accogliente%2C%20nessuna%20tipografia.)**
 
 ---
 
@@ -765,20 +765,20 @@ Illustrazione piatta, umorismo accogliente, nessuna tipografia.
 
 #### 📖 Descrizione
 
-Questo prompt genera una cornice fotografica natalizia animata stampabile in verticale con proporzioni 1:1,4, caratterizzata da un'energia giocosa e fumettistica. Il bordo presenta scimmie sfacciate che si dondolano su ghirlande e rubano stelle, illustrate in uno stile di animazione vivace.
+Questo prompt genera una cornice fotografica natalizia animata stampabile in verticale 1:1.4 con un'energia giocosa da cartone animato. Il bordo presenta scimmie sfacciate che si dondolano su ghirlande e rubano stelle, illustrate in uno stile di animazione vivace.
 
 #### 📝 Prompt
 
 ```
-Una cornice fotografica natalizia animata stampabile in verticale 1:1,4 con un'energia giocosa da cartone animato.
+Una cornice per foto di Natale animata stampabile in verticale 1:1.4 con un'energia giocosa da cartone animato.
 
 Nessun ambiente, solo la cornice stessa.
 
-Un grande segnaposto fotografico vuoto è centrato sia orizzontalmente che verticalmente, con un rapporto 1:1,4 e una larghezza del 70%, completamente vuoto.
+Un grande segnaposto per foto vuoto è centrato sia orizzontalmente che verticalmente, con un rapporto 1:1.4 e una larghezza del 70%, completamente vuoto.
 
-Il bordo della cornice presenta scimmie birichine in stile cartone animato che si dondolano su ghirlande, rubano stelle, si appendono a testa in giù e fanno espressioni buffe, illustrate in uno stile di animazione vivace.
+Il bordo della cornice presenta scimmie cartone animato sfacciate che si dondolano su ghirlande, rubano stelle, si appendono a testa in giù e fanno espressioni buffe, illustrate in uno stile di animazione vivace.
 
-Piatto, equilibrato, pronto per la stampa, senza testo.
+Piatto, bilanciato, pronto per la stampa, senza testo.
 ```
 
 #### 🖼️ Immagini generate
@@ -796,7 +796,7 @@ Piatto, equilibrato, pronto per la stampa, senza testo.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20fotografica%20natalizia%20animata%20stampabile%20in%20verticale%201%3A1%2C4%20con%20un'energia%20giocosa%20da%20cartone%20animato.%0A%0ANessun%20ambiente%2C%20solo%20la%20cornice%20stessa.%0A%0AUn%20grande%20segnaposto%20fotografico%20vuoto%20%C3%A8%20centrato%20sia%20orizzontalmente%20che%20verticalmente%2C%20con%20un%20rapporto%201%3A1%2C4%20e%20una%20larghezza%20del%2070%25%2C%20completamente%20vuoto.%0A%0AIl%20bordo%20della%20cornice%20presenta%20scimmie%20birichine%20in%20stile%20cartone%20animato%20che%20si%20dondolano%20su%20ghirlande%2C%20rubano%20stelle%2C%20si%20appendono%20a%20testa%20in%20gi%C3%B9%20e%20fanno%20espressioni%20buffe%2C%20illustrate%20in%20uno%20stile%20di%20animazione%20vivace.%0A%0APiatto%2C%20equilibrato%2C%20pronto%20per%20la%20stampa%2C%20senza%20testo.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20per%20foto%20di%20Natale%20animata%20stampabile%20in%20verticale%201%3A1.4%20con%20un'energia%20giocosa%20da%20cartone%20animato.%0A%0ANessun%20ambiente%2C%20solo%20la%20cornice%20stessa.%0A%0AUn%20grande%20segnaposto%20per%20foto%20vuoto%20%C3%A8%20centrato%20sia%20orizzontalmente%20che%20verticalmente%2C%20con%20un%20rapporto%201%3A1.4%20e%20una%20larghezza%20del%2070%25%2C%20completamente%20vuoto.%0A%0AIl%20bordo%20della%20cornice%20presenta%20scimmie%20cartone%20animato%20sfacciate%20che%20si%20dondolano%20su%20ghirlande%2C%20rubano%20stelle%2C%20si%20appendono%20a%20testa%20in%20gi%C3%B9%20e%20fanno%20espressioni%20buffe%2C%20illustrate%20in%20uno%20stile%20di%20animazione%20vivace.%0A%0APiatto%2C%20bilanciato%2C%20pronto%20per%20la%20stampa%2C%20senza%20testo.)**
 
 ---
 
@@ -811,11 +811,11 @@ Questo prompt crea una cornice natalizia in stile libro animato per bambini, umo
 #### 📝 Prompt
 
 ```
-Un'illustrazione stampabile di una cornice fotografica natalizia in formato verticale 1:1.4, disegnata in uno stile umoristico da libro animato per bambini.
+Un'illustrazione stampabile di una cornice per foto natalizia in formato verticale con proporzioni 1:1.4, disegnata in uno stile umoristico da libro illustrato animato per bambini.
 
 L'illustrazione si concentra solo sul design della cornice.
 
-Esattamente al centro, includere un'area segnaposto vuota per la foto, centrata orizzontalmente e verticalmente, con proporzioni 1:1.4, pari al 70% della larghezza totale, completamente pulita.
+Esattamente al centro, includere un'area segnaposto per foto vuota, centrata orizzontalmente e verticalmente, con proporzioni 1:1.4, pari al 70% della larghezza totale, completamente pulita.
 
 Il bordo presenta lumache animate che si muovono lentamente, indossano minuscoli cappelli da Babbo Natale, trascinano ornamenti, lasciano scie scintillanti e si arrampicano su decorazioni festive a un ritmo assurdamente rilassato.
 
@@ -837,7 +837,7 @@ Illustrazione piatta, umorismo accogliente, nessun testo.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20fotografica%20natalizia%20in%20formato%20verticale%201%3A1.4%2C%20disegnata%20in%20uno%20stile%20umoristico%20da%20libro%20animato%20per%20bambini.%0A%0AL'illustrazione%20si%20concentra%20solo%20sul%20design%20della%20cornice.%0A%0AEsattamente%20al%20centro%2C%20includere%20un'area%20segnaposto%20vuota%20per%20la%20foto%2C%20centrata%20orizzontalmente%20e%20verticalmente%2C%20con%20proporzioni%201%3A1.4%2C%20pari%20al%2070%25%20della%20larghezza%20totale%2C%20completamente%20pulita.%0A%0AIl%20bordo%20presenta%20lumache%20animate%20che%20si%20muovono%20lentamente%2C%20indossano%20minuscoli%20cappelli%20da%20Babbo%20Natale%2C%20trascinano%20ornamenti%2C%20lasciano%20scie%20scintillanti%20e%20si%20arrampicano%20su%20decorazioni%20festive%20a%20un%20ritmo%20assurdamente%20rilassato.%0A%0AIllustrazione%20piatta%2C%20umorismo%20accogliente%2C%20nessun%20testo.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20per%20foto%20natalizia%20in%20formato%20verticale%20con%20proporzioni%201%3A1.4%2C%20disegnata%20in%20uno%20stile%20umoristico%20da%20libro%20illustrato%20animato%20per%20bambini.%0A%0AL'illustrazione%20si%20concentra%20solo%20sul%20design%20della%20cornice.%0A%0AEsattamente%20al%20centro%2C%20includere%20un'area%20segnaposto%20per%20foto%20vuota%2C%20centrata%20orizzontalmente%20e%20verticalmente%2C%20con%20proporzioni%201%3A1.4%2C%20pari%20al%2070%25%20della%20larghezza%20totale%2C%20completamente%20pulita.%0A%0AIl%20bordo%20presenta%20lumache%20animate%20che%20si%20muovono%20lentamente%2C%20indossano%20minuscoli%20cappelli%20da%20Babbo%20Natale%2C%20trascinano%20ornamenti%2C%20lasciano%20scie%20scintillanti%20e%20si%20arrampicano%20su%20decorazioni%20festive%20a%20un%20ritmo%20assurdamente%20rilassato.%0A%0AIllustrazione%20piatta%2C%20umorismo%20accogliente%2C%20nessun%20testo.)**
 
 ---
 
@@ -847,20 +847,20 @@ Illustrazione piatta, umorismo accogliente, nessun testo.
 
 #### 📖 Descrizione
 
-Questo prompt genera una cornice fotografica natalizia stampabile, divertente, verticale (1:1,4) in stile cartone animato. Il bordo della cornice è riempito di cani animati eccitati, aggrovigliati nelle luci e che rovesciano le decorazioni, creando una scena allegra ed energica.
+Questo prompt genera una cornice fotografica natalizia stampabile in verticale, con proporzioni 1:1.4, in stile cartone animato umoristico. Il bordo della cornice è riempito di cani animati eccitati, aggrovigliati nelle luci e che rovesciano le decorazioni, creando una scena allegra ed energica.
 
 #### 📝 Prompt
 
 ```
-Una cornice verticale per foto di Natale stampabile in formato 1:1.4, illustrata in uno stile divertente di animazione a cartoni animati.
+Una cornice fotografica di Natale verticale stampabile 1:1.4, illustrata in uno stile umoristico da cartone animato.
 
 Il design mostra solo la cornice, senza alcun ambiente di sfondo.
 
-Un segnaposto vuoto per la foto è riservato esattamente al centro orizzontale e verticale, con un rapporto d'aspetto di 1:1.4 e il 70% della larghezza della cornice, completamente vuoto e chiaramente definito.
+Un segnaposto per foto vuoto è riservato esattamente al centro orizzontale e verticale, con un rapporto di aspetto 1:1.4 e il 70% della larghezza della cornice, completamente vuoto e chiaramente definito.
 
 Il bordo della cornice è riempito con cani da cartone animato eccitati, aggrovigliati nelle luci di Natale, che inseguono ornamenti, rovesciano decorazioni e indossano maglioni festivi oversize in pose esagerate.
 
-Allegra, energica, piatta e ottimizzata per la stampa, senza scritte.
+Allegro, energico, piatto e ottimizzato per la stampa, senza scritte.
 ```
 
 #### 🖼️ Immagini generate
@@ -878,7 +878,7 @@ Allegra, energica, piatta e ottimizzata per la stampa, senza scritte.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20verticale%20per%20foto%20di%20Natale%20stampabile%20in%20formato%201%3A1.4%2C%20illustrata%20in%20uno%20stile%20divertente%20di%20animazione%20a%20cartoni%20animati.%0A%0AIl%20design%20mostra%20solo%20la%20cornice%2C%20senza%20alcun%20ambiente%20di%20sfondo.%0A%0AUn%20segnaposto%20vuoto%20per%20la%20foto%20%C3%A8%20riservato%20esattamente%20al%20centro%20orizzontale%20e%20verticale%2C%20con%20un%20rapporto%20d'aspetto%20di%201%3A1.4%20e%20il%2070%25%20della%20larghezza%20della%20cornice%2C%20completamente%20vuoto%20e%20chiaramente%20definito.%0A%0AIl%20bordo%20della%20cornice%20%C3%A8%20riempito%20con%20cani%20da%20cartone%20animato%20eccitati%2C%20aggrovigliati%20nelle%20luci%20di%20Natale%2C%20che%20inseguono%20ornamenti%2C%20rovesciano%20decorazioni%20e%20indossano%20maglioni%20festivi%20oversize%20in%20pose%20esagerate.%0A%0AAllegra%2C%20energica%2C%20piatta%20e%20ottimizzata%20per%20la%20stampa%2C%20senza%20scritte.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20fotografica%20di%20Natale%20verticale%20stampabile%201%3A1.4%2C%20illustrata%20in%20uno%20stile%20umoristico%20da%20cartone%20animato.%0A%0AIl%20design%20mostra%20solo%20la%20cornice%2C%20senza%20alcun%20ambiente%20di%20sfondo.%0A%0AUn%20segnaposto%20per%20foto%20vuoto%20%C3%A8%20riservato%20esattamente%20al%20centro%20orizzontale%20e%20verticale%2C%20con%20un%20rapporto%20di%20aspetto%201%3A1.4%20e%20il%2070%25%20della%20larghezza%20della%20cornice%2C%20completamente%20vuoto%20e%20chiaramente%20definito.%0A%0AIl%20bordo%20della%20cornice%20%C3%A8%20riempito%20con%20cani%20da%20cartone%20animato%20eccitati%2C%20aggrovigliati%20nelle%20luci%20di%20Natale%2C%20che%20inseguono%20ornamenti%2C%20rovesciano%20decorazioni%20e%20indossano%20maglioni%20festivi%20oversize%20in%20pose%20esagerate.%0A%0AAllegro%2C%20energico%2C%20piatto%20e%20ottimizzato%20per%20la%20stampa%2C%20senza%20scritte.)**
 
 ---
 
@@ -888,18 +888,18 @@ Allegra, energica, piatta e ottimizzata per la stampa, senza scritte.
 
 #### 📖 Descrizione
 
-Questo prompt genera un'illustrazione stampabile di una cornice per foto natalizia con procioni dispettosi che rubano ornamenti e bastoncini di zucchero, creando un'atmosfera festosa giocosa e caotica. È progettata come una cornice autonoma con un rapporto d'aspetto di 1:1.4, adatta per stampe di alta qualità.
+Questo prompt genera un'illustrazione stampabile di una cornice per foto natalizia con procioni dispettosi che rubano ornamenti e bastoncini di zucchero, creando un'atmosfera natalizia giocosa e caotica. È progettata come una cornice autonoma con un rapporto d'aspetto di 1:1.4, adatta per stampe di alta qualità.
 
 #### 📝 Prompt
 
 ```
-Un'illustrazione stampabile di una cornice per foto natalizia, progettata esclusivamente come cornice a sé stante, con proporzioni verticali di 1:1.4, adatta per stampe di alta qualità.
+Un'illustrazione stampabile di una cornice natalizia, progettata esclusivamente come cornice a sé stante, con un rapporto d'aspetto verticale di 1:1,4, adatta per stampe di alta qualità.
 
-L'illustrazione si concentra solo sulla cornice stessa, senza ambiente esterno o sfondo. Lo stile è quello di un'illustrazione umoristica animata da libro di fiabe, con contorni puliti e texture morbide.
+L'illustrazione si concentra solo sulla cornice stessa, senza ambiente esterno o scena di sfondo. Lo stile è quello di un'illustrazione umoristica di un libro di fiabe animato, con contorni puliti e texture morbide.
 
-Al centro esatto della cornice, riservare un'area vuota per la foto, centrata orizzontalmente e verticalmente, con proporzioni verticali di 1:1.4 e il 70% della larghezza totale della cornice, completamente vuota e intatta.
+Esattamente al centro della cornice, riservare un'area segnaposto vuota per la foto, centrata orizzontalmente e verticalmente, con un rapporto d'aspetto verticale di 1:1,4 e il 70% della larghezza totale della cornice, completamente vuota e intatta.
 
-Il bordo della cornice circostante presenta procioni dispettosi in stile cartone animato che rubano ornamenti, nascondono bastoncini di zucchero, sbirciano dagli angoli e si appendono a testa in giù dalle ghirlande, creando un'atmosfera festosa giocosa e caotica.
+Il bordo della cornice circostante presenta procioni dispettosi che rubano ornamenti, nascondono bastoncini di zucchero, sbirciano dagli angoli e si appendono a testa in giù dalle ghirlande, creando un'atmosfera festiva giocosa e caotica.
 
 Composizione piatta, colori adatti alla stampa, nessun testo.
 ```
@@ -919,7 +919,7 @@ Composizione piatta, colori adatti alla stampa, nessun testo.
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20per%20foto%20natalizia%2C%20progettata%20esclusivamente%20come%20cornice%20a%20s%C3%A9%20stante%2C%20con%20proporzioni%20verticali%20di%201%3A1.4%2C%20adatta%20per%20stampe%20di%20alta%20qualit%C3%A0.%0A%0AL'illustrazione%20si%20concentra%20solo%20sulla%20cornice%20stessa%2C%20senza%20ambiente%20esterno%20o%20sfondo.%20Lo%20stile%20%C3%A8%20quello%20di%20un'illustrazione%20umoristica%20animata%20da%20libro%20di%20fiabe%2C%20con%20contorni%20puliti%20e%20texture%20morbide.%0A%0AAl%20centro%20esatto%20della%20cornice%2C%20riservare%20un'area%20vuota%20per%20la%20foto%2C%20centrata%20orizzontalmente%20e%20verticalmente%2C%20con%20proporzioni%20verticali%20di%201%3A1.4%20e%20il%2070%25%20della%20larghezza%20totale%20della%20cornice%2C%20completamente%20vuota%20e%20intatta.%0A%0AIl%20bordo%20della%20cornice%20circostante%20presenta%20procioni%20dispettosi%20in%20stile%20cartone%20animato%20che%20rubano%20ornamenti%2C%20nascondono%20bastoncini%20di%20zucchero%2C%20sbirciano%20dagli%20angoli%20e%20si%20appendono%20a%20testa%20in%20gi%C3%B9%20dalle%20ghirlande%2C%20creando%20un'atmosfera%20festosa%20giocosa%20e%20caotica.%0A%0AComposizione%20piatta%2C%20colori%20adatti%20alla%20stampa%2C%20nessun%20testo.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20natalizia%2C%20progettata%20esclusivamente%20come%20cornice%20a%20s%C3%A9%20stante%2C%20con%20un%20rapporto%20d'aspetto%20verticale%20di%201%3A1%2C4%2C%20adatta%20per%20stampe%20di%20alta%20qualit%C3%A0.%0A%0AL'illustrazione%20si%20concentra%20solo%20sulla%20cornice%20stessa%2C%20senza%20ambiente%20esterno%20o%20scena%20di%20sfondo.%20Lo%20stile%20%C3%A8%20quello%20di%20un'illustrazione%20umoristica%20di%20un%20libro%20di%20fiabe%20animato%2C%20con%20contorni%20puliti%20e%20texture%20morbide.%0A%0AEsattamente%20al%20centro%20della%20cornice%2C%20riservare%20un'area%20segnaposto%20vuota%20per%20la%20foto%2C%20centrata%20orizzontalmente%20e%20verticalmente%2C%20con%20un%20rapporto%20d'aspetto%20verticale%20di%201%3A1%2C4%20e%20il%2070%25%20della%20larghezza%20totale%20della%20cornice%2C%20completamente%20vuota%20e%20intatta.%0A%0AIl%20bordo%20della%20cornice%20circostante%20presenta%20procioni%20dispettosi%20che%20rubano%20ornamenti%2C%20nascondono%20bastoncini%20di%20zucchero%2C%20sbirciano%20dagli%20angoli%20e%20si%20appendono%20a%20testa%20in%20gi%C3%B9%20dalle%20ghirlande%2C%20creando%20un'atmosfera%20festiva%20giocosa%20e%20caotica.%0A%0AComposizione%20piatta%2C%20colori%20adatti%20alla%20stampa%2C%20nessun%20testo.)**
 
 ---
 
@@ -929,18 +929,18 @@ Composizione piatta, colori adatti alla stampa, nessun testo.
 
 #### 📖 Descrizione
 
-Questo prompt crea una cornice fotografica natalizia verticale e stampabile, illustrata in un affascinante e divertente stile di animazione da libro per bambini, con pinguini goffi. Il design si concentra interamente sulla cornice stessa con un segnaposto vuoto per la foto, offrendo un aspetto gioioso, divertente e animato per la stampa.
+Questo prompt crea una cornice fotografica natalizia verticale e stampabile, illustrata in un affascinante e divertente stile da animazione di libri per bambini, con pinguini goffi. Il design si concentra interamente sulla cornice stessa con un segnaposto vuoto per la foto, offrendo un aspetto gioioso, divertente e animato per la stampa.
 
 #### 📝 Prompt
 
 ```
-Una cornice verticale per foto di Natale stampabile in formato 1:1.4, illustrata con un affascinante e divertente stile da animazione di libri per bambini.
+Una cornice fotografica natalizia stampabile verticale 1:1.4 illustrata in un affascinante e divertente stile di animazione da libro per bambini.
 
-Il design si concentra interamente sulla cornice stessa, con un'illustrazione piatta e senza sfondo ambientale.
+Il design si concentra interamente sulla cornice stessa, con un'illustrazione piatta e senza sfondo.
 
-Un grande segnaposto vuoto per la foto è riservato esattamente al centro orizzontale e verticale, con un rapporto verticale di 1:1.4 e il 70% della larghezza della cornice, intenzionalmente vuoto e chiaramente separato da tutte le decorazioni.
+Un grande segnaposto fotografico vuoto è riservato esattamente al centro orizzontale e verticale, con un rapporto verticale di 1:1.4 e il 70% della larghezza della cornice, intenzionalmente vuoto e chiaramente separato da tutte le decorazioni.
 
-Il bordo circostante presenta goffi pinguini a cartone animato che scivolano, impilano ornamenti, tengono stelle sovradimensionate e interagiscono giocosamente con elementi festivi lungo i bordi.
+Il bordo circostante presenta goffi pinguini a fumetti che scivolano, impilano ornamenti, tengono stelle sovradimensionate e interagiscono giocosamente con elementi festivi lungo i bordi.
 
 Lo stile generale è gioioso, divertente, animato e adatto alla stampa, senza testo o scritte.
 ```
@@ -960,7 +960,7 @@ Lo stile generale è gioioso, divertente, animato e adatto alla stampa, senza te
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20verticale%20per%20foto%20di%20Natale%20stampabile%20in%20formato%201%3A1.4%2C%20illustrata%20con%20un%20affascinante%20e%20divertente%20stile%20da%20animazione%20di%20libri%20per%20bambini.%0A%0AIl%20design%20si%20concentra%20interamente%20sulla%20cornice%20stessa%2C%20con%20un'illustrazione%20piatta%20e%20senza%20sfondo%20ambientale.%0A%0AUn%20grande%20segnaposto%20vuoto%20per%20la%20foto%20%C3%A8%20riservato%20esattamente%20al%20centro%20orizzontale%20e%20verticale%2C%20con%20un%20rapporto%20verticale%20di%201%3A1.4%20e%20il%2070%25%20della%20larghezza%20della%20cornice%2C%20intenzionalmente%20vuoto%20e%20chiaramente%20separato%20da%20tutte%20le%20decorazioni.%0A%0AIl%20bordo%20circostante%20presenta%20goffi%20pinguini%20a%20cartone%20animato%20che%20scivolano%2C%20impilano%20ornamenti%2C%20tengono%20stelle%20sovradimensionate%20e%20interagiscono%20giocosamente%20con%20elementi%20festivi%20lungo%20i%20bordi.%0A%0ALo%20stile%20generale%20%C3%A8%20gioioso%2C%20divertente%2C%20animato%20e%20adatto%20alla%20stampa%2C%20senza%20testo%20o%20scritte.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20fotografica%20natalizia%20stampabile%20verticale%201%3A1.4%20illustrata%20in%20un%20affascinante%20e%20divertente%20stile%20di%20animazione%20da%20libro%20per%20bambini.%0A%0AIl%20design%20si%20concentra%20interamente%20sulla%20cornice%20stessa%2C%20con%20un'illustrazione%20piatta%20e%20senza%20sfondo.%0A%0AUn%20grande%20segnaposto%20fotografico%20vuoto%20%C3%A8%20riservato%20esattamente%20al%20centro%20orizzontale%20e%20verticale%2C%20con%20un%20rapporto%20verticale%20di%201%3A1.4%20e%20il%2070%25%20della%20larghezza%20della%20cornice%2C%20intenzionalmente%20vuoto%20e%20chiaramente%20separato%20da%20tutte%20le%20decorazioni.%0A%0AIl%20bordo%20circostante%20presenta%20goffi%20pinguini%20a%20fumetti%20che%20scivolano%2C%20impilano%20ornamenti%2C%20tengono%20stelle%20sovradimensionate%20e%20interagiscono%20giocosamente%20con%20elementi%20festivi%20lungo%20i%20bordi.%0A%0ALo%20stile%20generale%20%C3%A8%20gioioso%2C%20divertente%2C%20animato%20e%20adatto%20alla%20stampa%2C%20senza%20testo%20o%20scritte.)**
 
 ---
 
@@ -975,13 +975,13 @@ Questo prompt crea un'illustrazione stampabile di una cornice fotografica natali
 #### 📝 Prompt
 
 ```
-Un'illustrazione stampabile di una cornice natalizia con proporzioni verticali 1:1.4, creata in uno stile divertente da libro di fiabe animato.
+Un'illustrazione stampabile di una cornice natalizia con proporzioni verticali di 1:1.4, creata in uno stile umoristico da libro di fiabe animato.
 
 L'illustrazione mostra solo il design della cornice, senza alcun ambiente esterno o sfondo. I colori sono caldi e festosi con una morbida texture di carta.
 
-Esattamente al centro, riservare un segnaposto fotografico vuoto, centrato orizzontalmente e verticalmente, mantenendo un rapporto di aspetto 1:1.4 e il 70% della larghezza totale della cornice, completamente vuoto e senza ostacoli.
+Esattamente al centro, riservare un segnaposto fotografico vuoto, centrato orizzontalmente e verticalmente, mantenendo un rapporto di aspetto di 1:1.4 e il 70% della larghezza totale della cornice, completamente vuoto e senza ostacoli.
 
-Il bordo della cornice è decorato con giocosi personaggi di pan di zenzero in pose buffe, biscotti parzialmente rotti, dettagli di glassa e decorazioni di caramelle, tutti disegnati con facce espressive da cartone animato.
+Il bordo della cornice è decorato con giocosi personaggi di pan di zenzero in pose buffe, biscotti parzialmente rotti, dettagli di glassa e decorazioni di caramelle, tutti disegnati con espressioni facciali da cartone animato.
 
 L'atmosfera è umoristica, accogliente e stravagante, completamente ottimizzata per la stampa, senza tipografia.
 ```
@@ -1001,30 +1001,30 @@ L'atmosfera è umoristica, accogliente e stravagante, completamente ottimizzata 
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20natalizia%20con%20proporzioni%20verticali%201%3A1.4%2C%20creata%20in%20uno%20stile%20divertente%20da%20libro%20di%20fiabe%20animato.%0A%0AL'illustrazione%20mostra%20solo%20il%20design%20della%20cornice%2C%20senza%20alcun%20ambiente%20esterno%20o%20sfondo.%20I%20colori%20sono%20caldi%20e%20festosi%20con%20una%20morbida%20texture%20di%20carta.%0A%0AEsattamente%20al%20centro%2C%20riservare%20un%20segnaposto%20fotografico%20vuoto%2C%20centrato%20orizzontalmente%20e%20verticalmente%2C%20mantenendo%20un%20rapporto%20di%20aspetto%201%3A1.4%20e%20il%2070%25%20della%20larghezza%20totale%20della%20cornice%2C%20completamente%20vuoto%20e%20senza%20ostacoli.%0A%0AIl%20bordo%20della%20cornice%20%C3%A8%20decorato%20con%20giocosi%20personaggi%20di%20pan%20di%20zenzero%20in%20pose%20buffe%2C%20biscotti%20parzialmente%20rotti%2C%20dettagli%20di%20glassa%20e%20decorazioni%20di%20caramelle%2C%20tutti%20disegnati%20con%20facce%20espressive%20da%20cartone%20animato.%0A%0AL'atmosfera%20%C3%A8%20umoristica%2C%20accogliente%20e%20stravagante%2C%20completamente%20ottimizzata%20per%20la%20stampa%2C%20senza%20tipografia.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20natalizia%20con%20proporzioni%20verticali%20di%201%3A1.4%2C%20creata%20in%20uno%20stile%20umoristico%20da%20libro%20di%20fiabe%20animato.%0A%0AL'illustrazione%20mostra%20solo%20il%20design%20della%20cornice%2C%20senza%20alcun%20ambiente%20esterno%20o%20sfondo.%20I%20colori%20sono%20caldi%20e%20festosi%20con%20una%20morbida%20texture%20di%20carta.%0A%0AEsattamente%20al%20centro%2C%20riservare%20un%20segnaposto%20fotografico%20vuoto%2C%20centrato%20orizzontalmente%20e%20verticalmente%2C%20mantenendo%20un%20rapporto%20di%20aspetto%20di%201%3A1.4%20e%20il%2070%25%20della%20larghezza%20totale%20della%20cornice%2C%20completamente%20vuoto%20e%20senza%20ostacoli.%0A%0AIl%20bordo%20della%20cornice%20%C3%A8%20decorato%20con%20giocosi%20personaggi%20di%20pan%20di%20zenzero%20in%20pose%20buffe%2C%20biscotti%20parzialmente%20rotti%2C%20dettagli%20di%20glassa%20e%20decorazioni%20di%20caramelle%2C%20tutti%20disegnati%20con%20espressioni%20facciali%20da%20cartone%20animato.%0A%0AL'atmosfera%20%C3%A8%20umoristica%2C%20accogliente%20e%20stravagante%2C%20completamente%20ottimizzata%20per%20la%20stampa%2C%20senza%20tipografia.)**
 
 ---
 
-### No. 18: Cornice fotografica animata natalizia in stile bradipo pigro
+### No. 18: Cornice per foto di Natale animata in stile bradipo pigro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-Questo prompt genera un'illustrazione di una cornice fotografica natalizia stampabile in uno stile umoristico da libro di fiabe animato, con bradipi pigri. È progettato come una cornice autonoma con un segnaposto vuoto per la foto, perfetta per la stampa di alta qualità e per aggiungere un tocco spensierato, accogliente e divertente alle foto delle vacanze.
+Questo prompt genera un'illustrazione stampabile di una cornice per foto natalizia in uno stile umoristico da libro di fiabe animato, con bradipi pigri. È progettata come una cornice autonoma con un segnaposto vuoto per la foto, perfetta per la stampa di alta qualità e per aggiungere un tocco spensierato, accogliente e divertente alle foto delle vacanze.
 
 #### 📝 Prompt
 
 ```
-Un'illustrazione stampabile di una cornice natalizia, progettata esclusivamente come cornice a sé stante, con un rapporto d'aspetto verticale di 1:1.4, adatta per stampe di alta qualità.
+Un'illustrazione stampabile di una cornice per foto natalizia, progettata esclusivamente come cornice a sé stante, con proporzioni verticali di 1:1,4, adatta per stampe di alta qualità.
 
-L'illustrazione si concentra solo sulla cornice stessa, senza ambienti esterni o scene di sfondo. Lo stile è un'illustrazione umoristica da libro di fiabe animato, con texture morbide, contorni puliti e colori caldi.
+L'illustrazione si concentra solo sulla cornice stessa, senza ambienti esterni o sfondi. Lo stile è un'illustrazione umoristica animata da libro di fiabe, con texture morbide, contorni puliti e colori caldi.
 
-Esattamente al centro della cornice, riservare un'area segnaposto vuota per la foto, centrata orizzontalmente e verticalmente. Il segnaposto ha un rapporto d'aspetto verticale di 1:1.4, con la sua larghezza pari al 70% della larghezza totale della cornice, e deve rimanere completamente vuoto e intatto.
+Al centro esatto della cornice, riservare un'area vuota per la foto, centrata orizzontalmente e verticalmente. Il segnaposto ha proporzioni verticali di 1:1,4, con la sua larghezza pari al 70% della larghezza totale della cornice, e deve rimanere completamente vuoto e intatto.
 
-Il bordo della cornice circostante presenta giocosi bradipi a cartone animato appesi a bastoncini di zucchero, rami di sempreverde e ganci festivi. I bradipi indossano comodi maglioni e sciarpe di lana, assumendo pose rilassate e divertenti.
+Il bordo della cornice circostante presenta giocosi bradipi a cartone animato appesi a bastoncini di zucchero, rami sempreverdi e ganci festivi. I bradipi indossano comodi maglioni e sciarpe di lana, assumendo pose rilassate e divertenti.
 
-L'illustrazione trasmette un'atmosfera spensierata, accogliente e umoristica, con una composizione piatta e colori adatti alla stampa, senza testo o tipografia.
+L'illustrazione è spensierata, accogliente e umoristica, con una composizione piatta e colori adatti alla stampa, senza testo o tipografia.
 ```
 
 #### 🖼️ Immagini generate
@@ -1032,7 +1032,7 @@ L'illustrazione trasmette un'atmosfera spensierata, accogliente e umoristica, co
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="Cornice fotografica animata natalizia in stile bradipo pigro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="Cornice per foto di Natale animata in stile bradipo pigro - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1042,7 +1042,7 @@ L'illustrazione trasmette un'atmosfera spensierata, accogliente e umoristica, co
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20natalizia%2C%20progettata%20esclusivamente%20come%20cornice%20a%20s%C3%A9%20stante%2C%20con%20un%20rapporto%20d'aspetto%20verticale%20di%201%3A1.4%2C%20adatta%20per%20stampe%20di%20alta%20qualit%C3%A0.%0A%0AL'illustrazione%20si%20concentra%20solo%20sulla%20cornice%20stessa%2C%20senza%20ambienti%20esterni%20o%20scene%20di%20sfondo.%20Lo%20stile%20%C3%A8%20un'illustrazione%20umoristica%20da%20libro%20di%20fiabe%20animato%2C%20con%20texture%20morbide%2C%20contorni%20puliti%20e%20colori%20caldi.%0A%0AEsattamente%20al%20centro%20della%20cornice%2C%20riservare%20un'area%20segnaposto%20vuota%20per%20la%20foto%2C%20centrata%20orizzontalmente%20e%20verticalmente.%20Il%20segnaposto%20ha%20un%20rapporto%20d'aspetto%20verticale%20di%201%3A1.4%2C%20con%20la%20sua%20larghezza%20pari%20al%2070%25%20della%20larghezza%20totale%20della%20cornice%2C%20e%20deve%20rimanere%20completamente%20vuoto%20e%20intatto.%0A%0AIl%20bordo%20della%20cornice%20circostante%20presenta%20giocosi%20bradipi%20a%20cartone%20animato%20appesi%20a%20bastoncini%20di%20zucchero%2C%20rami%20di%20sempreverde%20e%20ganci%20festivi.%20I%20bradipi%20indossano%20comodi%20maglioni%20e%20sciarpe%20di%20lana%2C%20assumendo%20pose%20rilassate%20e%20divertenti.%0A%0AL'illustrazione%20trasmette%20un'atmosfera%20spensierata%2C%20accogliente%20e%20umoristica%2C%20con%20una%20composizione%20piatta%20e%20colori%20adatti%20alla%20stampa%2C%20senza%20testo%20o%20tipografia.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un'illustrazione%20stampabile%20di%20una%20cornice%20per%20foto%20natalizia%2C%20progettata%20esclusivamente%20come%20cornice%20a%20s%C3%A9%20stante%2C%20con%20proporzioni%20verticali%20di%201%3A1%2C4%2C%20adatta%20per%20stampe%20di%20alta%20qualit%C3%A0.%0A%0AL'illustrazione%20si%20concentra%20solo%20sulla%20cornice%20stessa%2C%20senza%20ambienti%20esterni%20o%20sfondi.%20Lo%20stile%20%C3%A8%20un'illustrazione%20umoristica%20animata%20da%20libro%20di%20fiabe%2C%20con%20texture%20morbide%2C%20contorni%20puliti%20e%20colori%20caldi.%0A%0AAl%20centro%20esatto%20della%20cornice%2C%20riservare%20un'area%20vuota%20per%20la%20foto%2C%20centrata%20orizzontalmente%20e%20verticalmente.%20Il%20segnaposto%20ha%20proporzioni%20verticali%20di%201%3A1%2C4%2C%20con%20la%20sua%20larghezza%20pari%20al%2070%25%20della%20larghezza%20totale%20della%20cornice%2C%20e%20deve%20rimanere%20completamente%20vuoto%20e%20intatto.%0A%0AIl%20bordo%20della%20cornice%20circostante%20presenta%20giocosi%20bradipi%20a%20cartone%20animato%20appesi%20a%20bastoncini%20di%20zucchero%2C%20rami%20sempreverdi%20e%20ganci%20festivi.%20I%20bradipi%20indossano%20comodi%20maglioni%20e%20sciarpe%20di%20lana%2C%20assumendo%20pose%20rilassate%20e%20divertenti.%0A%0AL'illustrazione%20%C3%A8%20spensierata%2C%20accogliente%20e%20umoristica%2C%20con%20una%20composizione%20piatta%20e%20colori%20adatti%20alla%20stampa%2C%20senza%20testo%20o%20tipografia.)**
 
 ---
 
@@ -1052,7 +1052,7 @@ L'illustrazione trasmette un'atmosfera spensierata, accogliente e umoristica, co
 
 #### 📖 Descrizione
 
-Questo prompt crea una cornice fotografica natalizia animata stampabile in uno stile fumetto umoristico con giocosi orsi polari. È progettato esclusivamente come illustrazione di cornice per la stampa, con un segnaposto vuoto per la foto, offrendo un'estetica allegra, divertente e amichevole per le foto delle vacanze.
+Questo prompt crea una cornice fotografica natalizia animata e stampabile in uno stile fumetto umoristico con orsi polari giocosi. È progettata esclusivamente come illustrazione di cornice per la stampa, con un segnaposto vuoto per la foto, offrendo un'estetica allegra, divertente e amichevole per le foto delle vacanze.
 
 #### 📝 Prompt
 
@@ -1093,16 +1093,16 @@ L'atmosfera generale è allegra, divertente e amichevole, ottimizzata per un'ill
 
 #### 📖 Descrizione
 
-Questo prompt genera una cornice fotografica natalizia verticale e stampabile, illustrata in uno stile adesivo animato carino e divertente, con gatti dispettosi. Il design si concentra esclusivamente sulla cornice stessa, con contorni audaci, colori tenui e un segnaposto fotografico vuoto, creando un'atmosfera festiva giocosa e caotica.
+Questo prompt genera una cornice fotografica natalizia verticale e stampabile, illustrata in uno stile adesivo animato carino e divertente, con gatti dispettosi. Il design si concentra esclusivamente sulla cornice stessa, con contorni audaci, colori tenui e un segnaposto vuoto per la foto, creando un'atmosfera festiva giocosa e caotica.
 
 #### 📝 Prompt
 
 ```
-Una cornice fotografica di Natale verticale stampabile in formato 1:1.4, illustrata in uno stile adesivo animato carino e divertente.
+Una cornice fotografica natalizia verticale stampabile con rapporto 1:1,4, illustrata in uno stile adesivo animato carino e divertente.
 
-Il design si concentra solo sulla cornice stessa, senza contesto di stanza, parete o ambiente. L'illustrazione utilizza contorni audaci, colori tenui e personaggi dei cartoni animati espressivi.
+Il design si concentra solo sulla cornice stessa, senza contesto di stanza, parete o ambiente. L'illustrazione utilizza contorni marcati, colori tenui e personaggi dei cartoni animati espressivi.
 
-Esattamente al centro, un'area segnaposto vuota per la foto è centrata orizzontalmente e verticalmente, con un rapporto verticale di 1:1.4 e una larghezza del 70% rispetto alla cornice, completamente vuota e chiaramente definita.
+Esattamente al centro, un'area segnaposto vuota per la foto è centrata orizzontalmente e verticalmente, con un rapporto verticale di 1:1,4 e il 70% della larghezza della cornice, completamente vuota e chiaramente definita.
 
 Il bordo circostante presenta gatti dei cartoni animati dispettosi aggrovigliati nelle luci di Natale, che fanno cadere gli ornamenti, si arrampicano sulle ghirlande e sbirciano dagli angoli, creando un'atmosfera festiva giocosa e caotica.
 
@@ -1124,7 +1124,7 @@ La composizione rimane piatta, bilanciata e pronta per la stampa, senza elementi
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20fotografica%20di%20Natale%20verticale%20stampabile%20in%20formato%201%3A1.4%2C%20illustrata%20in%20uno%20stile%20adesivo%20animato%20carino%20e%20divertente.%0A%0AIl%20design%20si%20concentra%20solo%20sulla%20cornice%20stessa%2C%20senza%20contesto%20di%20stanza%2C%20parete%20o%20ambiente.%20L'illustrazione%20utilizza%20contorni%20audaci%2C%20colori%20tenui%20e%20personaggi%20dei%20cartoni%20animati%20espressivi.%0A%0AEsattamente%20al%20centro%2C%20un'area%20segnaposto%20vuota%20per%20la%20foto%20%C3%A8%20centrata%20orizzontalmente%20e%20verticalmente%2C%20con%20un%20rapporto%20verticale%20di%201%3A1.4%20e%20una%20larghezza%20del%2070%25%20rispetto%20alla%20cornice%2C%20completamente%20vuota%20e%20chiaramente%20definita.%0A%0AIl%20bordo%20circostante%20presenta%20gatti%20dei%20cartoni%20animati%20dispettosi%20aggrovigliati%20nelle%20luci%20di%20Natale%2C%20che%20fanno%20cadere%20gli%20ornamenti%2C%20si%20arrampicano%20sulle%20ghirlande%20e%20sbirciano%20dagli%20angoli%2C%20creando%20un'atmosfera%20festiva%20giocosa%20e%20caotica.%0A%0ALa%20composizione%20rimane%20piatta%2C%20bilanciata%20e%20pronta%20per%20la%20stampa%2C%20senza%20elementi%20testuali.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20cornice%20fotografica%20natalizia%20verticale%20stampabile%20con%20rapporto%201%3A1%2C4%2C%20illustrata%20in%20uno%20stile%20adesivo%20animato%20carino%20e%20divertente.%0A%0AIl%20design%20si%20concentra%20solo%20sulla%20cornice%20stessa%2C%20senza%20contesto%20di%20stanza%2C%20parete%20o%20ambiente.%20L'illustrazione%20utilizza%20contorni%20marcati%2C%20colori%20tenui%20e%20personaggi%20dei%20cartoni%20animati%20espressivi.%0A%0AEsattamente%20al%20centro%2C%20un'area%20segnaposto%20vuota%20per%20la%20foto%20%C3%A8%20centrata%20orizzontalmente%20e%20verticalmente%2C%20con%20un%20rapporto%20verticale%20di%201%3A1%2C4%20e%20il%2070%25%20della%20larghezza%20della%20cornice%2C%20completamente%20vuota%20e%20chiaramente%20definita.%0A%0AIl%20bordo%20circostante%20presenta%20gatti%20dei%20cartoni%20animati%20dispettosi%20aggrovigliati%20nelle%20luci%20di%20Natale%2C%20che%20fanno%20cadere%20gli%20ornamenti%2C%20si%20arrampicano%20sulle%20ghirlande%20e%20sbirciano%20dagli%20angoli%2C%20creando%20un'atmosfera%20festiva%20giocosa%20e%20caotica.%0A%0ALa%20composizione%20rimane%20piatta%2C%20bilanciata%20e%20pronta%20per%20la%20stampa%2C%20senza%20elementi%20testuali.)**
 
 ---
 
@@ -1139,7 +1139,7 @@ Questo prompt genera un simpatico design stampabile per un biglietto di Natale, 
 #### 📝 Prompt
 
 ```
-Un grazioso design stampabile per biglietto di Natale, proporzioni 1:1,4. Un orsetto koala grigio è aggrappato saldamente al tronco di un piccolo albero di Natale decorato invece di un albero di eucalipto, con un'espressione contenta e assonnata. L'albero è ricoperto di lucide ghirlande argentate e palline colorate. Il koala indossa un minuscolo papillon rosso. Sfondo verde pastello uniforme. Texture morbida, disegno a pastello a cera.
+Un simpatico biglietto di Natale stampabile, rapporto d'aspetto 1:1.4. Un orsetto koala grigio è aggrappato saldamente al tronco di un piccolo albero di Natale decorato invece di un albero di eucalipto, con un'espressione contenta e assonnata. L'albero è ricoperto di lucide ghirlande argentate e palline colorate. Il koala indossa un minuscolo papillon rosso. Sfondo verde pastello uniforme. Texture morbida, disegno a pastello a cera.
 ```
 
 #### 🖼️ Immagini generate
@@ -1157,7 +1157,7 @@ Un grazioso design stampabile per biglietto di Natale, proporzioni 1:1,4. Un ors
 - **Pubblicato:** 15 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20grazioso%20design%20stampabile%20per%20biglietto%20di%20Natale%2C%20proporzioni%201%3A1%2C4.%20Un%20orsetto%20koala%20grigio%20%C3%A8%20aggrappato%20saldamente%20al%20tronco%20di%20un%20piccolo%20albero%20di%20Natale%20decorato%20invece%20di%20un%20albero%20di%20eucalipto%2C%20con%20un'espressione%20contenta%20e%20assonnata.%20L'albero%20%C3%A8%20ricoperto%20di%20lucide%20ghirlande%20argentate%20e%20palline%20colorate.%20Il%20koala%20indossa%20un%20minuscolo%20papillon%20rosso.%20Sfondo%20verde%20pastello%20uniforme.%20Texture%20morbida%2C%20disegno%20a%20pastello%20a%20cera.)**
+**[👉 Provalo ora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20simpatico%20biglietto%20di%20Natale%20stampabile%2C%20rapporto%20d'aspetto%201%3A1.4.%20Un%20orsetto%20koala%20grigio%20%C3%A8%20aggrappato%20saldamente%20al%20tronco%20di%20un%20piccolo%20albero%20di%20Natale%20decorato%20invece%20di%20un%20albero%20di%20eucalipto%2C%20con%20un'espressione%20contenta%20e%20assonnata.%20L'albero%20%C3%A8%20ricoperto%20di%20lucide%20ghirlande%20argentate%20e%20palline%20colorate.%20Il%20koala%20indossa%20un%20minuscolo%20papillon%20rosso.%20Sfondo%20verde%20pastello%20uniforme.%20Texture%20morbida%2C%20disegno%20a%20pastello%20a%20cera.)**
 
 ---
 
@@ -5036,6 +5036,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-18T01:22:34.939Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-18T04:32:50.814Z</sub>
 
 </div>

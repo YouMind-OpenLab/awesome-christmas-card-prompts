@@ -88,7 +88,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **140** |
 | ⭐ Nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **lúc 01:22:18 UTC Thứ Năm, 18 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 04:32:33 UTC Thứ Năm, 18 tháng 12, 2025** |
 
 </div>
 
@@ -314,16 +314,16 @@ Một tấm thiệp Giáng sinh dễ thương và hỗn loạn, tỷ lệ khung 
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung ảnh Giáng sinh hoạt hình vui nhộn theo phong cách dọc, tỷ lệ 1:1.4. Đường viền hiển thị những chú hải ly hoạt hình đang hăng hái xây dựng và thiết kế quá mức các đồ trang trí lễ hội với vẻ nghiêm túc thái quá, tạo ra một thiết kế hài hước, được tối ưu hóa để in.
+Lời nhắc này tạo ra một khung ảnh Giáng sinh hoạt hình vui nhộn theo phong cách dọc 1:1.4. Đường viền hiển thị những chú hải ly hoạt hình đang hăng hái xây dựng và thiết kế quá mức các đồ trang trí lễ hội với vẻ nghiêm túc thái quá, tạo ra một thiết kế hài hước, được tối ưu hóa để in.
 
 #### 📝 Câu lệnh
 
 ```
-Một khung ảnh Giáng sinh dọc, tỷ lệ 1:1.4, có thể in được, minh họa theo phong cách hoạt hình vui tươi.
+Một khung ảnh Giáng sinh dọc, tỷ lệ 1:1.4, có thể in được, được minh họa theo phong cách hoạt hình vui nhộn.
 
 Không có môi trường xung quanh, chỉ có khung.
 
-Một chỗ giữ ảnh trống được căn giữa, tỷ lệ 1:1.4, chiều rộng 70%, hoàn toàn sạch sẽ.
+Một chỗ giữ ảnh trống được căn giữa, tỷ lệ 1:1.4, rộng 70%, hoàn toàn sạch sẽ.
 
 Viền khung thể hiện những chú hải ly hoạt hình đang hăng hái xây dựng, đóng đinh và thiết kế quá mức các đồ trang trí lễ hội với vẻ nghiêm túc cường điệu.
 
@@ -345,17 +345,17 @@ Phẳng, hài hước, tối ưu hóa để in, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20vui%20t%C6%B0%C6%A1i.%0A%0AKh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20xung%20quanh%2C%20ch%E1%BB%89%20c%C3%B3%20khung.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20s%E1%BA%A1ch%20s%E1%BA%BD.%0A%0AVi%E1%BB%81n%20khung%20th%E1%BB%83%20hi%E1%BB%87n%20nh%E1%BB%AFng%20ch%C3%BA%20h%E1%BA%A3i%20ly%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91ang%20h%C4%83ng%20h%C3%A1i%20x%C3%A2y%20d%E1%BB%B1ng%2C%20%C4%91%C3%B3ng%20%C4%91inh%20v%C3%A0%20thi%E1%BA%BFt%20k%E1%BA%BF%20qu%C3%A1%20m%E1%BB%A9c%20c%C3%A1c%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20l%E1%BB%85%20h%E1%BB%99i%20v%E1%BB%9Bi%20v%E1%BA%BB%20nghi%C3%AAm%20t%C3%BAc%20c%C6%B0%E1%BB%9Dng%20%C4%91i%E1%BB%87u.%0A%0APh%E1%BA%B3ng%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%2C%20t%E1%BB%91i%20%C6%B0u%20h%C3%B3a%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20vui%20nh%E1%BB%99n.%0A%0AKh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20xung%20quanh%2C%20ch%E1%BB%89%20c%C3%B3%20khung.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20r%E1%BB%99ng%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20s%E1%BA%A1ch%20s%E1%BA%BD.%0A%0AVi%E1%BB%81n%20khung%20th%E1%BB%83%20hi%E1%BB%87n%20nh%E1%BB%AFng%20ch%C3%BA%20h%E1%BA%A3i%20ly%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91ang%20h%C4%83ng%20h%C3%A1i%20x%C3%A2y%20d%E1%BB%B1ng%2C%20%C4%91%C3%B3ng%20%C4%91inh%20v%C3%A0%20thi%E1%BA%BFt%20k%E1%BA%BF%20qu%C3%A1%20m%E1%BB%A9c%20c%C3%A1c%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20l%E1%BB%85%20h%E1%BB%99i%20v%E1%BB%9Bi%20v%E1%BA%BB%20nghi%C3%AAm%20t%C3%BAc%20c%C6%B0%E1%BB%9Dng%20%C4%91i%E1%BB%87u.%0A%0APh%E1%BA%B3ng%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%2C%20t%E1%BB%91i%20%C6%B0u%20h%C3%B3a%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
-### No. 2: Koala Giáng sinh · Khung ảnh không thể rời mắt
+### No. 2: Koala Giáng sinh · Khung hình không thể rời mắt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung ảnh Giáng Sinh động, định dạng dọc 1:1.4. Đường viền có hình những chú gấu túi hoạt hình đang ôm chặt đồ trang trí và vòng hoa, không chịu buông ra, tạo nên sự hài hước nhẹ nhàng, ấm cúng trong một thiết kế sẵn sàng để in.
+Lời nhắc này tạo ra một khung ảnh Giáng sinh động ở định dạng dọc 1:1.4. Đường viền có những chú gấu túi hoạt hình đang ôm đồ trang trí và vòng hoa, không chịu buông, tạo nên sự hài hước nhẹ nhàng, ấm cúng trong một thiết kế sẵn sàng in.
 
 #### 📝 Câu lệnh
 
@@ -368,7 +368,7 @@ Một chỗ giữ ảnh trống được căn giữa theo cả chiều ngang và
 
 Viền khung có hình những chú gấu koala hoạt hình đang ôm đồ trang trí, vòng hoa và kẹo gậy, không chịu buông ra, tạo nên sự hài hước nhẹ nhàng, ấm cúng.
 
-Phẳng, ấm áp, sẵn sàng in, không có chữ.
+Phẳng, ấm áp, sẵn sàng để in, không có chữ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -376,7 +376,7 @@ Phẳng, ấm áp, sẵn sàng in, không có chữ.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788204234_ce1l17_1765784200508-t4uk0f-B9o2xFjunQjTAAAAAElFTkSuQmCC" width="600" alt="Koala Giáng sinh · Khung ảnh không thể rời mắt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788204234_ce1l17_1765784200508-t4uk0f-B9o2xFjunQjTAAAAAElFTkSuQmCC" width="600" alt="Koala Giáng sinh · Khung hình không thể rời mắt - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -386,28 +386,28 @@ Phẳng, ấm áp, sẵn sàng in, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20%C4%91%E1%BB%99ng%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20d%E1%BB%8Dc%201%3A1.4.%0A%0ACh%E1%BB%89%20thi%E1%BA%BFt%20k%E1%BA%BF%20khung.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20c%E1%BA%A3%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%2C%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20kh%C3%B4ng%20b%E1%BB%8B%20ch%E1%BA%A1m%20v%C3%A0o.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20h%C3%ACnh%20nh%E1%BB%AFng%20ch%C3%BA%20g%E1%BA%A5u%20koala%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91ang%20%C3%B4m%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20v%C3%B2ng%20hoa%20v%C3%A0%20k%E1%BA%B9o%20g%E1%BA%ADy%2C%20kh%C3%B4ng%20ch%E1%BB%8Bu%20bu%C3%B4ng%20ra%2C%20t%E1%BA%A1o%20n%C3%AAn%20s%E1%BB%B1%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20nh%E1%BA%B9%20nh%C3%A0ng%2C%20%E1%BA%A5m%20c%C3%BAng.%0A%0APh%E1%BA%B3ng%2C%20%E1%BA%A5m%20%C3%A1p%2C%20s%E1%BA%B5n%20s%C3%A0ng%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20%C4%91%E1%BB%99ng%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20d%E1%BB%8Dc%201%3A1.4.%0A%0ACh%E1%BB%89%20thi%E1%BA%BFt%20k%E1%BA%BF%20khung.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20c%E1%BA%A3%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%2C%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20kh%C3%B4ng%20b%E1%BB%8B%20ch%E1%BA%A1m%20v%C3%A0o.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20h%C3%ACnh%20nh%E1%BB%AFng%20ch%C3%BA%20g%E1%BA%A5u%20koala%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91ang%20%C3%B4m%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20v%C3%B2ng%20hoa%20v%C3%A0%20k%E1%BA%B9o%20g%E1%BA%ADy%2C%20kh%C3%B4ng%20ch%E1%BB%8Bu%20bu%C3%B4ng%20ra%2C%20t%E1%BA%A1o%20n%C3%AAn%20s%E1%BB%B1%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20nh%E1%BA%B9%20nh%C3%A0ng%2C%20%E1%BA%A5m%20c%C3%BAng.%0A%0APh%E1%BA%B3ng%2C%20%E1%BA%A5m%20%C3%A1p%2C%20s%E1%BA%B5n%20s%C3%A0ng%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
-### No. 3: Nhím Giáng Sinh + Sóc · Khung Thảm Họa Chung
+### No. 3: Nhím Giáng sinh + Sóc · Khung Thảm họa Chung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung Giáng Sinh phong cách hoạt hình hài hước theo định dạng dọc 1:1.4. Đường viền có hình ảnh những chú nhím và sóc hoạt hình đang tranh giành nhau thu thập đồ trang trí, vô tình gây ra sự hỗn loạn lễ hội xung quanh các cạnh của khung.
+Lời nhắc này tạo ra một khung Giáng Sinh hoạt hình hài hước theo phong cách hoạt hình, định dạng dọc 1:1.4. Đường viền có hình ảnh những chú nhím và sóc hoạt hình đang tranh giành nhau thu thập đồ trang trí, vô tình gây ra sự hỗn loạn lễ hội xung quanh các cạnh của khung.
 
 #### 📝 Câu lệnh
 
 ```
-Một khung Giáng sinh có thể in theo tỷ lệ dọc 1:1.4, được minh họa theo phong cách hoạt hình hài hước.
+Một khung ảnh Giáng sinh có thể in theo tỷ lệ dọc 1:1.4, được minh họa theo phong cách hoạt hình hài hước.
 
-Chỉ riêng khung.
+Chỉ riêng khung ảnh.
 
-Vị trí giữ ảnh trống chính giữa, tỷ lệ 1:1.4, rộng 70%, sạch sẽ và trống.
+Phần giữ chỗ ảnh trống chính giữa, tỷ lệ 1:1.4, rộng 70%, sạch sẽ và trống.
 
-Viền khung có hình ảnh những chú nhím và sóc hoạt hình đang tranh giành nhau thu thập đồ trang trí, vô tình gây ra sự hỗn loạn lễ hội quanh các cạnh.
+Phần viền có hình ảnh những chú nhím và sóc hoạt hình đang tranh giành nhau thu thập đồ trang trí, vô tình tạo ra sự hỗn loạn lễ hội xung quanh các cạnh.
 
 Bố cục phẳng, không có chữ.
 ```
@@ -417,7 +417,7 @@ Bố cục phẳng, không có chữ.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788202576_2wfuzq_1765783647682-r45pga-fD2rQlsAAAAASUVORK5CYII_" width="600" alt="Nhím Giáng Sinh + Sóc · Khung Thảm Họa Chung - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788202576_2wfuzq_1765783647682-r45pga-fD2rQlsAAAAASUVORK5CYII_" width="600" alt="Nhím Giáng sinh + Sóc · Khung Thảm họa Chung - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -427,7 +427,7 @@ Bố cục phẳng, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20theo%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0ACh%E1%BB%89%20ri%C3%AAng%20khung.%0A%0AV%E1%BB%8B%20tr%C3%AD%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20ch%C3%ADnh%20gi%E1%BB%AFa%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20r%E1%BB%99ng%2070%25%2C%20s%E1%BA%A1ch%20s%E1%BA%BD%20v%C3%A0%20tr%E1%BB%91ng.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20h%C3%ACnh%20%E1%BA%A3nh%20nh%E1%BB%AFng%20ch%C3%BA%20nh%C3%ADm%20v%C3%A0%20s%C3%B3c%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91ang%20tranh%20gi%C3%A0nh%20nhau%20thu%20th%E1%BA%ADp%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20v%C3%B4%20t%C3%ACnh%20g%C3%A2y%20ra%20s%E1%BB%B1%20h%E1%BB%97n%20lo%E1%BA%A1n%20l%E1%BB%85%20h%E1%BB%99i%20quanh%20c%C3%A1c%20c%E1%BA%A1nh.%0A%0AB%E1%BB%91%20c%E1%BB%A5c%20ph%E1%BA%B3ng%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20theo%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0ACh%E1%BB%89%20ri%C3%AAng%20khung%20%E1%BA%A3nh.%0A%0APh%E1%BA%A7n%20gi%E1%BB%AF%20ch%E1%BB%97%20%E1%BA%A3nh%20tr%E1%BB%91ng%20ch%C3%ADnh%20gi%E1%BB%AFa%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20r%E1%BB%99ng%2070%25%2C%20s%E1%BA%A1ch%20s%E1%BA%BD%20v%C3%A0%20tr%E1%BB%91ng.%0A%0APh%E1%BA%A7n%20vi%E1%BB%81n%20c%C3%B3%20h%C3%ACnh%20%E1%BA%A3nh%20nh%E1%BB%AFng%20ch%C3%BA%20nh%C3%ADm%20v%C3%A0%20s%C3%B3c%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91ang%20tranh%20gi%C3%A0nh%20nhau%20thu%20th%E1%BA%ADp%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20v%C3%B4%20t%C3%ACnh%20t%E1%BA%A1o%20ra%20s%E1%BB%B1%20h%E1%BB%97n%20lo%E1%BA%A1n%20l%E1%BB%85%20h%E1%BB%99i%20xung%20quanh%20c%C3%A1c%20c%E1%BA%A1nh.%0A%0AB%E1%BB%91%20c%E1%BB%A5c%20ph%E1%BA%B3ng%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
@@ -437,20 +437,20 @@ Bố cục phẳng, không có chữ.
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung Giáng sinh theo phong cách hoạt hình hài hước với định dạng dọc 1:1.4. Đường viền có những chú tắc kè hoa hoạt hình cố gắng hòa mình vào các đồ trang trí nhưng không thành công, chúng hiện rõ và bối rối, tạo thêm nét hài hước tinh tế cho thiết kế thân thiện với in ấn.
+Lời nhắc này tạo ra một khung Giáng sinh theo phong cách hoạt hình hài hước với định dạng dọc 1:1.4. Đường viền có những chú tắc kè hoa hoạt hình cố gắng ngụy trang vào các đồ trang trí nhưng không thành công, chúng hiện rõ và bối rối, tạo thêm nét hài hước tinh tế cho thiết kế thân thiện với in ấn.
 
 #### 📝 Câu lệnh
 
 ```
 Một khung ảnh Giáng sinh có thể in được, tỷ lệ dọc 1:1.4, phong cách hoạt hình hài hước.
 
-Chỉ minh họa khung ảnh.
+Chỉ minh họa khung.
 
-Khung giữ ảnh trống ở giữa, tỷ lệ 1:1.4, chiều rộng 70%, không chỉnh sửa.
+Vùng giữ ảnh trống ở giữa, tỷ lệ 1:1.4, chiều rộng 70%, không chỉnh sửa.
 
-Phần viền có các chú tắc kè hoa hoạt hình đang cố gắng hòa mình vào đồ trang trí, đèn và vòng hoa nhưng không thành công, chúng hiện rõ và bối rối, tạo thêm sự hài hước tinh tế.
+Viền khung có các chú tắc kè hoa hoạt hình đang cố gắng hòa mình vào đồ trang trí, đèn và vòng hoa nhưng không thành công, chúng hiện rõ và bối rối, tạo thêm sự hài hước tinh tế.
 
-Phẳng, thân thiện với việc in ấn, không có chữ.
+Thiết kế phẳng, thân thiện với in ấn, không có chữ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -468,28 +468,28 @@ Phẳng, thân thiện với việc in ấn, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0ACh%E1%BB%89%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh.%0A%0AKhung%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20kh%C3%B4ng%20ch%E1%BB%89nh%20s%E1%BB%ADa.%0A%0APh%E1%BA%A7n%20vi%E1%BB%81n%20c%C3%B3%20c%C3%A1c%20ch%C3%BA%20t%E1%BA%AFc%20k%C3%A8%20hoa%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91ang%20c%E1%BB%91%20g%E1%BA%AFng%20h%C3%B2a%20m%C3%ACnh%20v%C3%A0o%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20%C4%91%C3%A8n%20v%C3%A0%20v%C3%B2ng%20hoa%20nh%C6%B0ng%20kh%C3%B4ng%20th%C3%A0nh%20c%C3%B4ng%2C%20ch%C3%BAng%20hi%E1%BB%87n%20r%C3%B5%20v%C3%A0%20b%E1%BB%91i%20r%E1%BB%91i%2C%20t%E1%BA%A1o%20th%C3%AAm%20s%E1%BB%B1%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20tinh%20t%E1%BA%BF.%0A%0APh%E1%BA%B3ng%2C%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20vi%E1%BB%87c%20in%20%E1%BA%A5n%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0ACh%E1%BB%89%20minh%20h%E1%BB%8Da%20khung.%0A%0AV%C3%B9ng%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20kh%C3%B4ng%20ch%E1%BB%89nh%20s%E1%BB%ADa.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20c%C3%A1c%20ch%C3%BA%20t%E1%BA%AFc%20k%C3%A8%20hoa%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91ang%20c%E1%BB%91%20g%E1%BA%AFng%20h%C3%B2a%20m%C3%ACnh%20v%C3%A0o%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20%C4%91%C3%A8n%20v%C3%A0%20v%C3%B2ng%20hoa%20nh%C6%B0ng%20kh%C3%B4ng%20th%C3%A0nh%20c%C3%B4ng%2C%20ch%C3%BAng%20hi%E1%BB%87n%20r%C3%B5%20v%C3%A0%20b%E1%BB%91i%20r%E1%BB%91i%2C%20t%E1%BA%A1o%20th%C3%AAm%20s%E1%BB%B1%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20tinh%20t%E1%BA%BF.%0A%0AThi%E1%BA%BFt%20k%E1%BA%BF%20ph%E1%BA%B3ng%2C%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20in%20%E1%BA%A5n%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
-### No. 5: Cú Giáng Sinh · Khung Hình Cực Kỳ Nghiêm Túc
+### No. 5: Cú Giáng Sinh · Khung Hình Nghiêm Túc Quá Mức
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung Giáng Sinh theo phong cách sách truyện hoạt hình ở định dạng dọc 1:1.4. Đường viền có những chú cú hoạt hình nhìn chằm chằm một cách hoài nghi vào những đồ trang trí lộn xộn và đánh giá sự hỗn loạn ngày lễ bằng sự hài hước khô khan.
+Lời nhắc này tạo ra một khung Giáng sinh theo phong cách sách truyện hoạt hình ở định dạng dọc 1:1.4. Đường viền có hình những chú cú hoạt hình nhìn chằm chằm một cách hoài nghi vào những đồ trang trí lộn xộn và đánh giá sự hỗn loạn trong kỳ nghỉ lễ với sự hài hước khô khan.
 
 #### 📝 Câu lệnh
 
 ```
-Một hình minh họa khung Giáng Sinh có thể in được theo tỷ lệ dọc 1:1.4, phong cách sách truyện hoạt hình.
+Một hình minh họa khung Giáng sinh có thể in được theo tỷ lệ dọc 1:1.4, phong cách truyện tranh hoạt hình.
 
 Chỉ có bố cục khung.
 
-Khung giữ chỗ ảnh trống ở giữa, tỷ lệ 1:1.4, chiều rộng 70%, không chỉnh sửa.
+Khung giữ chỗ ảnh trống ở giữa, tỷ lệ 1:1.4, rộng 70%, không chỉnh sửa.
 
-Viền khung có các chú cú hoạt hình đeo khăn quàng cổ và mũ, nhìn chằm chằm một cách hoài nghi vào những đồ trang trí lộn xộn, cầm bảng kẹp giấy và đánh giá sự hỗn loạn của kỳ nghỉ lễ bằng sự hài hước khô khan.
+Đường viền có hình những chú cú hoạt hình đeo khăn quàng cổ và mũ, nhìn chằm chằm một cách hoài nghi vào những đồ trang trí lộn xộn, cầm bảng kẹp và đánh giá sự hỗn loạn của kỳ nghỉ lễ với sự hài hước khô khan.
 
 Hình minh họa phẳng, không có chữ.
 ```
@@ -499,7 +499,7 @@ Hình minh họa phẳng, không có chữ.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788199406_laq4zp_1765784189761-bd5rom-A4qlDwrbnbqJAAAAAElFTkSuQmCC" width="600" alt="Cú Giáng Sinh · Khung Hình Cực Kỳ Nghiêm Túc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788199406_laq4zp_1765784189761-bd5rom-A4qlDwrbnbqJAAAAAElFTkSuQmCC" width="600" alt="Cú Giáng Sinh · Khung Hình Nghiêm Túc Quá Mức - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -509,7 +509,7 @@ Hình minh họa phẳng, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20Gi%C3%A1ng%20Sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20phong%20c%C3%A1ch%20s%C3%A1ch%20truy%E1%BB%87n%20ho%E1%BA%A1t%20h%C3%ACnh.%0A%0ACh%E1%BB%89%20c%C3%B3%20b%E1%BB%91%20c%E1%BB%A5c%20khung.%0A%0AKhung%20gi%E1%BB%AF%20ch%E1%BB%97%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20kh%C3%B4ng%20ch%E1%BB%89nh%20s%E1%BB%ADa.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20c%C3%A1c%20ch%C3%BA%20c%C3%BA%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91eo%20kh%C4%83n%20qu%C3%A0ng%20c%E1%BB%95%20v%C3%A0%20m%C5%A9%2C%20nh%C3%ACn%20ch%E1%BA%B1m%20ch%E1%BA%B1m%20m%E1%BB%99t%20c%C3%A1ch%20ho%C3%A0i%20nghi%20v%C3%A0o%20nh%E1%BB%AFng%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20l%E1%BB%99n%20x%E1%BB%99n%2C%20c%E1%BA%A7m%20b%E1%BA%A3ng%20k%E1%BA%B9p%20gi%E1%BA%A5y%20v%C3%A0%20%C4%91%C3%A1nh%20gi%C3%A1%20s%E1%BB%B1%20h%E1%BB%97n%20lo%E1%BA%A1n%20c%E1%BB%A7a%20k%E1%BB%B3%20ngh%E1%BB%89%20l%E1%BB%85%20b%E1%BA%B1ng%20s%E1%BB%B1%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20kh%C3%B4%20khan.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20phong%20c%C3%A1ch%20truy%E1%BB%87n%20tranh%20ho%E1%BA%A1t%20h%C3%ACnh.%0A%0ACh%E1%BB%89%20c%C3%B3%20b%E1%BB%91%20c%E1%BB%A5c%20khung.%0A%0AKhung%20gi%E1%BB%AF%20ch%E1%BB%97%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20r%E1%BB%99ng%2070%25%2C%20kh%C3%B4ng%20ch%E1%BB%89nh%20s%E1%BB%ADa.%0A%0A%C4%90%C6%B0%E1%BB%9Dng%20vi%E1%BB%81n%20c%C3%B3%20h%C3%ACnh%20nh%E1%BB%AFng%20ch%C3%BA%20c%C3%BA%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91eo%20kh%C4%83n%20qu%C3%A0ng%20c%E1%BB%95%20v%C3%A0%20m%C5%A9%2C%20nh%C3%ACn%20ch%E1%BA%B1m%20ch%E1%BA%B1m%20m%E1%BB%99t%20c%C3%A1ch%20ho%C3%A0i%20nghi%20v%C3%A0o%20nh%E1%BB%AFng%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20l%E1%BB%99n%20x%E1%BB%99n%2C%20c%E1%BA%A7m%20b%E1%BA%A3ng%20k%E1%BA%B9p%20v%C3%A0%20%C4%91%C3%A1nh%20gi%C3%A1%20s%E1%BB%B1%20h%E1%BB%97n%20lo%E1%BA%A1n%20c%E1%BB%A7a%20k%E1%BB%B3%20ngh%E1%BB%89%20l%E1%BB%85%20v%E1%BB%9Bi%20s%E1%BB%B1%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20kh%C3%B4%20khan.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
@@ -519,18 +519,18 @@ Hình minh họa phẳng, không có chữ.
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung ảnh Giáng Sinh theo phong cách hoạt hình hài hước, định dạng dọc 1:1.4. Đường viền có hình một con bạch tuộc hoạt hình dùng tất cả các xúc tu để trang trí, tạo nên một khung cảnh lễ hội hỗn loạn vui nhộn.
+Lời nhắc này tạo ra một khung ảnh Giáng sinh theo phong cách hoạt hình hài hước, định dạng dọc 1:1.4. Đường viền có hình một con bạch tuộc hoạt hình đang dùng tất cả các xúc tu của mình để trang trí, tạo nên một khung cảnh lễ hội hỗn loạn đầy vui nhộn.
 
 #### 📝 Câu lệnh
 
 ```
-Một khung ảnh Giáng sinh dọc, tỷ lệ 1:1.4, có thể in được, được minh họa theo phong cách hoạt hình hài hước.
+Một khung ảnh Giáng sinh dọc tỷ lệ 1:1.4 có thể in được, minh họa theo phong cách hoạt hình hài hước.
 
 Chỉ thiết kế khung, không có môi trường xung quanh.
 
-Một chỗ đặt ảnh trống được căn giữa hoàn hảo, tỷ lệ 1:1.4, chiều rộng 70%, hoàn toàn trống.
+Một chỗ đặt ảnh trống được căn giữa hoàn hảo, tỷ lệ 1:1.4, rộng 70%, hoàn toàn trống.
 
-Viền khung có hình một con bạch tuộc hoạt hình dùng tất cả các xúc tu của mình để trang trí đồng thời các vật trang trí, đèn, kẹo gậy và ngôi sao, tạo nên một sự hỗn loạn vui nhộn mang không khí lễ hội.
+Viền khung có hình một con bạch tuộc hoạt hình đang dùng tất cả các xúc tu của mình để trang trí đồng thời các vật trang trí, đèn, kẹo gậy và ngôi sao, tạo nên một sự hỗn loạn lễ hội đầy vui nhộn.
 
 Phẳng, sạch, sẵn sàng để in, không có chữ.
 ```
@@ -550,7 +550,7 @@ Phẳng, sạch, sẵn sàng để in, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0ACh%E1%BB%89%20thi%E1%BA%BFt%20k%E1%BA%BF%20khung%2C%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20xung%20quanh.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20%C4%91%E1%BA%B7t%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20ho%C3%A0n%20h%E1%BA%A3o%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20h%C3%ACnh%20m%E1%BB%99t%20con%20b%E1%BA%A1ch%20tu%E1%BB%99c%20ho%E1%BA%A1t%20h%C3%ACnh%20d%C3%B9ng%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20x%C3%BAc%20tu%20c%E1%BB%A7a%20m%C3%ACnh%20%C4%91%E1%BB%83%20trang%20tr%C3%AD%20%C4%91%E1%BB%93ng%20th%E1%BB%9Di%20c%C3%A1c%20v%E1%BA%ADt%20trang%20tr%C3%AD%2C%20%C4%91%C3%A8n%2C%20k%E1%BA%B9o%20g%E1%BA%ADy%20v%C3%A0%20ng%C3%B4i%20sao%2C%20t%E1%BA%A1o%20n%C3%AAn%20m%E1%BB%99t%20s%E1%BB%B1%20h%E1%BB%97n%20lo%E1%BA%A1n%20vui%20nh%E1%BB%99n%20mang%20kh%C3%B4ng%20kh%C3%AD%20l%E1%BB%85%20h%E1%BB%99i.%0A%0APh%E1%BA%B3ng%2C%20s%E1%BA%A1ch%2C%20s%E1%BA%B5n%20s%C3%A0ng%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20d%E1%BB%8Dc%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0ACh%E1%BB%89%20thi%E1%BA%BFt%20k%E1%BA%BF%20khung%2C%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20xung%20quanh.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20%C4%91%E1%BA%B7t%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20ho%C3%A0n%20h%E1%BA%A3o%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20r%E1%BB%99ng%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20h%C3%ACnh%20m%E1%BB%99t%20con%20b%E1%BA%A1ch%20tu%E1%BB%99c%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91ang%20d%C3%B9ng%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20x%C3%BAc%20tu%20c%E1%BB%A7a%20m%C3%ACnh%20%C4%91%E1%BB%83%20trang%20tr%C3%AD%20%C4%91%E1%BB%93ng%20th%E1%BB%9Di%20c%C3%A1c%20v%E1%BA%ADt%20trang%20tr%C3%AD%2C%20%C4%91%C3%A8n%2C%20k%E1%BA%B9o%20g%E1%BA%ADy%20v%C3%A0%20ng%C3%B4i%20sao%2C%20t%E1%BA%A1o%20n%C3%AAn%20m%E1%BB%99t%20s%E1%BB%B1%20h%E1%BB%97n%20lo%E1%BA%A1n%20l%E1%BB%85%20h%E1%BB%99i%20%C4%91%E1%BA%A7y%20vui%20nh%E1%BB%99n.%0A%0APh%E1%BA%B3ng%2C%20s%E1%BA%A1ch%2C%20s%E1%BA%B5n%20s%C3%A0ng%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
@@ -560,18 +560,18 @@ Phẳng, sạch, sẵn sàng để in, không có chữ.
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung Giáng sinh động ở định dạng dọc 1:1.4, với sự hỗn loạn vui nhộn. Đường viền thể hiện những chú thỏ hoạt hình tràn đầy năng lượng đang gói quà quá nhanh và vấp phải ruy băng, tạo thêm nét sống động, hài hước.
+Lời nhắc này tạo ra một khung Giáng sinh động ở định dạng dọc 1:1.4, với sự hỗn loạn vui nhộn. Đường viền thể hiện những chú thỏ hoạt hình năng động đang gói quà quá nhanh và vấp phải ruy băng, tạo thêm nét sống động, hài hước.
 
 #### 📝 Câu lệnh
 
 ```
-Một khung Giáng Sinh hoạt hình có thể in được, định dạng dọc 1:1.4.
+Một khung Giáng sinh động có thể in được, định dạng dọc 1:1.4.
 
-Minh họa chỉ có khung.
+Minh họa chỉ khung.
 
-Chỗ giữ ảnh trống ở giữa, căn giữa ngang + dọc, 1:1.4, rộng 70%, không chỉnh sửa.
+Vùng giữ ảnh trống ở giữa, căn giữa ngang + dọc, 1:1.4, chiều rộng 70%, không chỉnh sửa.
 
-Viền khung có những chú thỏ hoạt hình năng động đang gói quà quá nhanh, vấp phải ruy băng, tung hứng đồ trang trí và chạy quanh các cạnh của khung.
+Viền khung có hình những chú thỏ hoạt hình tràn đầy năng lượng đang gói quà quá nhanh, vấp phải ruy băng, tung hứng đồ trang trí và chạy quanh các cạnh của khung.
 
 Sự hỗn loạn vui nhộn, minh họa phẳng, không có chữ.
 ```
@@ -591,7 +591,7 @@ Sự hỗn loạn vui nhộn, minh họa phẳng, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20Gi%C3%A1ng%20Sinh%20ho%E1%BA%A1t%20h%C3%ACnh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20d%E1%BB%8Dc%201%3A1.4.%0A%0AMinh%20h%E1%BB%8Da%20ch%E1%BB%89%20c%C3%B3%20khung.%0A%0ACh%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20c%C4%83n%20gi%E1%BB%AFa%20ngang%20%2B%20d%E1%BB%8Dc%2C%201%3A1.4%2C%20r%E1%BB%99ng%2070%25%2C%20kh%C3%B4ng%20ch%E1%BB%89nh%20s%E1%BB%ADa.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20nh%E1%BB%AFng%20ch%C3%BA%20th%E1%BB%8F%20ho%E1%BA%A1t%20h%C3%ACnh%20n%C4%83ng%20%C4%91%E1%BB%99ng%20%C4%91ang%20g%C3%B3i%20qu%C3%A0%20qu%C3%A1%20nhanh%2C%20v%E1%BA%A5p%20ph%E1%BA%A3i%20ruy%20b%C4%83ng%2C%20tung%20h%E1%BB%A9ng%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20v%C3%A0%20ch%E1%BA%A1y%20quanh%20c%C3%A1c%20c%E1%BA%A1nh%20c%E1%BB%A7a%20khung.%0A%0AS%E1%BB%B1%20h%E1%BB%97n%20lo%E1%BA%A1n%20vui%20nh%E1%BB%99n%2C%20minh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20Gi%C3%A1ng%20sinh%20%C4%91%E1%BB%99ng%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20d%E1%BB%8Dc%201%3A1.4.%0A%0AMinh%20h%E1%BB%8Da%20ch%E1%BB%89%20khung.%0A%0AV%C3%B9ng%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20c%C4%83n%20gi%E1%BB%AFa%20ngang%20%2B%20d%E1%BB%8Dc%2C%201%3A1.4%2C%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20kh%C3%B4ng%20ch%E1%BB%89nh%20s%E1%BB%ADa.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20h%C3%ACnh%20nh%E1%BB%AFng%20ch%C3%BA%20th%E1%BB%8F%20ho%E1%BA%A1t%20h%C3%ACnh%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20%C4%91ang%20g%C3%B3i%20qu%C3%A0%20qu%C3%A1%20nhanh%2C%20v%E1%BA%A5p%20ph%E1%BA%A3i%20ruy%20b%C4%83ng%2C%20tung%20h%E1%BB%A9ng%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20v%C3%A0%20ch%E1%BA%A1y%20quanh%20c%C3%A1c%20c%E1%BA%A1nh%20c%E1%BB%A7a%20khung.%0A%0AS%E1%BB%B1%20h%E1%BB%97n%20lo%E1%BA%A1n%20vui%20nh%E1%BB%99n%2C%20minh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
@@ -601,16 +601,16 @@ Sự hỗn loạn vui nhộn, minh họa phẳng, không có chữ.
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung ảnh Giáng Sinh phong cách hoạt hình hài hước, ở định dạng dọc 1:1.4. Đường viền khung ảnh thể hiện những chú nhím hoạt hình vô tình thu thập đồ trang trí và đèn trên gai của chúng, tạo thêm sự hài hước trực quan dễ thương và phóng đại.
+Lời nhắc này tạo ra một khung ảnh Giáng sinh hoạt hình hài hước theo phong cách hoạt hình, định dạng dọc 1:1.4. Đường viền khung ảnh hiển thị những chú nhím hoạt hình vô tình thu thập đồ trang trí và đèn trên gai của chúng, tạo thêm sự hài hước trực quan dễ thương và phóng đại.
 
 #### 📝 Câu lệnh
 
 ```
-Một khung ảnh Giáng sinh dọc, tỷ lệ 1:1.4, có thể in được, được minh họa theo phong cách hoạt hình hài hước.
+Một khung ảnh Giáng sinh dọc, tỷ lệ 1:1.4 có thể in được, minh họa theo phong cách hoạt hình hài hước.
 
 Không có môi trường bên ngoài.
 
-Chỗ đặt ảnh trống chính giữa, tỷ lệ 1:1.4, rộng 70%, hoàn toàn sạch sẽ.
+Chỗ giữ ảnh trống chính giữa, tỷ lệ 1:1.4, rộng 70%, hoàn toàn sạch sẽ.
 
 Viền khung ảnh thể hiện những chú nhím hoạt hình vô tình thu thập đồ trang trí, ngôi sao và đèn trên gai của chúng, trông ngạc nhiên và bối rối một cách dễ thương, phóng đại.
 
@@ -632,28 +632,28 @@ Phẳng, tối ưu hóa để in, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AKh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20b%C3%AAn%20ngo%C3%A0i.%0A%0ACh%E1%BB%97%20%C4%91%E1%BA%B7t%20%E1%BA%A3nh%20tr%E1%BB%91ng%20ch%C3%ADnh%20gi%E1%BB%AFa%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20r%E1%BB%99ng%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20s%E1%BA%A1ch%20s%E1%BA%BD.%0A%0AVi%E1%BB%81n%20khung%20%E1%BA%A3nh%20th%E1%BB%83%20hi%E1%BB%87n%20nh%E1%BB%AFng%20ch%C3%BA%20nh%C3%ADm%20ho%E1%BA%A1t%20h%C3%ACnh%20v%C3%B4%20t%C3%ACnh%20thu%20th%E1%BA%ADp%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20ng%C3%B4i%20sao%20v%C3%A0%20%C4%91%C3%A8n%20tr%C3%AAn%20gai%20c%E1%BB%A7a%20ch%C3%BAng%2C%20tr%C3%B4ng%20ng%E1%BA%A1c%20nhi%C3%AAn%20v%C3%A0%20b%E1%BB%91i%20r%E1%BB%91i%20m%E1%BB%99t%20c%C3%A1ch%20d%E1%BB%85%20th%C6%B0%C6%A1ng%2C%20ph%C3%B3ng%20%C4%91%E1%BA%A1i.%0A%0APh%E1%BA%B3ng%2C%20t%E1%BB%91i%20%C6%B0u%20h%C3%B3a%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AKh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20b%C3%AAn%20ngo%C3%A0i.%0A%0ACh%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20ch%C3%ADnh%20gi%E1%BB%AFa%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%2C%20r%E1%BB%99ng%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20s%E1%BA%A1ch%20s%E1%BA%BD.%0A%0AVi%E1%BB%81n%20khung%20%E1%BA%A3nh%20th%E1%BB%83%20hi%E1%BB%87n%20nh%E1%BB%AFng%20ch%C3%BA%20nh%C3%ADm%20ho%E1%BA%A1t%20h%C3%ACnh%20v%C3%B4%20t%C3%ACnh%20thu%20th%E1%BA%ADp%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20ng%C3%B4i%20sao%20v%C3%A0%20%C4%91%C3%A8n%20tr%C3%AAn%20gai%20c%E1%BB%A7a%20ch%C3%BAng%2C%20tr%C3%B4ng%20ng%E1%BA%A1c%20nhi%C3%AAn%20v%C3%A0%20b%E1%BB%91i%20r%E1%BB%91i%20m%E1%BB%99t%20c%C3%A1ch%20d%E1%BB%85%20th%C6%B0%C6%A1ng%2C%20ph%C3%B3ng%20%C4%91%E1%BA%A1i.%0A%0APh%E1%BA%B3ng%2C%20t%E1%BB%91i%20%C6%B0u%20h%C3%B3a%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
-### No. 9: Gấu trúc Giáng Sinh · Khung ảnh kỳ nghỉ thư giãn
+### No. 9: Gấu Trúc Giáng Sinh · Khung Ảnh Kỳ Nghỉ Thư Giãn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung ảnh Giáng sinh kiểu sách truyện hoạt hình nhẹ nhàng ở định dạng dọc 1:1.4. Đường viền có hình những chú gấu trúc hoạt hình thư giãn trên đồ trang trí và ôm kẹo gậy, tạo nên sự hài hước nhẹ nhàng, ấm cúng.
+Lời nhắc này tạo ra một khung ảnh Giáng Sinh phong cách sách truyện hoạt hình nhẹ nhàng, định dạng dọc 1:1.4. Đường viền có những chú gấu trúc hoạt hình thư giãn trên đồ trang trí và ôm kẹo gậy, tạo nên sự hài hước nhẹ nhàng, ấm cúng.
 
 #### 📝 Câu lệnh
 
 ```
-Một hình minh họa khung ảnh Giáng sinh có thể in được, tỷ lệ dọc 1:1.4, được vẽ theo phong cách sách truyện hoạt hình nhẹ nhàng.
+Một hình minh họa khung ảnh Giáng sinh có thể in được theo tỷ lệ dọc 1:1.4, được vẽ theo phong cách sách truyện hoạt hình nhẹ nhàng.
 
 Bố cục chỉ có khung.
 
 Một chỗ giữ ảnh trống được căn giữa theo chiều dọc, tỷ lệ khung hình 1:1.4, chiều rộng 70%, hoàn toàn trống.
 
-Viền khung có những chú gấu trúc hoạt hình thư giãn trên đồ trang trí, ôm kẹo gậy, nửa ngủ trong các vật trang trí lễ hội với sự hài hước nhẹ nhàng.
+Viền khung có hình những chú gấu trúc hoạt hình thư giãn trên đồ trang trí, ôm kẹo gậy, nửa ngủ trong những đồ trang trí lễ hội với sự hài hước nhẹ nhàng.
 
 Minh họa phẳng, bảng màu ấm áp, không có chữ.
 ```
@@ -663,7 +663,7 @@ Minh họa phẳng, bảng màu ấm áp, không có chữ.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__" width="600" alt="Gấu trúc Giáng Sinh · Khung ảnh kỳ nghỉ thư giãn - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__" width="600" alt="Gấu Trúc Giáng Sinh · Khung Ảnh Kỳ Nghỉ Thư Giãn - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -673,28 +673,28 @@ Minh họa phẳng, bảng màu ấm áp, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%BD%20theo%20phong%20c%C3%A1ch%20s%C3%A1ch%20truy%E1%BB%87n%20ho%E1%BA%A1t%20h%C3%ACnh%20nh%E1%BA%B9%20nh%C3%A0ng.%0A%0AB%E1%BB%91%20c%E1%BB%A5c%20ch%E1%BB%89%20c%C3%B3%20khung.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%2C%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20nh%E1%BB%AFng%20ch%C3%BA%20g%E1%BA%A5u%20tr%C3%BAc%20ho%E1%BA%A1t%20h%C3%ACnh%20th%C6%B0%20gi%C3%A3n%20tr%C3%AAn%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20%C3%B4m%20k%E1%BA%B9o%20g%E1%BA%ADy%2C%20n%E1%BB%ADa%20ng%E1%BB%A7%20trong%20c%C3%A1c%20v%E1%BA%ADt%20trang%20tr%C3%AD%20l%E1%BB%85%20h%E1%BB%99i%20v%E1%BB%9Bi%20s%E1%BB%B1%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20nh%E1%BA%B9%20nh%C3%A0ng.%0A%0AMinh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%2C%20b%E1%BA%A3ng%20m%C3%A0u%20%E1%BA%A5m%20%C3%A1p%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%BD%20theo%20phong%20c%C3%A1ch%20s%C3%A1ch%20truy%E1%BB%87n%20ho%E1%BA%A1t%20h%C3%ACnh%20nh%E1%BA%B9%20nh%C3%A0ng.%0A%0AB%E1%BB%91%20c%E1%BB%A5c%20ch%E1%BB%89%20c%C3%B3%20khung.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%2C%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20h%C3%ACnh%20nh%E1%BB%AFng%20ch%C3%BA%20g%E1%BA%A5u%20tr%C3%BAc%20ho%E1%BA%A1t%20h%C3%ACnh%20th%C6%B0%20gi%C3%A3n%20tr%C3%AAn%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20%C3%B4m%20k%E1%BA%B9o%20g%E1%BA%ADy%2C%20n%E1%BB%ADa%20ng%E1%BB%A7%20trong%20nh%E1%BB%AFng%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20l%E1%BB%85%20h%E1%BB%99i%20v%E1%BB%9Bi%20s%E1%BB%B1%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20nh%E1%BA%B9%20nh%C3%A0ng.%0A%0AMinh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%2C%20b%E1%BA%A3ng%20m%C3%A0u%20%E1%BA%A5m%20%C3%A1p%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
-### No. 10: Rùa Giáng Sinh · Khung Ảnh "Take-It-Slow"
+### No. 10: Rùa Giáng Sinh · Khung Ảnh "Cứ Từ Từ"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung Giáng Sinh có thể in được theo tỷ lệ dọc 1:1.4, với phong cách hoạt hình vừa nhẹ nhàng vừa hài hước. Viền khung có hình những chú rùa hoạt hình thư thái di chuyển với tốc độ chậm đến mức phóng đại, tạo thêm nét hài hước nhẹ nhàng, thanh bình cho thiết kế.
+Lời nhắc này tạo ra một khung Giáng Sinh có thể in được theo tỷ lệ dọc 1:1.4, theo phong cách hoạt hình vừa nhẹ nhàng vừa hài hước. Viền khung có hình những chú rùa hoạt hình thư thái di chuyển với tốc độ chậm chạp quá mức, tạo thêm nét hài hước nhẹ nhàng, thanh bình cho thiết kế.
 
 #### 📝 Câu lệnh
 
 ```
-Một khung ảnh Giáng sinh có thể in được, tỷ lệ dọc 1:1.4, theo phong cách hoạt hình hài hước nhưng vẫn nhẹ nhàng.
+Một khung ảnh Giáng sinh có thể in được theo tỷ lệ dọc 1:1.4, theo phong cách hoạt hình hài hước nhưng vẫn nhẹ nhàng.
 
 Chỉ có hình minh họa khung, không có cảnh nền.
 
-Một ô giữ chỗ ảnh trống nằm chính giữa hoàn hảo, với tỷ lệ 1:1.4 và chiều rộng 70%, không bị chỉnh sửa.
+Một chỗ đặt ảnh trống nằm chính giữa hoàn hảo, với tỷ lệ 1:1.4 và chiều rộng 70%, không bị chạm vào.
 
-Đường viền được trang trí bằng những chú rùa hoạt hình thư thái đeo khăn quàng cổ, bình tĩnh xếp đồ trang trí, thiền định với đèn Giáng sinh và di chuyển với tốc độ chậm một cách cường điệu.
+Viền được trang trí bằng những chú rùa hoạt hình thư thái đeo khăn quàng cổ, bình tĩnh xếp đồ trang trí, thiền định với đèn Giáng sinh và di chuyển với tốc độ chậm một cách phóng đại.
 
 Phẳng, cân đối, thân thiện với in ấn, không có chữ.
 ```
@@ -704,7 +704,7 @@ Phẳng, cân đối, thân thiện với in ấn, không có chữ.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788193159_ioxmaa_1765783608149-8brem0-kCAcQJAzIhi0RAIMVp0Kt0wYCn1BUksOO_vgCY6SvGWFFiQCx8b9gjAmwhqYYioemYQIDKA_P8DD9Kp4aKugaMAAAAASUVORK5CYII_" width="600" alt="Rùa Giáng Sinh · Khung Ảnh "Take-It-Slow" - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788193159_ioxmaa_1765783608149-8brem0-kCAcQJAzIhi0RAIMVp0Kt0wYCn1BUksOO_vgCY6SvGWFFiQCx8b9gjAmwhqYYioemYQIDKA_P8DD9Kp4aKugaMAAAAASUVORK5CYII_" width="600" alt="Rùa Giáng Sinh · Khung Ảnh "Cứ Từ Từ" - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -714,28 +714,28 @@ Phẳng, cân đối, thân thiện với in ấn, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20nh%C6%B0ng%20v%E1%BA%ABn%20nh%E1%BA%B9%20nh%C3%A0ng.%0A%0ACh%E1%BB%89%20c%C3%B3%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%2C%20kh%C3%B4ng%20c%C3%B3%20c%E1%BA%A3nh%20n%E1%BB%81n.%0A%0AM%E1%BB%99t%20%C3%B4%20gi%E1%BB%AF%20ch%E1%BB%97%20%E1%BA%A3nh%20tr%E1%BB%91ng%20n%E1%BA%B1m%20ch%C3%ADnh%20gi%E1%BB%AFa%20ho%C3%A0n%20h%E1%BA%A3o%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%20v%C3%A0%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20kh%C3%B4ng%20b%E1%BB%8B%20ch%E1%BB%89nh%20s%E1%BB%ADa.%0A%0A%C4%90%C6%B0%E1%BB%9Dng%20vi%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20b%E1%BA%B1ng%20nh%E1%BB%AFng%20ch%C3%BA%20r%C3%B9a%20ho%E1%BA%A1t%20h%C3%ACnh%20th%C6%B0%20th%C3%A1i%20%C4%91eo%20kh%C4%83n%20qu%C3%A0ng%20c%E1%BB%95%2C%20b%C3%ACnh%20t%C4%A9nh%20x%E1%BA%BFp%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20thi%E1%BB%81n%20%C4%91%E1%BB%8Bnh%20v%E1%BB%9Bi%20%C4%91%C3%A8n%20Gi%C3%A1ng%20sinh%20v%C3%A0%20di%20chuy%E1%BB%83n%20v%E1%BB%9Bi%20t%E1%BB%91c%20%C4%91%E1%BB%99%20ch%E1%BA%ADm%20m%E1%BB%99t%20c%C3%A1ch%20c%C6%B0%E1%BB%9Dng%20%C4%91i%E1%BB%87u.%0A%0APh%E1%BA%B3ng%2C%20c%C3%A2n%20%C4%91%E1%BB%91i%2C%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20in%20%E1%BA%A5n%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20nh%C6%B0ng%20v%E1%BA%ABn%20nh%E1%BA%B9%20nh%C3%A0ng.%0A%0ACh%E1%BB%89%20c%C3%B3%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%2C%20kh%C3%B4ng%20c%C3%B3%20c%E1%BA%A3nh%20n%E1%BB%81n.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20%C4%91%E1%BA%B7t%20%E1%BA%A3nh%20tr%E1%BB%91ng%20n%E1%BA%B1m%20ch%C3%ADnh%20gi%E1%BB%AFa%20ho%C3%A0n%20h%E1%BA%A3o%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%20v%C3%A0%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20kh%C3%B4ng%20b%E1%BB%8B%20ch%E1%BA%A1m%20v%C3%A0o.%0A%0AVi%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20b%E1%BA%B1ng%20nh%E1%BB%AFng%20ch%C3%BA%20r%C3%B9a%20ho%E1%BA%A1t%20h%C3%ACnh%20th%C6%B0%20th%C3%A1i%20%C4%91eo%20kh%C4%83n%20qu%C3%A0ng%20c%E1%BB%95%2C%20b%C3%ACnh%20t%C4%A9nh%20x%E1%BA%BFp%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20thi%E1%BB%81n%20%C4%91%E1%BB%8Bnh%20v%E1%BB%9Bi%20%C4%91%C3%A8n%20Gi%C3%A1ng%20sinh%20v%C3%A0%20di%20chuy%E1%BB%83n%20v%E1%BB%9Bi%20t%E1%BB%91c%20%C4%91%E1%BB%99%20ch%E1%BA%ADm%20m%E1%BB%99t%20c%C3%A1ch%20ph%C3%B3ng%20%C4%91%E1%BA%A1i.%0A%0APh%E1%BA%B3ng%2C%20c%C3%A2n%20%C4%91%E1%BB%91i%2C%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20in%20%E1%BA%A5n%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
-### No. 11: Những chú sóc Giáng sinh · Khung hình Hoarding Frenzy
+### No. 11: Christmas Squirrels · Hoarding Frenzy Frame
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung ảnh Giáng sinh hoạt hình hài hước theo định dạng dọc 1:1.4. Đường viền có hình những chú sóc hoạt hình đang cuống cuồng tích trữ đồ trang trí và nhét đầy tất, tạo thêm sự hài hước ấm cúng cho một thiết kế thân thiện với việc in ấn.
+Lời nhắc này tạo ra một khung ảnh Giáng Sinh hoạt hình hài hước theo định dạng dọc 1:1.4. Đường viền có hình những chú sóc hoạt hình đang cuống cuồng tích trữ đồ trang trí và nhét đầy tất, tạo thêm sự hài hước ấm cúng cho một thiết kế thân thiện với in ấn.
 
 #### 📝 Câu lệnh
 
 ```
 Một hình minh họa khung ảnh Giáng sinh có thể in được theo định dạng dọc 1:1.4, được minh họa theo phong cách hoạt hình hài hước.
 
-Thiết kế chỉ có khung, không có môi trường xung quanh.
+Thiết kế chỉ có khung, không có môi trường.
 
-Vùng giữ ảnh trống ở giữa, căn giữa theo chiều ngang và dọc, tỷ lệ khung hình 1:1.4, chiều rộng 70% khung, hoàn toàn trống.
+Chỗ giữ ảnh trống ở giữa, căn giữa theo chiều ngang và dọc, tỷ lệ khung hình 1:1.4, chiều rộng khung 70%, hoàn toàn trống.
 
-Viền khung có hình những chú sóc hoạt hình đang cuống cuồng tích trữ đồ trang trí, nhồi tất, giấu hạt dẻ bên trong quả châu, và rụt rè nhìn trộm từ phía sau các vật trang trí.
+Viền khung có hình những chú sóc hoạt hình đang cuống cuồng tích trữ đồ trang trí, nhét vào vớ, giấu hạt dẻ bên trong quả châu, và rụt rè nhìn trộm từ phía sau các vật trang trí.
 
 Minh họa phẳng, hài hước ấm cúng, không có chữ.
 ```
@@ -745,7 +745,7 @@ Minh họa phẳng, hài hước ấm cúng, không có chữ.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788190847_uts5dc_1765784417851-tvxey7-b_RQnrr59P8BW4BdIdd1RXYAAAAASUVORK5CYII_" width="600" alt="Những chú sóc Giáng sinh · Khung hình Hoarding Frenzy - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788190847_uts5dc_1765784417851-tvxey7-b_RQnrr59P8BW4BdIdd1RXYAAAAASUVORK5CYII_" width="600" alt="Christmas Squirrels · Hoarding Frenzy Frame - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -755,7 +755,7 @@ Minh họa phẳng, hài hước ấm cúng, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%20theo%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AThi%E1%BA%BFt%20k%E1%BA%BF%20ch%E1%BB%89%20c%C3%B3%20khung%2C%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20xung%20quanh.%0A%0AV%C3%B9ng%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%2C%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%20khung%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20h%C3%ACnh%20nh%E1%BB%AFng%20ch%C3%BA%20s%C3%B3c%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91ang%20cu%E1%BB%91ng%20cu%E1%BB%93ng%20t%C3%ADch%20tr%E1%BB%AF%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20nh%E1%BB%93i%20t%E1%BA%A5t%2C%20gi%E1%BA%A5u%20h%E1%BA%A1t%20d%E1%BA%BB%20b%C3%AAn%20trong%20qu%E1%BA%A3%20ch%C3%A2u%2C%20v%C3%A0%20r%E1%BB%A5t%20r%C3%A8%20nh%C3%ACn%20tr%E1%BB%99m%20t%E1%BB%AB%20ph%C3%ADa%20sau%20c%C3%A1c%20v%E1%BA%ADt%20trang%20tr%C3%AD.%0A%0AMinh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20%E1%BA%A5m%20c%C3%BAng%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%20theo%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AThi%E1%BA%BFt%20k%E1%BA%BF%20ch%E1%BB%89%20c%C3%B3%20khung%2C%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng.%0A%0ACh%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%E1%BB%9F%20gi%E1%BB%AFa%2C%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%2C%20chi%E1%BB%81u%20r%E1%BB%99ng%20khung%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20h%C3%ACnh%20nh%E1%BB%AFng%20ch%C3%BA%20s%C3%B3c%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91ang%20cu%E1%BB%91ng%20cu%E1%BB%93ng%20t%C3%ADch%20tr%E1%BB%AF%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20nh%C3%A9t%20v%C3%A0o%20v%E1%BB%9B%2C%20gi%E1%BA%A5u%20h%E1%BA%A1t%20d%E1%BA%BB%20b%C3%AAn%20trong%20qu%E1%BA%A3%20ch%C3%A2u%2C%20v%C3%A0%20r%E1%BB%A5t%20r%C3%A8%20nh%C3%ACn%20tr%E1%BB%99m%20t%E1%BB%AB%20ph%C3%ADa%20sau%20c%C3%A1c%20v%E1%BA%ADt%20trang%20tr%C3%AD.%0A%0AMinh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20%E1%BA%A5m%20c%C3%BAng%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
@@ -765,20 +765,20 @@ Minh họa phẳng, hài hước ấm cúng, không có chữ.
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung ảnh Giáng sinh động có thể in được theo tỷ lệ dọc 1:1.4 với năng lượng hoạt hình vui tươi. Viền khung có những chú khỉ tinh nghịch đu đưa trên vòng hoa và trộm sao, được minh họa theo phong cách hoạt hình sống động.
+Lời nhắc này tạo ra một khung ảnh Giáng sinh động có thể in được theo tỷ lệ dọc 1:1.4 với năng lượng hoạt hình vui tươi. Viền khung có những chú khỉ tinh nghịch đu đưa trên vòng hoa và trộm những ngôi sao, được minh họa theo phong cách hoạt hình sống động.
 
 #### 📝 Câu lệnh
 
 ```
-Một khung ảnh Giáng Sinh động, có thể in được, tỷ lệ 1:1.4 theo chiều dọc, với năng lượng hoạt hình vui tươi.
+Một khung ảnh Giáng sinh động có thể in được, tỷ lệ 1:1.4 theo chiều dọc, với năng lượng hoạt hình vui tươi.
 
 Không có môi trường xung quanh, chỉ có khung ảnh.
 
-Một khung giữ ảnh trống lớn được căn giữa theo cả chiều ngang và chiều dọc, với tỷ lệ 1:1.4 và chiều rộng 70%, hoàn toàn trống rỗng.
+Một chỗ đặt ảnh trống lớn được căn giữa theo cả chiều ngang và chiều dọc, với tỷ lệ 1:1.4 và chiều rộng 70%, hoàn toàn trống rỗng.
 
-Viền khung có những chú khỉ hoạt hình tinh nghịch đang đu dây hoa, trộm sao, treo ngược và làm những biểu cảm ngộ nghĩnh, được minh họa theo phong cách hoạt hình sống động.
+Viền khung có những chú khỉ hoạt hình tinh nghịch đu dây hoa, ăn trộm ngôi sao, treo ngược và tạo những biểu cảm ngộ nghĩnh, được minh họa theo phong cách hoạt hình sống động.
 
-Phẳng, cân đối, sẵn sàng in, không có chữ.
+Phẳng, cân đối, sẵn sàng để in, không có chữ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -796,7 +796,7 @@ Phẳng, cân đối, sẵn sàng in, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20Sinh%20%C4%91%E1%BB%99ng%2C%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%20theo%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20ho%E1%BA%A1t%20h%C3%ACnh%20vui%20t%C6%B0%C6%A1i.%0A%0AKh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20xung%20quanh%2C%20ch%E1%BB%89%20c%C3%B3%20khung%20%E1%BA%A3nh.%0A%0AM%E1%BB%99t%20khung%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20l%E1%BB%9Bn%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20c%E1%BA%A3%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%20v%C3%A0%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20r%E1%BB%97ng.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20nh%E1%BB%AFng%20ch%C3%BA%20kh%E1%BB%89%20ho%E1%BA%A1t%20h%C3%ACnh%20tinh%20ngh%E1%BB%8Bch%20%C4%91ang%20%C4%91u%20d%C3%A2y%20hoa%2C%20tr%E1%BB%99m%20sao%2C%20treo%20ng%C6%B0%E1%BB%A3c%20v%C3%A0%20l%C3%A0m%20nh%E1%BB%AFng%20bi%E1%BB%83u%20c%E1%BA%A3m%20ng%E1%BB%99%20ngh%C4%A9nh%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng.%0A%0APh%E1%BA%B3ng%2C%20c%C3%A2n%20%C4%91%E1%BB%91i%2C%20s%E1%BA%B5n%20s%C3%A0ng%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20%C4%91%E1%BB%99ng%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%20theo%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20ho%E1%BA%A1t%20h%C3%ACnh%20vui%20t%C6%B0%C6%A1i.%0A%0AKh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20xung%20quanh%2C%20ch%E1%BB%89%20c%C3%B3%20khung%20%E1%BA%A3nh.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20%C4%91%E1%BA%B7t%20%E1%BA%A3nh%20tr%E1%BB%91ng%20l%E1%BB%9Bn%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20c%E1%BA%A3%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%20v%C3%A0%20chi%E1%BB%81u%20r%E1%BB%99ng%2070%25%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20r%E1%BB%97ng.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20nh%E1%BB%AFng%20ch%C3%BA%20kh%E1%BB%89%20ho%E1%BA%A1t%20h%C3%ACnh%20tinh%20ngh%E1%BB%8Bch%20%C4%91u%20d%C3%A2y%20hoa%2C%20%C4%83n%20tr%E1%BB%99m%20ng%C3%B4i%20sao%2C%20treo%20ng%C6%B0%E1%BB%A3c%20v%C3%A0%20t%E1%BA%A1o%20nh%E1%BB%AFng%20bi%E1%BB%83u%20c%E1%BA%A3m%20ng%E1%BB%99%20ngh%C4%A9nh%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng.%0A%0APh%E1%BA%B3ng%2C%20c%C3%A2n%20%C4%91%E1%BB%91i%2C%20s%E1%BA%B5n%20s%C3%A0ng%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
@@ -806,20 +806,20 @@ Phẳng, cân đối, sẵn sàng in, không có chữ.
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung ảnh Giáng sinh theo phong cách sách thiếu nhi hoạt hình hài hước, với những chú ốc sên hoạt hình di chuyển chậm rãi kéo đồ trang trí và để lại những vệt lấp lánh. Khung ảnh có tỷ lệ khung hình dọc 1:1.4, chỉ tập trung vào thiết kế khung.
+Lời nhắc này tạo ra một khung ảnh Giáng Sinh theo phong cách sách thiếu nhi hoạt hình hài hước, với những chú ốc sên hoạt hình di chuyển chậm rãi kéo đồ trang trí và để lại những vệt lấp lánh. Khung ảnh có tỷ lệ khung hình dọc 1:1.4, chỉ tập trung vào thiết kế khung.
 
 #### 📝 Câu lệnh
 
 ```
-Một hình minh họa khung ảnh Giáng sinh có thể in được với tỷ lệ khung hình dọc 1:1.4, được vẽ theo phong cách sách thiếu nhi hoạt hình hài hước.
+Một hình minh họa khung ảnh Giáng sinh có thể in được, tỷ lệ khung hình dọc 1:1.4, được vẽ theo phong cách sách thiếu nhi hoạt hình hài hước.
 
 Hình minh họa chỉ tập trung vào thiết kế khung.
 
-Ở chính giữa, có một vùng giữ chỗ ảnh trống, căn giữa theo chiều ngang và chiều dọc, tỷ lệ khung hình 1:1.4, chiếm 70% tổng chiều rộng, hoàn toàn sạch sẽ.
+Ở chính giữa, bao gồm một vùng giữ chỗ ảnh trống, căn giữa theo chiều ngang và chiều dọc, tỷ lệ khung hình 1:1.4, chiếm 70% tổng chiều rộng, hoàn toàn sạch sẽ.
 
-Viền khung có những chú ốc sên hoạt hình di chuyển chậm chạp đội mũ Santa nhỏ xíu, kéo theo đồ trang trí, để lại những vệt lấp lánh và leo lên các vật trang trí lễ hội với tốc độ chậm đến mức phi lý.
+Viền khung có những chú ốc sên hoạt hình di chuyển chậm chạp đội mũ Santa nhỏ xíu, kéo theo đồ trang trí, để lại những vệt lấp lánh và leo lên các vật trang trí lễ hội với tốc độ chậm đến nực cười.
 
-Hình minh họa phẳng, hài hước ấm cúng, không có chữ.
+Minh họa phẳng, hài hước ấm cúng, không có chữ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -837,7 +837,7 @@ Hình minh họa phẳng, hài hước ấm cúng, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%BD%20theo%20phong%20c%C3%A1ch%20s%C3%A1ch%20thi%E1%BA%BFu%20nhi%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20ch%E1%BB%89%20t%E1%BA%ADp%20trung%20v%C3%A0o%20thi%E1%BA%BFt%20k%E1%BA%BF%20khung.%0A%0A%E1%BB%9E%20ch%C3%ADnh%20gi%E1%BB%AFa%2C%20c%C3%B3%20m%E1%BB%99t%20v%C3%B9ng%20gi%E1%BB%AF%20ch%E1%BB%97%20%E1%BA%A3nh%20tr%E1%BB%91ng%2C%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%2C%20chi%E1%BA%BFm%2070%25%20t%E1%BB%95ng%20chi%E1%BB%81u%20r%E1%BB%99ng%2C%20ho%C3%A0n%20to%C3%A0n%20s%E1%BA%A1ch%20s%E1%BA%BD.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20nh%E1%BB%AFng%20ch%C3%BA%20%E1%BB%91c%20s%C3%AAn%20ho%E1%BA%A1t%20h%C3%ACnh%20di%20chuy%E1%BB%83n%20ch%E1%BA%ADm%20ch%E1%BA%A1p%20%C4%91%E1%BB%99i%20m%C5%A9%20Santa%20nh%E1%BB%8F%20x%C3%ADu%2C%20k%C3%A9o%20theo%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20%C4%91%E1%BB%83%20l%E1%BA%A1i%20nh%E1%BB%AFng%20v%E1%BB%87t%20l%E1%BA%A5p%20l%C3%A1nh%20v%C3%A0%20leo%20l%C3%AAn%20c%C3%A1c%20v%E1%BA%ADt%20trang%20tr%C3%AD%20l%E1%BB%85%20h%E1%BB%99i%20v%E1%BB%9Bi%20t%E1%BB%91c%20%C4%91%E1%BB%99%20ch%E1%BA%ADm%20%C4%91%E1%BA%BFn%20m%E1%BB%A9c%20phi%20l%C3%BD.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20%E1%BA%A5m%20c%C3%BAng%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%BD%20theo%20phong%20c%C3%A1ch%20s%C3%A1ch%20thi%E1%BA%BFu%20nhi%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20ch%E1%BB%89%20t%E1%BA%ADp%20trung%20v%C3%A0o%20thi%E1%BA%BFt%20k%E1%BA%BF%20khung.%0A%0A%E1%BB%9E%20ch%C3%ADnh%20gi%E1%BB%AFa%2C%20bao%20g%E1%BB%93m%20m%E1%BB%99t%20v%C3%B9ng%20gi%E1%BB%AF%20ch%E1%BB%97%20%E1%BA%A3nh%20tr%E1%BB%91ng%2C%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%2C%20chi%E1%BA%BFm%2070%25%20t%E1%BB%95ng%20chi%E1%BB%81u%20r%E1%BB%99ng%2C%20ho%C3%A0n%20to%C3%A0n%20s%E1%BA%A1ch%20s%E1%BA%BD.%0A%0AVi%E1%BB%81n%20khung%20c%C3%B3%20nh%E1%BB%AFng%20ch%C3%BA%20%E1%BB%91c%20s%C3%AAn%20ho%E1%BA%A1t%20h%C3%ACnh%20di%20chuy%E1%BB%83n%20ch%E1%BA%ADm%20ch%E1%BA%A1p%20%C4%91%E1%BB%99i%20m%C5%A9%20Santa%20nh%E1%BB%8F%20x%C3%ADu%2C%20k%C3%A9o%20theo%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20%C4%91%E1%BB%83%20l%E1%BA%A1i%20nh%E1%BB%AFng%20v%E1%BB%87t%20l%E1%BA%A5p%20l%C3%A1nh%20v%C3%A0%20leo%20l%C3%AAn%20c%C3%A1c%20v%E1%BA%ADt%20trang%20tr%C3%AD%20l%E1%BB%85%20h%E1%BB%99i%20v%E1%BB%9Bi%20t%E1%BB%91c%20%C4%91%E1%BB%99%20ch%E1%BA%ADm%20%C4%91%E1%BA%BFn%20n%E1%BB%B1c%20c%C6%B0%E1%BB%9Di.%0A%0AMinh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20%E1%BA%A5m%20c%C3%BAng%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
@@ -847,20 +847,20 @@ Hình minh họa phẳng, hài hước ấm cúng, không có chữ.
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung ảnh Giáng sinh có thể in được, hài hước, tỷ lệ 1:1.4, theo chiều dọc, với phong cách hoạt hình. Viền khung được lấp đầy bởi những chú chó hoạt hình phấn khích đang quấn vào đèn và làm đổ các vật trang trí, tạo nên một khung cảnh vui tươi, tràn đầy năng lượng.
+Lời nhắc này tạo ra một khung ảnh Giáng Sinh có thể in được, hài hước, tỷ lệ 1:1.4 dọc, theo phong cách hoạt hình. Viền khung được lấp đầy bởi những chú chó hoạt hình đang phấn khích, quấn vào dây đèn và làm đổ các đồ trang trí, tạo nên một khung cảnh vui tươi, tràn đầy năng lượng.
 
 #### 📝 Câu lệnh
 
 ```
 Một khung ảnh Giáng sinh dọc tỷ lệ 1:1.4 có thể in được, minh họa theo phong cách hoạt hình hài hước.
 
-Thiết kế chỉ hiển thị riêng khung ảnh, không có môi trường nền.
+Thiết kế chỉ hiển thị khung ảnh, không có môi trường nền.
 
 Một chỗ giữ ảnh trống được dành riêng ở chính giữa theo chiều ngang và chiều dọc, với tỷ lệ khung hình 1:1.4 và chiều rộng bằng 70% của khung, hoàn toàn trống và được xác định rõ ràng.
 
-Viền khung được lấp đầy bởi những chú chó hoạt hình phấn khích đang vướng vào đèn Giáng sinh, đuổi theo đồ trang trí, làm đổ đồ trang trí và mặc những chiếc áo len lễ hội quá khổ với những tư thế cường điệu.
+Viền khung được lấp đầy bằng những chú chó hoạt hình đang phấn khích, bị vướng vào đèn Giáng sinh, đuổi theo đồ trang trí, làm đổ các vật trang trí và mặc những chiếc áo len lễ hội quá khổ trong những tư thế cường điệu.
 
-Vui tươi, tràn đầy năng lượng, phẳng và được tối ưu hóa để in, không có chữ.
+Vui vẻ, tràn đầy năng lượng, phẳng và được tối ưu hóa để in, không có chữ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -878,28 +878,28 @@ Vui tươi, tràn đầy năng lượng, phẳng và được tối ưu hóa đ�
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20d%E1%BB%8Dc%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AThi%E1%BA%BFt%20k%E1%BA%BF%20ch%E1%BB%89%20hi%E1%BB%83n%20th%E1%BB%8B%20ri%C3%AAng%20khung%20%E1%BA%A3nh%2C%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20n%E1%BB%81n.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%A0nh%20ri%C3%AAng%20%E1%BB%9F%20ch%C3%ADnh%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%20v%C3%A0%20chi%E1%BB%81u%20r%E1%BB%99ng%20b%E1%BA%B1ng%2070%25%20c%E1%BB%A7a%20khung%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20r%C3%B5%20r%C3%A0ng.%0A%0AVi%E1%BB%81n%20khung%20%C4%91%C6%B0%E1%BB%A3c%20l%E1%BA%A5p%20%C4%91%E1%BA%A7y%20b%E1%BB%9Fi%20nh%E1%BB%AFng%20ch%C3%BA%20ch%C3%B3%20ho%E1%BA%A1t%20h%C3%ACnh%20ph%E1%BA%A5n%20kh%C3%ADch%20%C4%91ang%20v%C6%B0%E1%BB%9Bng%20v%C3%A0o%20%C4%91%C3%A8n%20Gi%C3%A1ng%20sinh%2C%20%C4%91u%E1%BB%95i%20theo%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20l%C3%A0m%20%C4%91%E1%BB%95%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20v%C3%A0%20m%E1%BA%B7c%20nh%E1%BB%AFng%20chi%E1%BA%BFc%20%C3%A1o%20len%20l%E1%BB%85%20h%E1%BB%99i%20qu%C3%A1%20kh%E1%BB%95%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20t%C6%B0%20th%E1%BA%BF%20c%C6%B0%E1%BB%9Dng%20%C4%91i%E1%BB%87u.%0A%0AVui%20t%C6%B0%C6%A1i%2C%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%2C%20ph%E1%BA%B3ng%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%91i%20%C6%B0u%20h%C3%B3a%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20d%E1%BB%8Dc%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AThi%E1%BA%BFt%20k%E1%BA%BF%20ch%E1%BB%89%20hi%E1%BB%83n%20th%E1%BB%8B%20khung%20%E1%BA%A3nh%2C%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20n%E1%BB%81n.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%A0nh%20ri%C3%AAng%20%E1%BB%9F%20ch%C3%ADnh%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%20v%C3%A0%20chi%E1%BB%81u%20r%E1%BB%99ng%20b%E1%BA%B1ng%2070%25%20c%E1%BB%A7a%20khung%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20r%C3%B5%20r%C3%A0ng.%0A%0AVi%E1%BB%81n%20khung%20%C4%91%C6%B0%E1%BB%A3c%20l%E1%BA%A5p%20%C4%91%E1%BA%A7y%20b%E1%BA%B1ng%20nh%E1%BB%AFng%20ch%C3%BA%20ch%C3%B3%20ho%E1%BA%A1t%20h%C3%ACnh%20%C4%91ang%20ph%E1%BA%A5n%20kh%C3%ADch%2C%20b%E1%BB%8B%20v%C6%B0%E1%BB%9Bng%20v%C3%A0o%20%C4%91%C3%A8n%20Gi%C3%A1ng%20sinh%2C%20%C4%91u%E1%BB%95i%20theo%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20l%C3%A0m%20%C4%91%E1%BB%95%20c%C3%A1c%20v%E1%BA%ADt%20trang%20tr%C3%AD%20v%C3%A0%20m%E1%BA%B7c%20nh%E1%BB%AFng%20chi%E1%BA%BFc%20%C3%A1o%20len%20l%E1%BB%85%20h%E1%BB%99i%20qu%C3%A1%20kh%E1%BB%95%20trong%20nh%E1%BB%AFng%20t%C6%B0%20th%E1%BA%BF%20c%C6%B0%E1%BB%9Dng%20%C4%91i%E1%BB%87u.%0A%0AVui%20v%E1%BA%BB%2C%20tr%C3%A0n%20%C4%91%E1%BA%A7y%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%2C%20ph%E1%BA%B3ng%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%91i%20%C6%B0u%20h%C3%B3a%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
-### No. 15: Giáng Sinh Của Những Chú Gấu Mèo · Khung Trộm Cắp Lén Lút
+### No. 15: Giáng sinh của những chú gấu mèo · Khung ảnh trộm cắp tinh ranh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một hình minh họa khung ảnh Giáng Sinh có thể in được, với những chú gấu mèo tinh nghịch đang ăn trộm đồ trang trí và kẹo gậy, tạo nên một không khí lễ hội vui tươi, hỗn loạn. Khung được thiết kế độc lập với tỷ lệ khung hình 1:1.4, phù hợp để in chất lượng cao.
+Lời nhắc này tạo ra một hình minh họa khung ảnh Giáng sinh có thể in được, với những chú gấu mèo tinh nghịch đang trộm đồ trang trí và kẹo gậy, tạo nên một không khí lễ hội vui tươi, hỗn loạn. Nó được thiết kế như một khung ảnh độc lập với tỷ lệ khung hình 1:1.4, phù hợp để in chất lượng cao.
 
 #### 📝 Câu lệnh
 
 ```
 Một hình minh họa khung ảnh Giáng sinh có thể in được, được thiết kế độc quyền dưới dạng khung độc lập, với tỷ lệ khung hình dọc 1:1.4, phù hợp để in chất lượng cao.
 
-Hình minh họa chỉ tập trung vào chính khung ảnh, không có môi trường bên ngoài hoặc cảnh nền. Phong cách là hình minh họa sách truyện hoạt hình hài hước với đường nét rõ ràng và họa tiết mềm mại.
+Hình minh họa chỉ tập trung vào chính khung ảnh, không có môi trường bên ngoài hoặc cảnh nền. Phong cách là hình minh họa sách truyện hoạt hình hài hước với đường nét rõ ràng và kết cấu mềm mại.
 
-Ở chính giữa khung, dành một vùng giữ chỗ ảnh trống được căn giữa theo chiều ngang và chiều dọc, với tỷ lệ khung hình chân dung 1:1.4 và chiếm 70% tổng chiều rộng khung, hoàn toàn trống và không bị chạm vào.
+Ở chính giữa khung, dành một khu vực giữ chỗ ảnh trống được căn giữa theo chiều ngang và chiều dọc, với tỷ lệ khung hình chân dung 1:1.4 và chiếm 70% tổng chiều rộng khung, hoàn toàn trống và không bị chạm vào.
 
-Viền khung xung quanh có các chú gấu mèo hoạt hình tinh nghịch đang ăn trộm đồ trang trí, giấu kẹo gậy, nhìn trộm từ các góc và treo ngược từ vòng hoa, tạo ra một không khí lễ hội hỗn loạn vui tươi.
+Viền khung xung quanh có những chú gấu mèo hoạt hình tinh nghịch đang ăn trộm đồ trang trí, giấu kẹo gậy, thập thò từ các góc và treo ngược từ vòng hoa, tạo nên một không khí lễ hội hỗn loạn vui tươi.
 
 Bố cục phẳng, màu sắc thân thiện với in ấn, không có chữ.
 ```
@@ -909,7 +909,7 @@ Bố cục phẳng, màu sắc thân thiện với in ấn, không có chữ.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788185612_i3bkv5_1765783888394-phn8ds-uZAAAAAElFTkSuQmCC" width="600" alt="Giáng Sinh Của Những Chú Gấu Mèo · Khung Trộm Cắp Lén Lút - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788185612_i3bkv5_1765783888394-phn8ds-uZAAAAAElFTkSuQmCC" width="600" alt="Giáng sinh của những chú gấu mèo · Khung ảnh trộm cắp tinh ranh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -919,28 +919,28 @@ Bố cục phẳng, màu sắc thân thiện với in ấn, không có chữ.
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%99c%20quy%E1%BB%81n%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20khung%20%C4%91%E1%BB%99c%20l%E1%BA%ADp%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20d%E1%BB%8Dc%201%3A1.4%2C%20ph%C3%B9%20h%E1%BB%A3p%20%C4%91%E1%BB%83%20in%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20cao.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20ch%E1%BB%89%20t%E1%BA%ADp%20trung%20v%C3%A0o%20ch%C3%ADnh%20khung%20%E1%BA%A3nh%2C%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20b%C3%AAn%20ngo%C3%A0i%20ho%E1%BA%B7c%20c%E1%BA%A3nh%20n%E1%BB%81n.%20Phong%20c%C3%A1ch%20l%C3%A0%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20s%C3%A1ch%20truy%E1%BB%87n%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20v%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20h%E1%BB%8Da%20ti%E1%BA%BFt%20m%E1%BB%81m%20m%E1%BA%A1i.%0A%0A%E1%BB%9E%20ch%C3%ADnh%20gi%E1%BB%AFa%20khung%2C%20d%C3%A0nh%20m%E1%BB%99t%20v%C3%B9ng%20gi%E1%BB%AF%20ch%E1%BB%97%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20ch%C3%A2n%20dung%201%3A1.4%20v%C3%A0%20chi%E1%BA%BFm%2070%25%20t%E1%BB%95ng%20chi%E1%BB%81u%20r%E1%BB%99ng%20khung%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20v%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20ch%E1%BA%A1m%20v%C3%A0o.%0A%0AVi%E1%BB%81n%20khung%20xung%20quanh%20c%C3%B3%20c%C3%A1c%20ch%C3%BA%20g%E1%BA%A5u%20m%C3%A8o%20ho%E1%BA%A1t%20h%C3%ACnh%20tinh%20ngh%E1%BB%8Bch%20%C4%91ang%20%C4%83n%20tr%E1%BB%99m%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20gi%E1%BA%A5u%20k%E1%BA%B9o%20g%E1%BA%ADy%2C%20nh%C3%ACn%20tr%E1%BB%99m%20t%E1%BB%AB%20c%C3%A1c%20g%C3%B3c%20v%C3%A0%20treo%20ng%C6%B0%E1%BB%A3c%20t%E1%BB%AB%20v%C3%B2ng%20hoa%2C%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20kh%C3%B4ng%20kh%C3%AD%20l%E1%BB%85%20h%E1%BB%99i%20h%E1%BB%97n%20lo%E1%BA%A1n%20vui%20t%C6%B0%C6%A1i.%0A%0AB%E1%BB%91%20c%E1%BB%A5c%20ph%E1%BA%B3ng%2C%20m%C3%A0u%20s%E1%BA%AFc%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20in%20%E1%BA%A5n%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%99c%20quy%E1%BB%81n%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20khung%20%C4%91%E1%BB%99c%20l%E1%BA%ADp%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20d%E1%BB%8Dc%201%3A1.4%2C%20ph%C3%B9%20h%E1%BB%A3p%20%C4%91%E1%BB%83%20in%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20cao.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20ch%E1%BB%89%20t%E1%BA%ADp%20trung%20v%C3%A0o%20ch%C3%ADnh%20khung%20%E1%BA%A3nh%2C%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20b%C3%AAn%20ngo%C3%A0i%20ho%E1%BA%B7c%20c%E1%BA%A3nh%20n%E1%BB%81n.%20Phong%20c%C3%A1ch%20l%C3%A0%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20s%C3%A1ch%20truy%E1%BB%87n%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20v%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20k%E1%BA%BFt%20c%E1%BA%A5u%20m%E1%BB%81m%20m%E1%BA%A1i.%0A%0A%E1%BB%9E%20ch%C3%ADnh%20gi%E1%BB%AFa%20khung%2C%20d%C3%A0nh%20m%E1%BB%99t%20khu%20v%E1%BB%B1c%20gi%E1%BB%AF%20ch%E1%BB%97%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20ch%C3%A2n%20dung%201%3A1.4%20v%C3%A0%20chi%E1%BA%BFm%2070%25%20t%E1%BB%95ng%20chi%E1%BB%81u%20r%E1%BB%99ng%20khung%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20v%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20ch%E1%BA%A1m%20v%C3%A0o.%0A%0AVi%E1%BB%81n%20khung%20xung%20quanh%20c%C3%B3%20nh%E1%BB%AFng%20ch%C3%BA%20g%E1%BA%A5u%20m%C3%A8o%20ho%E1%BA%A1t%20h%C3%ACnh%20tinh%20ngh%E1%BB%8Bch%20%C4%91ang%20%C4%83n%20tr%E1%BB%99m%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20gi%E1%BA%A5u%20k%E1%BA%B9o%20g%E1%BA%ADy%2C%20th%E1%BA%ADp%20th%C3%B2%20t%E1%BB%AB%20c%C3%A1c%20g%C3%B3c%20v%C3%A0%20treo%20ng%C6%B0%E1%BB%A3c%20t%E1%BB%AB%20v%C3%B2ng%20hoa%2C%20t%E1%BA%A1o%20n%C3%AAn%20m%E1%BB%99t%20kh%C3%B4ng%20kh%C3%AD%20l%E1%BB%85%20h%E1%BB%99i%20h%E1%BB%97n%20lo%E1%BA%A1n%20vui%20t%C6%B0%C6%A1i.%0A%0AB%E1%BB%91%20c%E1%BB%A5c%20ph%E1%BA%B3ng%2C%20m%C3%A0u%20s%E1%BA%AFc%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20in%20%E1%BA%A5n%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
-### No. 16: Khung Ảnh Hoạt Hình Sách Thiếu Nhi Clumsy Penguins
+### No. 16: Khung ảnh hoạt hình sách thiếu nhi Clumsy Penguins
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung ảnh Giáng sinh dọc, có thể in được, được minh họa theo phong cách hoạt hình sách thiếu nhi duyên dáng, hài hóm với những chú chim cánh cụt vụng về. Thiết kế tập trung hoàn toàn vào khung ảnh với một chỗ giữ ảnh trống, mang lại vẻ ngoài vui tươi, hài hước và sống động khi in.
+Lời nhắc này tạo ra một khung ảnh Giáng sinh dọc, có thể in được, được minh họa theo phong cách hoạt hình sách thiếu nhi duyên dáng, hài hóm với những chú chim cánh cụt vụng về. Thiết kế tập trung hoàn toàn vào chính khung ảnh với một chỗ giữ ảnh trống, mang đến vẻ ngoài vui tươi, hài hước và sống động để in.
 
 #### 📝 Câu lệnh
 
 ```
-Một khung ảnh Giáng sinh có thể in được theo tỷ lệ dọc 1:1.4, được minh họa theo phong cách hoạt hình sách thiếu nhi duyên dáng, hài hước.
+Một khung ảnh Giáng sinh dọc tỷ lệ 1:1.4 có thể in được, được minh họa theo phong cách hoạt hình sách thiếu nhi duyên dáng, hài hỉnh.
 
-Thiết kế tập trung hoàn toàn vào chính khung ảnh, với hình minh họa phẳng và không có môi trường nền.
+Thiết kế tập trung hoàn toàn vào khung ảnh, với hình minh họa phẳng và không có môi trường nền.
 
 Một chỗ giữ ảnh trống lớn được dành riêng ở chính giữa theo chiều ngang và chiều dọc, với tỷ lệ chân dung 1:1.4 và chiếm 70% chiều rộng khung, cố ý để trống và tách biệt rõ ràng khỏi tất cả các chi tiết trang trí.
 
-Phần viền xung quanh có hình những chú chim cánh cụt hoạt hình vụng về đang trượt chân, xếp chồng đồ trang trí, cầm những ngôi sao quá khổ và tương tác một cách vui tươi với các yếu tố lễ hội xung quanh các cạnh.
+Phần viền xung quanh có hình những chú chim cánh cụt hoạt hình vụng về đang trượt ngã, xếp chồng đồ trang trí, cầm những ngôi sao quá khổ và tương tác một cách vui tươi với các yếu tố lễ hội xung quanh các cạnh.
 
 Phong cách tổng thể vui tươi, hài hước, sống động và thân thiện với việc in ấn, không có chữ hoặc ký tự.
 ```
@@ -950,7 +950,7 @@ Phong cách tổng thể vui tươi, hài hước, sống động và thân thi�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__" width="600" alt="Khung Ảnh Hoạt Hình Sách Thiếu Nhi Clumsy Penguins - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784310149_v2urj8_1765780294867-so5kmx-wOB87HzdgxK8QAAAABJRU5ErkJggg__" width="600" alt="Khung ảnh hoạt hình sách thiếu nhi Clumsy Penguins - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -960,7 +960,7 @@ Phong cách tổng thể vui tươi, hài hước, sống động và thân thi�
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20s%C3%A1ch%20thi%E1%BA%BFu%20nhi%20duy%C3%AAn%20d%C3%A1ng%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AThi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BA%ADp%20trung%20ho%C3%A0n%20to%C3%A0n%20v%C3%A0o%20ch%C3%ADnh%20khung%20%E1%BA%A3nh%2C%20v%E1%BB%9Bi%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%20v%C3%A0%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20n%E1%BB%81n.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20l%E1%BB%9Bn%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%A0nh%20ri%C3%AAng%20%E1%BB%9F%20ch%C3%ADnh%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20ch%C3%A2n%20dung%201%3A1.4%20v%C3%A0%20chi%E1%BA%BFm%2070%25%20chi%E1%BB%81u%20r%E1%BB%99ng%20khung%2C%20c%E1%BB%91%20%C3%BD%20%C4%91%E1%BB%83%20tr%E1%BB%91ng%20v%C3%A0%20t%C3%A1ch%20bi%E1%BB%87t%20r%C3%B5%20r%C3%A0ng%20kh%E1%BB%8Fi%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20chi%20ti%E1%BA%BFt%20trang%20tr%C3%AD.%0A%0APh%E1%BA%A7n%20vi%E1%BB%81n%20xung%20quanh%20c%C3%B3%20h%C3%ACnh%20nh%E1%BB%AFng%20ch%C3%BA%20chim%20c%C3%A1nh%20c%E1%BB%A5t%20ho%E1%BA%A1t%20h%C3%ACnh%20v%E1%BB%A5ng%20v%E1%BB%81%20%C4%91ang%20tr%C6%B0%E1%BB%A3t%20ch%C3%A2n%2C%20x%E1%BA%BFp%20ch%E1%BB%93ng%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20c%E1%BA%A7m%20nh%E1%BB%AFng%20ng%C3%B4i%20sao%20qu%C3%A1%20kh%E1%BB%95%20v%C3%A0%20t%C6%B0%C6%A1ng%20t%C3%A1c%20m%E1%BB%99t%20c%C3%A1ch%20vui%20t%C6%B0%C6%A1i%20v%E1%BB%9Bi%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20l%E1%BB%85%20h%E1%BB%99i%20xung%20quanh%20c%C3%A1c%20c%E1%BA%A1nh.%0A%0APhong%20c%C3%A1ch%20t%E1%BB%95ng%20th%E1%BB%83%20vui%20t%C6%B0%C6%A1i%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%2C%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%20v%C3%A0%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20vi%E1%BB%87c%20in%20%E1%BA%A5n%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF%20ho%E1%BA%B7c%20k%C3%BD%20t%E1%BB%B1.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20d%E1%BB%8Dc%20t%E1%BB%B7%20l%E1%BB%87%201%3A1.4%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20s%C3%A1ch%20thi%E1%BA%BFu%20nhi%20duy%C3%AAn%20d%C3%A1ng%2C%20h%C3%A0i%20h%E1%BB%89nh.%0A%0AThi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BA%ADp%20trung%20ho%C3%A0n%20to%C3%A0n%20v%C3%A0o%20khung%20%E1%BA%A3nh%2C%20v%E1%BB%9Bi%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20ph%E1%BA%B3ng%20v%C3%A0%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20n%E1%BB%81n.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20l%E1%BB%9Bn%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%A0nh%20ri%C3%AAng%20%E1%BB%9F%20ch%C3%ADnh%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20ch%C3%A2n%20dung%201%3A1.4%20v%C3%A0%20chi%E1%BA%BFm%2070%25%20chi%E1%BB%81u%20r%E1%BB%99ng%20khung%2C%20c%E1%BB%91%20%C3%BD%20%C4%91%E1%BB%83%20tr%E1%BB%91ng%20v%C3%A0%20t%C3%A1ch%20bi%E1%BB%87t%20r%C3%B5%20r%C3%A0ng%20kh%E1%BB%8Fi%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20chi%20ti%E1%BA%BFt%20trang%20tr%C3%AD.%0A%0APh%E1%BA%A7n%20vi%E1%BB%81n%20xung%20quanh%20c%C3%B3%20h%C3%ACnh%20nh%E1%BB%AFng%20ch%C3%BA%20chim%20c%C3%A1nh%20c%E1%BB%A5t%20ho%E1%BA%A1t%20h%C3%ACnh%20v%E1%BB%A5ng%20v%E1%BB%81%20%C4%91ang%20tr%C6%B0%E1%BB%A3t%20ng%C3%A3%2C%20x%E1%BA%BFp%20ch%E1%BB%93ng%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20c%E1%BA%A7m%20nh%E1%BB%AFng%20ng%C3%B4i%20sao%20qu%C3%A1%20kh%E1%BB%95%20v%C3%A0%20t%C6%B0%C6%A1ng%20t%C3%A1c%20m%E1%BB%99t%20c%C3%A1ch%20vui%20t%C6%B0%C6%A1i%20v%E1%BB%9Bi%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20l%E1%BB%85%20h%E1%BB%99i%20xung%20quanh%20c%C3%A1c%20c%E1%BA%A1nh.%0A%0APhong%20c%C3%A1ch%20t%E1%BB%95ng%20th%E1%BB%83%20vui%20t%C6%B0%C6%A1i%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%2C%20s%E1%BB%91ng%20%C4%91%E1%BB%99ng%20v%C3%A0%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20vi%E1%BB%87c%20in%20%E1%BA%A5n%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF%20ho%E1%BA%B7c%20k%C3%BD%20t%E1%BB%B1.)**
 
 ---
 
@@ -970,20 +970,20 @@ Phong cách tổng thể vui tươi, hài hước, sống động và thân thi�
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một hình minh họa khung ảnh Giáng sinh có thể in được theo phong cách truyện tranh hoạt hình hài hước, với các nhân vật bánh gừng ngộ nghĩnh. Thiết kế chỉ hiển thị khung ảnh với một chỗ giữ ảnh trống, mang đến một vẻ đẹp hài hước, ấm cúng và kỳ quái để in.
+Lời nhắc này tạo ra một hình minh họa khung ảnh Giáng Sinh có thể in được theo phong cách sách truyện hoạt hình hài hước, với các nhân vật bánh gừng ngộ nghĩnh. Thiết kế chỉ hiển thị khung với một chỗ đặt ảnh trống, mang đến một vẻ đẹp hài hước, ấm cúng và kỳ ảo để in.
 
 #### 📝 Câu lệnh
 
 ```
-Một hình minh họa khung ảnh Giáng sinh có thể in được, tỷ lệ khung hình dọc 1:1.4, được tạo theo phong cách truyện tranh hoạt hình hài hước.
+Một hình minh họa khung ảnh Giáng sinh có thể in được, tỷ lệ khung hình dọc 1:1.4, được tạo theo phong cách sách truyện hoạt hình hài hước.
 
 Hình minh họa chỉ hiển thị thiết kế khung, không có môi trường bên ngoài hoặc phong cảnh nền. Màu sắc ấm áp và lễ hội với kết cấu giấy mềm mại.
 
-Ở chính giữa, dành một chỗ trống để đặt ảnh, được căn giữa theo chiều ngang và chiều dọc, duy trì tỷ lệ khung hình 1:1.4 và chiếm 70% tổng chiều rộng khung, hoàn toàn trống và không bị cản trở.
+Ở chính giữa, dành một chỗ giữ ảnh trống được căn giữa theo chiều ngang và chiều dọc, duy trì tỷ lệ khung hình 1:1.4 và chiếm 70% tổng chiều rộng khung, hoàn toàn trống và không bị cản trở.
 
-Viền khung được trang trí bằng các nhân vật bánh gừng tinh nghịch tạo dáng ngộ nghĩnh, những chiếc bánh quy bị vỡ một phần, các chi tiết kem phủ và đồ trang trí kẹo, tất cả đều được vẽ với khuôn mặt hoạt hình biểu cảm.
+Viền khung được trang trí bằng các nhân vật bánh gừng vui nhộn tạo dáng ngộ nghĩnh, những chiếc bánh quy bị vỡ một phần, các chi tiết kem phủ và đồ trang trí kẹo, tất cả đều được vẽ với khuôn mặt hoạt hình biểu cảm.
 
-Tâm trạng hài hước, ấm cúng và kỳ ảo, được tối ưu hóa hoàn toàn để in, không có chữ.
+Tâm trạng hài hước, ấm cúng và kỳ quái, được tối ưu hóa hoàn toàn để in, không có chữ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1001,7 +1001,7 @@ Tâm trạng hài hước, ấm cúng và kỳ ảo, được tối ưu hóa ho�
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20theo%20phong%20c%C3%A1ch%20truy%E1%BB%87n%20tranh%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20ch%E1%BB%89%20hi%E1%BB%83n%20th%E1%BB%8B%20thi%E1%BA%BFt%20k%E1%BA%BF%20khung%2C%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20b%C3%AAn%20ngo%C3%A0i%20ho%E1%BA%B7c%20phong%20c%E1%BA%A3nh%20n%E1%BB%81n.%20M%C3%A0u%20s%E1%BA%AFc%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20l%E1%BB%85%20h%E1%BB%99i%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20gi%E1%BA%A5y%20m%E1%BB%81m%20m%E1%BA%A1i.%0A%0A%E1%BB%9E%20ch%C3%ADnh%20gi%E1%BB%AFa%2C%20d%C3%A0nh%20m%E1%BB%99t%20ch%E1%BB%97%20tr%E1%BB%91ng%20%C4%91%E1%BB%83%20%C4%91%E1%BA%B7t%20%E1%BA%A3nh%2C%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20duy%20tr%C3%AC%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%20v%C3%A0%20chi%E1%BA%BFm%2070%25%20t%E1%BB%95ng%20chi%E1%BB%81u%20r%E1%BB%99ng%20khung%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20v%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20c%E1%BA%A3n%20tr%E1%BB%9F.%0A%0AVi%E1%BB%81n%20khung%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20b%E1%BA%B1ng%20c%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20b%C3%A1nh%20g%E1%BB%ABng%20tinh%20ngh%E1%BB%8Bch%20t%E1%BA%A1o%20d%C3%A1ng%20ng%E1%BB%99%20ngh%C4%A9nh%2C%20nh%E1%BB%AFng%20chi%E1%BA%BFc%20b%C3%A1nh%20quy%20b%E1%BB%8B%20v%E1%BB%A1%20m%E1%BB%99t%20ph%E1%BA%A7n%2C%20c%C3%A1c%20chi%20ti%E1%BA%BFt%20kem%20ph%E1%BB%A7%20v%C3%A0%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20k%E1%BA%B9o%2C%20t%E1%BA%A5t%20c%E1%BA%A3%20%C4%91%E1%BB%81u%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%BD%20v%E1%BB%9Bi%20khu%C3%B4n%20m%E1%BA%B7t%20ho%E1%BA%A1t%20h%C3%ACnh%20bi%E1%BB%83u%20c%E1%BA%A3m.%0A%0AT%C3%A2m%20tr%E1%BA%A1ng%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%2C%20%E1%BA%A5m%20c%C3%BAng%20v%C3%A0%20k%E1%BB%B3%20%E1%BA%A3o%2C%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%91i%20%C6%B0u%20h%C3%B3a%20ho%C3%A0n%20to%C3%A0n%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20theo%20phong%20c%C3%A1ch%20s%C3%A1ch%20truy%E1%BB%87n%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20ch%E1%BB%89%20hi%E1%BB%83n%20th%E1%BB%8B%20thi%E1%BA%BFt%20k%E1%BA%BF%20khung%2C%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20b%C3%AAn%20ngo%C3%A0i%20ho%E1%BA%B7c%20phong%20c%E1%BA%A3nh%20n%E1%BB%81n.%20M%C3%A0u%20s%E1%BA%AFc%20%E1%BA%A5m%20%C3%A1p%20v%C3%A0%20l%E1%BB%85%20h%E1%BB%99i%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20gi%E1%BA%A5y%20m%E1%BB%81m%20m%E1%BA%A1i.%0A%0A%E1%BB%9E%20ch%C3%ADnh%20gi%E1%BB%AFa%2C%20d%C3%A0nh%20m%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20duy%20tr%C3%AC%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%20v%C3%A0%20chi%E1%BA%BFm%2070%25%20t%E1%BB%95ng%20chi%E1%BB%81u%20r%E1%BB%99ng%20khung%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20v%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20c%E1%BA%A3n%20tr%E1%BB%9F.%0A%0AVi%E1%BB%81n%20khung%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20b%E1%BA%B1ng%20c%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20b%C3%A1nh%20g%E1%BB%ABng%20vui%20nh%E1%BB%99n%20t%E1%BA%A1o%20d%C3%A1ng%20ng%E1%BB%99%20ngh%C4%A9nh%2C%20nh%E1%BB%AFng%20chi%E1%BA%BFc%20b%C3%A1nh%20quy%20b%E1%BB%8B%20v%E1%BB%A1%20m%E1%BB%99t%20ph%E1%BA%A7n%2C%20c%C3%A1c%20chi%20ti%E1%BA%BFt%20kem%20ph%E1%BB%A7%20v%C3%A0%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20k%E1%BA%B9o%2C%20t%E1%BA%A5t%20c%E1%BA%A3%20%C4%91%E1%BB%81u%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%BD%20v%E1%BB%9Bi%20khu%C3%B4n%20m%E1%BA%B7t%20ho%E1%BA%A1t%20h%C3%ACnh%20bi%E1%BB%83u%20c%E1%BA%A3m.%0A%0AT%C3%A2m%20tr%E1%BA%A1ng%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%2C%20%E1%BA%A5m%20c%C3%BAng%20v%C3%A0%20k%E1%BB%B3%20qu%C3%A1i%2C%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%91i%20%C6%B0u%20h%C3%B3a%20ho%C3%A0n%20to%C3%A0n%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
@@ -1011,20 +1011,20 @@ Tâm trạng hài hước, ấm cúng và kỳ ảo, được tối ưu hóa ho�
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một hình minh họa khung ảnh Giáng Sinh có thể in được theo phong cách truyện tranh hoạt hình hài hước với những chú lười biếng. Nó được thiết kế như một khung ảnh độc lập với một chỗ đặt ảnh trống, hoàn hảo cho việc in ấn chất lượng cao và thêm một nét vui tươi, ấm cúng và hài hước vào những bức ảnh ngày lễ.
+Lời nhắc này tạo ra một hình minh họa khung ảnh Giáng sinh có thể in được theo phong cách sách truyện hoạt hình hài hước, với hình ảnh những chú lười biếng. Khung được thiết kế độc lập với một chỗ đặt ảnh trống, hoàn hảo cho việc in ấn chất lượng cao và thêm nét vui tươi, ấm cúng, hài hước vào những bức ảnh ngày lễ.
 
 #### 📝 Câu lệnh
 
 ```
 Một hình minh họa khung ảnh Giáng sinh có thể in được, được thiết kế độc quyền dưới dạng khung độc lập, với tỷ lệ khung hình dọc 1:1.4, phù hợp để in chất lượng cao.
 
-Hình minh họa chỉ tập trung vào chính khung ảnh, không có môi trường bên ngoài hoặc cảnh nền. Phong cách là hình minh họa sách truyện hoạt hình hài hước với kết cấu mềm mại, đường nét rõ ràng và màu sắc ấm áp.
+Hình minh họa chỉ tập trung vào chính khung ảnh, không có môi trường bên ngoài hoặc cảnh nền. Phong cách là một hình minh họa truyện tranh hoạt hình hài hước với kết cấu mềm mại, đường nét rõ ràng và màu sắc ấm áp.
 
-Ở chính giữa khung, dành một khu vực giữ chỗ ảnh trống được căn giữa theo chiều ngang và chiều dọc. Khu vực giữ chỗ có tỷ lệ khung hình chân dung 1:1.4, với chiều rộng bằng 70% tổng chiều rộng khung, và phải hoàn toàn trống rỗng và không bị chạm vào.
+Ở chính giữa khung, dành một vùng giữ chỗ ảnh trống được căn giữa theo chiều ngang và chiều dọc. Vùng giữ chỗ có tỷ lệ khung hình chân dung 1:1.4, với chiều rộng bằng 70% tổng chiều rộng khung, và phải hoàn toàn trống rỗng và không bị chạm vào.
 
-Viền khung xung quanh có những chú lười hoạt hình vui nhộn đang treo mình trên kẹo gậy, cành cây thường xanh và móc trang trí lễ hội. Những chú lười mặc áo len và khăn quàng cổ ấm cúng, tạo dáng thư giãn, hài hước.
+Viền khung xung quanh có những chú lười hoạt hình vui nhộn đang treo mình trên kẹo gậy, cành cây thường xanh và những chiếc móc lễ hội. Những chú lười mặc áo len và khăn quàng cổ ấm cúng, tạo dáng thư giãn, hài hước.
 
-Hình minh họa mang lại cảm giác vui tươi, ấm cúng và hài hước, với bố cục phẳng và màu sắc thân thiện với việc in ấn, không có văn bản hoặc kiểu chữ.
+Hình minh họa mang lại cảm giác nhẹ nhàng, ấm cúng và hài hước, với bố cục phẳng và màu sắc thân thiện với việc in ấn, không có chữ hoặc kiểu chữ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1042,30 +1042,30 @@ Hình minh họa mang lại cảm giác vui tươi, ấm cúng và hài hước,
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%99c%20quy%E1%BB%81n%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20khung%20%C4%91%E1%BB%99c%20l%E1%BA%ADp%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20d%E1%BB%8Dc%201%3A1.4%2C%20ph%C3%B9%20h%E1%BB%A3p%20%C4%91%E1%BB%83%20in%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20cao.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20ch%E1%BB%89%20t%E1%BA%ADp%20trung%20v%C3%A0o%20ch%C3%ADnh%20khung%20%E1%BA%A3nh%2C%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20b%C3%AAn%20ngo%C3%A0i%20ho%E1%BA%B7c%20c%E1%BA%A3nh%20n%E1%BB%81n.%20Phong%20c%C3%A1ch%20l%C3%A0%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20s%C3%A1ch%20truy%E1%BB%87n%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20m%C3%A0u%20s%E1%BA%AFc%20%E1%BA%A5m%20%C3%A1p.%0A%0A%E1%BB%9E%20ch%C3%ADnh%20gi%E1%BB%AFa%20khung%2C%20d%C3%A0nh%20m%E1%BB%99t%20khu%20v%E1%BB%B1c%20gi%E1%BB%AF%20ch%E1%BB%97%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc.%20Khu%20v%E1%BB%B1c%20gi%E1%BB%AF%20ch%E1%BB%97%20c%C3%B3%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20ch%C3%A2n%20dung%201%3A1.4%2C%20v%E1%BB%9Bi%20chi%E1%BB%81u%20r%E1%BB%99ng%20b%E1%BA%B1ng%2070%25%20t%E1%BB%95ng%20chi%E1%BB%81u%20r%E1%BB%99ng%20khung%2C%20v%C3%A0%20ph%E1%BA%A3i%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20r%E1%BB%97ng%20v%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20ch%E1%BA%A1m%20v%C3%A0o.%0A%0AVi%E1%BB%81n%20khung%20xung%20quanh%20c%C3%B3%20nh%E1%BB%AFng%20ch%C3%BA%20l%C6%B0%E1%BB%9Di%20ho%E1%BA%A1t%20h%C3%ACnh%20vui%20nh%E1%BB%99n%20%C4%91ang%20treo%20m%C3%ACnh%20tr%C3%AAn%20k%E1%BA%B9o%20g%E1%BA%ADy%2C%20c%C3%A0nh%20c%C3%A2y%20th%C6%B0%E1%BB%9Dng%20xanh%20v%C3%A0%20m%C3%B3c%20trang%20tr%C3%AD%20l%E1%BB%85%20h%E1%BB%99i.%20Nh%E1%BB%AFng%20ch%C3%BA%20l%C6%B0%E1%BB%9Di%20m%E1%BA%B7c%20%C3%A1o%20len%20v%C3%A0%20kh%C4%83n%20qu%C3%A0ng%20c%E1%BB%95%20%E1%BA%A5m%20c%C3%BAng%2C%20t%E1%BA%A1o%20d%C3%A1ng%20th%C6%B0%20gi%C3%A3n%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20mang%20l%E1%BA%A1i%20c%E1%BA%A3m%20gi%C3%A1c%20vui%20t%C6%B0%C6%A1i%2C%20%E1%BA%A5m%20c%C3%BAng%20v%C3%A0%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%2C%20v%E1%BB%9Bi%20b%E1%BB%91%20c%E1%BB%A5c%20ph%E1%BA%B3ng%20v%C3%A0%20m%C3%A0u%20s%E1%BA%AFc%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20vi%E1%BB%87c%20in%20%E1%BA%A5n%2C%20kh%C3%B4ng%20c%C3%B3%20v%C4%83n%20b%E1%BA%A3n%20ho%E1%BA%B7c%20ki%E1%BB%83u%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%99c%20quy%E1%BB%81n%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20khung%20%C4%91%E1%BB%99c%20l%E1%BA%ADp%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20d%E1%BB%8Dc%201%3A1.4%2C%20ph%C3%B9%20h%E1%BB%A3p%20%C4%91%E1%BB%83%20in%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20cao.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20ch%E1%BB%89%20t%E1%BA%ADp%20trung%20v%C3%A0o%20ch%C3%ADnh%20khung%20%E1%BA%A3nh%2C%20kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20b%C3%AAn%20ngo%C3%A0i%20ho%E1%BA%B7c%20c%E1%BA%A3nh%20n%E1%BB%81n.%20Phong%20c%C3%A1ch%20l%C3%A0%20m%E1%BB%99t%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20truy%E1%BB%87n%20tranh%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20v%E1%BB%9Bi%20k%E1%BA%BFt%20c%E1%BA%A5u%20m%E1%BB%81m%20m%E1%BA%A1i%2C%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20r%C3%B5%20r%C3%A0ng%20v%C3%A0%20m%C3%A0u%20s%E1%BA%AFc%20%E1%BA%A5m%20%C3%A1p.%0A%0A%E1%BB%9E%20ch%C3%ADnh%20gi%E1%BB%AFa%20khung%2C%20d%C3%A0nh%20m%E1%BB%99t%20v%C3%B9ng%20gi%E1%BB%AF%20ch%E1%BB%97%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc.%20V%C3%B9ng%20gi%E1%BB%AF%20ch%E1%BB%97%20c%C3%B3%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20ch%C3%A2n%20dung%201%3A1.4%2C%20v%E1%BB%9Bi%20chi%E1%BB%81u%20r%E1%BB%99ng%20b%E1%BA%B1ng%2070%25%20t%E1%BB%95ng%20chi%E1%BB%81u%20r%E1%BB%99ng%20khung%2C%20v%C3%A0%20ph%E1%BA%A3i%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20r%E1%BB%97ng%20v%C3%A0%20kh%C3%B4ng%20b%E1%BB%8B%20ch%E1%BA%A1m%20v%C3%A0o.%0A%0AVi%E1%BB%81n%20khung%20xung%20quanh%20c%C3%B3%20nh%E1%BB%AFng%20ch%C3%BA%20l%C6%B0%E1%BB%9Di%20ho%E1%BA%A1t%20h%C3%ACnh%20vui%20nh%E1%BB%99n%20%C4%91ang%20treo%20m%C3%ACnh%20tr%C3%AAn%20k%E1%BA%B9o%20g%E1%BA%ADy%2C%20c%C3%A0nh%20c%C3%A2y%20th%C6%B0%E1%BB%9Dng%20xanh%20v%C3%A0%20nh%E1%BB%AFng%20chi%E1%BA%BFc%20m%C3%B3c%20l%E1%BB%85%20h%E1%BB%99i.%20Nh%E1%BB%AFng%20ch%C3%BA%20l%C6%B0%E1%BB%9Di%20m%E1%BA%B7c%20%C3%A1o%20len%20v%C3%A0%20kh%C4%83n%20qu%C3%A0ng%20c%E1%BB%95%20%E1%BA%A5m%20c%C3%BAng%2C%20t%E1%BA%A1o%20d%C3%A1ng%20th%C6%B0%20gi%C3%A3n%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AH%C3%ACnh%20minh%20h%E1%BB%8Da%20mang%20l%E1%BA%A1i%20c%E1%BA%A3m%20gi%C3%A1c%20nh%E1%BA%B9%20nh%C3%A0ng%2C%20%E1%BA%A5m%20c%C3%BAng%20v%C3%A0%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%2C%20v%E1%BB%9Bi%20b%E1%BB%91%20c%E1%BB%A5c%20ph%E1%BA%B3ng%20v%C3%A0%20m%C3%A0u%20s%E1%BA%AFc%20th%C3%A2n%20thi%E1%BB%87n%20v%E1%BB%9Bi%20vi%E1%BB%87c%20in%20%E1%BA%A5n%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF%20ho%E1%BA%B7c%20ki%E1%BB%83u%20ch%E1%BB%AF.)**
 
 ---
 
-### No. 19: Khung Ảnh Giáng Sinh Hoạt Hình Gấu Bắc Cực Vui Nhộn
+### No. 19: Khung ảnh Giáng sinh hoạt hình Gấu Bắc Cực tinh nghịch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung ảnh Giáng sinh động có thể in được theo phong cách hoạt hình hài hước với những chú gấu Bắc Cực tinh nghịch. Nó được thiết kế chỉ như một hình minh họa khung ảnh để in, với một chỗ giữ ảnh trống, mang đến một vẻ ngoài vui tươi, hài hước và thân thiện cho những bức ảnh ngày lễ.
+Lời nhắc này tạo ra một khung ảnh Giáng sinh hoạt hình có thể in được theo phong cách hoạt hình hài hước với những chú gấu Bắc Cực tinh nghịch. Nó được thiết kế riêng làm hình minh họa khung ảnh để in, với một chỗ giữ ảnh trống, mang đến vẻ đẹp vui tươi, hài hước và thân thiện cho những bức ảnh ngày lễ.
 
 #### 📝 Câu lệnh
 
 ```
-Một khung ảnh Giáng sinh động có thể in được, tỷ lệ khung hình dọc 1:1.4, được thiết kế riêng dưới dạng hình minh họa khung để in.
+Một khung ảnh Giáng sinh động có thể in được theo tỷ lệ khung hình dọc 1:1.4, được thiết kế riêng dưới dạng hình minh họa khung để in.
 
 Khung được minh họa theo phong cách hoạt hình hài hước với các hình dạng bo tròn, nhân vật biểu cảm và đổ bóng mềm mại. Không có môi trường, không có cảnh nền, chỉ có thiết kế khung.
 
 Một chỗ giữ ảnh trống được dành riêng ở chính giữa theo chiều ngang và chiều dọc, với tỷ lệ khung hình 1:1.4 và chiếm 70% chiều rộng khung, hoàn toàn trống và sạch sẽ.
 
-Viền được trang trí bằng những chú gấu Bắc Cực tinh nghịch đang trượt, nhìn trộm và bám vào các cạnh của khung, tương tác với kẹo gậy, đồ trang trí và quả cầu tuyết một cách ngớ ngẩn, phóng đại.
+Viền được trang trí bằng những chú gấu Bắc Cực tinh nghịch đang trượt, nhìn trộm và bám vào các cạnh của khung, tương tác với kẹo gậy, đồ trang trí và quả cầu tuyết một cách ngộ nghĩnh, cường điệu.
 
-Tâm trạng tổng thể vui vẻ, hài hước và thân thiện, được tối ưu hóa cho hình minh họa in phẳng, không có chữ.
+Tâm trạng tổng thể là vui vẻ, hài hước và thân thiện, được tối ưu hóa cho hình minh họa in phẳng, không có chữ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1073,7 +1073,7 @@ Tâm trạng tổng thể vui vẻ, hài hước và thân thiện, được t�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="Khung Ảnh Giáng Sinh Hoạt Hình Gấu Bắc Cực Vui Nhộn - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="Khung ảnh Giáng sinh hoạt hình Gấu Bắc Cực tinh nghịch - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1083,28 +1083,28 @@ Tâm trạng tổng thể vui vẻ, hài hước và thân thiện, được t�
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20%C4%91%E1%BB%99ng%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20ri%C3%AAng%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%C4%91%E1%BB%83%20in.%0A%0AKhung%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20v%E1%BB%9Bi%20c%C3%A1c%20h%C3%ACnh%20d%E1%BA%A1ng%20bo%20tr%C3%B2n%2C%20nh%C3%A2n%20v%E1%BA%ADt%20bi%E1%BB%83u%20c%E1%BA%A3m%20v%C3%A0%20%C4%91%E1%BB%95%20b%C3%B3ng%20m%E1%BB%81m%20m%E1%BA%A1i.%20Kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%2C%20kh%C3%B4ng%20c%C3%B3%20c%E1%BA%A3nh%20n%E1%BB%81n%2C%20ch%E1%BB%89%20c%C3%B3%20thi%E1%BA%BFt%20k%E1%BA%BF%20khung.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%A0nh%20ri%C3%AAng%20%E1%BB%9F%20ch%C3%ADnh%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%20v%C3%A0%20chi%E1%BA%BFm%2070%25%20chi%E1%BB%81u%20r%E1%BB%99ng%20khung%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20v%C3%A0%20s%E1%BA%A1ch%20s%E1%BA%BD.%0A%0AVi%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20b%E1%BA%B1ng%20nh%E1%BB%AFng%20ch%C3%BA%20g%E1%BA%A5u%20B%E1%BA%AFc%20C%E1%BB%B1c%20tinh%20ngh%E1%BB%8Bch%20%C4%91ang%20tr%C6%B0%E1%BB%A3t%2C%20nh%C3%ACn%20tr%E1%BB%99m%20v%C3%A0%20b%C3%A1m%20v%C3%A0o%20c%C3%A1c%20c%E1%BA%A1nh%20c%E1%BB%A7a%20khung%2C%20t%C6%B0%C6%A1ng%20t%C3%A1c%20v%E1%BB%9Bi%20k%E1%BA%B9o%20g%E1%BA%ADy%2C%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20v%C3%A0%20qu%E1%BA%A3%20c%E1%BA%A7u%20tuy%E1%BA%BFt%20m%E1%BB%99t%20c%C3%A1ch%20ng%E1%BB%9B%20ng%E1%BA%A9n%2C%20ph%C3%B3ng%20%C4%91%E1%BA%A1i.%0A%0AT%C3%A2m%20tr%E1%BA%A1ng%20t%E1%BB%95ng%20th%E1%BB%83%20vui%20v%E1%BA%BB%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20v%C3%A0%20th%C3%A2n%20thi%E1%BB%87n%2C%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%91i%20%C6%B0u%20h%C3%B3a%20cho%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20in%20ph%E1%BA%B3ng%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20%C4%91%E1%BB%99ng%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20ri%C3%AAng%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20khung%20%C4%91%E1%BB%83%20in.%0A%0AKhung%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20ho%E1%BA%A1t%20h%C3%ACnh%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20v%E1%BB%9Bi%20c%C3%A1c%20h%C3%ACnh%20d%E1%BA%A1ng%20bo%20tr%C3%B2n%2C%20nh%C3%A2n%20v%E1%BA%ADt%20bi%E1%BB%83u%20c%E1%BA%A3m%20v%C3%A0%20%C4%91%E1%BB%95%20b%C3%B3ng%20m%E1%BB%81m%20m%E1%BA%A1i.%20Kh%C3%B4ng%20c%C3%B3%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%2C%20kh%C3%B4ng%20c%C3%B3%20c%E1%BA%A3nh%20n%E1%BB%81n%2C%20ch%E1%BB%89%20c%C3%B3%20thi%E1%BA%BFt%20k%E1%BA%BF%20khung.%0A%0AM%E1%BB%99t%20ch%E1%BB%97%20gi%E1%BB%AF%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%A0nh%20ri%C3%AAng%20%E1%BB%9F%20ch%C3%ADnh%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4%20v%C3%A0%20chi%E1%BA%BFm%2070%25%20chi%E1%BB%81u%20r%E1%BB%99ng%20khung%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20v%C3%A0%20s%E1%BA%A1ch%20s%E1%BA%BD.%0A%0AVi%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20b%E1%BA%B1ng%20nh%E1%BB%AFng%20ch%C3%BA%20g%E1%BA%A5u%20B%E1%BA%AFc%20C%E1%BB%B1c%20tinh%20ngh%E1%BB%8Bch%20%C4%91ang%20tr%C6%B0%E1%BB%A3t%2C%20nh%C3%ACn%20tr%E1%BB%99m%20v%C3%A0%20b%C3%A1m%20v%C3%A0o%20c%C3%A1c%20c%E1%BA%A1nh%20c%E1%BB%A7a%20khung%2C%20t%C6%B0%C6%A1ng%20t%C3%A1c%20v%E1%BB%9Bi%20k%E1%BA%B9o%20g%E1%BA%ADy%2C%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%20v%C3%A0%20qu%E1%BA%A3%20c%E1%BA%A7u%20tuy%E1%BA%BFt%20m%E1%BB%99t%20c%C3%A1ch%20ng%E1%BB%99%20ngh%C4%A9nh%2C%20c%C6%B0%E1%BB%9Dng%20%C4%91i%E1%BB%87u.%0A%0AT%C3%A2m%20tr%E1%BA%A1ng%20t%E1%BB%95ng%20th%E1%BB%83%20l%C3%A0%20vui%20v%E1%BA%BB%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc%20v%C3%A0%20th%C3%A2n%20thi%E1%BB%87n%2C%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%91i%20%C6%B0u%20h%C3%B3a%20cho%20h%C3%ACnh%20minh%20h%E1%BB%8Da%20in%20ph%E1%BA%B3ng%2C%20kh%C3%B4ng%20c%C3%B3%20ch%E1%BB%AF.)**
 
 ---
 
-### No. 20: Khung ảnh phong cách sticker Giáng sinh: Mèo tinh nghịch
+### No. 20: Khung Ảnh Phong Cách Nhãn Dán Giáng Sinh Mèo Tinh Nghịch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một khung ảnh Giáng Sinh dọc, có thể in được, được minh họa theo phong cách nhãn dán hoạt hình dễ thương, hài hóm với những chú mèo tinh nghịch. Thiết kế chỉ tập trung vào chính khung ảnh với các đường viền đậm, màu sắc nhẹ nhàng và một chỗ giữ ảnh trống, tạo cảm giác lễ hội vui tươi và hỗn loạn.
+Lời nhắc này tạo ra một khung ảnh Giáng sinh dọc, có thể in được, được minh họa theo phong cách nhãn dán hoạt hình dễ thương, hài hước với những chú mèo tinh nghịch. Thiết kế chỉ tập trung vào chính khung ảnh với các đường viền đậm, màu sắc nhẹ nhàng và một chỗ giữ ảnh trống, tạo cảm giác lễ hội vui tươi và hỗn loạn.
 
 #### 📝 Câu lệnh
 
 ```
 Một khung ảnh Giáng sinh có thể in được theo tỷ lệ dọc 1:1.4, được minh họa theo phong cách nhãn dán hoạt hình dễ thương, hài hước.
 
-Thiết kế chỉ tập trung vào chính khung ảnh, không có bối cảnh phòng, tường hoặc môi trường. Hình minh họa sử dụng các đường nét đậm, màu sắc nhẹ nhàng và các nhân vật hoạt hình biểu cảm.
+Thiết kế chỉ tập trung vào chính khung ảnh, không có bối cảnh phòng, tường hoặc môi trường xung quanh. Hình minh họa sử dụng đường nét đậm, màu sắc nhẹ nhàng và các nhân vật hoạt hình biểu cảm.
 
-Ở chính giữa, một vùng giữ chỗ ảnh trống được căn giữa theo chiều ngang và chiều dọc, với tỷ lệ chân dung 1:1.4 và chiều rộng bằng 70% khung ảnh, hoàn toàn trống và được xác định rõ ràng.
+Ở chính giữa, một vùng giữ chỗ ảnh trống được căn giữa theo chiều ngang và chiều dọc, với tỷ lệ chân dung 1:1.4 và chiều rộng bằng 70% khung, hoàn toàn trống rỗng và được xác định rõ ràng.
 
-Phần viền xung quanh có những chú mèo hoạt hình tinh nghịch vướng vào đèn Giáng sinh, làm đổ đồ trang trí, leo lên vòng hoa và nhìn trộm từ các góc, tạo cảm giác ngày lễ vui tươi và hỗn loạn.
+Phần viền xung quanh có những chú mèo hoạt hình tinh nghịch bị mắc vào đèn Giáng sinh, làm đổ đồ trang trí, leo lên vòng hoa và nhìn trộm từ các góc, tạo cảm giác ngày lễ vui tươi và hỗn loạn.
 
 Bố cục vẫn phẳng, cân đối và sẵn sàng để in, không có yếu tố văn bản nào.
 ```
@@ -1114,7 +1114,7 @@ Bố cục vẫn phẳng, cân đối và sẵn sàng để in, không có yếu
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC" width="600" alt="Khung ảnh phong cách sticker Giáng sinh: Mèo tinh nghịch - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784305036_az7c66_1765780349782-xcz6e2-AgrFSj1ohPxwAAAAAElFTkSuQmCC" width="600" alt="Khung Ảnh Phong Cách Nhãn Dán Giáng Sinh Mèo Tinh Nghịch - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1124,7 +1124,7 @@ Bố cục vẫn phẳng, cân đối và sẵn sàng để in, không có yếu
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20nh%C3%A3n%20d%C3%A1n%20ho%E1%BA%A1t%20h%C3%ACnh%20d%E1%BB%85%20th%C6%B0%C6%A1ng%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AThi%E1%BA%BFt%20k%E1%BA%BF%20ch%E1%BB%89%20t%E1%BA%ADp%20trung%20v%C3%A0o%20ch%C3%ADnh%20khung%20%E1%BA%A3nh%2C%20kh%C3%B4ng%20c%C3%B3%20b%E1%BB%91i%20c%E1%BA%A3nh%20ph%C3%B2ng%2C%20t%C6%B0%E1%BB%9Dng%20ho%E1%BA%B7c%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng.%20H%C3%ACnh%20minh%20h%E1%BB%8Da%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20%C4%91%E1%BA%ADm%2C%20m%C3%A0u%20s%E1%BA%AFc%20nh%E1%BA%B9%20nh%C3%A0ng%20v%C3%A0%20c%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20ho%E1%BA%A1t%20h%C3%ACnh%20bi%E1%BB%83u%20c%E1%BA%A3m.%0A%0A%E1%BB%9E%20ch%C3%ADnh%20gi%E1%BB%AFa%2C%20m%E1%BB%99t%20v%C3%B9ng%20gi%E1%BB%AF%20ch%E1%BB%97%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20ch%C3%A2n%20dung%201%3A1.4%20v%C3%A0%20chi%E1%BB%81u%20r%E1%BB%99ng%20b%E1%BA%B1ng%2070%25%20khung%20%E1%BA%A3nh%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20r%C3%B5%20r%C3%A0ng.%0A%0APh%E1%BA%A7n%20vi%E1%BB%81n%20xung%20quanh%20c%C3%B3%20nh%E1%BB%AFng%20ch%C3%BA%20m%C3%A8o%20ho%E1%BA%A1t%20h%C3%ACnh%20tinh%20ngh%E1%BB%8Bch%20v%C6%B0%E1%BB%9Bng%20v%C3%A0o%20%C4%91%C3%A8n%20Gi%C3%A1ng%20sinh%2C%20l%C3%A0m%20%C4%91%E1%BB%95%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20leo%20l%C3%AAn%20v%C3%B2ng%20hoa%20v%C3%A0%20nh%C3%ACn%20tr%E1%BB%99m%20t%E1%BB%AB%20c%C3%A1c%20g%C3%B3c%2C%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20ng%C3%A0y%20l%E1%BB%85%20vui%20t%C6%B0%C6%A1i%20v%C3%A0%20h%E1%BB%97n%20lo%E1%BA%A1n.%0A%0AB%E1%BB%91%20c%E1%BB%A5c%20v%E1%BA%ABn%20ph%E1%BA%B3ng%2C%20c%C3%A2n%20%C4%91%E1%BB%91i%20v%C3%A0%20s%E1%BA%B5n%20s%C3%A0ng%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20y%E1%BA%BFu%20t%E1%BB%91%20v%C4%83n%20b%E1%BA%A3n%20n%C3%A0o.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20khung%20%E1%BA%A3nh%20Gi%C3%A1ng%20sinh%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%20theo%20t%E1%BB%B7%20l%E1%BB%87%20d%E1%BB%8Dc%201%3A1.4%2C%20%C4%91%C6%B0%E1%BB%A3c%20minh%20h%E1%BB%8Da%20theo%20phong%20c%C3%A1ch%20nh%C3%A3n%20d%C3%A1n%20ho%E1%BA%A1t%20h%C3%ACnh%20d%E1%BB%85%20th%C6%B0%C6%A1ng%2C%20h%C3%A0i%20h%C6%B0%E1%BB%9Bc.%0A%0AThi%E1%BA%BFt%20k%E1%BA%BF%20ch%E1%BB%89%20t%E1%BA%ADp%20trung%20v%C3%A0o%20ch%C3%ADnh%20khung%20%E1%BA%A3nh%2C%20kh%C3%B4ng%20c%C3%B3%20b%E1%BB%91i%20c%E1%BA%A3nh%20ph%C3%B2ng%2C%20t%C6%B0%E1%BB%9Dng%20ho%E1%BA%B7c%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20xung%20quanh.%20H%C3%ACnh%20minh%20h%E1%BB%8Da%20s%E1%BB%AD%20d%E1%BB%A5ng%20%C4%91%C6%B0%E1%BB%9Dng%20n%C3%A9t%20%C4%91%E1%BA%ADm%2C%20m%C3%A0u%20s%E1%BA%AFc%20nh%E1%BA%B9%20nh%C3%A0ng%20v%C3%A0%20c%C3%A1c%20nh%C3%A2n%20v%E1%BA%ADt%20ho%E1%BA%A1t%20h%C3%ACnh%20bi%E1%BB%83u%20c%E1%BA%A3m.%0A%0A%E1%BB%9E%20ch%C3%ADnh%20gi%E1%BB%AFa%2C%20m%E1%BB%99t%20v%C3%B9ng%20gi%E1%BB%AF%20ch%E1%BB%97%20%E1%BA%A3nh%20tr%E1%BB%91ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C4%83n%20gi%E1%BB%AFa%20theo%20chi%E1%BB%81u%20ngang%20v%C3%A0%20chi%E1%BB%81u%20d%E1%BB%8Dc%2C%20v%E1%BB%9Bi%20t%E1%BB%B7%20l%E1%BB%87%20ch%C3%A2n%20dung%201%3A1.4%20v%C3%A0%20chi%E1%BB%81u%20r%E1%BB%99ng%20b%E1%BA%B1ng%2070%25%20khung%2C%20ho%C3%A0n%20to%C3%A0n%20tr%E1%BB%91ng%20r%E1%BB%97ng%20v%C3%A0%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20r%C3%B5%20r%C3%A0ng.%0A%0APh%E1%BA%A7n%20vi%E1%BB%81n%20xung%20quanh%20c%C3%B3%20nh%E1%BB%AFng%20ch%C3%BA%20m%C3%A8o%20ho%E1%BA%A1t%20h%C3%ACnh%20tinh%20ngh%E1%BB%8Bch%20b%E1%BB%8B%20m%E1%BA%AFc%20v%C3%A0o%20%C4%91%C3%A8n%20Gi%C3%A1ng%20sinh%2C%20l%C3%A0m%20%C4%91%E1%BB%95%20%C4%91%E1%BB%93%20trang%20tr%C3%AD%2C%20leo%20l%C3%AAn%20v%C3%B2ng%20hoa%20v%C3%A0%20nh%C3%ACn%20tr%E1%BB%99m%20t%E1%BB%AB%20c%C3%A1c%20g%C3%B3c%2C%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20ng%C3%A0y%20l%E1%BB%85%20vui%20t%C6%B0%C6%A1i%20v%C3%A0%20h%E1%BB%97n%20lo%E1%BA%A1n.%0A%0AB%E1%BB%91%20c%E1%BB%A5c%20v%E1%BA%ABn%20ph%E1%BA%B3ng%2C%20c%C3%A2n%20%C4%91%E1%BB%91i%20v%C3%A0%20s%E1%BA%B5n%20s%C3%A0ng%20%C4%91%E1%BB%83%20in%2C%20kh%C3%B4ng%20c%C3%B3%20y%E1%BA%BFu%20t%E1%BB%91%20v%C4%83n%20b%E1%BA%A3n%20n%C3%A0o.)**
 
 ---
 
@@ -1134,12 +1134,12 @@ Bố cục vẫn phẳng, cân đối và sẵn sàng để in, không có yếu
 
 #### 📖 Mô tả
 
-Lời nhắc này tạo ra một thiết kế thiệp Giáng sinh dễ thương có thể in được, với hình ảnh một chú gấu koala màu xám đang ôm chặt cây thông Giáng sinh được trang trí. Thật hoàn hảo cho những lời chúc mừng ngày lễ ngọt ngào và đáng yêu với họa tiết mềm mại, giống như tranh vẽ bằng bút chì màu.
+Lời nhắc này tạo ra một thiết kế thiệp Giáng sinh dễ thương có thể in được, với hình ảnh một chú gấu koala màu xám đang ôm chặt cây thông Noel được trang trí. Thẻ này hoàn hảo cho những lời chúc Giáng sinh ngọt ngào và đáng yêu với họa tiết mềm mại, giống như tranh vẽ bằng bút chì màu.
 
 #### 📝 Câu lệnh
 
 ```
-Một thiết kế thiệp Giáng sinh dễ thương có thể in được, tỷ lệ khung hình 1:1.4. Một chú gấu koala màu xám đang bám chặt vào thân cây thông Noel nhỏ, được trang trí thay vì cây bạch đàn, trông mãn nguyện và buồn ngủ. Cây được phủ kim tuyến bạc lấp lánh và những quả châu đầy màu sắc. Chú koala đeo một chiếc nơ nhỏ màu đỏ. Nền màu xanh pastel đồng nhất. Kết cấu vẽ bằng bút chì màu mềm mại.
+Một thiết kế thiệp Giáng sinh dễ thương có thể in được, tỷ lệ khung hình 1:1.4. Một chú gấu koala màu xám đang ôm chặt thân cây thông Noel nhỏ được trang trí thay vì cây bạch đàn, trông mãn nguyện và buồn ngủ. Cây được phủ kim tuyến bạc lấp lánh và những quả châu đầy màu sắc. Chú koala đeo một chiếc nơ nhỏ màu đỏ. Nền màu xanh pastel trơn. Kết cấu tranh vẽ bằng bút chì màu mềm mại.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1157,7 +1157,7 @@ Một thiết kế thiệp Giáng sinh dễ thương có thể in được, tỷ
 - **Đã xuất bản:** 15 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20thi%E1%BA%BFt%20k%E1%BA%BF%20thi%E1%BB%87p%20Gi%C3%A1ng%20sinh%20d%E1%BB%85%20th%C6%B0%C6%A1ng%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4.%20M%E1%BB%99t%20ch%C3%BA%20g%E1%BA%A5u%20koala%20m%C3%A0u%20x%C3%A1m%20%C4%91ang%20b%C3%A1m%20ch%E1%BA%B7t%20v%C3%A0o%20th%C3%A2n%20c%C3%A2y%20th%C3%B4ng%20Noel%20nh%E1%BB%8F%2C%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20thay%20v%C3%AC%20c%C3%A2y%20b%E1%BA%A1ch%20%C4%91%C3%A0n%2C%20tr%C3%B4ng%20m%C3%A3n%20nguy%E1%BB%87n%20v%C3%A0%20bu%E1%BB%93n%20ng%E1%BB%A7.%20C%C3%A2y%20%C4%91%C6%B0%E1%BB%A3c%20ph%E1%BB%A7%20kim%20tuy%E1%BA%BFn%20b%E1%BA%A1c%20l%E1%BA%A5p%20l%C3%A1nh%20v%C3%A0%20nh%E1%BB%AFng%20qu%E1%BA%A3%20ch%C3%A2u%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc.%20Ch%C3%BA%20koala%20%C4%91eo%20m%E1%BB%99t%20chi%E1%BA%BFc%20n%C6%A1%20nh%E1%BB%8F%20m%C3%A0u%20%C4%91%E1%BB%8F.%20N%E1%BB%81n%20m%C3%A0u%20xanh%20pastel%20%C4%91%E1%BB%93ng%20nh%E1%BA%A5t.%20K%E1%BA%BFt%20c%E1%BA%A5u%20v%E1%BA%BD%20b%E1%BA%B1ng%20b%C3%BAt%20ch%C3%AC%20m%C3%A0u%20m%E1%BB%81m%20m%E1%BA%A1i.)**
+**[👉 Thử ngay →](https://youmind.com/tools/christmas-cards-maker?prompt=M%E1%BB%99t%20thi%E1%BA%BFt%20k%E1%BA%BF%20thi%E1%BB%87p%20Gi%C3%A1ng%20sinh%20d%E1%BB%85%20th%C6%B0%C6%A1ng%20c%C3%B3%20th%E1%BB%83%20in%20%C4%91%C6%B0%E1%BB%A3c%2C%20t%E1%BB%B7%20l%E1%BB%87%20khung%20h%C3%ACnh%201%3A1.4.%20M%E1%BB%99t%20ch%C3%BA%20g%E1%BA%A5u%20koala%20m%C3%A0u%20x%C3%A1m%20%C4%91ang%20%C3%B4m%20ch%E1%BA%B7t%20th%C3%A2n%20c%C3%A2y%20th%C3%B4ng%20Noel%20nh%E1%BB%8F%20%C4%91%C6%B0%E1%BB%A3c%20trang%20tr%C3%AD%20thay%20v%C3%AC%20c%C3%A2y%20b%E1%BA%A1ch%20%C4%91%C3%A0n%2C%20tr%C3%B4ng%20m%C3%A3n%20nguy%E1%BB%87n%20v%C3%A0%20bu%E1%BB%93n%20ng%E1%BB%A7.%20C%C3%A2y%20%C4%91%C6%B0%E1%BB%A3c%20ph%E1%BB%A7%20kim%20tuy%E1%BA%BFn%20b%E1%BA%A1c%20l%E1%BA%A5p%20l%C3%A1nh%20v%C3%A0%20nh%E1%BB%AFng%20qu%E1%BA%A3%20ch%C3%A2u%20%C4%91%E1%BA%A7y%20m%C3%A0u%20s%E1%BA%AFc.%20Ch%C3%BA%20koala%20%C4%91eo%20m%E1%BB%99t%20chi%E1%BA%BFc%20n%C6%A1%20nh%E1%BB%8F%20m%C3%A0u%20%C4%91%E1%BB%8F.%20N%E1%BB%81n%20m%C3%A0u%20xanh%20pastel%20tr%C6%A1n.%20K%E1%BA%BFt%20c%E1%BA%A5u%20tranh%20v%E1%BA%BD%20b%E1%BA%B1ng%20b%C3%BAt%20ch%C3%AC%20m%C3%A0u%20m%E1%BB%81m%20m%E1%BA%A1i.)**
 
 ---
 
@@ -5036,6 +5036,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-18T01:22:18.654Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-18T04:32:33.616Z</sub>
 
 </div>
