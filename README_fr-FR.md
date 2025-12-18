@@ -88,7 +88,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **140** |
 | ⭐ En vedette | **6** |
-| 🔄 Dernière mise à jour | **jeudi 18 décembre 2025 à 04:32:48 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 18 décembre 2025 à 08:27:33 UTC** |
 
 </div>
 
@@ -314,7 +314,7 @@ Une carte de Noël mignonne et chaotique, format 1:1,4. Un alpaga blanc et duvet
 
 #### 📖 Description
 
-Cette invite génère un cadre photo de Noël de style animé et ludique, au format vertical 1:1,4. La bordure représente des castors de dessin animé construisant avec enthousiasme et de manière excessive des décorations festives avec un sérieux exagéré, créant un design humoristique et optimisé pour l'impression.
+Cette invite génère un cadre photo de Noël animé et ludique, au format vertical 1:1,4. La bordure représente des castors de dessin animé construisant et sur-ingénierant avec enthousiasme des décorations festives avec un sérieux exagéré, créant un design humoristique optimisé pour l'impression.
 
 #### 📝 Prompt
 
@@ -323,7 +323,7 @@ Un cadre photo de Noël imprimable au format vertical 1:1,4, illustré dans un s
 
 Pas d'environnement, seulement le cadre.
 
-Un emplacement photo vierge est centré, au format 1:1,4, 70 % de la largeur, complètement propre.
+Un emplacement photo vierge est centré, au ratio 1:1,4, 70 % de la largeur, complètement propre.
 
 La bordure représente des castors de dessin animé construisant, martelant et sur-ingénierant avec enthousiasme des décorations festives avec un sérieux exagéré.
 
@@ -345,7 +345,7 @@ Plat, humoristique, optimisé pour l'impression, sans texte.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20anim%C3%A9%20et%20ludique.%0A%0APas%20d'environnement%2C%20seulement%20le%20cadre.%0A%0AUn%20emplacement%20photo%20vierge%20est%20centr%C3%A9%2C%20au%20format%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20compl%C3%A8tement%20propre.%0A%0ALa%20bordure%20repr%C3%A9sente%20des%20castors%20de%20dessin%20anim%C3%A9%20construisant%2C%20martelant%20et%20sur-ing%C3%A9nierant%20avec%20enthousiasme%20des%20d%C3%A9corations%20festives%20avec%20un%20s%C3%A9rieux%20exag%C3%A9r%C3%A9.%0A%0APlat%2C%20humoristique%2C%20optimis%C3%A9%20pour%20l'impression%2C%20sans%20texte.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20anim%C3%A9%20et%20ludique.%0A%0APas%20d'environnement%2C%20seulement%20le%20cadre.%0A%0AUn%20emplacement%20photo%20vierge%20est%20centr%C3%A9%2C%20au%20ratio%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20compl%C3%A8tement%20propre.%0A%0ALa%20bordure%20repr%C3%A9sente%20des%20castors%20de%20dessin%20anim%C3%A9%20construisant%2C%20martelant%20et%20sur-ing%C3%A9nierant%20avec%20enthousiasme%20des%20d%C3%A9corations%20festives%20avec%20un%20s%C3%A9rieux%20exag%C3%A9r%C3%A9.%0A%0APlat%2C%20humoristique%2C%20optimis%C3%A9%20pour%20l'impression%2C%20sans%20texte.)**
 
 ---
 
@@ -355,7 +355,7 @@ Plat, humoristique, optimisé pour l'impression, sans texte.
 
 #### 📖 Description
 
-Ce prompt crée un cadre photo de Noël animé au format vertical 1:1,4. La bordure présente des koalas de dessin animé qui étreignent des ornements et des guirlandes, refusant de les lâcher, créant un humour doux et chaleureux dans un design prêt à imprimer.
+Cette invite crée un cadre photo de Noël animé au format vertical 1:1.4. La bordure présente des koalas de dessin animé qui étreignent des ornements et des guirlandes, refusant de les lâcher, créant un humour doux et chaleureux dans un design prêt à être imprimé.
 
 #### 📝 Prompt
 
@@ -364,9 +364,9 @@ Un cadre photo de Noël animé et imprimable, au format vertical 1:1,4.
 
 Design cadre uniquement.
 
-Un espace réservé pour la photo, vierge, est centré horizontalement et verticalement, au format 1:1,4, avec une largeur de 70 %, entièrement vierge.
+Un espace réservé pour la photo, vierge, est centré horizontalement et verticalement, au format 1:1,4, occupant 70 % de la largeur, complètement intact.
 
-La bordure présente des koalas de dessin animé qui étreignent des ornements, des guirlandes et des cannes de bonbon, refusant de les lâcher, créant un humour doux et chaleureux.
+La bordure représente des koalas de dessin animé étreignant des ornements, des guirlandes et des cannes de bonbon, refusant de les lâcher, créant un humour doux et chaleureux.
 
 Plat, chaleureux, prêt à imprimer, sans texte.
 ```
@@ -386,7 +386,7 @@ Plat, chaleureux, prêt à imprimer, sans texte.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20anim%C3%A9%20et%20imprimable%2C%20au%20format%20vertical%201%3A1%2C4.%0A%0ADesign%20cadre%20uniquement.%0A%0AUn%20espace%20r%C3%A9serv%C3%A9%20pour%20la%20photo%2C%20vierge%2C%20est%20centr%C3%A9%20horizontalement%20et%20verticalement%2C%20au%20format%201%3A1%2C4%2C%20avec%20une%20largeur%20de%2070%20%25%2C%20enti%C3%A8rement%20vierge.%0A%0ALa%20bordure%20pr%C3%A9sente%20des%20koalas%20de%20dessin%20anim%C3%A9%20qui%20%C3%A9treignent%20des%20ornements%2C%20des%20guirlandes%20et%20des%20cannes%20de%20bonbon%2C%20refusant%20de%20les%20l%C3%A2cher%2C%20cr%C3%A9ant%20un%20humour%20doux%20et%20chaleureux.%0A%0APlat%2C%20chaleureux%2C%20pr%C3%AAt%20%C3%A0%20imprimer%2C%20sans%20texte.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20anim%C3%A9%20et%20imprimable%2C%20au%20format%20vertical%201%3A1%2C4.%0A%0ADesign%20cadre%20uniquement.%0A%0AUn%20espace%20r%C3%A9serv%C3%A9%20pour%20la%20photo%2C%20vierge%2C%20est%20centr%C3%A9%20horizontalement%20et%20verticalement%2C%20au%20format%201%3A1%2C4%2C%20occupant%2070%20%25%20de%20la%20largeur%2C%20compl%C3%A8tement%20intact.%0A%0ALa%20bordure%20repr%C3%A9sente%20des%20koalas%20de%20dessin%20anim%C3%A9%20%C3%A9treignant%20des%20ornements%2C%20des%20guirlandes%20et%20des%20cannes%20de%20bonbon%2C%20refusant%20de%20les%20l%C3%A2cher%2C%20cr%C3%A9ant%20un%20humour%20doux%20et%20chaleureux.%0A%0APlat%2C%20chaleureux%2C%20pr%C3%AAt%20%C3%A0%20imprimer%2C%20sans%20texte.)**
 
 ---
 
@@ -401,13 +401,13 @@ Cette invite génère un cadre de Noël humoristique de style animé au format v
 #### 📝 Prompt
 
 ```
-Un cadre de Noël imprimable vertical 1:1,4, illustré dans un style animé humoristique.
+Un cadre de Noël imprimable vertical au format 1:1,4, illustré dans un style animé humoristique.
 
-Seulement le cadre.
+Seul le cadre.
 
-Espace réservé pour photo vierge, centré exactement, 1:1,4, 70 % de la largeur, propre et vide.
+Espace réservé pour photo vierge, centré, au format 1:1,4, 70 % de la largeur, propre et vide.
 
-La bordure représente des hérissons et des écureuils de dessin animé en compétition pour collecter des décorations, causant accidentellement un joyeux chaos sur les bords.
+La bordure représente des hérissons et des écureuils de dessins animés en compétition pour collecter des décorations, provoquant accidentellement un chaos festif sur les bords.
 
 Composition plate, sans texte.
 ```
@@ -427,7 +427,7 @@ Composition plate, sans texte.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20de%20No%C3%ABl%20imprimable%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20anim%C3%A9%20humoristique.%0A%0ASeulement%20le%20cadre.%0A%0AEspace%20r%C3%A9serv%C3%A9%20pour%20photo%20vierge%2C%20centr%C3%A9%20exactement%2C%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20propre%20et%20vide.%0A%0ALa%20bordure%20repr%C3%A9sente%20des%20h%C3%A9rissons%20et%20des%20%C3%A9cureuils%20de%20dessin%20anim%C3%A9%20en%20comp%C3%A9tition%20pour%20collecter%20des%20d%C3%A9corations%2C%20causant%20accidentellement%20un%20joyeux%20chaos%20sur%20les%20bords.%0A%0AComposition%20plate%2C%20sans%20texte.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20de%20No%C3%ABl%20imprimable%20vertical%20au%20format%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20anim%C3%A9%20humoristique.%0A%0ASeul%20le%20cadre.%0A%0AEspace%20r%C3%A9serv%C3%A9%20pour%20photo%20vierge%2C%20centr%C3%A9%2C%20au%20format%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20propre%20et%20vide.%0A%0ALa%20bordure%20repr%C3%A9sente%20des%20h%C3%A9rissons%20et%20des%20%C3%A9cureuils%20de%20dessins%20anim%C3%A9s%20en%20comp%C3%A9tition%20pour%20collecter%20des%20d%C3%A9corations%2C%20provoquant%20accidentellement%20un%20chaos%20festif%20sur%20les%20bords.%0A%0AComposition%20plate%2C%20sans%20texte.)**
 
 ---
 
@@ -437,7 +437,7 @@ Composition plate, sans texte.
 
 #### 📖 Description
 
-Cette invite crée un cadre de Noël humoristique de style dessin animé au format vertical 1:1,4. La bordure présente des caméléons de dessin animé qui tentent sans succès de se fondre dans les décorations, clairement visibles et confus, ajoutant un humour visuel subtil à ce design prêt à imprimer.
+Ce prompt crée un cadre de Noël humoristique de style dessin animé au format vertical 1:1,4. La bordure présente des caméléons de dessin animé qui tentent sans succès de se fondre dans les décorations, clairement visibles et confus, ajoutant un humour visuel subtil au design adapté à l'impression.
 
 #### 📝 Prompt
 
@@ -448,7 +448,7 @@ Illustration du cadre uniquement.
 
 Espace réservé pour photo vierge centré, 1:1,4, 70 % de la largeur, non modifié.
 
-La bordure représente des caméléons de dessin animé tentant sans succès de se fondre dans des ornements, des lumières et des guirlandes, clairement visibles et confus, ajoutant un humour visuel subtil.
+La bordure représente des caméléons de dessin animé tentant en vain de se fondre dans les ornements, les lumières et les guirlandes, clairement visibles et confus, ajoutant un humour visuel subtil.
 
 Plat, facile à imprimer, sans lettrage.
 ```
@@ -468,7 +468,7 @@ Plat, facile à imprimer, sans lettrage.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20style%20dessin%20anim%C3%A9%20humoristique.%0A%0AIllustration%20du%20cadre%20uniquement.%0A%0AEspace%20r%C3%A9serv%C3%A9%20pour%20photo%20vierge%20centr%C3%A9%2C%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20non%20modifi%C3%A9.%0A%0ALa%20bordure%20repr%C3%A9sente%20des%20cam%C3%A9l%C3%A9ons%20de%20dessin%20anim%C3%A9%20tentant%20sans%20succ%C3%A8s%20de%20se%20fondre%20dans%20des%20ornements%2C%20des%20lumi%C3%A8res%20et%20des%20guirlandes%2C%20clairement%20visibles%20et%20confus%2C%20ajoutant%20un%20humour%20visuel%20subtil.%0A%0APlat%2C%20facile%20%C3%A0%20imprimer%2C%20sans%20lettrage.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20style%20dessin%20anim%C3%A9%20humoristique.%0A%0AIllustration%20du%20cadre%20uniquement.%0A%0AEspace%20r%C3%A9serv%C3%A9%20pour%20photo%20vierge%20centr%C3%A9%2C%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20non%20modifi%C3%A9.%0A%0ALa%20bordure%20repr%C3%A9sente%20des%20cam%C3%A9l%C3%A9ons%20de%20dessin%20anim%C3%A9%20tentant%20en%20vain%20de%20se%20fondre%20dans%20les%20ornements%2C%20les%20lumi%C3%A8res%20et%20les%20guirlandes%2C%20clairement%20visibles%20et%20confus%2C%20ajoutant%20un%20humour%20visuel%20subtil.%0A%0APlat%2C%20facile%20%C3%A0%20imprimer%2C%20sans%20lettrage.)**
 
 ---
 
@@ -478,7 +478,7 @@ Plat, facile à imprimer, sans lettrage.
 
 #### 📖 Description
 
-Cette invite crée un cadre de Noël animé de style livre d'histoires au format vertical 1:1,4. La bordure représente des hiboux de dessin animé regardant avec scepticisme des décorations en désordre et jugeant le chaos des fêtes avec un humour pince-sans-rire.
+Cette invite crée un cadre de Noël animé de style livre d'histoires au format vertical 1:1,4. La bordure représente des hiboux de dessin animé regardant avec scepticisme des décorations désordonnées et jugeant le chaos des fêtes avec un humour pince-sans-rire.
 
 #### 📝 Prompt
 
@@ -487,9 +487,9 @@ Une illustration de cadre de Noël imprimable au format vertical 1:1,4, style li
 
 Composition avec cadre uniquement.
 
-Espace réservé pour photo vierge centré, 1:1,4, 70 % de largeur, intact.
+Espace réservé pour photo vierge centré, 1:1,4, 70 % de largeur, non retouché.
 
-La bordure présente des hiboux de dessin animé portant des écharpes et des chapeaux, regardant d'un air sceptique des décorations en désordre, tenant des blocs-notes et jugeant le chaos des fêtes avec un humour sec.
+La bordure présente des hiboux de dessin animé portant des écharpes et des chapeaux, regardant d'un air sceptique des décorations en désordre, tenant des presse-papiers et jugeant le chaos des fêtes avec un humour sec.
 
 Illustration plate, sans texte.
 ```
@@ -509,11 +509,11 @@ Illustration plate, sans texte.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Une%20illustration%20de%20cadre%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20style%20livre%20d'histoires%20anim%C3%A9.%0A%0AComposition%20avec%20cadre%20uniquement.%0A%0AEspace%20r%C3%A9serv%C3%A9%20pour%20photo%20vierge%20centr%C3%A9%2C%201%3A1%2C4%2C%2070%20%25%20de%20largeur%2C%20intact.%0A%0ALa%20bordure%20pr%C3%A9sente%20des%20hiboux%20de%20dessin%20anim%C3%A9%20portant%20des%20%C3%A9charpes%20et%20des%20chapeaux%2C%20regardant%20d'un%20air%20sceptique%20des%20d%C3%A9corations%20en%20d%C3%A9sordre%2C%20tenant%20des%20blocs-notes%20et%20jugeant%20le%20chaos%20des%20f%C3%AAtes%20avec%20un%20humour%20sec.%0A%0AIllustration%20plate%2C%20sans%20texte.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Une%20illustration%20de%20cadre%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20style%20livre%20d'histoires%20anim%C3%A9.%0A%0AComposition%20avec%20cadre%20uniquement.%0A%0AEspace%20r%C3%A9serv%C3%A9%20pour%20photo%20vierge%20centr%C3%A9%2C%201%3A1%2C4%2C%2070%20%25%20de%20largeur%2C%20non%20retouch%C3%A9.%0A%0ALa%20bordure%20pr%C3%A9sente%20des%20hiboux%20de%20dessin%20anim%C3%A9%20portant%20des%20%C3%A9charpes%20et%20des%20chapeaux%2C%20regardant%20d'un%20air%20sceptique%20des%20d%C3%A9corations%20en%20d%C3%A9sordre%2C%20tenant%20des%20presse-papiers%20et%20jugeant%20le%20chaos%20des%20f%C3%AAtes%20avec%20un%20humour%20sec.%0A%0AIllustration%20plate%2C%20sans%20texte.)**
 
 ---
 
-### No. 6: Pieuvre de Noël · Cadre de frénésie à huit bras
+### No. 6: Poulpe de Noël · Cadre de frénésie à huit bras
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -526,9 +526,9 @@ Cette invite génère un cadre photo de Noël humoristique de style dessin anim�
 ```
 Un cadre photo de Noël imprimable au format vertical 1:1,4, illustré dans un style d'animation de dessin animé humoristique.
 
-Seul le design du cadre, pas d'environnement.
+Seul le design du cadre, sans environnement.
 
-Un espace réservé pour la photo est parfaitement centré, au format 1:1,4, 70 % de la largeur, entièrement vide.
+Un espace réservé pour une photo vierge est parfaitement centré, au format 1:1,4, 70 % de la largeur, entièrement vide.
 
 La bordure représente une pieuvre de dessin animé utilisant tous ses bras pour décorer simultanément des ornements, des lumières, des cannes de bonbon et des étoiles, créant un joyeux chaos festif.
 
@@ -540,7 +540,7 @@ Plat, propre, prêt à imprimer, sans typographie.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_" width="600" alt="Pieuvre de Noël · Cadre de frénésie à huit bras - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_" width="600" alt="Poulpe de Noël · Cadre de frénésie à huit bras - Image 1">
 </div>
 
 #### 📌 Détails
@@ -550,7 +550,7 @@ Plat, propre, prêt à imprimer, sans typographie.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20d'animation%20de%20dessin%20anim%C3%A9%20humoristique.%0A%0ASeul%20le%20design%20du%20cadre%2C%20pas%20d'environnement.%0A%0AUn%20espace%20r%C3%A9serv%C3%A9%20pour%20la%20photo%20est%20parfaitement%20centr%C3%A9%2C%20au%20format%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20enti%C3%A8rement%20vide.%0A%0ALa%20bordure%20repr%C3%A9sente%20une%20pieuvre%20de%20dessin%20anim%C3%A9%20utilisant%20tous%20ses%20bras%20pour%20d%C3%A9corer%20simultan%C3%A9ment%20des%20ornements%2C%20des%20lumi%C3%A8res%2C%20des%20cannes%20de%20bonbon%20et%20des%20%C3%A9toiles%2C%20cr%C3%A9ant%20un%20joyeux%20chaos%20festif.%0A%0APlat%2C%20propre%2C%20pr%C3%AAt%20%C3%A0%20imprimer%2C%20sans%20typographie.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20d'animation%20de%20dessin%20anim%C3%A9%20humoristique.%0A%0ASeul%20le%20design%20du%20cadre%2C%20sans%20environnement.%0A%0AUn%20espace%20r%C3%A9serv%C3%A9%20pour%20une%20photo%20vierge%20est%20parfaitement%20centr%C3%A9%2C%20au%20format%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20enti%C3%A8rement%20vide.%0A%0ALa%20bordure%20repr%C3%A9sente%20une%20pieuvre%20de%20dessin%20anim%C3%A9%20utilisant%20tous%20ses%20bras%20pour%20d%C3%A9corer%20simultan%C3%A9ment%20des%20ornements%2C%20des%20lumi%C3%A8res%2C%20des%20cannes%20de%20bonbon%20et%20des%20%C3%A9toiles%2C%20cr%C3%A9ant%20un%20joyeux%20chaos%20festif.%0A%0APlat%2C%20propre%2C%20pr%C3%AAt%20%C3%A0%20imprimer%2C%20sans%20typographie.)**
 
 ---
 
@@ -560,7 +560,7 @@ Plat, propre, prêt à imprimer, sans typographie.
 
 #### 📖 Description
 
-Cette invite crée un cadre de Noël animé au format vertical 1:1,4, mettant en scène un joyeux chaos. La bordure présente des lapins de dessin animé énergiques qui emballent des cadeaux trop vite et trébuchent sur des rubans, ajoutant une touche vivante et humoristique.
+Cette invite crée un cadre de Noël animé au format vertical 1:1,4, mettant en scène un joyeux chaos. La bordure présente des lapins de dessin animé énergiques emballant des cadeaux trop vite et trébuchant sur des rubans, ajoutant une touche vivante et humoristique.
 
 #### 📝 Prompt
 
@@ -569,7 +569,7 @@ Un cadre de Noël animé imprimable au format vertical 1:1,4.
 
 Illustration du cadre uniquement.
 
-Espace réservé pour photo vierge centré, centré horizontalement + verticalement, 1:1,4, 70 % de la largeur, non modifié.
+Espace réservé pour photo vierge centré, centré horizontalement + verticalement, 1:1,4, 70 % de la largeur, intact.
 
 La bordure représente des lapins de dessin animé énergiques emballant des cadeaux trop vite, trébuchant sur des rubans, jonglant avec des ornements et se précipitant sur les bords du cadre.
 
@@ -591,11 +591,11 @@ Chaos ludique, illustration plate, sans texte.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20de%20No%C3%ABl%20anim%C3%A9%20imprimable%20au%20format%20vertical%201%3A1%2C4.%0A%0AIllustration%20du%20cadre%20uniquement.%0A%0AEspace%20r%C3%A9serv%C3%A9%20pour%20photo%20vierge%20centr%C3%A9%2C%20centr%C3%A9%20horizontalement%20%2B%20verticalement%2C%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20non%20modifi%C3%A9.%0A%0ALa%20bordure%20repr%C3%A9sente%20des%20lapins%20de%20dessin%20anim%C3%A9%20%C3%A9nergiques%20emballant%20des%20cadeaux%20trop%20vite%2C%20tr%C3%A9buchant%20sur%20des%20rubans%2C%20jonglant%20avec%20des%20ornements%20et%20se%20pr%C3%A9cipitant%20sur%20les%20bords%20du%20cadre.%0A%0AChaos%20ludique%2C%20illustration%20plate%2C%20sans%20texte.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20de%20No%C3%ABl%20anim%C3%A9%20imprimable%20au%20format%20vertical%201%3A1%2C4.%0A%0AIllustration%20du%20cadre%20uniquement.%0A%0AEspace%20r%C3%A9serv%C3%A9%20pour%20photo%20vierge%20centr%C3%A9%2C%20centr%C3%A9%20horizontalement%20%2B%20verticalement%2C%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20intact.%0A%0ALa%20bordure%20repr%C3%A9sente%20des%20lapins%20de%20dessin%20anim%C3%A9%20%C3%A9nergiques%20emballant%20des%20cadeaux%20trop%20vite%2C%20tr%C3%A9buchant%20sur%20des%20rubans%2C%20jonglant%20avec%20des%20ornements%20et%20se%20pr%C3%A9cipitant%20sur%20les%20bords%20du%20cadre.%0A%0AChaos%20ludique%2C%20illustration%20plate%2C%20sans%20texte.)**
 
 ---
 
-### No. 8: Hérissons de Noël · Cadre de collection pour ornements
+### No. 8: Hérissons de Noël · Cadre de collection d'ornements
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -608,11 +608,11 @@ Cette invite génère un cadre photo de Noël humoristique de style animé, au f
 ```
 Un cadre photo de Noël imprimable au format vertical 1:1,4, illustré dans un style animé humoristique.
 
-Pas d'environnement externe.
+Pas d'environnement extérieur.
 
-Emplacement photo vide, parfaitement centré, 1:1,4, 70 % de la largeur, complètement net.
+Un espace réservé pour la photo, vierge et parfaitement net, au centre exact, au format 1:1,4 et d'une largeur de 70 %.
 
-La bordure du cadre représente des hérissons de dessin animé collectant accidentellement des ornements, des étoiles et des lumières sur leurs piquants, l'air surpris et confus d'une manière mignonne et exagérée.
+La bordure du cadre représente des hérissons de dessin animé qui collectent accidentellement des ornements, des étoiles et des lumières sur leurs piquants, l'air surpris et confus d'une manière mignonne et exagérée.
 
 Plat, optimisé pour l'impression, sans lettrage.
 ```
@@ -622,7 +622,7 @@ Plat, optimisé pour l'impression, sans lettrage.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788195072_7x6vjr_1765783609947-icw1oe-gXUQAAAABJRU5ErkJggg__" width="600" alt="Hérissons de Noël · Cadre de collection pour ornements - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788195072_7x6vjr_1765783609947-icw1oe-gXUQAAAABJRU5ErkJggg__" width="600" alt="Hérissons de Noël · Cadre de collection d'ornements - Image 1">
 </div>
 
 #### 📌 Détails
@@ -632,7 +632,7 @@ Plat, optimisé pour l'impression, sans lettrage.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20anim%C3%A9%20humoristique.%0A%0APas%20d'environnement%20externe.%0A%0AEmplacement%20photo%20vide%2C%20parfaitement%20centr%C3%A9%2C%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20compl%C3%A8tement%20net.%0A%0ALa%20bordure%20du%20cadre%20repr%C3%A9sente%20des%20h%C3%A9rissons%20de%20dessin%20anim%C3%A9%20collectant%20accidentellement%20des%20ornements%2C%20des%20%C3%A9toiles%20et%20des%20lumi%C3%A8res%20sur%20leurs%20piquants%2C%20l'air%20surpris%20et%20confus%20d'une%20mani%C3%A8re%20mignonne%20et%20exag%C3%A9r%C3%A9e.%0A%0APlat%2C%20optimis%C3%A9%20pour%20l'impression%2C%20sans%20lettrage.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20anim%C3%A9%20humoristique.%0A%0APas%20d'environnement%20ext%C3%A9rieur.%0A%0AUn%20espace%20r%C3%A9serv%C3%A9%20pour%20la%20photo%2C%20vierge%20et%20parfaitement%20net%2C%20au%20centre%20exact%2C%20au%20format%201%3A1%2C4%20et%20d'une%20largeur%20de%2070%20%25.%0A%0ALa%20bordure%20du%20cadre%20repr%C3%A9sente%20des%20h%C3%A9rissons%20de%20dessin%20anim%C3%A9%20qui%20collectent%20accidentellement%20des%20ornements%2C%20des%20%C3%A9toiles%20et%20des%20lumi%C3%A8res%20sur%20leurs%20piquants%2C%20l'air%20surpris%20et%20confus%20d'une%20mani%C3%A8re%20mignonne%20et%20exag%C3%A9r%C3%A9e.%0A%0APlat%2C%20optimis%C3%A9%20pour%20l'impression%2C%20sans%20lettrage.)**
 
 ---
 
@@ -642,7 +642,7 @@ Plat, optimisé pour l'impression, sans lettrage.
 
 #### 📖 Description
 
-Cette invite génère un cadre photo de Noël animé et doux, de style livre d'histoires, au format vertical 1:1,4. La bordure présente des pandas de dessin animé décontractés se prélassant sur des ornements et étreignant des cannes de bonbon, créant un humour doux et chaleureux.
+Cette invite génère un cadre photo de Noël animé et doux, de style livre d'histoires, au format vertical 1:1,4. La bordure présente des pandas de dessin animé décontractés, se prélassant sur des ornements et serrant des cannes de bonbon, créant un humour doux et chaleureux.
 
 #### 📝 Prompt
 
@@ -653,7 +653,7 @@ Composition cadre uniquement.
 
 Un espace réservé pour photo vierge orienté verticalement est centré, au format 1:1,4, 70 % de la largeur, complètement vide.
 
-La bordure présente des pandas de dessin animé décontractés se prélassant sur des ornements, étreignant des cannes de bonbon, à moitié endormis dans des décorations festives avec un humour doux.
+La bordure représente des pandas de dessin animé décontractés se prélassant sur des ornements, étreignant des cannes à sucre, à moitié endormis au milieu de décorations festives avec une touche d'humour doux.
 
 Illustration plate, palette chaude, sans texte.
 ```
@@ -673,22 +673,22 @@ Illustration plate, palette chaude, sans texte.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Une%20illustration%20de%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20dessin%C3%A9e%20dans%20un%20style%20de%20livre%20d'histoires%20anim%C3%A9%20et%20doux.%0A%0AComposition%20cadre%20uniquement.%0A%0AUn%20espace%20r%C3%A9serv%C3%A9%20pour%20photo%20vierge%20orient%C3%A9%20verticalement%20est%20centr%C3%A9%2C%20au%20format%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20compl%C3%A8tement%20vide.%0A%0ALa%20bordure%20pr%C3%A9sente%20des%20pandas%20de%20dessin%20anim%C3%A9%20d%C3%A9contract%C3%A9s%20se%20pr%C3%A9lassant%20sur%20des%20ornements%2C%20%C3%A9treignant%20des%20cannes%20de%20bonbon%2C%20%C3%A0%20moiti%C3%A9%20endormis%20dans%20des%20d%C3%A9corations%20festives%20avec%20un%20humour%20doux.%0A%0AIllustration%20plate%2C%20palette%20chaude%2C%20sans%20texte.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Une%20illustration%20de%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20dessin%C3%A9e%20dans%20un%20style%20de%20livre%20d'histoires%20anim%C3%A9%20et%20doux.%0A%0AComposition%20cadre%20uniquement.%0A%0AUn%20espace%20r%C3%A9serv%C3%A9%20pour%20photo%20vierge%20orient%C3%A9%20verticalement%20est%20centr%C3%A9%2C%20au%20format%201%3A1%2C4%2C%2070%20%25%20de%20la%20largeur%2C%20compl%C3%A8tement%20vide.%0A%0ALa%20bordure%20repr%C3%A9sente%20des%20pandas%20de%20dessin%20anim%C3%A9%20d%C3%A9contract%C3%A9s%20se%20pr%C3%A9lassant%20sur%20des%20ornements%2C%20%C3%A9treignant%20des%20cannes%20%C3%A0%20sucre%2C%20%C3%A0%20moiti%C3%A9%20endormis%20au%20milieu%20de%20d%C3%A9corations%20festives%20avec%20une%20touche%20d'humour%20doux.%0A%0AIllustration%20plate%2C%20palette%20chaude%2C%20sans%20texte.)**
 
 ---
 
-### No. 10: Tortues de Noël · Cadre « Take-It-Slow »
+### No. 10: Tortues de Noël · Cadre « Prenez votre temps »
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Cette invite crée un cadre de Noël imprimable vertical au format 1:1,4, dans un style dessin animé à la fois calme et humoristique. La bordure représente des tortues de dessin animé détendues se déplaçant à un rythme exagérément lent, ajoutant une touche d'humour doux et paisible au design.
+Cette invite crée un cadre de Noël imprimable vertical au format 1:1,4, dans un style dessin animé à la fois calme et humoristique. La bordure présente des tortues de dessin animé détendues se déplaçant à un rythme exagérément lent, ajoutant une touche d'humour doux et paisible au design.
 
 #### 📝 Prompt
 
 ```
-Un cadre de Noël vertical au format imprimable 1:1,4, dans un style dessin animé à la fois calme et humoristique.
+Un cadre de Noël vertical au format imprimable 1:1,4, dans un style cartoon calme mais humoristique.
 
 Seule l'illustration du cadre, sans scène d'arrière-plan.
 
@@ -704,7 +704,7 @@ Plat, équilibré, prêt à imprimer, sans texte.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788193159_ioxmaa_1765783608149-8brem0-kCAcQJAzIhi0RAIMVp0Kt0wYCn1BUksOO_vgCY6SvGWFFiQCx8b9gjAmwhqYYioemYQIDKA_P8DD9Kp4aKugaMAAAAASUVORK5CYII_" width="600" alt="Tortues de Noël · Cadre « Take-It-Slow » - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788193159_ioxmaa_1765783608149-8brem0-kCAcQJAzIhi0RAIMVp0Kt0wYCn1BUksOO_vgCY6SvGWFFiQCx8b9gjAmwhqYYioemYQIDKA_P8DD9Kp4aKugaMAAAAASUVORK5CYII_" width="600" alt="Tortues de Noël · Cadre « Prenez votre temps » - Image 1">
 </div>
 
 #### 📌 Détails
@@ -714,11 +714,11 @@ Plat, équilibré, prêt à imprimer, sans texte.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20de%20No%C3%ABl%20vertical%20au%20format%20imprimable%201%3A1%2C4%2C%20dans%20un%20style%20dessin%20anim%C3%A9%20%C3%A0%20la%20fois%20calme%20et%20humoristique.%0A%0ASeule%20l'illustration%20du%20cadre%2C%20sans%20sc%C3%A8ne%20d'arri%C3%A8re-plan.%0A%0AUn%20espace%20r%C3%A9serv%C3%A9%20pour%20photo%20vierge%20est%20parfaitement%20centr%C3%A9%2C%20avec%20un%20rapport%201%3A1%2C4%20et%20une%20largeur%20de%2070%20%25%2C%20intact.%0A%0ALa%20bordure%20est%20d%C3%A9cor%C3%A9e%20de%20tortues%20de%20dessin%20anim%C3%A9%20d%C3%A9contract%C3%A9es%20portant%20des%20%C3%A9charpes%2C%20empilant%20calmement%20des%20ornements%2C%20m%C3%A9ditant%20avec%20des%20lumi%C3%A8res%20de%20No%C3%ABl%20et%20se%20d%C3%A9pla%C3%A7ant%20%C3%A0%20un%20rythme%20exag%C3%A9r%C3%A9ment%20lent.%0A%0APlat%2C%20%C3%A9quilibr%C3%A9%2C%20pr%C3%AAt%20%C3%A0%20imprimer%2C%20sans%20texte.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20de%20No%C3%ABl%20vertical%20au%20format%20imprimable%201%3A1%2C4%2C%20dans%20un%20style%20cartoon%20calme%20mais%20humoristique.%0A%0ASeule%20l'illustration%20du%20cadre%2C%20sans%20sc%C3%A8ne%20d'arri%C3%A8re-plan.%0A%0AUn%20espace%20r%C3%A9serv%C3%A9%20pour%20photo%20vierge%20est%20parfaitement%20centr%C3%A9%2C%20avec%20un%20rapport%201%3A1%2C4%20et%20une%20largeur%20de%2070%20%25%2C%20intact.%0A%0ALa%20bordure%20est%20d%C3%A9cor%C3%A9e%20de%20tortues%20de%20dessin%20anim%C3%A9%20d%C3%A9contract%C3%A9es%20portant%20des%20%C3%A9charpes%2C%20empilant%20calmement%20des%20ornements%2C%20m%C3%A9ditant%20avec%20des%20lumi%C3%A8res%20de%20No%C3%ABl%20et%20se%20d%C3%A9pla%C3%A7ant%20%C3%A0%20un%20rythme%20exag%C3%A9r%C3%A9ment%20lent.%0A%0APlat%2C%20%C3%A9quilibr%C3%A9%2C%20pr%C3%AAt%20%C3%A0%20imprimer%2C%20sans%20texte.)**
 
 ---
 
-### No. 11: Écureuils de Noël · Cadre de frénésie de thésaurisation
+### No. 11: Écureuils de Noël · Cadre de frénésie d'accumulation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -745,7 +745,7 @@ Illustration plate, humour douillet, pas de typographie.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788190847_uts5dc_1765784417851-tvxey7-b_RQnrr59P8BW4BdIdd1RXYAAAAASUVORK5CYII_" width="600" alt="Écureuils de Noël · Cadre de frénésie de thésaurisation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788190847_uts5dc_1765784417851-tvxey7-b_RQnrr59P8BW4BdIdd1RXYAAAAASUVORK5CYII_" width="600" alt="Écureuils de Noël · Cadre de frénésie d'accumulation - Image 1">
 </div>
 
 #### 📌 Détails
@@ -759,24 +759,24 @@ Illustration plate, humour douillet, pas de typographie.
 
 ---
 
-### No. 12: Christmas Monkeys · Cadre Farceur
+### No. 12: Christmas Monkeys · Cadre de Farce
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Cette invite génère un cadre photo de Noël animé et imprimable au format vertical 1:1,4, avec une énergie de dessin animé espiègle. La bordure représente des singes effrontés se balançant sur des guirlandes et volant des étoiles, illustrés dans un style d'animation vif.
+Cette invite génère un cadre photo de Noël animé et imprimable au format vertical 1:1,4, débordant d'une énergie de dessin animé espiègle. La bordure représente des singes effrontés se balançant sur des guirlandes et volant des étoiles, le tout illustré dans un style d'animation vif.
 
 #### 📝 Prompt
 
 ```
-Un cadre photo de Noël animé et imprimable, au format vertical 1:1.4, avec une énergie de dessin animé espiègle.
+Un cadre photo de Noël animé et imprimable, au format vertical 1:1,4, avec une énergie de dessin animé espiègle.
 
 Pas d'environnement, seulement le cadre lui-même.
 
-Un grand espace réservé aux photos, vierge, est centré horizontalement et verticalement, avec un rapport 1:1.4 et une largeur de 70 %, entièrement vide.
+Un grand espace réservé aux photos, vierge, est centré horizontalement et verticalement, avec un rapport 1:1,4 et une largeur de 70 %, entièrement vide.
 
-La bordure du cadre présente des singes de dessin animé effrontés se balançant sur des guirlandes, volant des étoiles, suspendus la tête en bas et faisant des expressions amusantes, illustrés dans un style d'animation vif.
+La bordure du cadre représente des singes de dessin animé effrontés se balançant sur des guirlandes, volant des étoiles, suspendus la tête en bas et faisant des grimaces, illustrés dans un style d'animation vif.
 
 Plat, équilibré, prêt à imprimer, sans texte.
 ```
@@ -786,7 +786,7 @@ Plat, équilibré, prêt à imprimer, sans texte.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788189885_vgajpv_1765783585967-se6gws-P0AAAAASUVORK5CYII_" width="600" alt="Christmas Monkeys · Cadre Farceur - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788189885_vgajpv_1765783585967-se6gws-P0AAAAASUVORK5CYII_" width="600" alt="Christmas Monkeys · Cadre de Farce - Image 1">
 </div>
 
 #### 📌 Détails
@@ -796,7 +796,7 @@ Plat, équilibré, prêt à imprimer, sans texte.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20anim%C3%A9%20et%20imprimable%2C%20au%20format%20vertical%201%3A1.4%2C%20avec%20une%20%C3%A9nergie%20de%20dessin%20anim%C3%A9%20espi%C3%A8gle.%0A%0APas%20d'environnement%2C%20seulement%20le%20cadre%20lui-m%C3%AAme.%0A%0AUn%20grand%20espace%20r%C3%A9serv%C3%A9%20aux%20photos%2C%20vierge%2C%20est%20centr%C3%A9%20horizontalement%20et%20verticalement%2C%20avec%20un%20rapport%201%3A1.4%20et%20une%20largeur%20de%2070%20%25%2C%20enti%C3%A8rement%20vide.%0A%0ALa%20bordure%20du%20cadre%20pr%C3%A9sente%20des%20singes%20de%20dessin%20anim%C3%A9%20effront%C3%A9s%20se%20balan%C3%A7ant%20sur%20des%20guirlandes%2C%20volant%20des%20%C3%A9toiles%2C%20suspendus%20la%20t%C3%AAte%20en%20bas%20et%20faisant%20des%20expressions%20amusantes%2C%20illustr%C3%A9s%20dans%20un%20style%20d'animation%20vif.%0A%0APlat%2C%20%C3%A9quilibr%C3%A9%2C%20pr%C3%AAt%20%C3%A0%20imprimer%2C%20sans%20texte.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20anim%C3%A9%20et%20imprimable%2C%20au%20format%20vertical%201%3A1%2C4%2C%20avec%20une%20%C3%A9nergie%20de%20dessin%20anim%C3%A9%20espi%C3%A8gle.%0A%0APas%20d'environnement%2C%20seulement%20le%20cadre%20lui-m%C3%AAme.%0A%0AUn%20grand%20espace%20r%C3%A9serv%C3%A9%20aux%20photos%2C%20vierge%2C%20est%20centr%C3%A9%20horizontalement%20et%20verticalement%2C%20avec%20un%20rapport%201%3A1%2C4%20et%20une%20largeur%20de%2070%20%25%2C%20enti%C3%A8rement%20vide.%0A%0ALa%20bordure%20du%20cadre%20repr%C3%A9sente%20des%20singes%20de%20dessin%20anim%C3%A9%20effront%C3%A9s%20se%20balan%C3%A7ant%20sur%20des%20guirlandes%2C%20volant%20des%20%C3%A9toiles%2C%20suspendus%20la%20t%C3%AAte%20en%20bas%20et%20faisant%20des%20grimaces%2C%20illustr%C3%A9s%20dans%20un%20style%20d'animation%20vif.%0A%0APlat%2C%20%C3%A9quilibr%C3%A9%2C%20pr%C3%AAt%20%C3%A0%20imprimer%2C%20sans%20texte.)**
 
 ---
 
@@ -817,7 +817,7 @@ L'illustration se concentre uniquement sur le design du cadre.
 
 Au centre exact, inclure une zone de remplacement de photo vierge, centrée horizontalement et verticalement, au format 1:1,4, occupant 70 % de la largeur totale, complètement nette.
 
-La bordure présente des escargots de dessin animé se déplaçant lentement, portant de minuscules bonnets de Père Noël, traînant des ornements, laissant des traînées scintillantes et grimpant sur des décorations festives à un rythme absurdement détendu.
+La bordure présente des escargots de dessin animé se déplaçant lentement, portant de minuscules chapeaux de Père Noël, traînant des ornements, laissant des traînées scintillantes et grimpant sur des décorations festives à un rythme absurdement détendu.
 
 Illustration plate, humour douillet, sans texte.
 ```
@@ -837,7 +837,7 @@ Illustration plate, humour douillet, sans texte.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Une%20illustration%20de%20cadre%20photo%20de%20No%C3%ABl%20imprimable%2C%20au%20format%20vertical%201%3A1%2C4%2C%20dessin%C3%A9e%20dans%20un%20style%20de%20livre%20pour%20enfants%20anim%C3%A9%20et%20humoristique.%0A%0AL'illustration%20se%20concentre%20uniquement%20sur%20le%20design%20du%20cadre.%0A%0AAu%20centre%20exact%2C%20inclure%20une%20zone%20de%20remplacement%20de%20photo%20vierge%2C%20centr%C3%A9e%20horizontalement%20et%20verticalement%2C%20au%20format%201%3A1%2C4%2C%20occupant%2070%20%25%20de%20la%20largeur%20totale%2C%20compl%C3%A8tement%20nette.%0A%0ALa%20bordure%20pr%C3%A9sente%20des%20escargots%20de%20dessin%20anim%C3%A9%20se%20d%C3%A9pla%C3%A7ant%20lentement%2C%20portant%20de%20minuscules%20bonnets%20de%20P%C3%A8re%20No%C3%ABl%2C%20tra%C3%AEnant%20des%20ornements%2C%20laissant%20des%20tra%C3%AEn%C3%A9es%20scintillantes%20et%20grimpant%20sur%20des%20d%C3%A9corations%20festives%20%C3%A0%20un%20rythme%20absurdement%20d%C3%A9tendu.%0A%0AIllustration%20plate%2C%20humour%20douillet%2C%20sans%20texte.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Une%20illustration%20de%20cadre%20photo%20de%20No%C3%ABl%20imprimable%2C%20au%20format%20vertical%201%3A1%2C4%2C%20dessin%C3%A9e%20dans%20un%20style%20de%20livre%20pour%20enfants%20anim%C3%A9%20et%20humoristique.%0A%0AL'illustration%20se%20concentre%20uniquement%20sur%20le%20design%20du%20cadre.%0A%0AAu%20centre%20exact%2C%20inclure%20une%20zone%20de%20remplacement%20de%20photo%20vierge%2C%20centr%C3%A9e%20horizontalement%20et%20verticalement%2C%20au%20format%201%3A1%2C4%2C%20occupant%2070%20%25%20de%20la%20largeur%20totale%2C%20compl%C3%A8tement%20nette.%0A%0ALa%20bordure%20pr%C3%A9sente%20des%20escargots%20de%20dessin%20anim%C3%A9%20se%20d%C3%A9pla%C3%A7ant%20lentement%2C%20portant%20de%20minuscules%20chapeaux%20de%20P%C3%A8re%20No%C3%ABl%2C%20tra%C3%AEnant%20des%20ornements%2C%20laissant%20des%20tra%C3%AEn%C3%A9es%20scintillantes%20et%20grimpant%20sur%20des%20d%C3%A9corations%20festives%20%C3%A0%20un%20rythme%20absurdement%20d%C3%A9tendu.%0A%0AIllustration%20plate%2C%20humour%20douillet%2C%20sans%20texte.)**
 
 ---
 
@@ -847,7 +847,7 @@ Illustration plate, humour douillet, sans texte.
 
 #### 📖 Description
 
-Cette invite génère un cadre photo de Noël imprimable, humoristique et vertical (1:1,4) dans un style d'animation de dessin animé. La bordure du cadre est remplie de chiens de dessin animé excités, emmêlés dans des lumières et renversant des décorations, créant une scène joyeuse et énergique.
+Cette invite génère un cadre photo de Noël imprimable, humoristique et vertical (1:1,4) dans un style d'animation de dessin animé. La bordure du cadre est remplie de chiens de dessin animé excités, emmêlés dans des guirlandes lumineuses et renversant des décorations, créant une scène joyeuse et pleine d'énergie.
 
 #### 📝 Prompt
 
@@ -856,9 +856,9 @@ Un cadre photo de Noël imprimable au format vertical 1:1,4, illustré dans un s
 
 Le design ne montre que le cadre lui-même, sans environnement en arrière-plan.
 
-Un espace réservé pour une photo vierge est prévu au centre horizontal et vertical exact, avec un rapport d'aspect de 1:1,4 et 70 % de la largeur du cadre, entièrement vide et clairement défini.
+Un espace réservé pour une photo vierge est prévu au centre horizontal et vertical exact, avec un rapport d'aspect de 1:1,4 et une largeur de 70 % du cadre, entièrement vide et clairement défini.
 
-La bordure du cadre est remplie de chiens de dessin animé excités, emmêlés dans des guirlandes lumineuses de Noël, poursuivant des ornements, renversant des décorations et portant des pulls de fête surdimensionnés dans des poses exagérées.
+La bordure du cadre est remplie de chiens de dessin animé excités, emmêlés dans des guirlandes lumineuses de Noël, poursuivant des ornements, renversant des décorations et portant des pulls de Noël surdimensionnés dans des poses exagérées.
 
 Joyeux, énergique, plat et optimisé pour l'impression, sans lettrage.
 ```
@@ -878,11 +878,11 @@ Joyeux, énergique, plat et optimisé pour l'impression, sans lettrage.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20d'animation%20de%20dessin%20anim%C3%A9%20humoristique.%0A%0ALe%20design%20ne%20montre%20que%20le%20cadre%20lui-m%C3%AAme%2C%20sans%20environnement%20en%20arri%C3%A8re-plan.%0A%0AUn%20espace%20r%C3%A9serv%C3%A9%20pour%20une%20photo%20vierge%20est%20pr%C3%A9vu%20au%20centre%20horizontal%20et%20vertical%20exact%2C%20avec%20un%20rapport%20d'aspect%20de%201%3A1%2C4%20et%2070%20%25%20de%20la%20largeur%20du%20cadre%2C%20enti%C3%A8rement%20vide%20et%20clairement%20d%C3%A9fini.%0A%0ALa%20bordure%20du%20cadre%20est%20remplie%20de%20chiens%20de%20dessin%20anim%C3%A9%20excit%C3%A9s%2C%20emm%C3%AAl%C3%A9s%20dans%20des%20guirlandes%20lumineuses%20de%20No%C3%ABl%2C%20poursuivant%20des%20ornements%2C%20renversant%20des%20d%C3%A9corations%20et%20portant%20des%20pulls%20de%20f%C3%AAte%20surdimensionn%C3%A9s%20dans%20des%20poses%20exag%C3%A9r%C3%A9es.%0A%0AJoyeux%2C%20%C3%A9nergique%2C%20plat%20et%20optimis%C3%A9%20pour%20l'impression%2C%20sans%20lettrage.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20d'animation%20de%20dessin%20anim%C3%A9%20humoristique.%0A%0ALe%20design%20ne%20montre%20que%20le%20cadre%20lui-m%C3%AAme%2C%20sans%20environnement%20en%20arri%C3%A8re-plan.%0A%0AUn%20espace%20r%C3%A9serv%C3%A9%20pour%20une%20photo%20vierge%20est%20pr%C3%A9vu%20au%20centre%20horizontal%20et%20vertical%20exact%2C%20avec%20un%20rapport%20d'aspect%20de%201%3A1%2C4%20et%20une%20largeur%20de%2070%20%25%20du%20cadre%2C%20enti%C3%A8rement%20vide%20et%20clairement%20d%C3%A9fini.%0A%0ALa%20bordure%20du%20cadre%20est%20remplie%20de%20chiens%20de%20dessin%20anim%C3%A9%20excit%C3%A9s%2C%20emm%C3%AAl%C3%A9s%20dans%20des%20guirlandes%20lumineuses%20de%20No%C3%ABl%2C%20poursuivant%20des%20ornements%2C%20renversant%20des%20d%C3%A9corations%20et%20portant%20des%20pulls%20de%20No%C3%ABl%20surdimensionn%C3%A9s%20dans%20des%20poses%20exag%C3%A9r%C3%A9es.%0A%0AJoyeux%2C%20%C3%A9nergique%2C%20plat%20et%20optimis%C3%A9%20pour%20l'impression%2C%20sans%20lettrage.)**
 
 ---
 
-### No. 15: Ratons Laveurs de Noël · Cadre de Vol Furtif
+### No. 15: Ratons laveurs de Noël · Cadre de vol sournois
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -895,13 +895,13 @@ Cette invite génère une illustration de cadre photo de Noël imprimable mettan
 ```
 Une illustration de cadre photo de Noël imprimable, conçue exclusivement comme un cadre autonome, au format vertical 1:1,4, adaptée à une impression de haute qualité.
 
-L'illustration se concentre uniquement sur le cadre lui-même, sans environnement extérieur ni scène d'arrière-plan. Le style est une illustration de livre d'histoires animée et humoristique avec des contours nets et des textures douces.
+L'illustration se concentre uniquement sur le cadre lui-même, sans environnement extérieur ni scène d'arrière-plan. Le style est une illustration de livre d'histoires animée humoristique avec des contours nets et des textures douces.
 
-Au centre exact du cadre, réservez un espace vide pour une photo, centré horizontalement et verticalement, avec un rapport d'aspect portrait de 1:1,4 et 70 % de la largeur totale du cadre, complètement vide et intact.
+Au centre exact du cadre, réservez un espace vierge pour la photo, centré horizontalement et verticalement, avec un rapport d'aspect portrait de 1:1,4 et 70 % de la largeur totale du cadre, complètement vide et intact.
 
-La bordure du cadre environnante présente des ratons laveurs de dessin animé espiègles volant des ornements, cachant des cannes de bonbon, jetant un coup d'œil depuis les coins et se balançant la tête en bas depuis les guirlandes, créant une ambiance de vacances ludique et chaotique.
+La bordure du cadre environnante présente des ratons laveurs de dessin animé espiègles volant des ornements, cachant des cannes de bonbon, jetant un coup d'œil depuis les coins et se balançant la tête en bas depuis des guirlandes, créant une ambiance de vacances ludique et chaotique.
 
-Composition plate, couleurs adaptées à l'impression, sans texte.
+Composition plate, couleurs adaptées à l'impression, pas de texte.
 ```
 
 #### 🖼️ Images générées
@@ -909,7 +909,7 @@ Composition plate, couleurs adaptées à l'impression, sans texte.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788185612_i3bkv5_1765783888394-phn8ds-uZAAAAAElFTkSuQmCC" width="600" alt="Ratons Laveurs de Noël · Cadre de Vol Furtif - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788185612_i3bkv5_1765783888394-phn8ds-uZAAAAAElFTkSuQmCC" width="600" alt="Ratons laveurs de Noël · Cadre de vol sournois - Image 1">
 </div>
 
 #### 📌 Détails
@@ -919,7 +919,7 @@ Composition plate, couleurs adaptées à l'impression, sans texte.
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Une%20illustration%20de%20cadre%20photo%20de%20No%C3%ABl%20imprimable%2C%20con%C3%A7ue%20exclusivement%20comme%20un%20cadre%20autonome%2C%20au%20format%20vertical%201%3A1%2C4%2C%20adapt%C3%A9e%20%C3%A0%20une%20impression%20de%20haute%20qualit%C3%A9.%0A%0AL'illustration%20se%20concentre%20uniquement%20sur%20le%20cadre%20lui-m%C3%AAme%2C%20sans%20environnement%20ext%C3%A9rieur%20ni%20sc%C3%A8ne%20d'arri%C3%A8re-plan.%20Le%20style%20est%20une%20illustration%20de%20livre%20d'histoires%20anim%C3%A9e%20et%20humoristique%20avec%20des%20contours%20nets%20et%20des%20textures%20douces.%0A%0AAu%20centre%20exact%20du%20cadre%2C%20r%C3%A9servez%20un%20espace%20vide%20pour%20une%20photo%2C%20centr%C3%A9%20horizontalement%20et%20verticalement%2C%20avec%20un%20rapport%20d'aspect%20portrait%20de%201%3A1%2C4%20et%2070%20%25%20de%20la%20largeur%20totale%20du%20cadre%2C%20compl%C3%A8tement%20vide%20et%20intact.%0A%0ALa%20bordure%20du%20cadre%20environnante%20pr%C3%A9sente%20des%20ratons%20laveurs%20de%20dessin%20anim%C3%A9%20espi%C3%A8gles%20volant%20des%20ornements%2C%20cachant%20des%20cannes%20de%20bonbon%2C%20jetant%20un%20coup%20d'%C5%93il%20depuis%20les%20coins%20et%20se%20balan%C3%A7ant%20la%20t%C3%AAte%20en%20bas%20depuis%20les%20guirlandes%2C%20cr%C3%A9ant%20une%20ambiance%20de%20vacances%20ludique%20et%20chaotique.%0A%0AComposition%20plate%2C%20couleurs%20adapt%C3%A9es%20%C3%A0%20l'impression%2C%20sans%20texte.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Une%20illustration%20de%20cadre%20photo%20de%20No%C3%ABl%20imprimable%2C%20con%C3%A7ue%20exclusivement%20comme%20un%20cadre%20autonome%2C%20au%20format%20vertical%201%3A1%2C4%2C%20adapt%C3%A9e%20%C3%A0%20une%20impression%20de%20haute%20qualit%C3%A9.%0A%0AL'illustration%20se%20concentre%20uniquement%20sur%20le%20cadre%20lui-m%C3%AAme%2C%20sans%20environnement%20ext%C3%A9rieur%20ni%20sc%C3%A8ne%20d'arri%C3%A8re-plan.%20Le%20style%20est%20une%20illustration%20de%20livre%20d'histoires%20anim%C3%A9e%20humoristique%20avec%20des%20contours%20nets%20et%20des%20textures%20douces.%0A%0AAu%20centre%20exact%20du%20cadre%2C%20r%C3%A9servez%20un%20espace%20vierge%20pour%20la%20photo%2C%20centr%C3%A9%20horizontalement%20et%20verticalement%2C%20avec%20un%20rapport%20d'aspect%20portrait%20de%201%3A1%2C4%20et%2070%20%25%20de%20la%20largeur%20totale%20du%20cadre%2C%20compl%C3%A8tement%20vide%20et%20intact.%0A%0ALa%20bordure%20du%20cadre%20environnante%20pr%C3%A9sente%20des%20ratons%20laveurs%20de%20dessin%20anim%C3%A9%20espi%C3%A8gles%20volant%20des%20ornements%2C%20cachant%20des%20cannes%20de%20bonbon%2C%20jetant%20un%20coup%20d'%C5%93il%20depuis%20les%20coins%20et%20se%20balan%C3%A7ant%20la%20t%C3%AAte%20en%20bas%20depuis%20des%20guirlandes%2C%20cr%C3%A9ant%20une%20ambiance%20de%20vacances%20ludique%20et%20chaotique.%0A%0AComposition%20plate%2C%20couleurs%20adapt%C3%A9es%20%C3%A0%20l'impression%2C%20pas%20de%20texte.)**
 
 ---
 
@@ -929,7 +929,7 @@ Composition plate, couleurs adaptées à l'impression, sans texte.
 
 #### 📖 Description
 
-Cette invite crée un cadre photo de Noël vertical et imprimable, illustré dans un style d'animation de livre pour enfants charmant et humoristique, mettant en scène des pingouins maladroits. Le design se concentre entièrement sur le cadre lui-même, avec un espace réservé vierge pour la photo, offrant un aspect joyeux, amusant et animé pour l'impression.
+Cette invite crée un cadre photo de Noël vertical et imprimable, illustré dans un style d'animation de livre pour enfants charmant et humoristique, mettant en scène des pingouins maladroits. Le design se concentre entièrement sur le cadre lui-même, avec un espace photo vierge, offrant un aspect joyeux, amusant et animé pour l'impression.
 
 #### 📝 Prompt
 
@@ -938,7 +938,7 @@ Un cadre photo de Noël imprimable au format vertical 1:1,4, illustré dans un s
 
 Le design se concentre entièrement sur le cadre lui-même, avec une illustration plate et sans environnement en arrière-plan.
 
-Un grand espace réservé pour une photo vierge est placé exactement au centre horizontal et vertical, avec un rapport portrait de 1:1,4 et 70 % de la largeur du cadre, intentionnellement vide et clairement séparé de toutes les décorations.
+Un grand espace réservé pour une photo vierge est placé au centre horizontal et vertical exact, avec un rapport portrait de 1:1,4 et 70 % de la largeur du cadre, intentionnellement vide et clairement séparé de toutes les décorations.
 
 La bordure environnante présente des pingouins de dessin animé maladroits qui glissent, empilent des ornements, tiennent des étoiles surdimensionnées et interagissent de manière ludique avec des éléments festifs sur les bords.
 
@@ -960,7 +960,7 @@ Le style général est joyeux, amusant, animé et facile à imprimer, sans texte
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20d'animation%20de%20livre%20pour%20enfants%20charmant%20et%20humoristique.%0A%0ALe%20design%20se%20concentre%20enti%C3%A8rement%20sur%20le%20cadre%20lui-m%C3%AAme%2C%20avec%20une%20illustration%20plate%20et%20sans%20environnement%20en%20arri%C3%A8re-plan.%0A%0AUn%20grand%20espace%20r%C3%A9serv%C3%A9%20pour%20une%20photo%20vierge%20est%20plac%C3%A9%20exactement%20au%20centre%20horizontal%20et%20vertical%2C%20avec%20un%20rapport%20portrait%20de%201%3A1%2C4%20et%2070%20%25%20de%20la%20largeur%20du%20cadre%2C%20intentionnellement%20vide%20et%20clairement%20s%C3%A9par%C3%A9%20de%20toutes%20les%20d%C3%A9corations.%0A%0ALa%20bordure%20environnante%20pr%C3%A9sente%20des%20pingouins%20de%20dessin%20anim%C3%A9%20maladroits%20qui%20glissent%2C%20empilent%20des%20ornements%2C%20tiennent%20des%20%C3%A9toiles%20surdimensionn%C3%A9es%20et%20interagissent%20de%20mani%C3%A8re%20ludique%20avec%20des%20%C3%A9l%C3%A9ments%20festifs%20sur%20les%20bords.%0A%0ALe%20style%20g%C3%A9n%C3%A9ral%20est%20joyeux%2C%20amusant%2C%20anim%C3%A9%20et%20facile%20%C3%A0%20imprimer%2C%20sans%20texte%20ni%20lettrage.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20d'animation%20de%20livre%20pour%20enfants%20charmant%20et%20humoristique.%0A%0ALe%20design%20se%20concentre%20enti%C3%A8rement%20sur%20le%20cadre%20lui-m%C3%AAme%2C%20avec%20une%20illustration%20plate%20et%20sans%20environnement%20en%20arri%C3%A8re-plan.%0A%0AUn%20grand%20espace%20r%C3%A9serv%C3%A9%20pour%20une%20photo%20vierge%20est%20plac%C3%A9%20au%20centre%20horizontal%20et%20vertical%20exact%2C%20avec%20un%20rapport%20portrait%20de%201%3A1%2C4%20et%2070%20%25%20de%20la%20largeur%20du%20cadre%2C%20intentionnellement%20vide%20et%20clairement%20s%C3%A9par%C3%A9%20de%20toutes%20les%20d%C3%A9corations.%0A%0ALa%20bordure%20environnante%20pr%C3%A9sente%20des%20pingouins%20de%20dessin%20anim%C3%A9%20maladroits%20qui%20glissent%2C%20empilent%20des%20ornements%2C%20tiennent%20des%20%C3%A9toiles%20surdimensionn%C3%A9es%20et%20interagissent%20de%20mani%C3%A8re%20ludique%20avec%20des%20%C3%A9l%C3%A9ments%20festifs%20sur%20les%20bords.%0A%0ALe%20style%20g%C3%A9n%C3%A9ral%20est%20joyeux%2C%20amusant%2C%20anim%C3%A9%20et%20facile%20%C3%A0%20imprimer%2C%20sans%20texte%20ni%20lettrage.)**
 
 ---
 
@@ -970,7 +970,7 @@ Le style général est joyeux, amusant, animé et facile à imprimer, sans texte
 
 #### 📖 Description
 
-Cette invite crée une illustration de cadre photo de Noël imprimable dans un style de livre d'histoires animé et humoristique, mettant en scène des personnages de pain d'épices amusants. Le design ne montre que le cadre avec un espace réservé pour une photo vierge, offrant une esthétique humoristique, douillette et fantaisiste pour l'impression.
+Cette invite crée une illustration de cadre photo de Noël imprimable dans un style de livre d'histoires animé et humoristique, mettant en scène des personnages de pain d'épices amusants. Le design ne montre que le cadre avec un espace réservé vierge pour la photo, offrant une esthétique humoristique, douillette et fantaisiste pour l'impression.
 
 #### 📝 Prompt
 
@@ -981,7 +981,7 @@ L'illustration ne montre que le design du cadre, sans aucun environnement extér
 
 Au centre exact, réservez un espace photo vierge, centré horizontalement et verticalement, conservant un rapport d'aspect de 1:1,4 et 70 % de la largeur totale du cadre, complètement vide et dégagé.
 
-La bordure du cadre est décorée de personnages en pain d'épices espiègles prenant des poses amusantes, de biscuits partiellement cassés, de détails de glaçage et de décorations de bonbons, tous dessinés avec des visages de dessins animés expressifs.
+La bordure du cadre est décorée de personnages de pain d'épices espiègles prenant des poses amusantes, de biscuits partiellement cassés, de détails de glaçage et de décorations de bonbons, tous dessinés avec des visages de dessins animés expressifs.
 
 L'ambiance est humoristique, chaleureuse et fantaisiste, entièrement optimisée pour l'impression, sans typographie.
 ```
@@ -1001,7 +1001,7 @@ L'ambiance est humoristique, chaleureuse et fantaisiste, entièrement optimisée
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Une%20illustration%20de%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20cr%C3%A9%C3%A9e%20dans%20un%20style%20de%20livre%20d'histoires%20anim%C3%A9%20et%20humoristique.%0A%0AL'illustration%20ne%20montre%20que%20le%20design%20du%20cadre%2C%20sans%20aucun%20environnement%20ext%C3%A9rieur%20ni%20arri%C3%A8re-plan.%20Les%20couleurs%20sont%20chaudes%20et%20festives%20avec%20une%20texture%20de%20papier%20douce.%0A%0AAu%20centre%20exact%2C%20r%C3%A9servez%20un%20espace%20photo%20vierge%2C%20centr%C3%A9%20horizontalement%20et%20verticalement%2C%20conservant%20un%20rapport%20d'aspect%20de%201%3A1%2C4%20et%2070%20%25%20de%20la%20largeur%20totale%20du%20cadre%2C%20compl%C3%A8tement%20vide%20et%20d%C3%A9gag%C3%A9.%0A%0ALa%20bordure%20du%20cadre%20est%20d%C3%A9cor%C3%A9e%20de%20personnages%20en%20pain%20d'%C3%A9pices%20espi%C3%A8gles%20prenant%20des%20poses%20amusantes%2C%20de%20biscuits%20partiellement%20cass%C3%A9s%2C%20de%20d%C3%A9tails%20de%20gla%C3%A7age%20et%20de%20d%C3%A9corations%20de%20bonbons%2C%20tous%20dessin%C3%A9s%20avec%20des%20visages%20de%20dessins%20anim%C3%A9s%20expressifs.%0A%0AL'ambiance%20est%20humoristique%2C%20chaleureuse%20et%20fantaisiste%2C%20enti%C3%A8rement%20optimis%C3%A9e%20pour%20l'impression%2C%20sans%20typographie.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Une%20illustration%20de%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20cr%C3%A9%C3%A9e%20dans%20un%20style%20de%20livre%20d'histoires%20anim%C3%A9%20et%20humoristique.%0A%0AL'illustration%20ne%20montre%20que%20le%20design%20du%20cadre%2C%20sans%20aucun%20environnement%20ext%C3%A9rieur%20ni%20arri%C3%A8re-plan.%20Les%20couleurs%20sont%20chaudes%20et%20festives%20avec%20une%20texture%20de%20papier%20douce.%0A%0AAu%20centre%20exact%2C%20r%C3%A9servez%20un%20espace%20photo%20vierge%2C%20centr%C3%A9%20horizontalement%20et%20verticalement%2C%20conservant%20un%20rapport%20d'aspect%20de%201%3A1%2C4%20et%2070%20%25%20de%20la%20largeur%20totale%20du%20cadre%2C%20compl%C3%A8tement%20vide%20et%20d%C3%A9gag%C3%A9.%0A%0ALa%20bordure%20du%20cadre%20est%20d%C3%A9cor%C3%A9e%20de%20personnages%20de%20pain%20d'%C3%A9pices%20espi%C3%A8gles%20prenant%20des%20poses%20amusantes%2C%20de%20biscuits%20partiellement%20cass%C3%A9s%2C%20de%20d%C3%A9tails%20de%20gla%C3%A7age%20et%20de%20d%C3%A9corations%20de%20bonbons%2C%20tous%20dessin%C3%A9s%20avec%20des%20visages%20de%20dessins%20anim%C3%A9s%20expressifs.%0A%0AL'ambiance%20est%20humoristique%2C%20chaleureuse%20et%20fantaisiste%2C%20enti%C3%A8rement%20optimis%C3%A9e%20pour%20l'impression%2C%20sans%20typographie.)**
 
 ---
 
@@ -1018,7 +1018,7 @@ Cette invite génère une illustration de cadre photo de Noël imprimable, dans 
 ```
 Une illustration de cadre photo de Noël imprimable, conçue exclusivement comme un cadre autonome, au format vertical 1:1,4, adaptée à une impression de haute qualité.
 
-L'illustration se concentre uniquement sur le cadre lui-même, sans environnement extérieur ni arrière-plan. Le style est une illustration de livre de contes animée et humoristique avec des textures douces, des contours nets et des couleurs chaudes.
+L'illustration se concentre uniquement sur le cadre lui-même, sans environnement extérieur ni scène d'arrière-plan. Le style est une illustration de livre de contes animée et humoristique avec des textures douces, des contours nets et des couleurs chaudes.
 
 Au centre exact du cadre, réservez un espace vide pour une photo, centré horizontalement et verticalement. L'espace réservé a un rapport d'aspect portrait de 1:1,4, sa largeur étant égale à 70 % de la largeur totale du cadre, et doit rester complètement vide et intact.
 
@@ -1042,7 +1042,7 @@ L'illustration est légère, douillette et humoristique, avec une composition pl
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Une%20illustration%20de%20cadre%20photo%20de%20No%C3%ABl%20imprimable%2C%20con%C3%A7ue%20exclusivement%20comme%20un%20cadre%20autonome%2C%20au%20format%20vertical%201%3A1%2C4%2C%20adapt%C3%A9e%20%C3%A0%20une%20impression%20de%20haute%20qualit%C3%A9.%0A%0AL'illustration%20se%20concentre%20uniquement%20sur%20le%20cadre%20lui-m%C3%AAme%2C%20sans%20environnement%20ext%C3%A9rieur%20ni%20arri%C3%A8re-plan.%20Le%20style%20est%20une%20illustration%20de%20livre%20de%20contes%20anim%C3%A9e%20et%20humoristique%20avec%20des%20textures%20douces%2C%20des%20contours%20nets%20et%20des%20couleurs%20chaudes.%0A%0AAu%20centre%20exact%20du%20cadre%2C%20r%C3%A9servez%20un%20espace%20vide%20pour%20une%20photo%2C%20centr%C3%A9%20horizontalement%20et%20verticalement.%20L'espace%20r%C3%A9serv%C3%A9%20a%20un%20rapport%20d'aspect%20portrait%20de%201%3A1%2C4%2C%20sa%20largeur%20%C3%A9tant%20%C3%A9gale%20%C3%A0%2070%20%25%20de%20la%20largeur%20totale%20du%20cadre%2C%20et%20doit%20rester%20compl%C3%A8tement%20vide%20et%20intact.%0A%0ALa%20bordure%20du%20cadre%20pr%C3%A9sente%20des%20paresseux%20de%20dessin%20anim%C3%A9%20espi%C3%A8gles%20suspendus%20%C3%A0%20des%20cannes%20de%20bonbon%2C%20des%20branches%20de%20conif%C3%A8res%20et%20des%20crochets%20festifs.%20Les%20paresseux%20portent%20des%20pulls%20et%20des%20%C3%A9charpes%20en%20tricot%20douillets%2C%20adoptant%20des%20poses%20d%C3%A9tendues%20et%20amusantes.%0A%0AL'illustration%20est%20l%C3%A9g%C3%A8re%2C%20douillette%20et%20humoristique%2C%20avec%20une%20composition%20plate%20et%20des%20couleurs%20adapt%C3%A9es%20%C3%A0%20l'impression%2C%20sans%20texte%20ni%20typographie.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Une%20illustration%20de%20cadre%20photo%20de%20No%C3%ABl%20imprimable%2C%20con%C3%A7ue%20exclusivement%20comme%20un%20cadre%20autonome%2C%20au%20format%20vertical%201%3A1%2C4%2C%20adapt%C3%A9e%20%C3%A0%20une%20impression%20de%20haute%20qualit%C3%A9.%0A%0AL'illustration%20se%20concentre%20uniquement%20sur%20le%20cadre%20lui-m%C3%AAme%2C%20sans%20environnement%20ext%C3%A9rieur%20ni%20sc%C3%A8ne%20d'arri%C3%A8re-plan.%20Le%20style%20est%20une%20illustration%20de%20livre%20de%20contes%20anim%C3%A9e%20et%20humoristique%20avec%20des%20textures%20douces%2C%20des%20contours%20nets%20et%20des%20couleurs%20chaudes.%0A%0AAu%20centre%20exact%20du%20cadre%2C%20r%C3%A9servez%20un%20espace%20vide%20pour%20une%20photo%2C%20centr%C3%A9%20horizontalement%20et%20verticalement.%20L'espace%20r%C3%A9serv%C3%A9%20a%20un%20rapport%20d'aspect%20portrait%20de%201%3A1%2C4%2C%20sa%20largeur%20%C3%A9tant%20%C3%A9gale%20%C3%A0%2070%20%25%20de%20la%20largeur%20totale%20du%20cadre%2C%20et%20doit%20rester%20compl%C3%A8tement%20vide%20et%20intact.%0A%0ALa%20bordure%20du%20cadre%20pr%C3%A9sente%20des%20paresseux%20de%20dessin%20anim%C3%A9%20espi%C3%A8gles%20suspendus%20%C3%A0%20des%20cannes%20de%20bonbon%2C%20des%20branches%20de%20conif%C3%A8res%20et%20des%20crochets%20festifs.%20Les%20paresseux%20portent%20des%20pulls%20et%20des%20%C3%A9charpes%20en%20tricot%20douillets%2C%20adoptant%20des%20poses%20d%C3%A9tendues%20et%20amusantes.%0A%0AL'illustration%20est%20l%C3%A9g%C3%A8re%2C%20douillette%20et%20humoristique%2C%20avec%20une%20composition%20plate%20et%20des%20couleurs%20adapt%C3%A9es%20%C3%A0%20l'impression%2C%20sans%20texte%20ni%20typographie.)**
 
 ---
 
@@ -1052,7 +1052,7 @@ L'illustration est légère, douillette et humoristique, avec une composition pl
 
 #### 📖 Description
 
-Cette invite crée un cadre photo de Noël animé et imprimable, dans un style de dessin animé humoristique, mettant en scène des ours polaires espiègles. Il est conçu uniquement comme une illustration de cadre pour l'impression, avec un espace réservé pour une photo vierge, offrant une esthétique joyeuse, amusante et conviviale pour les photos de vacances.
+Cette invite crée un cadre photo de Noël animé et imprimable, dans un style cartoon humoristique, mettant en scène des ours polaires espiègles. Il est conçu uniquement comme une illustration de cadre pour l'impression, avec un espace réservé pour une photo vierge, offrant une esthétique joyeuse, amusante et conviviale pour les photos de vacances.
 
 #### 📝 Prompt
 
@@ -1061,11 +1061,11 @@ Un cadre photo de Noël animé imprimable au format vertical 1:1,4, conçu uniqu
 
 Le cadre est illustré dans un style de dessin animé humoristique avec des formes arrondies, des personnages expressifs et des ombres douces. Pas d'environnement, pas de scène d'arrière-plan, seulement le design du cadre.
 
-Un emplacement photo vierge est réservé au centre horizontal et vertical exact, avec un rapport d'aspect de 1:1,4 et 70 % de la largeur du cadre, complètement vide et propre.
+Un espace réservé pour une photo vierge est prévu au centre horizontal et vertical exact, avec un rapport d'aspect de 1:1,4 et 70 % de la largeur du cadre, complètement vide et propre.
 
-La bordure est décorée d'ours polaires espiègles qui glissent, jettent un coup d'œil et s'accrochent aux bords du cadre, interagissant avec des cannes de bonbon, des ornements et des boules de neige d'une manière loufoque et exagérée.
+La bordure est décorée d'ours polaires espiègles glissant, jetant un coup d'œil et s'accrochant aux bords du cadre, interagissant avec des cannes de bonbon, des ornements et des boules de neige de manière loufoque et exagérée.
 
-L'ambiance générale est joyeuse, amusante et amicale, optimisée pour une illustration imprimable plate, sans texte.
+L'ambiance générale est joyeuse, amusante et amicale, optimisée pour une illustration imprimable à plat, sans texte.
 ```
 
 #### 🖼️ Images générées
@@ -1083,7 +1083,7 @@ L'ambiance générale est joyeuse, amusante et amicale, optimisée pour une illu
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20anim%C3%A9%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20con%C3%A7u%20uniquement%20comme%20illustration%20de%20cadre%20pour%20l'impression.%0A%0ALe%20cadre%20est%20illustr%C3%A9%20dans%20un%20style%20de%20dessin%20anim%C3%A9%20humoristique%20avec%20des%20formes%20arrondies%2C%20des%20personnages%20expressifs%20et%20des%20ombres%20douces.%20Pas%20d'environnement%2C%20pas%20de%20sc%C3%A8ne%20d'arri%C3%A8re-plan%2C%20seulement%20le%20design%20du%20cadre.%0A%0AUn%20emplacement%20photo%20vierge%20est%20r%C3%A9serv%C3%A9%20au%20centre%20horizontal%20et%20vertical%20exact%2C%20avec%20un%20rapport%20d'aspect%20de%201%3A1%2C4%20et%2070%20%25%20de%20la%20largeur%20du%20cadre%2C%20compl%C3%A8tement%20vide%20et%20propre.%0A%0ALa%20bordure%20est%20d%C3%A9cor%C3%A9e%20d'ours%20polaires%20espi%C3%A8gles%20qui%20glissent%2C%20jettent%20un%20coup%20d'%C5%93il%20et%20s'accrochent%20aux%20bords%20du%20cadre%2C%20interagissant%20avec%20des%20cannes%20de%20bonbon%2C%20des%20ornements%20et%20des%20boules%20de%20neige%20d'une%20mani%C3%A8re%20loufoque%20et%20exag%C3%A9r%C3%A9e.%0A%0AL'ambiance%20g%C3%A9n%C3%A9rale%20est%20joyeuse%2C%20amusante%20et%20amicale%2C%20optimis%C3%A9e%20pour%20une%20illustration%20imprimable%20plate%2C%20sans%20texte.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20anim%C3%A9%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20con%C3%A7u%20uniquement%20comme%20illustration%20de%20cadre%20pour%20l'impression.%0A%0ALe%20cadre%20est%20illustr%C3%A9%20dans%20un%20style%20de%20dessin%20anim%C3%A9%20humoristique%20avec%20des%20formes%20arrondies%2C%20des%20personnages%20expressifs%20et%20des%20ombres%20douces.%20Pas%20d'environnement%2C%20pas%20de%20sc%C3%A8ne%20d'arri%C3%A8re-plan%2C%20seulement%20le%20design%20du%20cadre.%0A%0AUn%20espace%20r%C3%A9serv%C3%A9%20pour%20une%20photo%20vierge%20est%20pr%C3%A9vu%20au%20centre%20horizontal%20et%20vertical%20exact%2C%20avec%20un%20rapport%20d'aspect%20de%201%3A1%2C4%20et%2070%20%25%20de%20la%20largeur%20du%20cadre%2C%20compl%C3%A8tement%20vide%20et%20propre.%0A%0ALa%20bordure%20est%20d%C3%A9cor%C3%A9e%20d'ours%20polaires%20espi%C3%A8gles%20glissant%2C%20jetant%20un%20coup%20d'%C5%93il%20et%20s'accrochant%20aux%20bords%20du%20cadre%2C%20interagissant%20avec%20des%20cannes%20de%20bonbon%2C%20des%20ornements%20et%20des%20boules%20de%20neige%20de%20mani%C3%A8re%20loufoque%20et%20exag%C3%A9r%C3%A9e.%0A%0AL'ambiance%20g%C3%A9n%C3%A9rale%20est%20joyeuse%2C%20amusante%20et%20amicale%2C%20optimis%C3%A9e%20pour%20une%20illustration%20imprimable%20%C3%A0%20plat%2C%20sans%20texte.)**
 
 ---
 
@@ -1102,9 +1102,9 @@ Un cadre photo de Noël imprimable au format vertical 1:1,4, illustré dans un s
 
 Le design se concentre uniquement sur le cadre lui-même, sans pièce, mur ou contexte environnemental. L'illustration utilise des contours audacieux, des couleurs douces et des personnages de dessins animés expressifs.
 
-Au centre exact, un espace réservé pour une photo vierge est centré horizontalement et verticalement, avec un rapport portrait de 1:1,4 et 70 % de la largeur du cadre, complètement vide et clairement défini.
+Au centre exact, un espace réservé pour la photo est centré horizontalement et verticalement, avec un rapport portrait de 1:1,4 et une largeur de 70 % du cadre, complètement vide et clairement défini.
 
-La bordure environnante présente des chats de dessins animés espiègles emmêlés dans des guirlandes lumineuses de Noël, renversant des ornements, grimpant sur des guirlandes et jetant un coup d'œil depuis les coins, créant une ambiance de vacances ludique et chaotique.
+La bordure environnante présente des chats de dessins animés malicieux emmêlés dans des guirlandes lumineuses de Noël, renversant des ornements, grimpant sur des guirlandes et jetant un coup d'œil depuis les coins, créant une ambiance de vacances espiègle et chaotique.
 
 La composition reste plate, équilibrée et prête à être imprimée, sans aucun élément textuel.
 ```
@@ -1124,7 +1124,7 @@ La composition reste plate, équilibrée et prête à être imprimée, sans aucu
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20d'autocollant%20anim%C3%A9%20mignon%20et%20humoristique.%0A%0ALe%20design%20se%20concentre%20uniquement%20sur%20le%20cadre%20lui-m%C3%AAme%2C%20sans%20pi%C3%A8ce%2C%20mur%20ou%20contexte%20environnemental.%20L'illustration%20utilise%20des%20contours%20audacieux%2C%20des%20couleurs%20douces%20et%20des%20personnages%20de%20dessins%20anim%C3%A9s%20expressifs.%0A%0AAu%20centre%20exact%2C%20un%20espace%20r%C3%A9serv%C3%A9%20pour%20une%20photo%20vierge%20est%20centr%C3%A9%20horizontalement%20et%20verticalement%2C%20avec%20un%20rapport%20portrait%20de%201%3A1%2C4%20et%2070%20%25%20de%20la%20largeur%20du%20cadre%2C%20compl%C3%A8tement%20vide%20et%20clairement%20d%C3%A9fini.%0A%0ALa%20bordure%20environnante%20pr%C3%A9sente%20des%20chats%20de%20dessins%20anim%C3%A9s%20espi%C3%A8gles%20emm%C3%AAl%C3%A9s%20dans%20des%20guirlandes%20lumineuses%20de%20No%C3%ABl%2C%20renversant%20des%20ornements%2C%20grimpant%20sur%20des%20guirlandes%20et%20jetant%20un%20coup%20d'%C5%93il%20depuis%20les%20coins%2C%20cr%C3%A9ant%20une%20ambiance%20de%20vacances%20ludique%20et%20chaotique.%0A%0ALa%20composition%20reste%20plate%2C%20%C3%A9quilibr%C3%A9e%20et%20pr%C3%AAte%20%C3%A0%20%C3%AAtre%20imprim%C3%A9e%2C%20sans%20aucun%20%C3%A9l%C3%A9ment%20textuel.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20cadre%20photo%20de%20No%C3%ABl%20imprimable%20au%20format%20vertical%201%3A1%2C4%2C%20illustr%C3%A9%20dans%20un%20style%20d'autocollant%20anim%C3%A9%20mignon%20et%20humoristique.%0A%0ALe%20design%20se%20concentre%20uniquement%20sur%20le%20cadre%20lui-m%C3%AAme%2C%20sans%20pi%C3%A8ce%2C%20mur%20ou%20contexte%20environnemental.%20L'illustration%20utilise%20des%20contours%20audacieux%2C%20des%20couleurs%20douces%20et%20des%20personnages%20de%20dessins%20anim%C3%A9s%20expressifs.%0A%0AAu%20centre%20exact%2C%20un%20espace%20r%C3%A9serv%C3%A9%20pour%20la%20photo%20est%20centr%C3%A9%20horizontalement%20et%20verticalement%2C%20avec%20un%20rapport%20portrait%20de%201%3A1%2C4%20et%20une%20largeur%20de%2070%20%25%20du%20cadre%2C%20compl%C3%A8tement%20vide%20et%20clairement%20d%C3%A9fini.%0A%0ALa%20bordure%20environnante%20pr%C3%A9sente%20des%20chats%20de%20dessins%20anim%C3%A9s%20malicieux%20emm%C3%AAl%C3%A9s%20dans%20des%20guirlandes%20lumineuses%20de%20No%C3%ABl%2C%20renversant%20des%20ornements%2C%20grimpant%20sur%20des%20guirlandes%20et%20jetant%20un%20coup%20d'%C5%93il%20depuis%20les%20coins%2C%20cr%C3%A9ant%20une%20ambiance%20de%20vacances%20espi%C3%A8gle%20et%20chaotique.%0A%0ALa%20composition%20reste%20plate%2C%20%C3%A9quilibr%C3%A9e%20et%20pr%C3%AAte%20%C3%A0%20%C3%AAtre%20imprim%C3%A9e%2C%20sans%20aucun%20%C3%A9l%C3%A9ment%20textuel.)**
 
 ---
 
@@ -1139,7 +1139,7 @@ Cette invite génère un adorable design de carte de Noël imprimable, mettant e
 #### 📝 Prompt
 
 ```
-Un joli modèle de carte de Noël imprimable, format 1:1,4. Un koala gris s'accroche fermement au tronc d'un petit sapin de Noël décoré au lieu d'un eucalyptus, l'air satisfait et endormi. L'arbre est couvert de guirlandes argentées brillantes et de boules colorées. Le koala porte un minuscule nœud papillon rouge. Fond vert pastel uni. Texture douce de dessin au crayon.
+Un joli modèle de carte de Noël imprimable, format 1:1,4. Un koala gris s'accroche fermement au tronc d'un petit sapin de Noël décoré au lieu d'un eucalyptus, l'air content et endormi. L'arbre est recouvert de guirlandes argentées brillantes et de boules colorées. Le koala porte un minuscule nœud papillon rouge. Fond vert pastel uni. Texture de dessin au crayon douce.
 ```
 
 #### 🖼️ Images générées
@@ -1157,7 +1157,7 @@ Un joli modèle de carte de Noël imprimable, format 1:1,4. Un koala gris s'accr
 - **Publié:** 15 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20joli%20mod%C3%A8le%20de%20carte%20de%20No%C3%ABl%20imprimable%2C%20format%201%3A1%2C4.%20Un%20koala%20gris%20s'accroche%20fermement%20au%20tronc%20d'un%20petit%20sapin%20de%20No%C3%ABl%20d%C3%A9cor%C3%A9%20au%20lieu%20d'un%20eucalyptus%2C%20l'air%20satisfait%20et%20endormi.%20L'arbre%20est%20couvert%20de%20guirlandes%20argent%C3%A9es%20brillantes%20et%20de%20boules%20color%C3%A9es.%20Le%20koala%20porte%20un%20minuscule%20n%C5%93ud%20papillon%20rouge.%20Fond%20vert%20pastel%20uni.%20Texture%20douce%20de%20dessin%20au%20crayon.)**
+**[👉 Essayer maintenant →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20joli%20mod%C3%A8le%20de%20carte%20de%20No%C3%ABl%20imprimable%2C%20format%201%3A1%2C4.%20Un%20koala%20gris%20s'accroche%20fermement%20au%20tronc%20d'un%20petit%20sapin%20de%20No%C3%ABl%20d%C3%A9cor%C3%A9%20au%20lieu%20d'un%20eucalyptus%2C%20l'air%20content%20et%20endormi.%20L'arbre%20est%20recouvert%20de%20guirlandes%20argent%C3%A9es%20brillantes%20et%20de%20boules%20color%C3%A9es.%20Le%20koala%20porte%20un%20minuscule%20n%C5%93ud%20papillon%20rouge.%20Fond%20vert%20pastel%20uni.%20Texture%20de%20dessin%20au%20crayon%20douce.)**
 
 ---
 
@@ -5035,6 +5035,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-18T04:32:48.237Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-18T08:27:33.573Z</sub>
 
 </div>

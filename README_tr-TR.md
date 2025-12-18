@@ -88,7 +88,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **140** |
 | ⭐ Öne Çıkan | **6** |
-| 🔄 Son Güncelleme | **18 Aralık 2025 Perşembe 04:32:59 UTC** |
+| 🔄 Son Güncelleme | **18 Aralık 2025 Perşembe 08:27:41 UTC** |
 
 </div>
 
@@ -314,14 +314,14 @@ Sevimli ve kaotik bir Noel kartı, en boy oranı 1:1.4. Tüylü beyaz bir alpaka
 
 #### 📖 Açıklama
 
-Bu bilgi istemi, dikey 1:1.4 formatında, eğlenceli, animasyon tarzı bir Noel fotoğraf çerçevesi oluşturur. Çerçeve, abartılı bir ciddiyetle şenlikli süslemeler inşa eden ve aşırı mühendislik yapan çizgi film kunduzları göstererek mizahi, baskı için optimize edilmiş bir tasarım yaratır.
+Bu istem, dikey 1:1.4 formatında eğlenceli, animasyon tarzı bir Noel fotoğraf çerçevesi oluşturur. Çerçeve, abartılı bir ciddiyetle şenlikli süslemeler inşa eden ve aşırı mühendislik yapan çizgi film kunduzları göstererek mizahi, baskı için optimize edilmiş bir tasarım yaratır.
 
 #### 📝 İstem
 
 ```
-Eğlenceli, animasyonlu tarzda resmedilmiş, dikey 1:1.4 oranında yazdırılabilir bir Noel fotoğraf çerçevesi.
+Şen şakrak animasyon tarzında çizilmiş, dikey 1:1.4 oranında yazdırılabilir bir Noel fotoğraf çerçevesi.
 
-Ortam yok, yalnızca çerçeve.
+Ortam yok, sadece çerçeve.
 
 Ortalanmış, 1:1.4 oranında, %70 genişliğinde, tamamen temiz, boş bir fotoğraf yer tutucu.
 
@@ -345,7 +345,7 @@ Düz, esprili, baskı için optimize edilmiş, metin yok.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=E%C4%9Flenceli%2C%20animasyonlu%20tarzda%20resmedilmi%C5%9F%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0AOrtam%20yok%2C%20yaln%C4%B1zca%20%C3%A7er%C3%A7eve.%0A%0AOrtalanm%C4%B1%C5%9F%2C%201%3A1.4%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20tamamen%20temiz%2C%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu.%0A%0A%C3%87er%C3%A7eve%20kenar%C4%B1nda%2C%20abart%C4%B1l%C4%B1%20bir%20ciddiyetle%20%C5%9Fenlikli%20s%C3%BCslemeler%20in%C5%9Fa%20eden%2C%20%C3%A7eki%C3%A7leyen%20ve%20a%C5%9F%C4%B1r%C4%B1%20m%C3%BChendislik%20yapan%20%C3%A7izgi%20film%20kunduzlar%20co%C5%9Fkuyla%20g%C3%B6steriliyor.%0A%0AD%C3%BCz%2C%20esprili%2C%20bask%C4%B1%20i%C3%A7in%20optimize%20edilmi%C5%9F%2C%20metin%20yok.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=%C5%9Een%20%C5%9Fakrak%20animasyon%20tarz%C4%B1nda%20%C3%A7izilmi%C5%9F%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0AOrtam%20yok%2C%20sadece%20%C3%A7er%C3%A7eve.%0A%0AOrtalanm%C4%B1%C5%9F%2C%201%3A1.4%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20tamamen%20temiz%2C%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu.%0A%0A%C3%87er%C3%A7eve%20kenar%C4%B1nda%2C%20abart%C4%B1l%C4%B1%20bir%20ciddiyetle%20%C5%9Fenlikli%20s%C3%BCslemeler%20in%C5%9Fa%20eden%2C%20%C3%A7eki%C3%A7leyen%20ve%20a%C5%9F%C4%B1r%C4%B1%20m%C3%BChendislik%20yapan%20%C3%A7izgi%20film%20kunduzlar%20co%C5%9Fkuyla%20g%C3%B6steriliyor.%0A%0AD%C3%BCz%2C%20esprili%2C%20bask%C4%B1%20i%C3%A7in%20optimize%20edilmi%C5%9F%2C%20metin%20yok.)**
 
 ---
 
@@ -355,20 +355,20 @@ Düz, esprili, baskı için optimize edilmiş, metin yok.
 
 #### 📖 Açıklama
 
-Bu istem, dikey 1:1.4 formatında hareketli bir Noel fotoğraf çerçevesi oluşturur. Çerçeve, süslemelere ve çelenklere sarılmış, bırakmak istemeyen çizgi film koalaları içerir ve baskıya hazır bir tasarımda nazik, samimi bir mizah yaratır.
+Bu bilgi istemi, dikey 1:1.4 formatında animasyonlu bir Noel fotoğraf çerçevesi oluşturur. Çerçevenin kenarlarında süs eşyalarına ve çelenklere sarılmış, bırakmak istemeyen çizgi film koalalar yer alır ve baskıya hazır bir tasarımda nazik, sıcak bir mizah yaratır.
 
 #### 📝 İstem
 
 ```
-Dikey 1:1.4 formatında, yazdırılabilir, animasyonlu bir Noel fotoğraf çerçevesi.
+Dikey 1:1.4 formatında, yazdırılabilir animasyonlu bir Noel fotoğraf çerçevesi.
 
-Sadece çerçeve tasarımı.
+Yalnızca çerçeve tasarımı.
 
-Ortasında hem yatay hem dikey olarak hizalanmış, 1:1.4 en boy oranına sahip, %70 genişliğinde, tamamen boş bir fotoğraf yer tutucu.
+Boş bir fotoğraf yer tutucu, hem yatay hem de dikey olarak ortalanmış, 1:1.4 en boy oranında, %70 genişliğinde, tamamen dokunulmamış.
 
-Çerçeve kenarlarında süsleri, çelenkleri ve baston şekerleri bırakmayı reddeden, sarılan çizgi film koalalar nazik, samimi bir mizah yaratıyor.
+Kenarlıkta, süs eşyalarına, çelenklere ve şeker kamışlarına sarılmış, bırakmak istemeyen çizgi film koalalar bulunuyor ve nazik, samimi bir mizah yaratıyor.
 
-Düz, sıcak, baskıya hazır, metinsiz.
+Düz, sıcak, baskıya hazır, metin yok.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -386,7 +386,7 @@ Düz, sıcak, baskıya hazır, metinsiz.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20format%C4%B1nda%2C%20yazd%C4%B1r%C4%B1labilir%2C%20animasyonlu%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0ASadece%20%C3%A7er%C3%A7eve%20tasar%C4%B1m%C4%B1.%0A%0AOrtas%C4%B1nda%20hem%20yatay%20hem%20dikey%20olarak%20hizalanm%C4%B1%C5%9F%2C%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20tamamen%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu.%0A%0A%C3%87er%C3%A7eve%20kenarlar%C4%B1nda%20s%C3%BCsleri%2C%20%C3%A7elenkleri%20ve%20baston%20%C5%9Fekerleri%20b%C4%B1rakmay%C4%B1%20reddeden%2C%20sar%C4%B1lan%20%C3%A7izgi%20film%20koalalar%20nazik%2C%20samimi%20bir%20mizah%20yarat%C4%B1yor.%0A%0AD%C3%BCz%2C%20s%C4%B1cak%2C%20bask%C4%B1ya%20haz%C4%B1r%2C%20metinsiz.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20format%C4%B1nda%2C%20yazd%C4%B1r%C4%B1labilir%20animasyonlu%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0AYaln%C4%B1zca%20%C3%A7er%C3%A7eve%20tasar%C4%B1m%C4%B1.%0A%0ABo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%2C%20hem%20yatay%20hem%20de%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20en%20boy%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20tamamen%20dokunulmam%C4%B1%C5%9F.%0A%0AKenarl%C4%B1kta%2C%20s%C3%BCs%20e%C5%9Fyalar%C4%B1na%2C%20%C3%A7elenklere%20ve%20%C5%9Feker%20kam%C4%B1%C5%9Flar%C4%B1na%20sar%C4%B1lm%C4%B1%C5%9F%2C%20b%C4%B1rakmak%20istemeyen%20%C3%A7izgi%20film%20koalalar%20bulunuyor%20ve%20nazik%2C%20samimi%20bir%20mizah%20yarat%C4%B1yor.%0A%0AD%C3%BCz%2C%20s%C4%B1cak%2C%20bask%C4%B1ya%20haz%C4%B1r%2C%20metin%20yok.)**
 
 ---
 
@@ -396,18 +396,18 @@ Düz, sıcak, baskıya hazır, metinsiz.
 
 #### 📖 Açıklama
 
-Bu istem, dikey 1:1.4 formatında esprili, animasyon tarzı bir Noel çerçevesi oluşturur. Çerçevenin kenarlarında, süslemeleri toplamak için yarışan, kazara şenlikli bir kaosa neden olan çizgi film kirpileri ve sincaplar bulunur.
+Bu istem, dikey 1:1.4 formatında esprili, animasyon tarzı bir Noel çerçevesi oluşturur. Çerçeve kenarlarında, süslemeleri toplamak için yarışan, kazara çerçevenin etrafında şenlikli bir kaosa neden olan çizgi film kirpileri ve sincaplar bulunur.
 
 #### 📝 İstem
 
 ```
-Mizahi, animasyonlu tarzda resmedilmiş dikey 1:1.4 oranında yazdırılabilir bir Noel çerçevesi.
+Mizahi, animasyon tarzında çizilmiş, dikey 1:1.4 oranında yazdırılabilir bir Noel çerçevesi.
 
 Sadece çerçevenin kendisi.
 
 Tam ortada boş fotoğraf yer tutucu, 1:1.4 oranında, %70 genişliğinde, temiz ve boş.
 
-Çerçevenin kenarlarında çizgi film kirpiler ve sincaplar süslemeleri toplamak için yarışırken, yanlışlıkla kenarlarda şenlikli bir kaos yaratıyorlar.
+Çerçevenin kenarlarında çizgi film kirpileri ve sincaplar süslemeleri toplamak için yarışıyor, kazara kenarlarda şenlikli bir kaos yaratıyorlar.
 
 Düz kompozisyon, metin yok.
 ```
@@ -427,7 +427,7 @@ Düz kompozisyon, metin yok.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Mizahi%2C%20animasyonlu%20tarzda%20resmedilmi%C5%9F%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20%C3%A7er%C3%A7evesi.%0A%0ASadece%20%C3%A7er%C3%A7evenin%20kendisi.%0A%0ATam%20ortada%20bo%C5%9F%20foto%C4%9Fraf%20yer%20tutucu%2C%201%3A1.4%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20temiz%20ve%20bo%C5%9F.%0A%0A%C3%87er%C3%A7evenin%20kenarlar%C4%B1nda%20%C3%A7izgi%20film%20kirpiler%20ve%20sincaplar%20s%C3%BCslemeleri%20toplamak%20i%C3%A7in%20yar%C4%B1%C5%9F%C4%B1rken%2C%20yanl%C4%B1%C5%9Fl%C4%B1kla%20kenarlarda%20%C5%9Fenlikli%20bir%20kaos%20yarat%C4%B1yorlar.%0A%0AD%C3%BCz%20kompozisyon%2C%20metin%20yok.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Mizahi%2C%20animasyon%20tarz%C4%B1nda%20%C3%A7izilmi%C5%9F%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20%C3%A7er%C3%A7evesi.%0A%0ASadece%20%C3%A7er%C3%A7evenin%20kendisi.%0A%0ATam%20ortada%20bo%C5%9F%20foto%C4%9Fraf%20yer%20tutucu%2C%201%3A1.4%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20temiz%20ve%20bo%C5%9F.%0A%0A%C3%87er%C3%A7evenin%20kenarlar%C4%B1nda%20%C3%A7izgi%20film%20kirpileri%20ve%20sincaplar%20s%C3%BCslemeleri%20toplamak%20i%C3%A7in%20yar%C4%B1%C5%9F%C4%B1yor%2C%20kazara%20kenarlarda%20%C5%9Fenlikli%20bir%20kaos%20yarat%C4%B1yorlar.%0A%0AD%C3%BCz%20kompozisyon%2C%20metin%20yok.)**
 
 ---
 
@@ -448,7 +448,7 @@ Sadece çerçeve illüstrasyonu.
 
 Ortalanmış boş fotoğraf yer tutucusu, 1:1.4 oranında, %70 genişliğinde, dokunulmamış.
 
-Çerçeve kenarlığı, süslemelere, ışıklara ve çelenklere başarısız bir şekilde uyum sağlamaya çalışan, açıkça görünen ve şaşkın çizgi film bukalemunları içeriyor, bu da ince bir görsel mizah katıyor.
+Çerçeve, süslemelere, ışıklara ve çelenklere başarısız bir şekilde uyum sağlamaya çalışan, açıkça görünen ve şaşkın çizgi film bukalemunlarını içeriyor, bu da ince bir görsel mizah katıyor.
 
 Düz, baskıya uygun, yazısız.
 ```
@@ -468,7 +468,7 @@ Düz, baskıya uygun, yazısız.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20oran%C4%B1nda%2C%20esprili%20%C3%A7izgi%20film%20tarz%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20%C3%A7er%C3%A7evesi.%0A%0ASadece%20%C3%A7er%C3%A7eve%20ill%C3%BCstrasyonu.%0A%0AOrtalanm%C4%B1%C5%9F%20bo%C5%9F%20foto%C4%9Fraf%20yer%20tutucusu%2C%201%3A1.4%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20dokunulmam%C4%B1%C5%9F.%0A%0A%C3%87er%C3%A7eve%20kenarl%C4%B1%C4%9F%C4%B1%2C%20s%C3%BCslemelere%2C%20%C4%B1%C5%9F%C4%B1klara%20ve%20%C3%A7elenklere%20ba%C5%9Far%C4%B1s%C4%B1z%20bir%20%C5%9Fekilde%20uyum%20sa%C4%9Flamaya%20%C3%A7al%C4%B1%C5%9Fan%2C%20a%C3%A7%C4%B1k%C3%A7a%20g%C3%B6r%C3%BCnen%20ve%20%C5%9Fa%C5%9Fk%C4%B1n%20%C3%A7izgi%20film%20bukalemunlar%C4%B1%20i%C3%A7eriyor%2C%20bu%20da%20ince%20bir%20g%C3%B6rsel%20mizah%20kat%C4%B1yor.%0A%0AD%C3%BCz%2C%20bask%C4%B1ya%20uygun%2C%20yaz%C4%B1s%C4%B1z.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20oran%C4%B1nda%2C%20esprili%20%C3%A7izgi%20film%20tarz%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20%C3%A7er%C3%A7evesi.%0A%0ASadece%20%C3%A7er%C3%A7eve%20ill%C3%BCstrasyonu.%0A%0AOrtalanm%C4%B1%C5%9F%20bo%C5%9F%20foto%C4%9Fraf%20yer%20tutucusu%2C%201%3A1.4%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20dokunulmam%C4%B1%C5%9F.%0A%0A%C3%87er%C3%A7eve%2C%20s%C3%BCslemelere%2C%20%C4%B1%C5%9F%C4%B1klara%20ve%20%C3%A7elenklere%20ba%C5%9Far%C4%B1s%C4%B1z%20bir%20%C5%9Fekilde%20uyum%20sa%C4%9Flamaya%20%C3%A7al%C4%B1%C5%9Fan%2C%20a%C3%A7%C4%B1k%C3%A7a%20g%C3%B6r%C3%BCnen%20ve%20%C5%9Fa%C5%9Fk%C4%B1n%20%C3%A7izgi%20film%20bukalemunlar%C4%B1n%C4%B1%20i%C3%A7eriyor%2C%20bu%20da%20ince%20bir%20g%C3%B6rsel%20mizah%20kat%C4%B1yor.%0A%0AD%C3%BCz%2C%20bask%C4%B1ya%20uygun%2C%20yaz%C4%B1s%C4%B1z.)**
 
 ---
 
@@ -478,7 +478,7 @@ Düz, baskıya uygun, yazısız.
 
 #### 📖 Açıklama
 
-Bu bilgi istemi, dikey 1:1.4 formatında, animasyonlu bir hikaye kitabı tarzında Noel çerçevesi oluşturur. Çerçeve, dağınık süslemelere şüpheyle bakan ve kuru bir mizahla tatil karmaşasını yargılayan çizgi baykuşları içerir.
+Bu bilgi istemi, dikey 1:1.4 formatında, animasyonlu bir hikaye kitabı tarzında Noel çerçevesi oluşturur. Çerçevenin kenarında, dağınık süslemelere şüpheyle bakan ve kuru bir mizahla tatil karmaşasını yargılayan çizgi baykuşlar bulunur.
 
 #### 📝 İstem
 
@@ -519,18 +519,18 @@ Düz illüstrasyon, metin yok.
 
 #### 📖 Açıklama
 
-Bu bilgi istemi, dikey 1:1.4 formatında mizahi bir çizgi film animasyon tarzı Noel fotoğraf çerçevesi oluşturur. Çerçevenin kenarında, kollarıyla süsleme yapan ve şenlikli bir karmaşa yaratan çizgi film ahtapot yer alıyor.
+Bu bilgi istemi, dikey 1:1.4 formatında mizahi bir çizgi film animasyon tarzı Noel fotoğraf çerçevesi oluşturur. Çerçevenin kenarında, kollarıyla dekorasyon yapan ve şenlikli bir karmaşaya neden olan bir çizgi film ahtapotu bulunur.
 
 #### 📝 İstem
 
 ```
 Mizahi bir çizgi film animasyon tarzında resmedilmiş, dikey 1:1.4 oranında yazdırılabilir bir Noel fotoğraf çerçevesi.
 
-Yalnızca çerçeve tasarımı, ortam yok.
+Yalnızca çerçeve tasarımı, çevre yok.
 
-Boş bir fotoğraf yer tutucu, mükemmel ortalanmış, 1:1.4 oranında, %70 genişliğinde, tamamen boş.
+Boş bir fotoğraf yer tutucu mükemmel bir şekilde ortalanmış, 1:1.4 oranında, %70 genişliğinde, tamamen boş.
 
-Çerçeve kenarında, tüm kollarını süslemeleri, ışıkları, baston şekerleri ve yıldızları aynı anda dekore etmek için kullanan bir çizgi film ahtapotu bulunuyor ve bu da eğlenceli bir şenlik kaosu yaratıyor.
+Çerçevenin kenarında, bir çizgi film ahtapotu tüm kollarını kullanarak aynı anda süslemeler, ışıklar, baston şekerler ve yıldızları dekore ediyor ve bu da eğlenceli bir şenlik kaosu yaratıyor.
 
 Düz, temiz, baskıya hazır, tipografi yok.
 ```
@@ -550,7 +550,7 @@ Düz, temiz, baskıya hazır, tipografi yok.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Mizahi%20bir%20%C3%A7izgi%20film%20animasyon%20tarz%C4%B1nda%20resmedilmi%C5%9F%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0AYaln%C4%B1zca%20%C3%A7er%C3%A7eve%20tasar%C4%B1m%C4%B1%2C%20ortam%20yok.%0A%0ABo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%2C%20m%C3%BCkemmel%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20tamamen%20bo%C5%9F.%0A%0A%C3%87er%C3%A7eve%20kenar%C4%B1nda%2C%20t%C3%BCm%20kollar%C4%B1n%C4%B1%20s%C3%BCslemeleri%2C%20%C4%B1%C5%9F%C4%B1klar%C4%B1%2C%20baston%20%C5%9Fekerleri%20ve%20y%C4%B1ld%C4%B1zlar%C4%B1%20ayn%C4%B1%20anda%20dekore%20etmek%20i%C3%A7in%20kullanan%20bir%20%C3%A7izgi%20film%20ahtapotu%20bulunuyor%20ve%20bu%20da%20e%C4%9Flenceli%20bir%20%C5%9Fenlik%20kaosu%20yarat%C4%B1yor.%0A%0AD%C3%BCz%2C%20temiz%2C%20bask%C4%B1ya%20haz%C4%B1r%2C%20tipografi%20yok.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Mizahi%20bir%20%C3%A7izgi%20film%20animasyon%20tarz%C4%B1nda%20resmedilmi%C5%9F%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0AYaln%C4%B1zca%20%C3%A7er%C3%A7eve%20tasar%C4%B1m%C4%B1%2C%20%C3%A7evre%20yok.%0A%0ABo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%20m%C3%BCkemmel%20bir%20%C5%9Fekilde%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20tamamen%20bo%C5%9F.%0A%0A%C3%87er%C3%A7evenin%20kenar%C4%B1nda%2C%20bir%20%C3%A7izgi%20film%20ahtapotu%20t%C3%BCm%20kollar%C4%B1n%C4%B1%20kullanarak%20ayn%C4%B1%20anda%20s%C3%BCslemeler%2C%20%C4%B1%C5%9F%C4%B1klar%2C%20baston%20%C5%9Fekerler%20ve%20y%C4%B1ld%C4%B1zlar%C4%B1%20dekore%20ediyor%20ve%20bu%20da%20e%C4%9Flenceli%20bir%20%C5%9Fenlik%20kaosu%20yarat%C4%B1yor.%0A%0AD%C3%BCz%2C%20temiz%2C%20bask%C4%B1ya%20haz%C4%B1r%2C%20tipografi%20yok.)**
 
 ---
 
@@ -560,7 +560,7 @@ Düz, temiz, baskıya hazır, tipografi yok.
 
 #### 📖 Açıklama
 
-Bu bilgi istemi, eğlenceli bir kaosa sahip, dikey 1:1.4 formatında hareketli bir Noel çerçevesi oluşturur. Çerçeve, hediyeleri çok hızlı saran ve kurdelelere takılıp düşen enerjik çizgi film tavşanlarını sergileyerek canlı, esprili bir dokunuş katıyor.
+Bu istem, eğlenceli bir kaosa sahip, dikey 1:1.4 formatında animasyonlu bir Noel çerçevesi oluşturur. Kenarlık, hediyeleri çok hızlı saran ve kurdelelere takılan enerjik çizgi film tavşanlarını sergileyerek canlı, esprili bir dokunuş katıyor.
 
 #### 📝 İstem
 
@@ -571,9 +571,9 @@ Yalnızca çerçeve illüstrasyonu.
 
 Ortalanmış boş fotoğraf yer tutucu, yatay + dikey ortalanmış, 1:1.4, %70 genişlik, dokunulmamış.
 
-Çerçeve kenarlarında enerjik çizgi film tavşanları çok hızlı hediye sarıyor, kurdelelere takılıyor, süs eşyalarıyla hokkabazlık yapıyor ve aceleyle koşturuyor.
+Çerçeve, hediyeleri çok hızlı saran, kurdelelere takılan, süs eşyalarıyla hokkabazlık yapan ve çerçevenin kenarlarında koşturan enerjik çizgi film tavşanlarını içeriyor.
 
-Oyuncu kaos, düz illüstrasyon, metin yok.
+Oyunbaz kaos, düz illüstrasyon, metin yok.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -591,24 +591,24 @@ Oyuncu kaos, düz illüstrasyon, metin yok.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20format%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20animasyonlu%20bir%20Noel%20%C3%A7er%C3%A7evesi.%0A%0AYaln%C4%B1zca%20%C3%A7er%C3%A7eve%20ill%C3%BCstrasyonu.%0A%0AOrtalanm%C4%B1%C5%9F%20bo%C5%9F%20foto%C4%9Fraf%20yer%20tutucu%2C%20yatay%20%2B%20dikey%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%2C%20%2570%20geni%C5%9Flik%2C%20dokunulmam%C4%B1%C5%9F.%0A%0A%C3%87er%C3%A7eve%20kenarlar%C4%B1nda%20enerjik%20%C3%A7izgi%20film%20tav%C5%9Fanlar%C4%B1%20%C3%A7ok%20h%C4%B1zl%C4%B1%20hediye%20sar%C4%B1yor%2C%20kurdelelere%20tak%C4%B1l%C4%B1yor%2C%20s%C3%BCs%20e%C5%9Fyalar%C4%B1yla%20hokkabazl%C4%B1k%20yap%C4%B1yor%20ve%20aceleyle%20ko%C5%9Fturuyor.%0A%0AOyuncu%20kaos%2C%20d%C3%BCz%20ill%C3%BCstrasyon%2C%20metin%20yok.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20format%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20animasyonlu%20bir%20Noel%20%C3%A7er%C3%A7evesi.%0A%0AYaln%C4%B1zca%20%C3%A7er%C3%A7eve%20ill%C3%BCstrasyonu.%0A%0AOrtalanm%C4%B1%C5%9F%20bo%C5%9F%20foto%C4%9Fraf%20yer%20tutucu%2C%20yatay%20%2B%20dikey%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%2C%20%2570%20geni%C5%9Flik%2C%20dokunulmam%C4%B1%C5%9F.%0A%0A%C3%87er%C3%A7eve%2C%20hediyeleri%20%C3%A7ok%20h%C4%B1zl%C4%B1%20saran%2C%20kurdelelere%20tak%C4%B1lan%2C%20s%C3%BCs%20e%C5%9Fyalar%C4%B1yla%20hokkabazl%C4%B1k%20yapan%20ve%20%C3%A7er%C3%A7evenin%20kenarlar%C4%B1nda%20ko%C5%9Fturan%20enerjik%20%C3%A7izgi%20film%20tav%C5%9Fanlar%C4%B1n%C4%B1%20i%C3%A7eriyor.%0A%0AOyunbaz%20kaos%2C%20d%C3%BCz%20ill%C3%BCstrasyon%2C%20metin%20yok.)**
 
 ---
 
-### No. 8: Noel Kirpileri · Süs Eşyası Koleksiyon Çerçevesi
+### No. 8: Noel Kirpileri · Süs Koleksiyon Çerçevesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Açıklama
 
-Bu bilgi istemi, dikey 1:1.4 formatında, esprili, animasyon tarzı bir Noel fotoğraf çerçevesi oluşturur. Çerçeve kenarlığı, omurgalarına yanlışlıkla süs eşyaları ve ışıklar toplayan çizgi film kirpileri göstererek sevimli, abartılı görsel mizah katıyor.
+Bu istem, dikey 1:1.4 formatında, mizahi, animasyon tarzı bir Noel fotoğraf çerçevesi oluşturur. Çerçeve kenarlığı, omurgalarında yanlışlıkla süs eşyaları ve ışıklar toplayan çizgi film kirpileri göstererek sevimli, abartılı görsel bir mizah katıyor.
 
 #### 📝 İstem
 
 ```
-Mizahi, animasyonlu bir tarzda resmedilmiş, dikey 1:1.4 oranında yazdırılabilir bir Noel fotoğraf çerçevesi.
+Mizahi, animasyonlu bir tarzda resmedilmiş dikey 1:1.4 oranında yazdırılabilir bir Noel fotoğraf çerçevesi.
 
-Harici bir ortam yok.
+Harici ortam yok.
 
 Tamamen temiz, tam ortada boş fotoğraf yer tutucu, 1:1.4 oranında, %70 genişliğinde.
 
@@ -622,7 +622,7 @@ Düz, baskı için optimize edilmiş, yazı yok.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788195072_7x6vjr_1765783609947-icw1oe-gXUQAAAABJRU5ErkJggg__" width="600" alt="Noel Kirpileri · Süs Eşyası Koleksiyon Çerçevesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788195072_7x6vjr_1765783609947-icw1oe-gXUQAAAABJRU5ErkJggg__" width="600" alt="Noel Kirpileri · Süs Koleksiyon Çerçevesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -632,7 +632,7 @@ Düz, baskı için optimize edilmiş, yazı yok.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Mizahi%2C%20animasyonlu%20bir%20tarzda%20resmedilmi%C5%9F%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0AHarici%20bir%20ortam%20yok.%0A%0ATamamen%20temiz%2C%20tam%20ortada%20bo%C5%9F%20foto%C4%9Fraf%20yer%20tutucu%2C%201%3A1.4%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde.%0A%0A%C3%87er%C3%A7evenin%20kenar%C4%B1%2C%20s%C4%B1rtlar%C4%B1na%20yanl%C4%B1%C5%9Fl%C4%B1kla%20s%C3%BCs%20e%C5%9Fyalar%C4%B1%2C%20y%C4%B1ld%C4%B1zlar%20ve%20%C4%B1%C5%9F%C4%B1klar%20toplayan%2C%20%C5%9Fa%C5%9Fk%C4%B1n%20ve%20kafas%C4%B1%20kar%C4%B1%C5%9Fm%C4%B1%C5%9F%20g%C3%B6r%C3%BCnen%20sevimli%2C%20abart%C4%B1l%C4%B1%20%C3%A7izgi%20film%20kirpileri%20g%C3%B6steriyor.%0A%0AD%C3%BCz%2C%20bask%C4%B1%20i%C3%A7in%20optimize%20edilmi%C5%9F%2C%20yaz%C4%B1%20yok.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Mizahi%2C%20animasyonlu%20bir%20tarzda%20resmedilmi%C5%9F%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0AHarici%20ortam%20yok.%0A%0ATamamen%20temiz%2C%20tam%20ortada%20bo%C5%9F%20foto%C4%9Fraf%20yer%20tutucu%2C%201%3A1.4%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde.%0A%0A%C3%87er%C3%A7evenin%20kenar%C4%B1%2C%20s%C4%B1rtlar%C4%B1na%20yanl%C4%B1%C5%9Fl%C4%B1kla%20s%C3%BCs%20e%C5%9Fyalar%C4%B1%2C%20y%C4%B1ld%C4%B1zlar%20ve%20%C4%B1%C5%9F%C4%B1klar%20toplayan%2C%20%C5%9Fa%C5%9Fk%C4%B1n%20ve%20kafas%C4%B1%20kar%C4%B1%C5%9Fm%C4%B1%C5%9F%20g%C3%B6r%C3%BCnen%20sevimli%2C%20abart%C4%B1l%C4%B1%20%C3%A7izgi%20film%20kirpileri%20g%C3%B6steriyor.%0A%0AD%C3%BCz%2C%20bask%C4%B1%20i%C3%A7in%20optimize%20edilmi%C5%9F%2C%20yaz%C4%B1%20yok.)**
 
 ---
 
@@ -642,18 +642,18 @@ Düz, baskı için optimize edilmiş, yazı yok.
 
 #### 📖 Açıklama
 
-Bu istem, dikey 1:1.4 formatında, yumuşak animasyonlu bir hikaye kitabı tarzı Noel fotoğraf çerçevesi oluşturur. Kenarlıkta, süs eşyaları üzerinde uzanan ve baston şekerlere sarılan sakin çizgi film pandaları yer alarak nazik, samimi bir mizah yaratır.
+Bu istem, dikey 1:1.4 formatında, yumuşak animasyonlu bir hikaye kitabı tarzı Noel fotoğraf çerçevesi oluşturur. Çerçevenin kenarlarında, süs eşyaları üzerinde uzanan ve baston şekerlere sarılan sakin çizgi film pandalar yer alarak nazik, samimi bir mizah yaratır.
 
 #### 📝 İstem
 
 ```
-Dikey 1:1.4 oranında, yumuşak animasyonlu bir hikaye kitabı tarzında çizilmiş, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu.
+Dikey 1:1.4 oranında, yumuşak animasyonlu hikaye kitabı tarzında çizilmiş, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu.
 
 Sadece çerçeve kompozisyonu.
 
-Dikey olarak hizalanmış boş bir fotoğraf yer tutucusu ortalanmış, 1:1.4 en boy oranında, %70 genişliğinde, tamamen boş.
+Dikey yönelimli boş bir fotoğraf yer tutucu ortalanmış, 1:1.4 en boy oranında, %70 genişliğinde, tamamen boş.
 
-Çerçeve kenarında, süslemelerin üzerinde uzanan, şeker kamışlarına sarılan, şenlikli süslemelerin içinde yarı uykulu, nazik bir mizahla tasvir edilmiş rahat karikatür pandalar bulunuyor.
+Çerçeve kenarında, süslemeler üzerinde uzanan, şeker kamışlarına sarılan, şenlikli dekorasyonlar içinde yarı uykulu, nazik bir mizahla tasvir edilmiş rahat karikatür pandalar bulunuyor.
 
 Düz illüstrasyon, sıcak renk paleti, metin yok.
 ```
@@ -673,7 +673,7 @@ Düz illüstrasyon, sıcak renk paleti, metin yok.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20oran%C4%B1nda%2C%20yumu%C5%9Fak%20animasyonlu%20bir%20hikaye%20kitab%C4%B1%20tarz%C4%B1nda%20%C3%A7izilmi%C5%9F%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi%20ill%C3%BCstrasyonu.%0A%0ASadece%20%C3%A7er%C3%A7eve%20kompozisyonu.%0A%0ADikey%20olarak%20hizalanm%C4%B1%C5%9F%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucusu%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20en%20boy%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20tamamen%20bo%C5%9F.%0A%0A%C3%87er%C3%A7eve%20kenar%C4%B1nda%2C%20s%C3%BCslemelerin%20%C3%BCzerinde%20uzanan%2C%20%C5%9Feker%20kam%C4%B1%C5%9Flar%C4%B1na%20sar%C4%B1lan%2C%20%C5%9Fenlikli%20s%C3%BCslemelerin%20i%C3%A7inde%20yar%C4%B1%20uykulu%2C%20nazik%20bir%20mizahla%20tasvir%20edilmi%C5%9F%20rahat%20karikat%C3%BCr%20pandalar%20bulunuyor.%0A%0AD%C3%BCz%20ill%C3%BCstrasyon%2C%20s%C4%B1cak%20renk%20paleti%2C%20metin%20yok.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20oran%C4%B1nda%2C%20yumu%C5%9Fak%20animasyonlu%20hikaye%20kitab%C4%B1%20tarz%C4%B1nda%20%C3%A7izilmi%C5%9F%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi%20ill%C3%BCstrasyonu.%0A%0ASadece%20%C3%A7er%C3%A7eve%20kompozisyonu.%0A%0ADikey%20y%C3%B6nelimli%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20en%20boy%20oran%C4%B1nda%2C%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20tamamen%20bo%C5%9F.%0A%0A%C3%87er%C3%A7eve%20kenar%C4%B1nda%2C%20s%C3%BCslemeler%20%C3%BCzerinde%20uzanan%2C%20%C5%9Feker%20kam%C4%B1%C5%9Flar%C4%B1na%20sar%C4%B1lan%2C%20%C5%9Fenlikli%20dekorasyonlar%20i%C3%A7inde%20yar%C4%B1%20uykulu%2C%20nazik%20bir%20mizahla%20tasvir%20edilmi%C5%9F%20rahat%20karikat%C3%BCr%20pandalar%20bulunuyor.%0A%0AD%C3%BCz%20ill%C3%BCstrasyon%2C%20s%C4%B1cak%20renk%20paleti%2C%20metin%20yok.)**
 
 ---
 
@@ -683,20 +683,20 @@ Düz illüstrasyon, sıcak renk paleti, metin yok.
 
 #### 📖 Açıklama
 
-Bu bilgi istemi, sakin ama mizahi bir çizgi film tarzında dikey, 1:1.4 oranında yazdırılabilir bir Noel çerçevesi oluşturur. Çerçevenin kenarlarında abartılı derecede yavaş hareket eden rahat çizgi film kaplumbağaları bulunur ve tasarıma nazik, huzurlu bir mizah katar.
+Bu bilgi istemi, sakin ama mizahi bir çizgi film tarzında dikey 1:1.4 oranında yazdırılabilir bir Noel çerçevesi oluşturur. Çerçevenin kenarında, abartılı yavaş bir tempoda hareket eden rahat çizgi film kaplumbağaları yer alıyor ve tasarıma nazik, huzurlu bir mizah katıyor.
 
 #### 📝 İstem
 
 ```
-Sakin ama mizahi bir çizgi film tarzında, dikey 1:1.4 oranında yazdırılabilir bir Noel çerçevesi.
+Sakin ama esprili bir çizgi film tarzında, dikey 1:1.4 oranında yazdırılabilir bir Noel çerçevesi.
 
-Sadece çerçeve illüstrasyonu, arka plan sahnesi yok.
+Yalnızca çerçeve çizimi, arka plan sahnesi yok.
 
 Tam ortada, 1:1.4 oranında ve %70 genişliğinde, dokunulmamış boş bir fotoğraf yer tutucu bulunuyor.
 
-Çerçeve, atkı takmış, sakin bir şekilde süs eşyaları istifleyen, tatil ışıklarıyla meditasyon yapan ve abartılı yavaş bir tempoda hareket eden rahat çizgi film kaplumbağalarıyla süslenmiş.
+Çerçeve, atkı takan rahat çizgi film kaplumbağalarıyla süslenmiş; bunlar sakince süs eşyaları istifliyor, tatil ışıklarıyla meditasyon yapıyor ve abartılı yavaş bir tempoda hareket ediyor.
 
-Düz, dengeli, baskıya uygun, metin yok.
+Düz, dengeli, baskıya uygun, metinsiz.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -714,7 +714,7 @@ Düz, dengeli, baskıya uygun, metin yok.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Sakin%20ama%20mizahi%20bir%20%C3%A7izgi%20film%20tarz%C4%B1nda%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20%C3%A7er%C3%A7evesi.%0A%0ASadece%20%C3%A7er%C3%A7eve%20ill%C3%BCstrasyonu%2C%20arka%20plan%20sahnesi%20yok.%0A%0ATam%20ortada%2C%201%3A1.4%20oran%C4%B1nda%20ve%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20dokunulmam%C4%B1%C5%9F%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%20bulunuyor.%0A%0A%C3%87er%C3%A7eve%2C%20atk%C4%B1%20takm%C4%B1%C5%9F%2C%20sakin%20bir%20%C5%9Fekilde%20s%C3%BCs%20e%C5%9Fyalar%C4%B1%20istifleyen%2C%20tatil%20%C4%B1%C5%9F%C4%B1klar%C4%B1yla%20meditasyon%20yapan%20ve%20abart%C4%B1l%C4%B1%20yava%C5%9F%20bir%20tempoda%20hareket%20eden%20rahat%20%C3%A7izgi%20film%20kaplumba%C4%9Falar%C4%B1yla%20s%C3%BCslenmi%C5%9F.%0A%0AD%C3%BCz%2C%20dengeli%2C%20bask%C4%B1ya%20uygun%2C%20metin%20yok.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Sakin%20ama%20esprili%20bir%20%C3%A7izgi%20film%20tarz%C4%B1nda%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20%C3%A7er%C3%A7evesi.%0A%0AYaln%C4%B1zca%20%C3%A7er%C3%A7eve%20%C3%A7izimi%2C%20arka%20plan%20sahnesi%20yok.%0A%0ATam%20ortada%2C%201%3A1.4%20oran%C4%B1nda%20ve%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20dokunulmam%C4%B1%C5%9F%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%20bulunuyor.%0A%0A%C3%87er%C3%A7eve%2C%20atk%C4%B1%20takan%20rahat%20%C3%A7izgi%20film%20kaplumba%C4%9Falar%C4%B1yla%20s%C3%BCslenmi%C5%9F%3B%20bunlar%20sakince%20s%C3%BCs%20e%C5%9Fyalar%C4%B1%20istifliyor%2C%20tatil%20%C4%B1%C5%9F%C4%B1klar%C4%B1yla%20meditasyon%20yap%C4%B1yor%20ve%20abart%C4%B1l%C4%B1%20yava%C5%9F%20bir%20tempoda%20hareket%20ediyor.%0A%0AD%C3%BCz%2C%20dengeli%2C%20bask%C4%B1ya%20uygun%2C%20metinsiz.)**
 
 ---
 
@@ -724,12 +724,12 @@ Düz, dengeli, baskıya uygun, metin yok.
 
 #### 📖 Açıklama
 
-Bu istem, dikey 1:1.4 formatında esprili, animasyonlu bir Noel fotoğraf çerçevesi oluşturur. Çerçeve, süs eşyalarını istifleyen ve çorapları dolduran çılgın çizgi film sincapları içerir ve baskıya uygun tasarıma sıcak bir mizah katar.
+Bu istem, dikey 1:1.4 formatında esprili, animasyonlu bir Noel fotoğraf çerçevesi oluşturur. Çerçeve kenarlığı, süs eşyalarını istifleyen ve çorapları dolduran telaşlı çizgi film sincapları içerir ve baskıya uygun tasarıma sıcak bir mizah katar.
 
 #### 📝 İstem
 
 ```
-Dikey 1:1.4 formatında, esprili animasyon tarzında resmedilmiş, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu.
+Dikey 1:1.4 formatında, esprili animasyon tarzında çizilmiş, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu.
 
 Sadece çerçeve tasarımı, ortam yok.
 
@@ -737,7 +737,7 @@ Ortalanmış boş fotoğraf yer tutucu, yatay ve dikey olarak ortalanmış, 1:1.
 
 Çerçeve kenarında çılgın çizgi film sincapları süs eşyaları biriktiriyor, çorapları dolduruyor, fındıkları yılbaşı toplarının içine saklıyor ve süslemelerin arkasından gergin bir şekilde bakıyor.
 
-Düz illüstrasyon, sıcak mizah, tipografi yok.
+Düz illüstrasyon, sıcak bir mizah, tipografi yok.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -755,7 +755,7 @@ Düz illüstrasyon, sıcak mizah, tipografi yok.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20format%C4%B1nda%2C%20esprili%20animasyon%20tarz%C4%B1nda%20resmedilmi%C5%9F%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi%20ill%C3%BCstrasyonu.%0A%0ASadece%20%C3%A7er%C3%A7eve%20tasar%C4%B1m%C4%B1%2C%20ortam%20yok.%0A%0AOrtalanm%C4%B1%C5%9F%20bo%C5%9F%20foto%C4%9Fraf%20yer%20tutucu%2C%20yatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20en%20boy%20oran%C4%B1%2C%20%2570%20%C3%A7er%C3%A7eve%20geni%C5%9Fli%C4%9Fi%2C%20tamamen%20bo%C5%9F.%0A%0A%C3%87er%C3%A7eve%20kenar%C4%B1nda%20%C3%A7%C4%B1lg%C4%B1n%20%C3%A7izgi%20film%20sincaplar%C4%B1%20s%C3%BCs%20e%C5%9Fyalar%C4%B1%20biriktiriyor%2C%20%C3%A7oraplar%C4%B1%20dolduruyor%2C%20f%C4%B1nd%C4%B1klar%C4%B1%20y%C4%B1lba%C5%9F%C4%B1%20toplar%C4%B1n%C4%B1n%20i%C3%A7ine%20sakl%C4%B1yor%20ve%20s%C3%BCslemelerin%20arkas%C4%B1ndan%20gergin%20bir%20%C5%9Fekilde%20bak%C4%B1yor.%0A%0AD%C3%BCz%20ill%C3%BCstrasyon%2C%20s%C4%B1cak%20mizah%2C%20tipografi%20yok.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20format%C4%B1nda%2C%20esprili%20animasyon%20tarz%C4%B1nda%20%C3%A7izilmi%C5%9F%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi%20ill%C3%BCstrasyonu.%0A%0ASadece%20%C3%A7er%C3%A7eve%20tasar%C4%B1m%C4%B1%2C%20ortam%20yok.%0A%0AOrtalanm%C4%B1%C5%9F%20bo%C5%9F%20foto%C4%9Fraf%20yer%20tutucu%2C%20yatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20en%20boy%20oran%C4%B1%2C%20%2570%20%C3%A7er%C3%A7eve%20geni%C5%9Fli%C4%9Fi%2C%20tamamen%20bo%C5%9F.%0A%0A%C3%87er%C3%A7eve%20kenar%C4%B1nda%20%C3%A7%C4%B1lg%C4%B1n%20%C3%A7izgi%20film%20sincaplar%C4%B1%20s%C3%BCs%20e%C5%9Fyalar%C4%B1%20biriktiriyor%2C%20%C3%A7oraplar%C4%B1%20dolduruyor%2C%20f%C4%B1nd%C4%B1klar%C4%B1%20y%C4%B1lba%C5%9F%C4%B1%20toplar%C4%B1n%C4%B1n%20i%C3%A7ine%20sakl%C4%B1yor%20ve%20s%C3%BCslemelerin%20arkas%C4%B1ndan%20gergin%20bir%20%C5%9Fekilde%20bak%C4%B1yor.%0A%0AD%C3%BCz%20ill%C3%BCstrasyon%2C%20s%C4%B1cak%20bir%20mizah%2C%20tipografi%20yok.)**
 
 ---
 
@@ -765,20 +765,20 @@ Düz illüstrasyon, sıcak mizah, tipografi yok.
 
 #### 📖 Açıklama
 
-Bu istem, eğlenceli çizgi film enerjisine sahip, dikey 1:1.4 oranında yazdırılabilir animasyonlu bir Noel fotoğraf çerçevesi oluşturur. Çerçeve, çelenklerde sallanan ve yıldız çalan yaramaz maymunları canlı bir animasyon tarzında gösterir.
+Bu bilgi istemi, eğlenceli çizgi film enerjisine sahip, dikey 1:1.4 oranında yazdırılabilir, animasyonlu bir Noel fotoğraf çerçevesi oluşturur. Çerçeve, canlı bir animasyon stiliyle çizilmiş, çelenklerde sallanan ve yıldız çalan yaramaz maymunlara sahiptir.
 
 #### 📝 İstem
 
 ```
-Şen şakrak çizgi film enerjisine sahip, dikey 1:1.4 oranında, yazdırılabilir, animasyonlu bir Noel fotoğraf çerçevesi.
+Şen şakrak çizgi film enerjisine sahip, dikey 1:1.4 oranında basılabilir, hareketli bir Noel fotoğraf çerçevesi.
 
 Ortam yok, sadece çerçevenin kendisi.
 
-Yatay ve dikey olarak ortalanmış, 1:1.4 oranında ve %70 genişliğinde, tamamen boş, büyük bir fotoğraf yer tutucusu.
+Yatay ve dikey olarak ortalanmış, 1:1.4 oranında ve %70 genişliğinde, tamamen boş, büyük bir fotoğraf yer tutucu.
 
-Çerçeve kenarlığı, çelenklerde sallanan, yıldız çalan, baş aşağı asılan ve komik ifadeler yapan yaramaz çizgi film maymunlarını canlı bir animasyon tarzında resmediyor.
+Çerçeve kenarlığı, canlı bir animasyon tarzında çizilmiş, çelenklerde sallanan, yıldız çalan, baş aşağı sarkan ve komik ifadeler yapan arsız çizgi film maymunlarını içeriyor.
 
-Düz, dengeli, baskıya hazır, metinsiz.
+Düz, dengeli, baskıya hazır, metin yok.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -796,7 +796,7 @@ Düz, dengeli, baskıya hazır, metinsiz.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=%C5%9Een%20%C5%9Fakrak%20%C3%A7izgi%20film%20enerjisine%20sahip%2C%20dikey%201%3A1.4%20oran%C4%B1nda%2C%20yazd%C4%B1r%C4%B1labilir%2C%20animasyonlu%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0AOrtam%20yok%2C%20sadece%20%C3%A7er%C3%A7evenin%20kendisi.%0A%0AYatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20oran%C4%B1nda%20ve%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20tamamen%20bo%C5%9F%2C%20b%C3%BCy%C3%BCk%20bir%20foto%C4%9Fraf%20yer%20tutucusu.%0A%0A%C3%87er%C3%A7eve%20kenarl%C4%B1%C4%9F%C4%B1%2C%20%C3%A7elenklerde%20sallanan%2C%20y%C4%B1ld%C4%B1z%20%C3%A7alan%2C%20ba%C5%9F%20a%C5%9Fa%C4%9F%C4%B1%20as%C4%B1lan%20ve%20komik%20ifadeler%20yapan%20yaramaz%20%C3%A7izgi%20film%20maymunlar%C4%B1n%C4%B1%20canl%C4%B1%20bir%20animasyon%20tarz%C4%B1nda%20resmediyor.%0A%0AD%C3%BCz%2C%20dengeli%2C%20bask%C4%B1ya%20haz%C4%B1r%2C%20metinsiz.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=%C5%9Een%20%C5%9Fakrak%20%C3%A7izgi%20film%20enerjisine%20sahip%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20bas%C4%B1labilir%2C%20hareketli%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0AOrtam%20yok%2C%20sadece%20%C3%A7er%C3%A7evenin%20kendisi.%0A%0AYatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20oran%C4%B1nda%20ve%20%2570%20geni%C5%9Fli%C4%9Finde%2C%20tamamen%20bo%C5%9F%2C%20b%C3%BCy%C3%BCk%20bir%20foto%C4%9Fraf%20yer%20tutucu.%0A%0A%C3%87er%C3%A7eve%20kenarl%C4%B1%C4%9F%C4%B1%2C%20canl%C4%B1%20bir%20animasyon%20tarz%C4%B1nda%20%C3%A7izilmi%C5%9F%2C%20%C3%A7elenklerde%20sallanan%2C%20y%C4%B1ld%C4%B1z%20%C3%A7alan%2C%20ba%C5%9F%20a%C5%9Fa%C4%9F%C4%B1%20sarkan%20ve%20komik%20ifadeler%20yapan%20ars%C4%B1z%20%C3%A7izgi%20film%20maymunlar%C4%B1n%C4%B1%20i%C3%A7eriyor.%0A%0AD%C3%BCz%2C%20dengeli%2C%20bask%C4%B1ya%20haz%C4%B1r%2C%20metin%20yok.)**
 
 ---
 
@@ -806,18 +806,18 @@ Düz, dengeli, baskıya hazır, metinsiz.
 
 #### 📖 Açıklama
 
-Bu bilgi istemi, yavaş hareket eden çizgi film salyangozlarının süs eşyalarını sürüklediği ve ışıltılı izler bıraktığı, mizahi, animasyonlu bir çocuk kitabı tarzı Noel fotoğraf çerçevesi oluşturur. Dikey 1:1.4 en boy oranına sahiptir ve yalnızca çerçeve tasarımına odaklanır.
+Bu bilgi istemi, yavaş hareket eden çizgi film salyangozlarının süs eşyaları sürüklediği ve ışıltılı izler bıraktığı, mizahi, animasyonlu bir çocuk kitabı tarzında Noel fotoğraf çerçevesi oluşturur. Dikey 1:1.4 en boy oranına sahiptir ve yalnızca çerçeve tasarımına odaklanır.
 
 #### 📝 İstem
 
 ```
-Dikey 1:1.4 en boy oranına sahip, esprili, animasyonlu bir çocuk kitabı tarzında çizilmiş, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu.
+Mizahi bir animasyonlu çocuk kitabı tarzında çizilmiş, dikey 1:1.4 en boy oranına sahip, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu.
 
-İllüstrasyon yalnızca çerçeve tasarımına odaklanmıştır.
+İllüstrasyon yalnızca çerçeve tasarımına odaklanıyor.
 
-Tam ortada, yatay ve dikey olarak ortalanmış, 1:1.4 en boy oranına sahip, toplam genişliğin %70'i oranında, tamamen boş bir fotoğraf yer tutucu alanı bulunmaktadır.
+Tam ortada, yatay ve dikey olarak ortalanmış, 1:1.4 en boy oranına sahip, toplam genişliğin %70'i kadar, tamamen boş bir fotoğraf yer tutucu alanı bulunuyor.
 
-Çerçeve kenarında, minik Noel baba şapkaları takan, süs eşyaları sürükleyen, ışıltılı izler bırakan ve şenlikli dekorasyonlara absürt derecede rahat bir tempoyla tırmanan, yavaş hareket eden çizgi film salyangozları yer almaktadır.
+Çerçeve kenarında, minik Noel baba şapkaları takmış, süs eşyalarını sürükleyen, ışıltılı izler bırakan ve absürt derecede rahat bir tempoda şenlikli süslemelere tırmanan, yavaş hareket eden çizgi film salyangozları yer alıyor.
 
 Düz illüstrasyon, sıcak mizah, metin yok.
 ```
@@ -837,7 +837,7 @@ Düz illüstrasyon, sıcak mizah, metin yok.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20esprili%2C%20animasyonlu%20bir%20%C3%A7ocuk%20kitab%C4%B1%20tarz%C4%B1nda%20%C3%A7izilmi%C5%9F%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi%20ill%C3%BCstrasyonu.%0A%0A%C4%B0ll%C3%BCstrasyon%20yaln%C4%B1zca%20%C3%A7er%C3%A7eve%20tasar%C4%B1m%C4%B1na%20odaklanm%C4%B1%C5%9Ft%C4%B1r.%0A%0ATam%20ortada%2C%20yatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20toplam%20geni%C5%9Fli%C4%9Fin%20%2570'i%20oran%C4%B1nda%2C%20tamamen%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%20alan%C4%B1%20bulunmaktad%C4%B1r.%0A%0A%C3%87er%C3%A7eve%20kenar%C4%B1nda%2C%20minik%20Noel%20baba%20%C5%9Fapkalar%C4%B1%20takan%2C%20s%C3%BCs%20e%C5%9Fyalar%C4%B1%20s%C3%BCr%C3%BCkleyen%2C%20%C4%B1%C5%9F%C4%B1lt%C4%B1l%C4%B1%20izler%20b%C4%B1rakan%20ve%20%C5%9Fenlikli%20dekorasyonlara%20abs%C3%BCrt%20derecede%20rahat%20bir%20tempoyla%20t%C4%B1rmanan%2C%20yava%C5%9F%20hareket%20eden%20%C3%A7izgi%20film%20salyangozlar%C4%B1%20yer%20almaktad%C4%B1r.%0A%0AD%C3%BCz%20ill%C3%BCstrasyon%2C%20s%C4%B1cak%20mizah%2C%20metin%20yok.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Mizahi%20bir%20animasyonlu%20%C3%A7ocuk%20kitab%C4%B1%20tarz%C4%B1nda%20%C3%A7izilmi%C5%9F%2C%20dikey%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi%20ill%C3%BCstrasyonu.%0A%0A%C4%B0ll%C3%BCstrasyon%20yaln%C4%B1zca%20%C3%A7er%C3%A7eve%20tasar%C4%B1m%C4%B1na%20odaklan%C4%B1yor.%0A%0ATam%20ortada%2C%20yatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20toplam%20geni%C5%9Fli%C4%9Fin%20%2570'i%20kadar%2C%20tamamen%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%20alan%C4%B1%20bulunuyor.%0A%0A%C3%87er%C3%A7eve%20kenar%C4%B1nda%2C%20minik%20Noel%20baba%20%C5%9Fapkalar%C4%B1%20takm%C4%B1%C5%9F%2C%20s%C3%BCs%20e%C5%9Fyalar%C4%B1n%C4%B1%20s%C3%BCr%C3%BCkleyen%2C%20%C4%B1%C5%9F%C4%B1lt%C4%B1l%C4%B1%20izler%20b%C4%B1rakan%20ve%20abs%C3%BCrt%20derecede%20rahat%20bir%20tempoda%20%C5%9Fenlikli%20s%C3%BCslemelere%20t%C4%B1rmanan%2C%20yava%C5%9F%20hareket%20eden%20%C3%A7izgi%20film%20salyangozlar%C4%B1%20yer%20al%C4%B1yor.%0A%0AD%C3%BCz%20ill%C3%BCstrasyon%2C%20s%C4%B1cak%20mizah%2C%20metin%20yok.)**
 
 ---
 
@@ -858,7 +858,7 @@ Tasarım, arka plan ortamı olmadan yalnızca çerçevenin kendisini göstermekt
 
 Çerçevenin tam yatay ve dikey merkezinde, 1:1.4 en boy oranına ve çerçevenin %70 genişliğine sahip, tamamen boş ve net bir şekilde tanımlanmış bir fotoğraf yer tutucusu ayrılmıştır.
 
-Çerçeve kenarlığı, Noel ışıklarına dolanmış, süs eşyalarını kovalayan, dekorasyonları deviren ve abartılı pozlarla büyük boy şenlikli kazaklar giyen heyecanlı çizgi film köpekleriyle doludur.
+Çerçeve kenarlığı, Noel ışıklarına dolanmış, süslemeleri kovalayan, dekorasyonları deviren ve abartılı pozlarda büyük boy şenlikli kazaklar giyen heyecanlı çizgi film köpekleriyle doludur.
 
 Neşeli, enerjik, düz ve baskı için optimize edilmiş, yazısız.
 ```
@@ -878,7 +878,7 @@ Neşeli, enerjik, düz ve baskı için optimize edilmiş, yazısız.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Mizahi%20bir%20%C3%A7izgi%20film%20animasyon%20tarz%C4%B1nda%20resmedilmi%C5%9F%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0ATasar%C4%B1m%2C%20arka%20plan%20ortam%C4%B1%20olmadan%20yaln%C4%B1zca%20%C3%A7er%C3%A7evenin%20kendisini%20g%C3%B6stermektedir.%0A%0A%C3%87er%C3%A7evenin%20tam%20yatay%20ve%20dikey%20merkezinde%2C%201%3A1.4%20en%20boy%20oran%C4%B1na%20ve%20%C3%A7er%C3%A7evenin%20%2570%20geni%C5%9Fli%C4%9Fine%20sahip%2C%20tamamen%20bo%C5%9F%20ve%20net%20bir%20%C5%9Fekilde%20tan%C4%B1mlanm%C4%B1%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucusu%20ayr%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%0A%0A%C3%87er%C3%A7eve%20kenarl%C4%B1%C4%9F%C4%B1%2C%20Noel%20%C4%B1%C5%9F%C4%B1klar%C4%B1na%20dolanm%C4%B1%C5%9F%2C%20s%C3%BCs%20e%C5%9Fyalar%C4%B1n%C4%B1%20kovalayan%2C%20dekorasyonlar%C4%B1%20deviren%20ve%20abart%C4%B1l%C4%B1%20pozlarla%20b%C3%BCy%C3%BCk%20boy%20%C5%9Fenlikli%20kazaklar%20giyen%20heyecanl%C4%B1%20%C3%A7izgi%20film%20k%C3%B6pekleriyle%20doludur.%0A%0ANe%C5%9Feli%2C%20enerjik%2C%20d%C3%BCz%20ve%20bask%C4%B1%20i%C3%A7in%20optimize%20edilmi%C5%9F%2C%20yaz%C4%B1s%C4%B1z.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Mizahi%20bir%20%C3%A7izgi%20film%20animasyon%20tarz%C4%B1nda%20resmedilmi%C5%9F%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0ATasar%C4%B1m%2C%20arka%20plan%20ortam%C4%B1%20olmadan%20yaln%C4%B1zca%20%C3%A7er%C3%A7evenin%20kendisini%20g%C3%B6stermektedir.%0A%0A%C3%87er%C3%A7evenin%20tam%20yatay%20ve%20dikey%20merkezinde%2C%201%3A1.4%20en%20boy%20oran%C4%B1na%20ve%20%C3%A7er%C3%A7evenin%20%2570%20geni%C5%9Fli%C4%9Fine%20sahip%2C%20tamamen%20bo%C5%9F%20ve%20net%20bir%20%C5%9Fekilde%20tan%C4%B1mlanm%C4%B1%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucusu%20ayr%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%0A%0A%C3%87er%C3%A7eve%20kenarl%C4%B1%C4%9F%C4%B1%2C%20Noel%20%C4%B1%C5%9F%C4%B1klar%C4%B1na%20dolanm%C4%B1%C5%9F%2C%20s%C3%BCslemeleri%20kovalayan%2C%20dekorasyonlar%C4%B1%20deviren%20ve%20abart%C4%B1l%C4%B1%20pozlarda%20b%C3%BCy%C3%BCk%20boy%20%C5%9Fenlikli%20kazaklar%20giyen%20heyecanl%C4%B1%20%C3%A7izgi%20film%20k%C3%B6pekleriyle%20doludur.%0A%0ANe%C5%9Feli%2C%20enerjik%2C%20d%C3%BCz%20ve%20bask%C4%B1%20i%C3%A7in%20optimize%20edilmi%C5%9F%2C%20yaz%C4%B1s%C4%B1z.)**
 
 ---
 
@@ -888,18 +888,18 @@ Neşeli, enerjik, düz ve baskı için optimize edilmiş, yazısız.
 
 #### 📖 Açıklama
 
-Bu bilgi istemi, yaramaz rakunların süs eşyalarını ve şeker kamışlarını çaldığı, eğlenceli, kaotik bir tatil havası yaratan, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu oluşturur. Yüksek kaliteli baskıya uygun, 1:1.4 en boy oranına sahip bağımsız bir çerçeve olarak tasarlanmıştır.
+Bu bilgi istemi, yaramaz rakunların süs eşyaları ve şeker kamışları çaldığı, eğlenceli, kaotik bir tatil havası yaratan, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu oluşturur. Yüksek kaliteli baskıya uygun, 1:1.4 en boy oranına sahip bağımsız bir çerçeve olarak tasarlanmıştır.
 
 #### 📝 İstem
 
 ```
-Yalnızca bağımsız bir çerçeve olarak tasarlanmış, dikey 1:1.4 en boy oranına sahip, yüksek kaliteli baskıya uygun, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu.
+Yüksek kaliteli baskıya uygun, dikey 1:1.4 en boy oranına sahip, yalnızca bağımsız bir çerçeve olarak tasarlanmış, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu.
 
-İllüstrasyon, harici bir ortam veya arka plan sahnesi olmadan yalnızca çerçevenin kendisine odaklanıyor. Tarzı, temiz dış hatlara ve yumuşak dokulara sahip, mizahi, animasyonlu bir hikaye kitabı illüstrasyonudur.
+İllüstrasyon, harici bir ortam veya arka plan sahnesi olmadan yalnızca çerçevenin kendisine odaklanmaktadır. Stil, temiz dış hatlara ve yumuşak dokulara sahip, mizahi, animasyonlu bir hikaye kitabı illüstrasyonudur.
 
-Çerçevenin tam ortasında, yatay ve dikey olarak ortalanmış, 1:1.4 dikey en boy oranına ve toplam çerçeve genişliğinin %70'ine sahip, tamamen boş ve dokunulmamış bir fotoğraf yer tutucu alanı ayırın.
+Çerçevenin tam ortasında, yatay ve dikey olarak ortalanmış, 1:1.4 portre en boy oranına ve toplam çerçeve genişliğinin %70'ine sahip, tamamen boş ve dokunulmamış bir fotoğraf yer tutucu alanı bırakın.
 
-Çevreleyen çerçeve kenarlığı, süs eşyalarını çalan, şeker kamışlarını saklayan, köşelerden gözetleyen ve çelenklerden baş aşağı sarkan yaramaz çizgi film rakunlarını içeriyor ve eğlenceli, kaotik bir tatil havası yaratıyor.
+Çevredeki çerçeve kenarlığı, süs eşyaları çalan, şeker kamışlarını saklayan, köşelerden gözetleyen ve çelenklerden baş aşağı sarkan yaramaz çizgi film rakunları içererek eğlenceli, kaotik bir tatil havası yaratmaktadır.
 
 Düz kompozisyon, baskıya uygun renkler, metin yok.
 ```
@@ -919,7 +919,7 @@ Düz kompozisyon, baskıya uygun renkler, metin yok.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Yaln%C4%B1zca%20ba%C4%9F%C4%B1ms%C4%B1z%20bir%20%C3%A7er%C3%A7eve%20olarak%20tasarlanm%C4%B1%C5%9F%2C%20dikey%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20y%C3%BCksek%20kaliteli%20bask%C4%B1ya%20uygun%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi%20ill%C3%BCstrasyonu.%0A%0A%C4%B0ll%C3%BCstrasyon%2C%20harici%20bir%20ortam%20veya%20arka%20plan%20sahnesi%20olmadan%20yaln%C4%B1zca%20%C3%A7er%C3%A7evenin%20kendisine%20odaklan%C4%B1yor.%20Tarz%C4%B1%2C%20temiz%20d%C4%B1%C5%9F%20hatlara%20ve%20yumu%C5%9Fak%20dokulara%20sahip%2C%20mizahi%2C%20animasyonlu%20bir%20hikaye%20kitab%C4%B1%20ill%C3%BCstrasyonudur.%0A%0A%C3%87er%C3%A7evenin%20tam%20ortas%C4%B1nda%2C%20yatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20dikey%20en%20boy%20oran%C4%B1na%20ve%20toplam%20%C3%A7er%C3%A7eve%20geni%C5%9Fli%C4%9Finin%20%2570'ine%20sahip%2C%20tamamen%20bo%C5%9F%20ve%20dokunulmam%C4%B1%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%20alan%C4%B1%20ay%C4%B1r%C4%B1n.%0A%0A%C3%87evreleyen%20%C3%A7er%C3%A7eve%20kenarl%C4%B1%C4%9F%C4%B1%2C%20s%C3%BCs%20e%C5%9Fyalar%C4%B1n%C4%B1%20%C3%A7alan%2C%20%C5%9Feker%20kam%C4%B1%C5%9Flar%C4%B1n%C4%B1%20saklayan%2C%20k%C3%B6%C5%9Felerden%20g%C3%B6zetleyen%20ve%20%C3%A7elenklerden%20ba%C5%9F%20a%C5%9Fa%C4%9F%C4%B1%20sarkan%20yaramaz%20%C3%A7izgi%20film%20rakunlar%C4%B1n%C4%B1%20i%C3%A7eriyor%20ve%20e%C4%9Flenceli%2C%20kaotik%20bir%20tatil%20havas%C4%B1%20yarat%C4%B1yor.%0A%0AD%C3%BCz%20kompozisyon%2C%20bask%C4%B1ya%20uygun%20renkler%2C%20metin%20yok.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Y%C3%BCksek%20kaliteli%20bask%C4%B1ya%20uygun%2C%20dikey%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20yaln%C4%B1zca%20ba%C4%9F%C4%B1ms%C4%B1z%20bir%20%C3%A7er%C3%A7eve%20olarak%20tasarlanm%C4%B1%C5%9F%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi%20ill%C3%BCstrasyonu.%0A%0A%C4%B0ll%C3%BCstrasyon%2C%20harici%20bir%20ortam%20veya%20arka%20plan%20sahnesi%20olmadan%20yaln%C4%B1zca%20%C3%A7er%C3%A7evenin%20kendisine%20odaklanmaktad%C4%B1r.%20Stil%2C%20temiz%20d%C4%B1%C5%9F%20hatlara%20ve%20yumu%C5%9Fak%20dokulara%20sahip%2C%20mizahi%2C%20animasyonlu%20bir%20hikaye%20kitab%C4%B1%20ill%C3%BCstrasyonudur.%0A%0A%C3%87er%C3%A7evenin%20tam%20ortas%C4%B1nda%2C%20yatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20portre%20en%20boy%20oran%C4%B1na%20ve%20toplam%20%C3%A7er%C3%A7eve%20geni%C5%9Fli%C4%9Finin%20%2570'ine%20sahip%2C%20tamamen%20bo%C5%9F%20ve%20dokunulmam%C4%B1%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%20alan%C4%B1%20b%C4%B1rak%C4%B1n.%0A%0A%C3%87evredeki%20%C3%A7er%C3%A7eve%20kenarl%C4%B1%C4%9F%C4%B1%2C%20s%C3%BCs%20e%C5%9Fyalar%C4%B1%20%C3%A7alan%2C%20%C5%9Feker%20kam%C4%B1%C5%9Flar%C4%B1n%C4%B1%20saklayan%2C%20k%C3%B6%C5%9Felerden%20g%C3%B6zetleyen%20ve%20%C3%A7elenklerden%20ba%C5%9F%20a%C5%9Fa%C4%9F%C4%B1%20sarkan%20yaramaz%20%C3%A7izgi%20film%20rakunlar%C4%B1%20i%C3%A7ererek%20e%C4%9Flenceli%2C%20kaotik%20bir%20tatil%20havas%C4%B1%20yaratmaktad%C4%B1r.%0A%0AD%C3%BCz%20kompozisyon%2C%20bask%C4%B1ya%20uygun%20renkler%2C%20metin%20yok.)**
 
 ---
 
@@ -929,20 +929,20 @@ Düz kompozisyon, baskıya uygun renkler, metin yok.
 
 #### 📖 Açıklama
 
-Bu komut, sakar penguenlerin yer aldığı büyüleyici, esprili bir çocuk kitabı animasyon tarzında resmedilmiş dikey, yazdırılabilir bir Noel fotoğraf çerçevesi oluşturur. Tasarım, boş bir fotoğraf yer tutucusu ile tamamen çerçevenin kendisine odaklanarak baskı için neşeli, komik ve animasyonlu bir görünüm sunar.
+Bu bilgi istemi, sakar penguenlerin yer aldığı büyüleyici, esprili bir çocuk kitabı animasyon tarzında resmedilmiş dikey, yazdırılabilir bir Noel fotoğraf çerçevesi oluşturur. Tasarım, boş bir fotoğraf yer tutucusu ile tamamen çerçevenin kendisine odaklanarak baskı için neşeli, komik ve animasyonlu bir görünüm sunar.
 
 #### 📝 İstem
 
 ```
-Büyüleyici, esprili bir çocuk kitabı animasyon tarzında resmedilmiş, dikey 1:1.4 oranında yazdırılabilir bir Noel fotoğraf çerçevesi.
+Sevimli, esprili bir çocuk kitabı animasyon tarzında resmedilmiş, dikey 1:1.4 oranında yazdırılabilir bir Noel fotoğraf çerçevesi.
 
-Tasarım tamamen çerçevenin kendisine odaklanmış olup, düz çizim ve arka plan ortamı içermemektedir.
+Tasarım tamamen çerçevenin kendisine odaklanıyor, düz illüstrasyon ve arka plan ortamı yok.
 
-Tam yatay ve dikey merkezde, 1:1.4 dikey oranında ve çerçevenin genişliğinin %70'i kadar, kasıtlı olarak boş ve tüm süslemelerden net bir şekilde ayrılmış büyük bir boş fotoğraf yer tutucu ayrılmıştır.
+Tam yatay ve dikey merkezde, 1:1.4 portre oranına ve çerçevenin %70 genişliğine sahip, kasıtlı olarak boş ve tüm süslemelerden net bir şekilde ayrılmış geniş bir boş fotoğraf yer tutucu ayrılmıştır.
 
-Çevredeki kenarlıkta sakar çizgi film penguenleri kaymakta, süslemeleri üst üste dizmekte, devasa yıldızlar tutmakta ve kenarlardaki şenlikli unsurlarla eğlenceli bir şekilde etkileşim kurmaktadır.
+Çevreleyen kenarlıkta sakar çizgi film penguenleri kayıyor, süs eşyalarını üst üste diziyor, dev yıldızlar tutuyor ve kenarlardaki şenlikli unsurlarla eğlenceli bir şekilde etkileşim kuruyor.
 
-Genel stil neşeli, komik, animasyonlu ve baskıya uygun olup, metin veya yazı içermemektedir.
+Genel tarz neşeli, komik, animasyonlu ve baskıya uygun olup metin veya yazı içermemektedir.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -960,7 +960,7 @@ Genel stil neşeli, komik, animasyonlu ve baskıya uygun olup, metin veya yazı 
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=B%C3%BCy%C3%BCleyici%2C%20esprili%20bir%20%C3%A7ocuk%20kitab%C4%B1%20animasyon%20tarz%C4%B1nda%20resmedilmi%C5%9F%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0ATasar%C4%B1m%20tamamen%20%C3%A7er%C3%A7evenin%20kendisine%20odaklanm%C4%B1%C5%9F%20olup%2C%20d%C3%BCz%20%C3%A7izim%20ve%20arka%20plan%20ortam%C4%B1%20i%C3%A7ermemektedir.%0A%0ATam%20yatay%20ve%20dikey%20merkezde%2C%201%3A1.4%20dikey%20oran%C4%B1nda%20ve%20%C3%A7er%C3%A7evenin%20geni%C5%9Fli%C4%9Finin%20%2570'i%20kadar%2C%20kas%C4%B1tl%C4%B1%20olarak%20bo%C5%9F%20ve%20t%C3%BCm%20s%C3%BCslemelerden%20net%20bir%20%C5%9Fekilde%20ayr%C4%B1lm%C4%B1%C5%9F%20b%C3%BCy%C3%BCk%20bir%20bo%C5%9F%20foto%C4%9Fraf%20yer%20tutucu%20ayr%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%0A%0A%C3%87evredeki%20kenarl%C4%B1kta%20sakar%20%C3%A7izgi%20film%20penguenleri%20kaymakta%2C%20s%C3%BCslemeleri%20%C3%BCst%20%C3%BCste%20dizmekte%2C%20devasa%20y%C4%B1ld%C4%B1zlar%20tutmakta%20ve%20kenarlardaki%20%C5%9Fenlikli%20unsurlarla%20e%C4%9Flenceli%20bir%20%C5%9Fekilde%20etkile%C5%9Fim%20kurmaktad%C4%B1r.%0A%0AGenel%20stil%20ne%C5%9Feli%2C%20komik%2C%20animasyonlu%20ve%20bask%C4%B1ya%20uygun%20olup%2C%20metin%20veya%20yaz%C4%B1%20i%C3%A7ermemektedir.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Sevimli%2C%20esprili%20bir%20%C3%A7ocuk%20kitab%C4%B1%20animasyon%20tarz%C4%B1nda%20resmedilmi%C5%9F%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0ATasar%C4%B1m%20tamamen%20%C3%A7er%C3%A7evenin%20kendisine%20odaklan%C4%B1yor%2C%20d%C3%BCz%20ill%C3%BCstrasyon%20ve%20arka%20plan%20ortam%C4%B1%20yok.%0A%0ATam%20yatay%20ve%20dikey%20merkezde%2C%201%3A1.4%20portre%20oran%C4%B1na%20ve%20%C3%A7er%C3%A7evenin%20%2570%20geni%C5%9Fli%C4%9Fine%20sahip%2C%20kas%C4%B1tl%C4%B1%20olarak%20bo%C5%9F%20ve%20t%C3%BCm%20s%C3%BCslemelerden%20net%20bir%20%C5%9Fekilde%20ayr%C4%B1lm%C4%B1%C5%9F%20geni%C5%9F%20bir%20bo%C5%9F%20foto%C4%9Fraf%20yer%20tutucu%20ayr%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%0A%0A%C3%87evreleyen%20kenarl%C4%B1kta%20sakar%20%C3%A7izgi%20film%20penguenleri%20kay%C4%B1yor%2C%20s%C3%BCs%20e%C5%9Fyalar%C4%B1n%C4%B1%20%C3%BCst%20%C3%BCste%20diziyor%2C%20dev%20y%C4%B1ld%C4%B1zlar%20tutuyor%20ve%20kenarlardaki%20%C5%9Fenlikli%20unsurlarla%20e%C4%9Flenceli%20bir%20%C5%9Fekilde%20etkile%C5%9Fim%20kuruyor.%0A%0AGenel%20tarz%20ne%C5%9Feli%2C%20komik%2C%20animasyonlu%20ve%20bask%C4%B1ya%20uygun%20olup%20metin%20veya%20yaz%C4%B1%20i%C3%A7ermemektedir.)**
 
 ---
 
@@ -970,12 +970,12 @@ Genel stil neşeli, komik, animasyonlu ve baskıya uygun olup, metin veya yazı 
 
 #### 📖 Açıklama
 
-Bu istem, komik zencefilli kurabiye karakterlerinin yer aldığı, esprili, animasyonlu bir hikaye kitabı tarzında, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu oluşturur. Tasarım, yalnızca boş bir fotoğraf yer tutucusu olan çerçeveyi göstererek yazdırmak için esprili, rahat ve tuhaf bir estetik sunar.
+Bu bilgi istemi, komik zencefilli kurabiye karakterlerinin yer aldığı, mizahi ve animasyonlu bir hikaye kitabı tarzında, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu oluşturur. Tasarım, yalnızca boş bir fotoğraf yer tutucusu ile çerçeveyi göstererek yazdırma için esprili, rahat ve tuhaf bir estetik sunar.
 
 #### 📝 İstem
 
 ```
-Dikey 1:1.4 en boy oranına sahip, esprili animasyonlu hikaye kitabı tarzında oluşturulmuş, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu.
+Dikey 1:1.4 en boy oranına sahip, esprili animasyonlu bir hikaye kitabı tarzında oluşturulmuş, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu.
 
 İllüstrasyon, herhangi bir dış ortam veya arka plan manzarası olmadan yalnızca çerçeve tasarımını göstermektedir. Renkler sıcak ve şenlikli olup yumuşak kağıt dokusuna sahiptir.
 
@@ -983,7 +983,7 @@ Tam merkezde, yatay ve dikey olarak ortalanmış, 1:1.4 en boy oranını ve topl
 
 Çerçeve kenarlığı, komik pozlar veren eğlenceli zencefilli kurabiye karakterleri, kısmen kırılmış kurabiyeler, krema detayları ve şeker süslemeleriyle dekore edilmiştir; hepsi etkileyici çizgi film yüzleriyle çizilmiştir.
 
-Ruh hali esprili, samimi ve tuhaftır, tipografi olmadan baskı için tamamen optimize edilmiştir.
+Ruh hali esprili, samimi ve tuhaftır, baskı için tamamen optimize edilmiştir ve tipografi içermez.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1001,7 +1001,7 @@ Ruh hali esprili, samimi ve tuhaftır, tipografi olmadan baskı için tamamen op
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20esprili%20animasyonlu%20hikaye%20kitab%C4%B1%20tarz%C4%B1nda%20olu%C5%9Fturulmu%C5%9F%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi%20ill%C3%BCstrasyonu.%0A%0A%C4%B0ll%C3%BCstrasyon%2C%20herhangi%20bir%20d%C4%B1%C5%9F%20ortam%20veya%20arka%20plan%20manzaras%C4%B1%20olmadan%20yaln%C4%B1zca%20%C3%A7er%C3%A7eve%20tasar%C4%B1m%C4%B1n%C4%B1%20g%C3%B6stermektedir.%20Renkler%20s%C4%B1cak%20ve%20%C5%9Fenlikli%20olup%20yumu%C5%9Fak%20ka%C4%9F%C4%B1t%20dokusuna%20sahiptir.%0A%0ATam%20merkezde%2C%20yatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20en%20boy%20oran%C4%B1n%C4%B1%20ve%20toplam%20%C3%A7er%C3%A7eve%20geni%C5%9Fli%C4%9Finin%20%2570'ini%20koruyan%2C%20tamamen%20bo%C5%9F%20ve%20engelsiz%20bir%20foto%C4%9Fraf%20yer%20tutucusu%20ayr%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%0A%0A%C3%87er%C3%A7eve%20kenarl%C4%B1%C4%9F%C4%B1%2C%20komik%20pozlar%20veren%20e%C4%9Flenceli%20zencefilli%20kurabiye%20karakterleri%2C%20k%C4%B1smen%20k%C4%B1r%C4%B1lm%C4%B1%C5%9F%20kurabiyeler%2C%20krema%20detaylar%C4%B1%20ve%20%C5%9Feker%20s%C3%BCslemeleriyle%20dekore%20edilmi%C5%9Ftir%3B%20hepsi%20etkileyici%20%C3%A7izgi%20film%20y%C3%BCzleriyle%20%C3%A7izilmi%C5%9Ftir.%0A%0ARuh%20hali%20esprili%2C%20samimi%20ve%20tuhaft%C4%B1r%2C%20tipografi%20olmadan%20bask%C4%B1%20i%C3%A7in%20tamamen%20optimize%20edilmi%C5%9Ftir.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20esprili%20animasyonlu%20bir%20hikaye%20kitab%C4%B1%20tarz%C4%B1nda%20olu%C5%9Fturulmu%C5%9F%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi%20ill%C3%BCstrasyonu.%0A%0A%C4%B0ll%C3%BCstrasyon%2C%20herhangi%20bir%20d%C4%B1%C5%9F%20ortam%20veya%20arka%20plan%20manzaras%C4%B1%20olmadan%20yaln%C4%B1zca%20%C3%A7er%C3%A7eve%20tasar%C4%B1m%C4%B1n%C4%B1%20g%C3%B6stermektedir.%20Renkler%20s%C4%B1cak%20ve%20%C5%9Fenlikli%20olup%20yumu%C5%9Fak%20ka%C4%9F%C4%B1t%20dokusuna%20sahiptir.%0A%0ATam%20merkezde%2C%20yatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%2C%201%3A1.4%20en%20boy%20oran%C4%B1n%C4%B1%20ve%20toplam%20%C3%A7er%C3%A7eve%20geni%C5%9Fli%C4%9Finin%20%2570'ini%20koruyan%2C%20tamamen%20bo%C5%9F%20ve%20engelsiz%20bir%20foto%C4%9Fraf%20yer%20tutucusu%20ayr%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%0A%0A%C3%87er%C3%A7eve%20kenarl%C4%B1%C4%9F%C4%B1%2C%20komik%20pozlar%20veren%20e%C4%9Flenceli%20zencefilli%20kurabiye%20karakterleri%2C%20k%C4%B1smen%20k%C4%B1r%C4%B1lm%C4%B1%C5%9F%20kurabiyeler%2C%20krema%20detaylar%C4%B1%20ve%20%C5%9Feker%20s%C3%BCslemeleriyle%20dekore%20edilmi%C5%9Ftir%3B%20hepsi%20etkileyici%20%C3%A7izgi%20film%20y%C3%BCzleriyle%20%C3%A7izilmi%C5%9Ftir.%0A%0ARuh%20hali%20esprili%2C%20samimi%20ve%20tuhaft%C4%B1r%2C%20bask%C4%B1%20i%C3%A7in%20tamamen%20optimize%20edilmi%C5%9Ftir%20ve%20tipografi%20i%C3%A7ermez.)**
 
 ---
 
@@ -1018,13 +1018,13 @@ Bu bilgi istemi, tembel tembel hayvanların yer aldığı, esprili, animasyonlu 
 ```
 Yalnızca bağımsız bir çerçeve olarak tasarlanmış, dikey 1:1.4 en boy oranına sahip, yüksek kaliteli baskıya uygun, yazdırılabilir bir Noel fotoğraf çerçevesi illüstrasyonu.
 
-İllüstrasyon, harici bir ortam veya arka plan sahnesi olmadan yalnızca çerçevenin kendisine odaklanmaktadır. Tarzı, yumuşak dokulara, temiz çizgilere ve sıcak renklere sahip, mizahi, animasyonlu bir hikaye kitabı illüstrasyonudur.
+İllüstrasyon, harici bir ortam veya arka plan sahnesi olmadan yalnızca çerçevenin kendisine odaklanmaktadır. Tarzı, yumuşak dokulara, net çizgilere ve sıcak renklere sahip, mizahi, animasyonlu bir hikaye kitabı illüstrasyonudur.
 
-Çerçevenin tam ortasında, yatay ve dikey olarak ortalanmış boş bir fotoğraf yer tutucu alanı bırakın. Yer tutucu, toplam çerçeve genişliğinin %70'ine eşit genişliğe sahip, 1:1.4 dikey en boy oranına sahiptir ve tamamen boş ve dokunulmamış kalmalıdır.
+Çerçevenin tam ortasında, yatay ve dikey olarak ortalanmış boş bir fotoğraf yer tutucu alanı ayırın. Yer tutucu, toplam çerçeve genişliğinin %70'ine eşit genişliğe sahip, 1:1.4 portre en boy oranına sahiptir ve tamamen boş ve dokunulmamış kalmalıdır.
 
-Çevredeki çerçeve kenarlığı, şeker kamışlarından, her dem yeşil dallardan ve şenlikli kancalardan sarkan eğlenceli çizgi film tembel hayvanlarını içermektedir. Tembel hayvanlar rahat, komik pozlar vererek rahat örgülü kazaklar ve atkılar giymektedir.
+Çevreleyen çerçeve kenarlığı, şeker kamışlarından, her dem yeşil dallardan ve şenlikli kancalardan sarkan oyuncu çizgi film tembel hayvanlarını içerir. Tembel hayvanlar rahat, komik pozlar vererek rahat örgülü kazaklar ve atkılar giyerler.
 
-İllüstrasyon, düz kompozisyonu ve baskıya uygun renkleriyle neşeli, samimi ve mizahi bir his vermektedir, metin veya tipografi içermemektedir.
+İllüstrasyon, düz kompozisyonu ve baskıya uygun renkleriyle, metin veya tipografi olmadan neşeli, rahat ve mizahi bir his verir.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1042,7 +1042,7 @@ Yalnızca bağımsız bir çerçeve olarak tasarlanmış, dikey 1:1.4 en boy ora
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Yaln%C4%B1zca%20ba%C4%9F%C4%B1ms%C4%B1z%20bir%20%C3%A7er%C3%A7eve%20olarak%20tasarlanm%C4%B1%C5%9F%2C%20dikey%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20y%C3%BCksek%20kaliteli%20bask%C4%B1ya%20uygun%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi%20ill%C3%BCstrasyonu.%0A%0A%C4%B0ll%C3%BCstrasyon%2C%20harici%20bir%20ortam%20veya%20arka%20plan%20sahnesi%20olmadan%20yaln%C4%B1zca%20%C3%A7er%C3%A7evenin%20kendisine%20odaklanmaktad%C4%B1r.%20Tarz%C4%B1%2C%20yumu%C5%9Fak%20dokulara%2C%20temiz%20%C3%A7izgilere%20ve%20s%C4%B1cak%20renklere%20sahip%2C%20mizahi%2C%20animasyonlu%20bir%20hikaye%20kitab%C4%B1%20ill%C3%BCstrasyonudur.%0A%0A%C3%87er%C3%A7evenin%20tam%20ortas%C4%B1nda%2C%20yatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%20alan%C4%B1%20b%C4%B1rak%C4%B1n.%20Yer%20tutucu%2C%20toplam%20%C3%A7er%C3%A7eve%20geni%C5%9Fli%C4%9Finin%20%2570'ine%20e%C5%9Fit%20geni%C5%9Fli%C4%9Fe%20sahip%2C%201%3A1.4%20dikey%20en%20boy%20oran%C4%B1na%20sahiptir%20ve%20tamamen%20bo%C5%9F%20ve%20dokunulmam%C4%B1%C5%9F%20kalmal%C4%B1d%C4%B1r.%0A%0A%C3%87evredeki%20%C3%A7er%C3%A7eve%20kenarl%C4%B1%C4%9F%C4%B1%2C%20%C5%9Feker%20kam%C4%B1%C5%9Flar%C4%B1ndan%2C%20her%20dem%20ye%C5%9Fil%20dallardan%20ve%20%C5%9Fenlikli%20kancalardan%20sarkan%20e%C4%9Flenceli%20%C3%A7izgi%20film%20tembel%20hayvanlar%C4%B1n%C4%B1%20i%C3%A7ermektedir.%20Tembel%20hayvanlar%20rahat%2C%20komik%20pozlar%20vererek%20rahat%20%C3%B6rg%C3%BCl%C3%BC%20kazaklar%20ve%20atk%C4%B1lar%20giymektedir.%0A%0A%C4%B0ll%C3%BCstrasyon%2C%20d%C3%BCz%20kompozisyonu%20ve%20bask%C4%B1ya%20uygun%20renkleriyle%20ne%C5%9Feli%2C%20samimi%20ve%20mizahi%20bir%20his%20vermektedir%2C%20metin%20veya%20tipografi%20i%C3%A7ermemektedir.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Yaln%C4%B1zca%20ba%C4%9F%C4%B1ms%C4%B1z%20bir%20%C3%A7er%C3%A7eve%20olarak%20tasarlanm%C4%B1%C5%9F%2C%20dikey%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20y%C3%BCksek%20kaliteli%20bask%C4%B1ya%20uygun%2C%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi%20ill%C3%BCstrasyonu.%0A%0A%C4%B0ll%C3%BCstrasyon%2C%20harici%20bir%20ortam%20veya%20arka%20plan%20sahnesi%20olmadan%20yaln%C4%B1zca%20%C3%A7er%C3%A7evenin%20kendisine%20odaklanmaktad%C4%B1r.%20Tarz%C4%B1%2C%20yumu%C5%9Fak%20dokulara%2C%20net%20%C3%A7izgilere%20ve%20s%C4%B1cak%20renklere%20sahip%2C%20mizahi%2C%20animasyonlu%20bir%20hikaye%20kitab%C4%B1%20ill%C3%BCstrasyonudur.%0A%0A%C3%87er%C3%A7evenin%20tam%20ortas%C4%B1nda%2C%20yatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%20alan%C4%B1%20ay%C4%B1r%C4%B1n.%20Yer%20tutucu%2C%20toplam%20%C3%A7er%C3%A7eve%20geni%C5%9Fli%C4%9Finin%20%2570'ine%20e%C5%9Fit%20geni%C5%9Fli%C4%9Fe%20sahip%2C%201%3A1.4%20portre%20en%20boy%20oran%C4%B1na%20sahiptir%20ve%20tamamen%20bo%C5%9F%20ve%20dokunulmam%C4%B1%C5%9F%20kalmal%C4%B1d%C4%B1r.%0A%0A%C3%87evreleyen%20%C3%A7er%C3%A7eve%20kenarl%C4%B1%C4%9F%C4%B1%2C%20%C5%9Feker%20kam%C4%B1%C5%9Flar%C4%B1ndan%2C%20her%20dem%20ye%C5%9Fil%20dallardan%20ve%20%C5%9Fenlikli%20kancalardan%20sarkan%20oyuncu%20%C3%A7izgi%20film%20tembel%20hayvanlar%C4%B1n%C4%B1%20i%C3%A7erir.%20Tembel%20hayvanlar%20rahat%2C%20komik%20pozlar%20vererek%20rahat%20%C3%B6rg%C3%BCl%C3%BC%20kazaklar%20ve%20atk%C4%B1lar%20giyerler.%0A%0A%C4%B0ll%C3%BCstrasyon%2C%20d%C3%BCz%20kompozisyonu%20ve%20bask%C4%B1ya%20uygun%20renkleriyle%2C%20metin%20veya%20tipografi%20olmadan%20ne%C5%9Feli%2C%20rahat%20ve%20mizahi%20bir%20his%20verir.)**
 
 ---
 
@@ -1052,7 +1052,7 @@ Yalnızca bağımsız bir çerçeve olarak tasarlanmış, dikey 1:1.4 en boy ora
 
 #### 📖 Açıklama
 
-Bu bilgi istemi, eğlenceli kutup ayılarının yer aldığı, esprili çizgi film tarzında, yazdırılabilir, hareketli bir Noel fotoğraf çerçevesi oluşturur. Yalnızca baskı için bir çerçeve illüstrasyonu olarak tasarlanmıştır ve boş bir fotoğraf yer tutucusu içerir; tatil fotoğrafları için neşeli, komik ve samimi bir estetik sunar.
+Bu bilgi istemi, eğlenceli kutup ayılarının yer aldığı, esprili bir çizgi film tarzında, yazdırılabilir, animasyonlu bir Noel fotoğraf çerçevesi oluşturur. Yalnızca baskı için bir çerçeve illüstrasyonu olarak tasarlanmıştır ve boş bir fotoğraf yer tutucusu içerir; tatil fotoğrafları için neşeli, komik ve samimi bir estetik sunar.
 
 #### 📝 İstem
 
@@ -1061,11 +1061,11 @@ Dikey 1:1.4 en boy oranına sahip, yalnızca baskı için bir çerçeve illüstr
 
 Çerçeve, yuvarlak şekiller, etkileyici karakterler ve yumuşak gölgelendirme ile esprili bir çizgi film tarzında resmedilmiştir. Ortam yok, arka plan sahnesi yok, sadece çerçeve tasarımı var.
 
-Tam yatay ve dikey merkezde, 1:1.4 en boy oranına ve çerçevenin %70 genişliğine sahip, tamamen boş ve temiz bir fotoğraf yer tutucusu ayrılmıştır.
+Tam yatay ve dikey merkezde, 1:1.4 en boy oranına ve çerçevenin genişliğinin %70'ine sahip, tamamen boş ve temiz bir fotoğraf yer tutucu ayrılmıştır.
 
-Çerçeve kenarları, şeker kamışları, süs eşyaları ve kartoplarıyla komik, abartılı bir şekilde etkileşime giren, kayan, gözetleyen ve kenarlara tutunan eğlenceli kutup ayılarıyla süslenmiştir.
+Kenarlık, çerçevenin kenarlarına kayan, gözetleyen ve tutunan, şeker kamışları, süslemeler ve kartoplarıyla komik, abartılı bir şekilde etkileşime giren eğlenceli kutup ayılarıyla süslenmiştir.
 
-Genel ruh hali neşeli, komik ve arkadaş canlısıdır, metinsiz, düz yazdırılabilir illüstrasyon için optimize edilmiştir.
+Genel ruh hali neşeli, komik ve dost canlısıdır, metin içermeyen düz, yazdırılabilir illüstrasyon için optimize edilmiştir.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1083,7 +1083,7 @@ Genel ruh hali neşeli, komik ve arkadaş canlısıdır, metinsiz, düz yazdır�
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20yaln%C4%B1zca%20bask%C4%B1%20i%C3%A7in%20bir%20%C3%A7er%C3%A7eve%20ill%C3%BCstrasyonu%20olarak%20tasarlanm%C4%B1%C5%9F%2C%20yazd%C4%B1r%C4%B1labilir%2C%20animasyonlu%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0A%C3%87er%C3%A7eve%2C%20yuvarlak%20%C5%9Fekiller%2C%20etkileyici%20karakterler%20ve%20yumu%C5%9Fak%20g%C3%B6lgelendirme%20ile%20esprili%20bir%20%C3%A7izgi%20film%20tarz%C4%B1nda%20resmedilmi%C5%9Ftir.%20Ortam%20yok%2C%20arka%20plan%20sahnesi%20yok%2C%20sadece%20%C3%A7er%C3%A7eve%20tasar%C4%B1m%C4%B1%20var.%0A%0ATam%20yatay%20ve%20dikey%20merkezde%2C%201%3A1.4%20en%20boy%20oran%C4%B1na%20ve%20%C3%A7er%C3%A7evenin%20%2570%20geni%C5%9Fli%C4%9Fine%20sahip%2C%20tamamen%20bo%C5%9F%20ve%20temiz%20bir%20foto%C4%9Fraf%20yer%20tutucusu%20ayr%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%0A%0A%C3%87er%C3%A7eve%20kenarlar%C4%B1%2C%20%C5%9Feker%20kam%C4%B1%C5%9Flar%C4%B1%2C%20s%C3%BCs%20e%C5%9Fyalar%C4%B1%20ve%20kartoplar%C4%B1yla%20komik%2C%20abart%C4%B1l%C4%B1%20bir%20%C5%9Fekilde%20etkile%C5%9Fime%20giren%2C%20kayan%2C%20g%C3%B6zetleyen%20ve%20kenarlara%20tutunan%20e%C4%9Flenceli%20kutup%20ay%C4%B1lar%C4%B1yla%20s%C3%BCslenmi%C5%9Ftir.%0A%0AGenel%20ruh%20hali%20ne%C5%9Feli%2C%20komik%20ve%20arkada%C5%9F%20canl%C4%B1s%C4%B1d%C4%B1r%2C%20metinsiz%2C%20d%C3%BCz%20yazd%C4%B1r%C4%B1labilir%20ill%C3%BCstrasyon%20i%C3%A7in%20optimize%20edilmi%C5%9Ftir.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Dikey%201%3A1.4%20en%20boy%20oran%C4%B1na%20sahip%2C%20yaln%C4%B1zca%20bask%C4%B1%20i%C3%A7in%20bir%20%C3%A7er%C3%A7eve%20ill%C3%BCstrasyonu%20olarak%20tasarlanm%C4%B1%C5%9F%2C%20yazd%C4%B1r%C4%B1labilir%2C%20animasyonlu%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0A%C3%87er%C3%A7eve%2C%20yuvarlak%20%C5%9Fekiller%2C%20etkileyici%20karakterler%20ve%20yumu%C5%9Fak%20g%C3%B6lgelendirme%20ile%20esprili%20bir%20%C3%A7izgi%20film%20tarz%C4%B1nda%20resmedilmi%C5%9Ftir.%20Ortam%20yok%2C%20arka%20plan%20sahnesi%20yok%2C%20sadece%20%C3%A7er%C3%A7eve%20tasar%C4%B1m%C4%B1%20var.%0A%0ATam%20yatay%20ve%20dikey%20merkezde%2C%201%3A1.4%20en%20boy%20oran%C4%B1na%20ve%20%C3%A7er%C3%A7evenin%20geni%C5%9Fli%C4%9Finin%20%2570'ine%20sahip%2C%20tamamen%20bo%C5%9F%20ve%20temiz%20bir%20foto%C4%9Fraf%20yer%20tutucu%20ayr%C4%B1lm%C4%B1%C5%9Ft%C4%B1r.%0A%0AKenarl%C4%B1k%2C%20%C3%A7er%C3%A7evenin%20kenarlar%C4%B1na%20kayan%2C%20g%C3%B6zetleyen%20ve%20tutunan%2C%20%C5%9Feker%20kam%C4%B1%C5%9Flar%C4%B1%2C%20s%C3%BCslemeler%20ve%20kartoplar%C4%B1yla%20komik%2C%20abart%C4%B1l%C4%B1%20bir%20%C5%9Fekilde%20etkile%C5%9Fime%20giren%20e%C4%9Flenceli%20kutup%20ay%C4%B1lar%C4%B1yla%20s%C3%BCslenmi%C5%9Ftir.%0A%0AGenel%20ruh%20hali%20ne%C5%9Feli%2C%20komik%20ve%20dost%20canl%C4%B1s%C4%B1d%C4%B1r%2C%20metin%20i%C3%A7ermeyen%20d%C3%BCz%2C%20yazd%C4%B1r%C4%B1labilir%20ill%C3%BCstrasyon%20i%C3%A7in%20optimize%20edilmi%C5%9Ftir.)**
 
 ---
 
@@ -1093,7 +1093,7 @@ Genel ruh hali neşeli, komik ve arkadaş canlısıdır, metinsiz, düz yazdır�
 
 #### 📖 Açıklama
 
-Bu bilgi istemi, yaramaz kedilerin yer aldığı sevimli, esprili, animasyonlu çıkartma tarzında resmedilmiş dikey, yazdırılabilir bir Noel fotoğraf çerçevesi oluşturur. Tasarım, kalın ana hatlar, yumuşak renkler ve boş bir fotoğraf yer tutucusu ile yalnızca çerçevenin kendisine odaklanarak eğlenceli ve kaotik bir tatil havası yaratır.
+Bu bilgi istemi, yaramaz kedilerin yer aldığı sevimli, esprili, animasyonlu bir çıkartma tarzında resmedilmiş dikey, yazdırılabilir bir Noel fotoğraf çerçevesi oluşturur. Tasarım, kalın dış hatlar, yumuşak renkler ve boş bir fotoğraf yer tutucusu ile yalnızca çerçevenin kendisine odaklanarak eğlenceli ve kaotik bir tatil hissi yaratır.
 
 #### 📝 İstem
 
@@ -1106,7 +1106,7 @@ Tam merkezde, çerçevenin %70 genişliğinde, 1:1.4 dikey oranında, tamamen bo
 
 Çevreleyen kenarlıkta, Noel ışıklarına dolanmış, süsleri deviren, çelenklere tırmanan ve köşelerden bakan yaramaz çizgi film kedileri yer alıyor; bu da eğlenceli ve kaotik bir tatil hissi yaratıyor.
 
-Kompozisyon, metin öğeleri olmadan düz, dengeli ve baskıya hazır durumda.
+Kompozisyon, herhangi bir metin öğesi olmaksızın düz, dengeli ve baskıya hazır durumda.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -1124,7 +1124,7 @@ Kompozisyon, metin öğeleri olmadan düz, dengeli ve baskıya hazır durumda.
 - **Yayınlandı:** 15 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Sevimli%2C%20esprili%2C%20animasyonlu%20bir%20%C3%A7%C4%B1kartma%20tarz%C4%B1nda%20resmedilmi%C5%9F%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0ATasar%C4%B1m%2C%20oda%2C%20duvar%20veya%20%C3%A7evresel%20ba%C4%9Flam%20olmaks%C4%B1z%C4%B1n%20yaln%C4%B1zca%20%C3%A7er%C3%A7evenin%20kendisine%20odaklan%C4%B1yor.%20%C4%B0ll%C3%BCstrasyon%2C%20kal%C4%B1n%20d%C4%B1%C5%9F%20%C3%A7izgiler%2C%20yumu%C5%9Fak%20renkler%20ve%20etkileyici%20%C3%A7izgi%20film%20karakterleri%20kullan%C4%B1yor.%0A%0ATam%20merkezde%2C%20%C3%A7er%C3%A7evenin%20%2570%20geni%C5%9Fli%C4%9Finde%2C%201%3A1.4%20dikey%20oran%C4%B1nda%2C%20tamamen%20bo%C5%9F%20ve%20net%20bir%20%C5%9Fekilde%20tan%C4%B1mlanm%C4%B1%C5%9F%2C%20yatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%20alan%C4%B1%20bulunuyor.%0A%0A%C3%87evreleyen%20kenarl%C4%B1kta%2C%20Noel%20%C4%B1%C5%9F%C4%B1klar%C4%B1na%20dolanm%C4%B1%C5%9F%2C%20s%C3%BCsleri%20deviren%2C%20%C3%A7elenklere%20t%C4%B1rmanan%20ve%20k%C3%B6%C5%9Felerden%20bakan%20yaramaz%20%C3%A7izgi%20film%20kedileri%20yer%20al%C4%B1yor%3B%20bu%20da%20e%C4%9Flenceli%20ve%20kaotik%20bir%20tatil%20hissi%20yarat%C4%B1yor.%0A%0AKompozisyon%2C%20metin%20%C3%B6%C4%9Feleri%20olmadan%20d%C3%BCz%2C%20dengeli%20ve%20bask%C4%B1ya%20haz%C4%B1r%20durumda.)**
+**[👉 Şimdi dene →](https://youmind.com/tools/christmas-cards-maker?prompt=Sevimli%2C%20esprili%2C%20animasyonlu%20bir%20%C3%A7%C4%B1kartma%20tarz%C4%B1nda%20resmedilmi%C5%9F%2C%20dikey%201%3A1.4%20oran%C4%B1nda%20yazd%C4%B1r%C4%B1labilir%20bir%20Noel%20foto%C4%9Fraf%20%C3%A7er%C3%A7evesi.%0A%0ATasar%C4%B1m%2C%20oda%2C%20duvar%20veya%20%C3%A7evresel%20ba%C4%9Flam%20olmaks%C4%B1z%C4%B1n%20yaln%C4%B1zca%20%C3%A7er%C3%A7evenin%20kendisine%20odaklan%C4%B1yor.%20%C4%B0ll%C3%BCstrasyon%2C%20kal%C4%B1n%20d%C4%B1%C5%9F%20%C3%A7izgiler%2C%20yumu%C5%9Fak%20renkler%20ve%20etkileyici%20%C3%A7izgi%20film%20karakterleri%20kullan%C4%B1yor.%0A%0ATam%20merkezde%2C%20%C3%A7er%C3%A7evenin%20%2570%20geni%C5%9Fli%C4%9Finde%2C%201%3A1.4%20dikey%20oran%C4%B1nda%2C%20tamamen%20bo%C5%9F%20ve%20net%20bir%20%C5%9Fekilde%20tan%C4%B1mlanm%C4%B1%C5%9F%2C%20yatay%20ve%20dikey%20olarak%20ortalanm%C4%B1%C5%9F%20bo%C5%9F%20bir%20foto%C4%9Fraf%20yer%20tutucu%20alan%C4%B1%20bulunuyor.%0A%0A%C3%87evreleyen%20kenarl%C4%B1kta%2C%20Noel%20%C4%B1%C5%9F%C4%B1klar%C4%B1na%20dolanm%C4%B1%C5%9F%2C%20s%C3%BCsleri%20deviren%2C%20%C3%A7elenklere%20t%C4%B1rmanan%20ve%20k%C3%B6%C5%9Felerden%20bakan%20yaramaz%20%C3%A7izgi%20film%20kedileri%20yer%20al%C4%B1yor%3B%20bu%20da%20e%C4%9Flenceli%20ve%20kaotik%20bir%20tatil%20hissi%20yarat%C4%B1yor.%0A%0AKompozisyon%2C%20herhangi%20bir%20metin%20%C3%B6%C4%9Fesi%20olmaks%C4%B1z%C4%B1n%20d%C3%BCz%2C%20dengeli%20ve%20bask%C4%B1ya%20haz%C4%B1r%20durumda.)**
 
 ---
 
@@ -5037,6 +5037,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-18T04:32:59.507Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-18T08:27:41.571Z</sub>
 
 </div>

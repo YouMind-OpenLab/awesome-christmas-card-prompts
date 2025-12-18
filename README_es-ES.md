@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **140** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **jueves, 18 de diciembre de 2025, 4:32:38 UTC** |
+| 🔄 Última actualización | **jueves, 18 de diciembre de 2025, 8:27:23 UTC** |
 
 </div>
 
@@ -313,16 +313,16 @@ Una tarjeta de Navidad adorable y caótica, relación de aspecto 1:1.4. Una espo
 
 #### 📖 Descripción
 
-Este prompt genera un marco de fotos navideño animado y divertido en formato vertical 1:1.4. El borde muestra castores de dibujos animados construyendo con entusiasmo y sobre-diseñando decoraciones festivas con una seriedad exagerada, creando un diseño humorístico y optimizado para impresión.
+Este prompt genera un marco de fotos navideño animado y divertido en un formato vertical de 1:1.4. El borde muestra castores de dibujos animados construyendo y sobre-diseñando con entusiasmo decoraciones festivas con una seriedad exagerada, creando un diseño humorístico y optimizado para impresión.
 
 #### 📝 Prompt
 
 ```
-Un marco de fotos navideño imprimible vertical de 1:1.4 ilustrado en un estilo animado y divertido.
+Un marco de fotos navideño imprimible vertical de 1:1.4, ilustrado en un estilo animado y juguetón.
 
 Sin entorno, solo el marco.
 
-Un marcador de posición de foto en blanco está centrado, con una relación de 1:1.4, 70% de ancho, completamente limpio.
+Un marcador de posición de foto en blanco centrado, relación 1:1.4, 70% de ancho, completamente limpio.
 
 El borde muestra castores de dibujos animados construyendo, martillando y sobre-diseñando con entusiasmo decoraciones festivas con una seriedad exagerada.
 
@@ -344,7 +344,7 @@ Plano, humorístico, optimizado para impresión, sin texto.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20vertical%20de%201%3A1.4%20ilustrado%20en%20un%20estilo%20animado%20y%20divertido.%0A%0ASin%20entorno%2C%20solo%20el%20marco.%0A%0AUn%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20est%C3%A1%20centrado%2C%20con%20una%20relaci%C3%B3n%20de%201%3A1.4%2C%2070%25%20de%20ancho%2C%20completamente%20limpio.%0A%0AEl%20borde%20muestra%20castores%20de%20dibujos%20animados%20construyendo%2C%20martillando%20y%20sobre-dise%C3%B1ando%20con%20entusiasmo%20decoraciones%20festivas%20con%20una%20seriedad%20exagerada.%0A%0APlano%2C%20humor%C3%ADstico%2C%20optimizado%20para%20impresi%C3%B3n%2C%20sin%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20vertical%20de%201%3A1.4%2C%20ilustrado%20en%20un%20estilo%20animado%20y%20juguet%C3%B3n.%0A%0ASin%20entorno%2C%20solo%20el%20marco.%0A%0AUn%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20centrado%2C%20relaci%C3%B3n%201%3A1.4%2C%2070%25%20de%20ancho%2C%20completamente%20limpio.%0A%0AEl%20borde%20muestra%20castores%20de%20dibujos%20animados%20construyendo%2C%20martillando%20y%20sobre-dise%C3%B1ando%20con%20entusiasmo%20decoraciones%20festivas%20con%20una%20seriedad%20exagerada.%0A%0APlano%2C%20humor%C3%ADstico%2C%20optimizado%20para%20impresi%C3%B3n%2C%20sin%20texto.)**
 
 ---
 
@@ -363,7 +363,7 @@ Un marco de fotos navideño animado imprimible en formato vertical 1:1.4.
 
 Diseño solo del marco.
 
-Un marcador de posición de foto en blanco está centrado tanto horizontal como verticalmente, con una relación de aspecto de 1:1.4, 70% de ancho, completamente intacto.
+Un marcador de posición de foto en blanco centrado horizontal y verticalmente, relación de aspecto 1:1.4, 70% de ancho, completamente intacto.
 
 El borde presenta koalas de dibujos animados abrazando adornos, guirnaldas y bastones de caramelo, negándose a soltarlos, creando un humor suave y acogedor.
 
@@ -385,11 +385,11 @@ Plano, cálido, listo para imprimir, sin texto.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20animado%20imprimible%20en%20formato%20vertical%201%3A1.4.%0A%0ADise%C3%B1o%20solo%20del%20marco.%0A%0AUn%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20est%C3%A1%20centrado%20tanto%20horizontal%20como%20verticalmente%2C%20con%20una%20relaci%C3%B3n%20de%20aspecto%20de%201%3A1.4%2C%2070%25%20de%20ancho%2C%20completamente%20intacto.%0A%0AEl%20borde%20presenta%20koalas%20de%20dibujos%20animados%20abrazando%20adornos%2C%20guirnaldas%20y%20bastones%20de%20caramelo%2C%20neg%C3%A1ndose%20a%20soltarlos%2C%20creando%20un%20humor%20suave%20y%20acogedor.%0A%0APlano%2C%20c%C3%A1lido%2C%20listo%20para%20imprimir%2C%20sin%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20animado%20imprimible%20en%20formato%20vertical%201%3A1.4.%0A%0ADise%C3%B1o%20solo%20del%20marco.%0A%0AUn%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20centrado%20horizontal%20y%20verticalmente%2C%20relaci%C3%B3n%20de%20aspecto%201%3A1.4%2C%2070%25%20de%20ancho%2C%20completamente%20intacto.%0A%0AEl%20borde%20presenta%20koalas%20de%20dibujos%20animados%20abrazando%20adornos%2C%20guirnaldas%20y%20bastones%20de%20caramelo%2C%20neg%C3%A1ndose%20a%20soltarlos%2C%20creando%20un%20humor%20suave%20y%20acogedor.%0A%0APlano%2C%20c%C3%A1lido%2C%20listo%20para%20imprimir%2C%20sin%20texto.)**
 
 ---
 
-### No. 3: Erizos + Ardillas de Navidad · Marco de Desastre Conjunto
+### No. 3: Erizos y ardillas navideñas · Marco de desastre conjunto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -400,13 +400,13 @@ Este prompt genera un marco navideño humorístico de estilo animado en formato 
 #### 📝 Prompt
 
 ```
-Un marco de Navidad imprimible vertical de 1:1.4, ilustrado con un estilo animado y humorístico.
+Un marco de Navidad imprimible vertical de 1:1.4, ilustrado en un estilo animado y humorístico.
 
 Solo el marco.
 
 Un marcador de posición de foto en blanco, centrado exactamente, de 1:1.4, 70% de ancho, limpio y vacío.
 
-El borde presenta erizos y ardillas de dibujos animados compitiendo por recoger decoraciones, causando accidentalmente un caos festivo alrededor de los bordes.
+El borde presenta erizos y ardillas de dibujos animados compitiendo por recolectar decoraciones, causando accidentalmente un caos festivo alrededor de los bordes.
 
 Composición plana, sin texto.
 ```
@@ -416,7 +416,7 @@ Composición plana, sin texto.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788202576_2wfuzq_1765783647682-r45pga-fD2rQlsAAAAASUVORK5CYII_" width="600" alt="Erizos + Ardillas de Navidad · Marco de Desastre Conjunto - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788202576_2wfuzq_1765783647682-r45pga-fD2rQlsAAAAASUVORK5CYII_" width="600" alt="Erizos y ardillas navideñas · Marco de desastre conjunto - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -426,7 +426,7 @@ Composición plana, sin texto.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20Navidad%20imprimible%20vertical%20de%201%3A1.4%2C%20ilustrado%20con%20un%20estilo%20animado%20y%20humor%C3%ADstico.%0A%0ASolo%20el%20marco.%0A%0AUn%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%2C%20centrado%20exactamente%2C%20de%201%3A1.4%2C%2070%25%20de%20ancho%2C%20limpio%20y%20vac%C3%ADo.%0A%0AEl%20borde%20presenta%20erizos%20y%20ardillas%20de%20dibujos%20animados%20compitiendo%20por%20recoger%20decoraciones%2C%20causando%20accidentalmente%20un%20caos%20festivo%20alrededor%20de%20los%20bordes.%0A%0AComposici%C3%B3n%20plana%2C%20sin%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20Navidad%20imprimible%20vertical%20de%201%3A1.4%2C%20ilustrado%20en%20un%20estilo%20animado%20y%20humor%C3%ADstico.%0A%0ASolo%20el%20marco.%0A%0AUn%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%2C%20centrado%20exactamente%2C%20de%201%3A1.4%2C%2070%25%20de%20ancho%2C%20limpio%20y%20vac%C3%ADo.%0A%0AEl%20borde%20presenta%20erizos%20y%20ardillas%20de%20dibujos%20animados%20compitiendo%20por%20recolectar%20decoraciones%2C%20causando%20accidentalmente%20un%20caos%20festivo%20alrededor%20de%20los%20bordes.%0A%0AComposici%C3%B3n%20plana%2C%20sin%20texto.)**
 
 ---
 
@@ -445,11 +445,11 @@ Un marco de Navidad imprimible en formato vertical 1:1.4, estilo de dibujos anim
 
 Ilustración solo del marco.
 
-Marcador de posición de foto en blanco centrado, 1:1.4, 70% de ancho, sin modificar.
+Marcador de posición de foto en blanco centrado, 1:1.4, 70% de ancho, sin tocar.
 
-El borde presenta camaleones de dibujos animados que intentan, sin éxito, camuflarse entre adornos, luces y guirnaldas, siendo claramente visibles y luciendo confundidos, lo que añade un sutil humor visual.
+El borde presenta camaleones de dibujos animados que intentan sin éxito mimetizarse con adornos, luces y guirnaldas, claramente visibles y confundidos, añadiendo un sutil humor visual.
 
-Plano, apto para impresión, sin texto.
+Plano, apto para impresión, sin letras.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -467,7 +467,7 @@ Plano, apto para impresión, sin texto.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20Navidad%20imprimible%20en%20formato%20vertical%201%3A1.4%2C%20estilo%20de%20dibujos%20animados%20humor%C3%ADstico.%0A%0AIlustraci%C3%B3n%20solo%20del%20marco.%0A%0AMarcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20centrado%2C%201%3A1.4%2C%2070%25%20de%20ancho%2C%20sin%20modificar.%0A%0AEl%20borde%20presenta%20camaleones%20de%20dibujos%20animados%20que%20intentan%2C%20sin%20%C3%A9xito%2C%20camuflarse%20entre%20adornos%2C%20luces%20y%20guirnaldas%2C%20siendo%20claramente%20visibles%20y%20luciendo%20confundidos%2C%20lo%20que%20a%C3%B1ade%20un%20sutil%20humor%20visual.%0A%0APlano%2C%20apto%20para%20impresi%C3%B3n%2C%20sin%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20Navidad%20imprimible%20en%20formato%20vertical%201%3A1.4%2C%20estilo%20de%20dibujos%20animados%20humor%C3%ADstico.%0A%0AIlustraci%C3%B3n%20solo%20del%20marco.%0A%0AMarcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20centrado%2C%201%3A1.4%2C%2070%25%20de%20ancho%2C%20sin%20tocar.%0A%0AEl%20borde%20presenta%20camaleones%20de%20dibujos%20animados%20que%20intentan%20sin%20%C3%A9xito%20mimetizarse%20con%20adornos%2C%20luces%20y%20guirnaldas%2C%20claramente%20visibles%20y%20confundidos%2C%20a%C3%B1adiendo%20un%20sutil%20humor%20visual.%0A%0APlano%2C%20apto%20para%20impresi%C3%B3n%2C%20sin%20letras.)**
 
 ---
 
@@ -477,14 +477,14 @@ Plano, apto para impresión, sin texto.
 
 #### 📖 Descripción
 
-Este *prompt* crea un marco navideño animado estilo cuento en formato vertical 1:1.4. El borde presenta búhos de dibujos animados que miran con escepticismo las decoraciones desordenadas y juzgan el caos navideño con humor seco.
+Este prompt crea un marco navideño animado estilo libro de cuentos en formato vertical 1:1.4. El borde presenta búhos de dibujos animados que miran con escepticismo las decoraciones desordenadas y juzgan el caos navideño con humor seco.
 
 #### 📝 Prompt
 
 ```
 Una ilustración de marco navideño imprimible en formato vertical 1:1.4, estilo cuento animado.
 
-Composición solo de marco.
+Composición solo del marco.
 
 Marcador de posición de foto en blanco centrado, 1:1.4, 70% de ancho, sin tocar.
 
@@ -508,17 +508,17 @@ Ilustración plana, sin texto.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20ilustraci%C3%B3n%20de%20marco%20navide%C3%B1o%20imprimible%20en%20formato%20vertical%201%3A1.4%2C%20estilo%20cuento%20animado.%0A%0AComposici%C3%B3n%20solo%20de%20marco.%0A%0AMarcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20centrado%2C%201%3A1.4%2C%2070%25%20de%20ancho%2C%20sin%20tocar.%0A%0AEl%20borde%20presenta%20b%C3%BAhos%20de%20dibujos%20animados%20con%20bufandas%20y%20gorros%2C%20mirando%20esc%C3%A9pticamente%20las%20decoraciones%20desordenadas%2C%20sosteniendo%20portapapeles%20y%20juzgando%20el%20caos%20navide%C3%B1o%20con%20humor%20seco.%0A%0AIlustraci%C3%B3n%20plana%2C%20sin%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20ilustraci%C3%B3n%20de%20marco%20navide%C3%B1o%20imprimible%20en%20formato%20vertical%201%3A1.4%2C%20estilo%20cuento%20animado.%0A%0AComposici%C3%B3n%20solo%20del%20marco.%0A%0AMarcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20centrado%2C%201%3A1.4%2C%2070%25%20de%20ancho%2C%20sin%20tocar.%0A%0AEl%20borde%20presenta%20b%C3%BAhos%20de%20dibujos%20animados%20con%20bufandas%20y%20gorros%2C%20mirando%20esc%C3%A9pticamente%20las%20decoraciones%20desordenadas%2C%20sosteniendo%20portapapeles%20y%20juzgando%20el%20caos%20navide%C3%B1o%20con%20humor%20seco.%0A%0AIlustraci%C3%B3n%20plana%2C%20sin%20texto.)**
 
 ---
 
-### No. 6: Pulpo de Navidad · Marco de Frenesí de Ocho Brazos
+### No. 6: Pulpo Navideño · Marco Frenético de Ocho Brazos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Este prompt genera un marco de fotos navideño en estilo de animación de dibujos animados humorístico, en formato vertical de 1:1.4. El borde presenta un pulpo de dibujos animados usando todos sus brazos para decorar, lo que resulta en un divertido caos festivo.
+Este prompt genera un marco de fotos navideño en un estilo de animación de dibujos animados humorístico, en formato vertical 1:1.4. El borde presenta un pulpo de dibujos animados usando todos sus brazos para decorar, lo que resulta en un divertido caos festivo.
 
 #### 📝 Prompt
 
@@ -527,7 +527,7 @@ Un marco de fotos navideño vertical imprimible de 1:1.4, ilustrado en un estilo
 
 Solo el diseño del marco, sin entorno.
 
-Un marcador de posición de foto en blanco está perfectamente centrado, con una relación de 1:1.4, 70% de ancho, completamente vacío.
+Un marcador de posición de foto en blanco perfectamente centrado, relación 1:1.4, 70% de ancho, completamente vacío.
 
 El borde presenta un pulpo de dibujos animados usando todos sus brazos para decorar adornos, luces, bastones de caramelo y estrellas simultáneamente, lo que resulta en un caótico y divertido ambiente festivo.
 
@@ -539,7 +539,7 @@ Plano, limpio, listo para imprimir, sin tipografía.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_" width="600" alt="Pulpo de Navidad · Marco de Frenesí de Ocho Brazos - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788198209_6m1720_1765784188216-w5nn9x-HEv9crkEgkmWJ9P8BzdbTyx4eFvUAAAAASUVORK5CYII_" width="600" alt="Pulpo Navideño · Marco Frenético de Ocho Brazos - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -549,22 +549,22 @@ Plano, limpio, listo para imprimir, sin tipografía.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20vertical%20imprimible%20de%201%3A1.4%2C%20ilustrado%20en%20un%20estilo%20de%20animaci%C3%B3n%20de%20dibujos%20animados%20humor%C3%ADstico.%0A%0ASolo%20el%20dise%C3%B1o%20del%20marco%2C%20sin%20entorno.%0A%0AUn%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20est%C3%A1%20perfectamente%20centrado%2C%20con%20una%20relaci%C3%B3n%20de%201%3A1.4%2C%2070%25%20de%20ancho%2C%20completamente%20vac%C3%ADo.%0A%0AEl%20borde%20presenta%20un%20pulpo%20de%20dibujos%20animados%20usando%20todos%20sus%20brazos%20para%20decorar%20adornos%2C%20luces%2C%20bastones%20de%20caramelo%20y%20estrellas%20simult%C3%A1neamente%2C%20lo%20que%20resulta%20en%20un%20ca%C3%B3tico%20y%20divertido%20ambiente%20festivo.%0A%0APlano%2C%20limpio%2C%20listo%20para%20imprimir%2C%20sin%20tipograf%C3%ADa.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20vertical%20imprimible%20de%201%3A1.4%2C%20ilustrado%20en%20un%20estilo%20de%20animaci%C3%B3n%20de%20dibujos%20animados%20humor%C3%ADstico.%0A%0ASolo%20el%20dise%C3%B1o%20del%20marco%2C%20sin%20entorno.%0A%0AUn%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20perfectamente%20centrado%2C%20relaci%C3%B3n%201%3A1.4%2C%2070%25%20de%20ancho%2C%20completamente%20vac%C3%ADo.%0A%0AEl%20borde%20presenta%20un%20pulpo%20de%20dibujos%20animados%20usando%20todos%20sus%20brazos%20para%20decorar%20adornos%2C%20luces%2C%20bastones%20de%20caramelo%20y%20estrellas%20simult%C3%A1neamente%2C%20lo%20que%20resulta%20en%20un%20ca%C3%B3tico%20y%20divertido%20ambiente%20festivo.%0A%0APlano%2C%20limpio%2C%20listo%20para%20imprimir%2C%20sin%20tipograf%C3%ADa.)**
 
 ---
 
-### No. 7: Christmas Rabbits · Marco hiperactivo
+### No. 7: Conejos de Navidad · Marco Hiperactivo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Este prompt crea un marco navideño animado en formato vertical 1:1.4, con un caos juguetón. El borde muestra conejos de dibujos animados enérgicos envolviendo regalos demasiado rápido y tropezando con cintas, añadiendo un toque animado y humorístico.
+Este prompt crea un marco navideño animado en formato vertical 1:1.4, con un caos juguetón. El borde muestra conejos de dibujos animados enérgicos envolviendo regalos demasiado rápido y tropezando con las cintas, añadiendo un toque animado y humorístico.
 
 #### 📝 Prompt
 
 ```
-Un marco navideño animado imprimible en formato vertical 1:1.4.
+Un marco de Navidad animado imprimible en formato vertical 1:1.4.
 
 Ilustración solo del marco.
 
@@ -572,7 +572,7 @@ Marcador de posición de foto en blanco centrado, centro horizontal + vertical, 
 
 El borde presenta conejos de dibujos animados enérgicos envolviendo regalos demasiado rápido, tropezando con cintas, haciendo malabares con adornos y corriendo por los bordes del marco.
 
-Caos juguetón, ilustración plana, sin texto.
+Caos divertido, ilustración plana, sin texto.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -580,7 +580,7 @@ Caos juguetón, ilustración plana, sin texto.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788197086_iih89c_1765783621085-axc899-D8AbWcYcR2jqAAAAAElFTkSuQmCC" width="600" alt="Christmas Rabbits · Marco hiperactivo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788197086_iih89c_1765783621085-axc899-D8AbWcYcR2jqAAAAAElFTkSuQmCC" width="600" alt="Conejos de Navidad · Marco Hiperactivo - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -590,7 +590,7 @@ Caos juguetón, ilustración plana, sin texto.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20navide%C3%B1o%20animado%20imprimible%20en%20formato%20vertical%201%3A1.4.%0A%0AIlustraci%C3%B3n%20solo%20del%20marco.%0A%0AMarcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20centrado%2C%20centro%20horizontal%20%2B%20vertical%2C%201%3A1.4%2C%2070%25%20de%20ancho%2C%20sin%20tocar.%0A%0AEl%20borde%20presenta%20conejos%20de%20dibujos%20animados%20en%C3%A9rgicos%20envolviendo%20regalos%20demasiado%20r%C3%A1pido%2C%20tropezando%20con%20cintas%2C%20haciendo%20malabares%20con%20adornos%20y%20corriendo%20por%20los%20bordes%20del%20marco.%0A%0ACaos%20juguet%C3%B3n%2C%20ilustraci%C3%B3n%20plana%2C%20sin%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20Navidad%20animado%20imprimible%20en%20formato%20vertical%201%3A1.4.%0A%0AIlustraci%C3%B3n%20solo%20del%20marco.%0A%0AMarcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20centrado%2C%20centro%20horizontal%20%2B%20vertical%2C%201%3A1.4%2C%2070%25%20de%20ancho%2C%20sin%20tocar.%0A%0AEl%20borde%20presenta%20conejos%20de%20dibujos%20animados%20en%C3%A9rgicos%20envolviendo%20regalos%20demasiado%20r%C3%A1pido%2C%20tropezando%20con%20cintas%2C%20haciendo%20malabares%20con%20adornos%20y%20corriendo%20por%20los%20bordes%20del%20marco.%0A%0ACaos%20divertido%2C%20ilustraci%C3%B3n%20plana%2C%20sin%20texto.)**
 
 ---
 
@@ -600,7 +600,7 @@ Caos juguetón, ilustración plana, sin texto.
 
 #### 📖 Descripción
 
-Este prompt genera un marco de fotos navideño de estilo animado y humorístico en formato vertical 1:1.4. El borde del marco muestra erizos de dibujos animados que recogen accidentalmente adornos y luces en sus espinas, añadiendo un humor visual lindo y exagerado.
+Este prompt genera un marco de fotos navideño humorístico de estilo animado en formato vertical 1:1.4. El borde del marco muestra erizos de dibujos animados que recogen accidentalmente adornos y luces en sus espinas, lo que añade un humor visual lindo y exagerado.
 
 #### 📝 Prompt
 
@@ -611,9 +611,9 @@ Sin entorno externo.
 
 Marcador de posición de foto en blanco, exactamente en el centro, 1:1.4, 70% de ancho, completamente limpio.
 
-El borde del marco muestra erizos de dibujos animados recogiendo accidentalmente adornos, estrellas y luces en sus espinas, con una expresión de sorpresa y confusión de forma linda y exagerada.
+El borde del marco muestra erizos de dibujos animados que recogen accidentalmente adornos, estrellas y luces en sus púas, con una expresión de sorpresa y confusión de una manera linda y exagerada.
 
-Plano, optimizado para impresión, sin texto.
+Plano, optimizado para impresión, sin letras.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -631,11 +631,11 @@ Plano, optimizado para impresión, sin texto.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20vertical%20de%201%3A1.4%2C%20ilustrado%20con%20un%20estilo%20animado%20y%20humor%C3%ADstico.%0A%0ASin%20entorno%20externo.%0A%0AMarcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%2C%20exactamente%20en%20el%20centro%2C%201%3A1.4%2C%2070%25%20de%20ancho%2C%20completamente%20limpio.%0A%0AEl%20borde%20del%20marco%20muestra%20erizos%20de%20dibujos%20animados%20recogiendo%20accidentalmente%20adornos%2C%20estrellas%20y%20luces%20en%20sus%20espinas%2C%20con%20una%20expresi%C3%B3n%20de%20sorpresa%20y%20confusi%C3%B3n%20de%20forma%20linda%20y%20exagerada.%0A%0APlano%2C%20optimizado%20para%20impresi%C3%B3n%2C%20sin%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20vertical%20de%201%3A1.4%2C%20ilustrado%20con%20un%20estilo%20animado%20y%20humor%C3%ADstico.%0A%0ASin%20entorno%20externo.%0A%0AMarcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%2C%20exactamente%20en%20el%20centro%2C%201%3A1.4%2C%2070%25%20de%20ancho%2C%20completamente%20limpio.%0A%0AEl%20borde%20del%20marco%20muestra%20erizos%20de%20dibujos%20animados%20que%20recogen%20accidentalmente%20adornos%2C%20estrellas%20y%20luces%20en%20sus%20p%C3%BAas%2C%20con%20una%20expresi%C3%B3n%20de%20sorpresa%20y%20confusi%C3%B3n%20de%20una%20manera%20linda%20y%20exagerada.%0A%0APlano%2C%20optimizado%20para%20impresi%C3%B3n%2C%20sin%20letras.)**
 
 ---
 
-### No. 9: Christmas Pandas · Marco de vacaciones relajante
+### No. 9: Pandas navideños · Marco festivo relajante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -662,7 +662,7 @@ Ilustración plana, paleta cálida, sin texto.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__" width="600" alt="Christmas Pandas · Marco de vacaciones relajante - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788193824_p1eie0_1765783607464-ixgml4-wC10admIVfxlQAAAABJRU5ErkJggg__" width="600" alt="Pandas navideños · Marco festivo relajante - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -682,20 +682,20 @@ Ilustración plana, paleta cálida, sin texto.
 
 #### 📖 Descripción
 
-Este *prompt* crea un marco navideño vertical imprimible de 1:1.4 en un estilo de dibujos animados tranquilo pero humorístico. El borde presenta tortugas de dibujos animados relajadas que se mueven a un ritmo exageradamente lento, añadiendo un humor suave y pacífico al diseño.
+Este prompt crea un marco navideño imprimible vertical de 1:1.4 en un estilo de dibujos animados tranquilo pero humorístico. El borde presenta tortugas de dibujos animados relajadas que se mueven a un ritmo exageradamente lento, añadiendo un humor suave y pacífico al diseño.
 
 #### 📝 Prompt
 
 ```
 Un marco navideño imprimible vertical de 1:1.4 en un estilo de dibujos animados tranquilo pero humorístico.
 
-Solo la ilustración del marco, sin escena de fondo.
+Solo la ilustración del marco, sin fondo.
 
-Un marcador de posición de foto en blanco se encuentra perfectamente centrado, con una relación de 1:1.4 y un 70 % de ancho, sin tocar.
+Un marcador de posición de foto en blanco se encuentra perfectamente centrado, con una relación de 1:1.4 y un 70% de ancho, sin tocar.
 
 El borde está decorado con tortugas de dibujos animados relajadas que llevan bufandas, apilan adornos con calma, meditan con luces navideñas y se mueven a un ritmo exageradamente lento.
 
-Plano, equilibrado, apto para imprimir, sin texto.
+Plano, equilibrado, apto para impresión, sin texto.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -713,22 +713,22 @@ Plano, equilibrado, apto para imprimir, sin texto.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20navide%C3%B1o%20imprimible%20vertical%20de%201%3A1.4%20en%20un%20estilo%20de%20dibujos%20animados%20tranquilo%20pero%20humor%C3%ADstico.%0A%0ASolo%20la%20ilustraci%C3%B3n%20del%20marco%2C%20sin%20escena%20de%20fondo.%0A%0AUn%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20se%20encuentra%20perfectamente%20centrado%2C%20con%20una%20relaci%C3%B3n%20de%201%3A1.4%20y%20un%2070%20%25%20de%20ancho%2C%20sin%20tocar.%0A%0AEl%20borde%20est%C3%A1%20decorado%20con%20tortugas%20de%20dibujos%20animados%20relajadas%20que%20llevan%20bufandas%2C%20apilan%20adornos%20con%20calma%2C%20meditan%20con%20luces%20navide%C3%B1as%20y%20se%20mueven%20a%20un%20ritmo%20exageradamente%20lento.%0A%0APlano%2C%20equilibrado%2C%20apto%20para%20imprimir%2C%20sin%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20navide%C3%B1o%20imprimible%20vertical%20de%201%3A1.4%20en%20un%20estilo%20de%20dibujos%20animados%20tranquilo%20pero%20humor%C3%ADstico.%0A%0ASolo%20la%20ilustraci%C3%B3n%20del%20marco%2C%20sin%20fondo.%0A%0AUn%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20se%20encuentra%20perfectamente%20centrado%2C%20con%20una%20relaci%C3%B3n%20de%201%3A1.4%20y%20un%2070%25%20de%20ancho%2C%20sin%20tocar.%0A%0AEl%20borde%20est%C3%A1%20decorado%20con%20tortugas%20de%20dibujos%20animados%20relajadas%20que%20llevan%20bufandas%2C%20apilan%20adornos%20con%20calma%2C%20meditan%20con%20luces%20navide%C3%B1as%20y%20se%20mueven%20a%20un%20ritmo%20exageradamente%20lento.%0A%0APlano%2C%20equilibrado%2C%20apto%20para%20impresi%C3%B3n%2C%20sin%20texto.)**
 
 ---
 
-### No. 11: Ardillas navideñas · Marco de frenesí de acaparamiento
+### No. 11: Ardillas de Navidad · Marco de frenesí de acaparamiento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Este *prompt* genera un divertido marco de fotos navideño animado en formato vertical 1:1.4. El borde presenta ardillas de dibujos animados frenéticas acaparando adornos y rellenando calcetines, añadiendo un humor acogedor a un diseño apto para imprimir.
+Este prompt genera un divertido marco de fotos navideño animado en formato vertical 1:1.4. El borde presenta ardillas de dibujos animados frenéticas acaparando adornos y rellenando calcetines, añadiendo un humor acogedor a un diseño apto para imprimir.
 
 #### 📝 Prompt
 
 ```
-Una ilustración de un marco de fotos navideño imprimible en formato vertical 1:1.4, ilustrada con un estilo animado y humorístico.
+Una ilustración de un marco de fotos navideño imprimible en formato vertical 1:1.4, ilustrado con un estilo animado y humorístico.
 
 Diseño solo del marco, sin entorno.
 
@@ -744,7 +744,7 @@ Ilustración plana, humor acogedor, sin tipografía.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788190847_uts5dc_1765784417851-tvxey7-b_RQnrr59P8BW4BdIdd1RXYAAAAASUVORK5CYII_" width="600" alt="Ardillas navideñas · Marco de frenesí de acaparamiento - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788190847_uts5dc_1765784417851-tvxey7-b_RQnrr59P8BW4BdIdd1RXYAAAAASUVORK5CYII_" width="600" alt="Ardillas de Navidad · Marco de frenesí de acaparamiento - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -754,17 +754,17 @@ Ilustración plana, humor acogedor, sin tipografía.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20ilustraci%C3%B3n%20de%20un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20en%20formato%20vertical%201%3A1.4%2C%20ilustrada%20con%20un%20estilo%20animado%20y%20humor%C3%ADstico.%0A%0ADise%C3%B1o%20solo%20del%20marco%2C%20sin%20entorno.%0A%0AMarcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20centrado%2C%20centrado%20horizontal%20y%20verticalmente%2C%20relaci%C3%B3n%20de%20aspecto%201%3A1.4%2C%2070%25%20del%20ancho%20del%20marco%2C%20completamente%20vac%C3%ADo.%0A%0AEl%20borde%20presenta%20ardillas%20de%20dibujos%20animados%20fren%C3%A9ticas%20acaparando%20adornos%2C%20rellenando%20calcetines%2C%20escondiendo%20nueces%20dentro%20de%20las%20bolas%20y%20asom%C3%A1ndose%20nerviosamente%20por%20detr%C3%A1s%20de%20las%20decoraciones.%0A%0AIlustraci%C3%B3n%20plana%2C%20humor%20acogedor%2C%20sin%20tipograf%C3%ADa.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20ilustraci%C3%B3n%20de%20un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20en%20formato%20vertical%201%3A1.4%2C%20ilustrado%20con%20un%20estilo%20animado%20y%20humor%C3%ADstico.%0A%0ADise%C3%B1o%20solo%20del%20marco%2C%20sin%20entorno.%0A%0AMarcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20centrado%2C%20centrado%20horizontal%20y%20verticalmente%2C%20relaci%C3%B3n%20de%20aspecto%201%3A1.4%2C%2070%25%20del%20ancho%20del%20marco%2C%20completamente%20vac%C3%ADo.%0A%0AEl%20borde%20presenta%20ardillas%20de%20dibujos%20animados%20fren%C3%A9ticas%20acaparando%20adornos%2C%20rellenando%20calcetines%2C%20escondiendo%20nueces%20dentro%20de%20las%20bolas%20y%20asom%C3%A1ndose%20nerviosamente%20por%20detr%C3%A1s%20de%20las%20decoraciones.%0A%0AIlustraci%C3%B3n%20plana%2C%20humor%20acogedor%2C%20sin%20tipograf%C3%ADa.)**
 
 ---
 
-### No. 12: Christmas Monkeys · Marco de travesuras
+### No. 12: Monos navideños · Marco de travesuras
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Este prompt genera un marco de fotos navideño animado vertical de 1:1.4 imprimible con una energía de dibujos animados juguetona. El borde presenta monos descarados columpiándose en guirnaldas y robando estrellas, ilustrados con un estilo de animación vivaz.
+Este prompt genera un marco de fotos navideño animado imprimible, vertical 1:1.4, con una energía de dibujos animados juguetona. El borde presenta monos descarados columpiándose en guirnaldas y robando estrellas, ilustrados con un estilo de animación vivaz.
 
 #### 📝 Prompt
 
@@ -773,9 +773,9 @@ Un marco de fotos navideño animado imprimible vertical de 1:1.4 con una energí
 
 Sin entorno, solo el marco en sí.
 
-Un gran marcador de posición de foto en blanco está centrado tanto horizontal como verticalmente, con una relación de 1:1.4 y un 70 % de ancho, completamente vacío.
+Un gran marcador de posición de foto en blanco está centrado tanto horizontal como verticalmente, con una relación de 1:1.4 y un 70% de ancho, completamente vacío.
 
-El borde del marco presenta monos de dibujos animados descarados columpiándose en guirnaldas, robando estrellas, colgando boca abajo y haciendo expresiones tontas, ilustrados en un estilo de animación vivaz.
+El borde del marco presenta monos de dibujos animados descarados columpiándose en guirnaldas, robando estrellas, colgando boca abajo y haciendo expresiones tontas, ilustrados en un estilo de animación animado.
 
 Plano, equilibrado, listo para imprimir, sin texto.
 ```
@@ -785,7 +785,7 @@ Plano, equilibrado, listo para imprimir, sin texto.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788189885_vgajpv_1765783585967-se6gws-P0AAAAASUVORK5CYII_" width="600" alt="Christmas Monkeys · Marco de travesuras - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788189885_vgajpv_1765783585967-se6gws-P0AAAAASUVORK5CYII_" width="600" alt="Monos navideños · Marco de travesuras - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -795,22 +795,22 @@ Plano, equilibrado, listo para imprimir, sin texto.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20animado%20imprimible%20vertical%20de%201%3A1.4%20con%20una%20energ%C3%ADa%20de%20dibujos%20animados%20juguetona.%0A%0ASin%20entorno%2C%20solo%20el%20marco%20en%20s%C3%AD.%0A%0AUn%20gran%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20est%C3%A1%20centrado%20tanto%20horizontal%20como%20verticalmente%2C%20con%20una%20relaci%C3%B3n%20de%201%3A1.4%20y%20un%2070%20%25%20de%20ancho%2C%20completamente%20vac%C3%ADo.%0A%0AEl%20borde%20del%20marco%20presenta%20monos%20de%20dibujos%20animados%20descarados%20columpi%C3%A1ndose%20en%20guirnaldas%2C%20robando%20estrellas%2C%20colgando%20boca%20abajo%20y%20haciendo%20expresiones%20tontas%2C%20ilustrados%20en%20un%20estilo%20de%20animaci%C3%B3n%20vivaz.%0A%0APlano%2C%20equilibrado%2C%20listo%20para%20imprimir%2C%20sin%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20animado%20imprimible%20vertical%20de%201%3A1.4%20con%20una%20energ%C3%ADa%20de%20dibujos%20animados%20juguetona.%0A%0ASin%20entorno%2C%20solo%20el%20marco%20en%20s%C3%AD.%0A%0AUn%20gran%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20est%C3%A1%20centrado%20tanto%20horizontal%20como%20verticalmente%2C%20con%20una%20relaci%C3%B3n%20de%201%3A1.4%20y%20un%2070%25%20de%20ancho%2C%20completamente%20vac%C3%ADo.%0A%0AEl%20borde%20del%20marco%20presenta%20monos%20de%20dibujos%20animados%20descarados%20columpi%C3%A1ndose%20en%20guirnaldas%2C%20robando%20estrellas%2C%20colgando%20boca%20abajo%20y%20haciendo%20expresiones%20tontas%2C%20ilustrados%20en%20un%20estilo%20de%20animaci%C3%B3n%20animado.%0A%0APlano%2C%20equilibrado%2C%20listo%20para%20imprimir%2C%20sin%20texto.)**
 
 ---
 
-### No. 13: Caracoles en cámara lenta · Marco de Navidad
+### No. 13: Caracoles a cámara lenta · Marco de Navidad
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Este prompt crea un marco de fotos navideño humorístico, al estilo de un libro animado infantil, con caracoles de dibujos animados que se mueven lentamente, arrastrando adornos y dejando rastros de purpurina. Tiene una relación de aspecto vertical de 1:1.4, centrándose únicamente en el diseño del marco.
+Este prompt crea un marco de fotos navideño humorístico, al estilo de un libro animado infantil, con caracoles de dibujos animados que se mueven lentamente, arrastrando adornos y dejando rastros brillantes. Tiene una relación de aspecto vertical de 1:1.4, centrándose únicamente en el diseño del marco.
 
 #### 📝 Prompt
 
 ```
-Una ilustración de un marco de fotos navideño imprimible en una relación de aspecto vertical de 1:1.4, dibujada en un estilo de libro infantil animado y humorístico.
+Una ilustración imprimible de un marco de fotos navideño en una relación de aspecto vertical de 1:1.4, dibujada al estilo humorístico de un libro animado infantil.
 
 La ilustración se centra únicamente en el diseño del marco.
 
@@ -826,7 +826,7 @@ Ilustración plana, humor acogedor, sin texto.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788187927_i4a6av_1765783585550-863woz-A8zt1pp7Z9V2AAAAAElFTkSuQmCC" width="600" alt="Caracoles en cámara lenta · Marco de Navidad - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788187927_i4a6av_1765783585550-863woz-A8zt1pp7Z9V2AAAAAElFTkSuQmCC" width="600" alt="Caracoles a cámara lenta · Marco de Navidad - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -836,22 +836,22 @@ Ilustración plana, humor acogedor, sin texto.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20ilustraci%C3%B3n%20de%20un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20en%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20dibujada%20en%20un%20estilo%20de%20libro%20infantil%20animado%20y%20humor%C3%ADstico.%0A%0ALa%20ilustraci%C3%B3n%20se%20centra%20%C3%BAnicamente%20en%20el%20dise%C3%B1o%20del%20marco.%0A%0AEn%20el%20centro%20exacto%2C%20incluye%20un%20%C3%A1rea%20en%20blanco%20para%20colocar%20una%20foto%2C%20centrada%20horizontal%20y%20verticalmente%2C%20con%20una%20relaci%C3%B3n%20de%20aspecto%20de%201%3A1.4%2C%20el%2070%25%20del%20ancho%20total%2C%20completamente%20limpia.%0A%0AEl%20borde%20presenta%20caracoles%20de%20dibujos%20animados%20que%20se%20mueven%20lentamente%2C%20con%20peque%C3%B1os%20gorros%20de%20Pap%C3%A1%20Noel%2C%20arrastrando%20adornos%2C%20dejando%20rastros%20de%20purpurina%20y%20trepando%20decoraciones%20festivas%20a%20un%20ritmo%20absurdamente%20relajado.%0A%0AIlustraci%C3%B3n%20plana%2C%20humor%20acogedor%2C%20sin%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20ilustraci%C3%B3n%20imprimible%20de%20un%20marco%20de%20fotos%20navide%C3%B1o%20en%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20dibujada%20al%20estilo%20humor%C3%ADstico%20de%20un%20libro%20animado%20infantil.%0A%0ALa%20ilustraci%C3%B3n%20se%20centra%20%C3%BAnicamente%20en%20el%20dise%C3%B1o%20del%20marco.%0A%0AEn%20el%20centro%20exacto%2C%20incluye%20un%20%C3%A1rea%20en%20blanco%20para%20colocar%20una%20foto%2C%20centrada%20horizontal%20y%20verticalmente%2C%20con%20una%20relaci%C3%B3n%20de%20aspecto%20de%201%3A1.4%2C%20el%2070%25%20del%20ancho%20total%2C%20completamente%20limpia.%0A%0AEl%20borde%20presenta%20caracoles%20de%20dibujos%20animados%20que%20se%20mueven%20lentamente%2C%20con%20peque%C3%B1os%20gorros%20de%20Pap%C3%A1%20Noel%2C%20arrastrando%20adornos%2C%20dejando%20rastros%20de%20purpurina%20y%20trepando%20decoraciones%20festivas%20a%20un%20ritmo%20absurdamente%20relajado.%0A%0AIlustraci%C3%B3n%20plana%2C%20humor%20acogedor%2C%20sin%20texto.)**
 
 ---
 
-### No. 14: Perros navideños · Marco fuera de control
+### No. 14: Perros de Navidad · Marco fuera de control
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Este prompt genera un marco de fotos navideño imprimible, vertical 1:1.4, en un estilo de animación de dibujos animados. El borde del marco está lleno de perros de dibujos animados emocionados, enredados en luces y derribando decoraciones, creando una escena alegre y enérgica.
+Este prompt genera un marco de fotos navideño imprimible, vertical 1:1.4, de estilo de animación de dibujos animados y con un toque de humor. El borde del marco está lleno de perros de dibujos animados emocionados, enredados en luces y tirando adornos, creando una escena alegre y enérgica.
 
 #### 📝 Prompt
 
 ```
-Un marco de fotos navideño imprimible vertical de 1:1.4, ilustrado en un estilo de animación de dibujos animados humorístico.
+Un marco de fotos navideño vertical imprimible de 1:1.4, ilustrado con un estilo de animación de dibujos animados humorístico.
 
 El diseño muestra solo el marco, sin ningún entorno de fondo.
 
@@ -867,7 +867,7 @@ Alegre, enérgico, plano y optimizado para impresión, sin letras.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788186415_etmvj2_1765783586949-k560dn-D9r9UuCKmr6RAAAAAElFTkSuQmCC" width="600" alt="Perros navideños · Marco fuera de control - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788186415_etmvj2_1765783586949-k560dn-D9r9UuCKmr6RAAAAAElFTkSuQmCC" width="600" alt="Perros de Navidad · Marco fuera de control - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -877,26 +877,26 @@ Alegre, enérgico, plano y optimizado para impresión, sin letras.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20vertical%20de%201%3A1.4%2C%20ilustrado%20en%20un%20estilo%20de%20animaci%C3%B3n%20de%20dibujos%20animados%20humor%C3%ADstico.%0A%0AEl%20dise%C3%B1o%20muestra%20solo%20el%20marco%2C%20sin%20ning%C3%BAn%20entorno%20de%20fondo.%0A%0ASe%20reserva%20un%20espacio%20en%20blanco%20para%20la%20foto%20en%20el%20centro%20horizontal%20y%20vertical%20exacto%2C%20con%20una%20relaci%C3%B3n%20de%20aspecto%20de%201%3A1.4%20y%20un%2070%25%20del%20ancho%20del%20marco%2C%20completamente%20vac%C3%ADo%20y%20claramente%20definido.%0A%0AEl%20borde%20del%20marco%20est%C3%A1%20lleno%20de%20perros%20de%20dibujos%20animados%20emocionados%20enredados%20en%20luces%20navide%C3%B1as%2C%20persiguiendo%20adornos%2C%20derribando%20decoraciones%20y%20vistiendo%20su%C3%A9teres%20festivos%20de%20gran%20tama%C3%B1o%20en%20poses%20exageradas.%0A%0AAlegre%2C%20en%C3%A9rgico%2C%20plano%20y%20optimizado%20para%20impresi%C3%B3n%2C%20sin%20letras.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20vertical%20imprimible%20de%201%3A1.4%2C%20ilustrado%20con%20un%20estilo%20de%20animaci%C3%B3n%20de%20dibujos%20animados%20humor%C3%ADstico.%0A%0AEl%20dise%C3%B1o%20muestra%20solo%20el%20marco%2C%20sin%20ning%C3%BAn%20entorno%20de%20fondo.%0A%0ASe%20reserva%20un%20espacio%20en%20blanco%20para%20la%20foto%20en%20el%20centro%20horizontal%20y%20vertical%20exacto%2C%20con%20una%20relaci%C3%B3n%20de%20aspecto%20de%201%3A1.4%20y%20un%2070%25%20del%20ancho%20del%20marco%2C%20completamente%20vac%C3%ADo%20y%20claramente%20definido.%0A%0AEl%20borde%20del%20marco%20est%C3%A1%20lleno%20de%20perros%20de%20dibujos%20animados%20emocionados%20enredados%20en%20luces%20navide%C3%B1as%2C%20persiguiendo%20adornos%2C%20derribando%20decoraciones%20y%20vistiendo%20su%C3%A9teres%20festivos%20de%20gran%20tama%C3%B1o%20en%20poses%20exageradas.%0A%0AAlegre%2C%20en%C3%A9rgico%2C%20plano%20y%20optimizado%20para%20impresi%C3%B3n%2C%20sin%20letras.)**
 
 ---
 
-### No. 15: Mapaches navideños · Marco de robo sigiloso
+### No. 15: Mapaches de Navidad · Marco de Robo Sigiloso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Este prompt genera una ilustración de un marco de fotos navideño imprimible con mapaches traviesos robando adornos y bastones de caramelo, creando un ambiente festivo juguetón y caótico. Está diseñado como un marco independiente con una relación de aspecto de 1:1.4, adecuado para impresión de alta calidad.
+Este prompt genera una ilustración imprimible de un marco de fotos navideño con mapaches traviesos robando adornos y bastones de caramelo, creando un ambiente festivo juguetón y caótico. Está diseñado como un marco independiente con una relación de aspecto de 1:1.4, adecuado para impresión de alta calidad.
 
 #### 📝 Prompt
 
 ```
-Una ilustración de marco de fotos navideño imprimible diseñada exclusivamente como un marco independiente, con una relación de aspecto vertical de 1:1.4, adecuada para impresión de alta calidad.
+Una ilustración de marco de fotos navideño imprimible diseñada exclusivamente como un marco independiente, en una relación de aspecto vertical de 1:1.4, adecuada para impresión de alta calidad.
 
-La ilustración se centra únicamente en el marco en sí, sin entorno externo ni escena de fondo. El estilo es una ilustración humorística de cuento animado con contornos limpios y texturas suaves.
+La ilustración se centra únicamente en el marco en sí, sin entorno externo ni escena de fondo. El estilo es de ilustración de libro de cuentos animado y humorístico con contornos limpios y texturas suaves.
 
-En el centro exacto del marco, reserve un área de marcador de posición de foto en blanco que esté centrada horizontal y verticalmente, con una relación de aspecto de retrato de 1:1.4 y el 70% del ancho total del marco, completamente vacía e intacta.
+En el centro exacto del marco, reserve un área de marcador de posición de foto en blanco que esté centrada horizontal y verticalmente, con una relación de aspecto vertical de 1:1.4 y el 70% del ancho total del marco, completamente vacía e intacta.
 
 El borde del marco circundante presenta mapaches de dibujos animados traviesos robando adornos, escondiendo bastones de caramelo, asomándose por las esquinas y colgando boca abajo de las guirnaldas, creando un ambiente festivo caótico y juguetón.
 
@@ -908,7 +908,7 @@ Composición plana, colores aptos para impresión, sin texto.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765788185612_i3bkv5_1765783888394-phn8ds-uZAAAAAElFTkSuQmCC" width="600" alt="Mapaches navideños · Marco de robo sigiloso - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765788185612_i3bkv5_1765783888394-phn8ds-uZAAAAAElFTkSuQmCC" width="600" alt="Mapaches de Navidad · Marco de Robo Sigiloso - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -918,7 +918,7 @@ Composición plana, colores aptos para impresión, sin texto.
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20ilustraci%C3%B3n%20de%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20dise%C3%B1ada%20exclusivamente%20como%20un%20marco%20independiente%2C%20con%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20adecuada%20para%20impresi%C3%B3n%20de%20alta%20calidad.%0A%0ALa%20ilustraci%C3%B3n%20se%20centra%20%C3%BAnicamente%20en%20el%20marco%20en%20s%C3%AD%2C%20sin%20entorno%20externo%20ni%20escena%20de%20fondo.%20El%20estilo%20es%20una%20ilustraci%C3%B3n%20humor%C3%ADstica%20de%20cuento%20animado%20con%20contornos%20limpios%20y%20texturas%20suaves.%0A%0AEn%20el%20centro%20exacto%20del%20marco%2C%20reserve%20un%20%C3%A1rea%20de%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20que%20est%C3%A9%20centrada%20horizontal%20y%20verticalmente%2C%20con%20una%20relaci%C3%B3n%20de%20aspecto%20de%20retrato%20de%201%3A1.4%20y%20el%2070%25%20del%20ancho%20total%20del%20marco%2C%20completamente%20vac%C3%ADa%20e%20intacta.%0A%0AEl%20borde%20del%20marco%20circundante%20presenta%20mapaches%20de%20dibujos%20animados%20traviesos%20robando%20adornos%2C%20escondiendo%20bastones%20de%20caramelo%2C%20asom%C3%A1ndose%20por%20las%20esquinas%20y%20colgando%20boca%20abajo%20de%20las%20guirnaldas%2C%20creando%20un%20ambiente%20festivo%20ca%C3%B3tico%20y%20juguet%C3%B3n.%0A%0AComposici%C3%B3n%20plana%2C%20colores%20aptos%20para%20impresi%C3%B3n%2C%20sin%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20ilustraci%C3%B3n%20de%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20dise%C3%B1ada%20exclusivamente%20como%20un%20marco%20independiente%2C%20en%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20adecuada%20para%20impresi%C3%B3n%20de%20alta%20calidad.%0A%0ALa%20ilustraci%C3%B3n%20se%20centra%20%C3%BAnicamente%20en%20el%20marco%20en%20s%C3%AD%2C%20sin%20entorno%20externo%20ni%20escena%20de%20fondo.%20El%20estilo%20es%20de%20ilustraci%C3%B3n%20de%20libro%20de%20cuentos%20animado%20y%20humor%C3%ADstico%20con%20contornos%20limpios%20y%20texturas%20suaves.%0A%0AEn%20el%20centro%20exacto%20del%20marco%2C%20reserve%20un%20%C3%A1rea%20de%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20que%20est%C3%A9%20centrada%20horizontal%20y%20verticalmente%2C%20con%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%20y%20el%2070%25%20del%20ancho%20total%20del%20marco%2C%20completamente%20vac%C3%ADa%20e%20intacta.%0A%0AEl%20borde%20del%20marco%20circundante%20presenta%20mapaches%20de%20dibujos%20animados%20traviesos%20robando%20adornos%2C%20escondiendo%20bastones%20de%20caramelo%2C%20asom%C3%A1ndose%20por%20las%20esquinas%20y%20colgando%20boca%20abajo%20de%20las%20guirnaldas%2C%20creando%20un%20ambiente%20festivo%20ca%C3%B3tico%20y%20juguet%C3%B3n.%0A%0AComposici%C3%B3n%20plana%2C%20colores%20aptos%20para%20impresi%C3%B3n%2C%20sin%20texto.)**
 
 ---
 
@@ -928,18 +928,18 @@ Composición plana, colores aptos para impresión, sin texto.
 
 #### 📖 Descripción
 
-Este *prompt* crea un marco de fotos navideño vertical e imprimible, ilustrado con un encantador y divertido estilo de animación de libro infantil, con pingüinos torpes. El diseño se centra por completo en el marco en sí, con un espacio en blanco para la foto, lo que le da un aspecto alegre, divertido y animado para imprimir.
+Este *prompt* crea un marco de fotos navideño vertical e imprimible, ilustrado con un encantador y divertido estilo de animación de libro infantil, que presenta pingüinos torpes. El diseño se centra por completo en el marco en sí, con un espacio en blanco para la foto, lo que le da un aspecto alegre, divertido y animado para imprimir.
 
 #### 📝 Prompt
 
 ```
-Un marco de fotos navideño imprimible vertical de 1:1.4, ilustrado con un encantador y humorístico estilo de animación de libro infantil.
+Un marco de fotos navideño imprimible vertical de 1:1.4, ilustrado con un estilo de animación de libro infantil encantador y humorístico.
 
-El diseño se centra enteramente en el marco en sí, con una ilustración plana y sin entorno de fondo.
+El diseño se centra completamente en el marco en sí, con una ilustración plana y sin fondo ambiental.
 
-Un gran espacio en blanco para la foto está reservado en el centro horizontal y vertical exacto, con una relación de retrato de 1:1.4 y el 70% del ancho del marco, intencionalmente vacío y claramente separado de todas las decoraciones.
+Se reserva un gran espacio en blanco para la foto, situado exactamente en el centro horizontal y vertical, con una proporción de retrato de 1:1.4 y el 70% del ancho del marco, intencionalmente vacío y claramente separado de todas las decoraciones.
 
-El borde circundante presenta torpes pingüinos de dibujos animados resbalando, apilando adornos, sosteniendo estrellas de gran tamaño e interactuando juguetonamente con elementos festivos alrededor de los bordes.
+El borde circundante presenta torpes pingüinos de dibujos animados resbalándose, apilando adornos, sosteniendo estrellas de gran tamaño e interactuando juguetonamente con elementos festivos alrededor de los bordes.
 
 El estilo general es alegre, divertido, animado y fácil de imprimir, sin texto ni letras.
 ```
@@ -959,28 +959,28 @@ El estilo general es alegre, divertido, animado y fácil de imprimir, sin texto 
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20vertical%20de%201%3A1.4%2C%20ilustrado%20con%20un%20encantador%20y%20humor%C3%ADstico%20estilo%20de%20animaci%C3%B3n%20de%20libro%20infantil.%0A%0AEl%20dise%C3%B1o%20se%20centra%20enteramente%20en%20el%20marco%20en%20s%C3%AD%2C%20con%20una%20ilustraci%C3%B3n%20plana%20y%20sin%20entorno%20de%20fondo.%0A%0AUn%20gran%20espacio%20en%20blanco%20para%20la%20foto%20est%C3%A1%20reservado%20en%20el%20centro%20horizontal%20y%20vertical%20exacto%2C%20con%20una%20relaci%C3%B3n%20de%20retrato%20de%201%3A1.4%20y%20el%2070%25%20del%20ancho%20del%20marco%2C%20intencionalmente%20vac%C3%ADo%20y%20claramente%20separado%20de%20todas%20las%20decoraciones.%0A%0AEl%20borde%20circundante%20presenta%20torpes%20ping%C3%BCinos%20de%20dibujos%20animados%20resbalando%2C%20apilando%20adornos%2C%20sosteniendo%20estrellas%20de%20gran%20tama%C3%B1o%20e%20interactuando%20juguetonamente%20con%20elementos%20festivos%20alrededor%20de%20los%20bordes.%0A%0AEl%20estilo%20general%20es%20alegre%2C%20divertido%2C%20animado%20y%20f%C3%A1cil%20de%20imprimir%2C%20sin%20texto%20ni%20letras.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20vertical%20de%201%3A1.4%2C%20ilustrado%20con%20un%20estilo%20de%20animaci%C3%B3n%20de%20libro%20infantil%20encantador%20y%20humor%C3%ADstico.%0A%0AEl%20dise%C3%B1o%20se%20centra%20completamente%20en%20el%20marco%20en%20s%C3%AD%2C%20con%20una%20ilustraci%C3%B3n%20plana%20y%20sin%20fondo%20ambiental.%0A%0ASe%20reserva%20un%20gran%20espacio%20en%20blanco%20para%20la%20foto%2C%20situado%20exactamente%20en%20el%20centro%20horizontal%20y%20vertical%2C%20con%20una%20proporci%C3%B3n%20de%20retrato%20de%201%3A1.4%20y%20el%2070%25%20del%20ancho%20del%20marco%2C%20intencionalmente%20vac%C3%ADo%20y%20claramente%20separado%20de%20todas%20las%20decoraciones.%0A%0AEl%20borde%20circundante%20presenta%20torpes%20ping%C3%BCinos%20de%20dibujos%20animados%20resbal%C3%A1ndose%2C%20apilando%20adornos%2C%20sosteniendo%20estrellas%20de%20gran%20tama%C3%B1o%20e%20interactuando%20juguetonamente%20con%20elementos%20festivos%20alrededor%20de%20los%20bordes.%0A%0AEl%20estilo%20general%20es%20alegre%2C%20divertido%2C%20animado%20y%20f%C3%A1cil%20de%20imprimir%2C%20sin%20texto%20ni%20letras.)**
 
 ---
 
-### No. 17: Marco de fotos animado de jengibre divertido
+### No. 17: Marco de fotos con ilustración animada de divertido hombre de jengibre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Este prompt crea una ilustración de un marco de fotos navideño imprimible en un estilo de cuento animado humorístico, con divertidos personajes de jengibre. El diseño muestra solo el marco con un espacio en blanco para la foto, ofreciendo una estética humorística, acogedora y caprichosa para imprimir.
+Este prompt crea una ilustración de un marco de fotos navideño imprimible con un estilo de cuento animado humorístico, con divertidos personajes de jengibre. El diseño muestra solo el marco con un espacio en blanco para la foto, ofreciendo una estética humorística, acogedora y caprichosa para imprimir.
 
 #### 📝 Prompt
 
 ```
-Una ilustración de un marco de fotos navideño imprimible en una relación de aspecto vertical de 1:1.4, creada en un estilo de libro de cuentos animado y humorístico.
+Una ilustración de un marco de fotos navideño imprimible en una relación de aspecto vertical de 1:1.4, creada en un estilo de cuento animado humorístico.
 
-La ilustración muestra solo el diseño del marco, sin ningún entorno externo ni paisaje de fondo. Los colores son cálidos y festivos con una suave textura de papel.
+La ilustración muestra solo el diseño del marco, sin ningún entorno externo o paisaje de fondo. Los colores son cálidos y festivos con una textura de papel suave.
 
-En el centro exacto, se reserva un espacio en blanco para la foto que está centrado horizontal y verticalmente, manteniendo una relación de aspecto de 1:1.4 y el 70% del ancho total del marco, completamente en blanco y sin obstrucciones.
+En el centro exacto, se reserva un espacio en blanco para la foto, centrado horizontal y verticalmente, manteniendo una relación de aspecto de 1:1.4 y el 70% del ancho total del marco, completamente en blanco y sin obstrucciones.
 
-El borde del marco está decorado con divertidos personajes de jengibre en poses graciosas, galletas parcialmente rotas, detalles de glaseado y decoraciones de dulces, todos dibujados con expresivas caras de dibujos animados.
+El borde del marco está decorado con divertidos personajes de jengibre en poses graciosas, galletas parcialmente rotas, detalles de glaseado y decoraciones de dulces, todos dibujados con caras de dibujos animados expresivas.
 
 El ambiente es humorístico, acogedor y caprichoso, totalmente optimizado para la impresión, sin tipografía.
 ```
@@ -990,7 +990,7 @@ El ambiente es humorístico, acogedor y caprichoso, totalmente optimizado para l
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784310981_hlrjof_1765780294344-8suld3-nw38D6_lD8WBy0bTPa2E6DCNqhxc3ZAVzQg5N2eB1mBa0YUupvbF257bbb7r7rztXly4898dTdt5_wksUMiaSIA7ajkXM0yQDW5oIugT1rLlmBsfExT0IuzTiXnXUWtf8PrWnOlBF9AScAAAAASUVORK5CYII_" width="600" alt="Marco de fotos animado de jengibre divertido - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784310981_hlrjof_1765780294344-8suld3-nw38D6_lD8WBy0bTPa2E6DCNqhxc3ZAVzQg5N2eB1mBa0YUupvbF257bbb7r7rztXly4898dTdt5_wksUMiaSIA7ajkXM0yQDW5oIugT1rLlmBsfExT0IuzTiXnXUWtf8PrWnOlBF9AScAAAAASUVORK5CYII_" width="600" alt="Marco de fotos con ilustración animada de divertido hombre de jengibre - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1000,28 +1000,28 @@ El ambiente es humorístico, acogedor y caprichoso, totalmente optimizado para l
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20ilustraci%C3%B3n%20de%20un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20en%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20creada%20en%20un%20estilo%20de%20libro%20de%20cuentos%20animado%20y%20humor%C3%ADstico.%0A%0ALa%20ilustraci%C3%B3n%20muestra%20solo%20el%20dise%C3%B1o%20del%20marco%2C%20sin%20ning%C3%BAn%20entorno%20externo%20ni%20paisaje%20de%20fondo.%20Los%20colores%20son%20c%C3%A1lidos%20y%20festivos%20con%20una%20suave%20textura%20de%20papel.%0A%0AEn%20el%20centro%20exacto%2C%20se%20reserva%20un%20espacio%20en%20blanco%20para%20la%20foto%20que%20est%C3%A1%20centrado%20horizontal%20y%20verticalmente%2C%20manteniendo%20una%20relaci%C3%B3n%20de%20aspecto%20de%201%3A1.4%20y%20el%2070%25%20del%20ancho%20total%20del%20marco%2C%20completamente%20en%20blanco%20y%20sin%20obstrucciones.%0A%0AEl%20borde%20del%20marco%20est%C3%A1%20decorado%20con%20divertidos%20personajes%20de%20jengibre%20en%20poses%20graciosas%2C%20galletas%20parcialmente%20rotas%2C%20detalles%20de%20glaseado%20y%20decoraciones%20de%20dulces%2C%20todos%20dibujados%20con%20expresivas%20caras%20de%20dibujos%20animados.%0A%0AEl%20ambiente%20es%20humor%C3%ADstico%2C%20acogedor%20y%20caprichoso%2C%20totalmente%20optimizado%20para%20la%20impresi%C3%B3n%2C%20sin%20tipograf%C3%ADa.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20ilustraci%C3%B3n%20de%20un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20en%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20creada%20en%20un%20estilo%20de%20cuento%20animado%20humor%C3%ADstico.%0A%0ALa%20ilustraci%C3%B3n%20muestra%20solo%20el%20dise%C3%B1o%20del%20marco%2C%20sin%20ning%C3%BAn%20entorno%20externo%20o%20paisaje%20de%20fondo.%20Los%20colores%20son%20c%C3%A1lidos%20y%20festivos%20con%20una%20textura%20de%20papel%20suave.%0A%0AEn%20el%20centro%20exacto%2C%20se%20reserva%20un%20espacio%20en%20blanco%20para%20la%20foto%2C%20centrado%20horizontal%20y%20verticalmente%2C%20manteniendo%20una%20relaci%C3%B3n%20de%20aspecto%20de%201%3A1.4%20y%20el%2070%25%20del%20ancho%20total%20del%20marco%2C%20completamente%20en%20blanco%20y%20sin%20obstrucciones.%0A%0AEl%20borde%20del%20marco%20est%C3%A1%20decorado%20con%20divertidos%20personajes%20de%20jengibre%20en%20poses%20graciosas%2C%20galletas%20parcialmente%20rotas%2C%20detalles%20de%20glaseado%20y%20decoraciones%20de%20dulces%2C%20todos%20dibujados%20con%20caras%20de%20dibujos%20animados%20expresivas.%0A%0AEl%20ambiente%20es%20humor%C3%ADstico%2C%20acogedor%20y%20caprichoso%2C%20totalmente%20optimizado%20para%20la%20impresi%C3%B3n%2C%20sin%20tipograf%C3%ADa.)**
 
 ---
 
-### No. 18: Marco de fotos animado navideño estilo perezoso
+### No. 18: Marco de fotos navideño animado estilo perezoso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Este prompt genera una ilustración de un marco de fotos navideño imprimible en un estilo de libro de cuentos animado y humorístico, con perezosos. Está diseñado como un marco independiente con un espacio en blanco para la foto, perfecto para una impresión de alta calidad y para añadir un toque alegre, acogedor y humorístico a las fotos navideñas.
+Este prompt genera una ilustración de marco de fotos navideño imprimible en un estilo de libro de cuentos animado y humorístico, con perezosos. Está diseñado como un marco independiente con un espacio en blanco para la foto, perfecto para una impresión de alta calidad y para añadir un toque alegre, acogedor y humorístico a las fotos navideñas.
 
 #### 📝 Prompt
 
 ```
 Una ilustración de marco de fotos navideño imprimible diseñada exclusivamente como un marco independiente, en una relación de aspecto vertical de 1:1.4, adecuada para impresión de alta calidad.
 
-La ilustración se centra únicamente en el marco en sí, sin entorno externo ni escena de fondo. El estilo es una ilustración humorística de cuento animado con texturas suaves, contornos limpios y colores cálidos.
+La ilustración se centra únicamente en el marco en sí, sin entorno externo ni escena de fondo. El estilo es una ilustración humorística de libro de cuentos animado con texturas suaves, contornos limpios y colores cálidos.
 
 En el centro exacto del marco, reserve un área de marcador de posición de foto en blanco que esté centrada horizontal y verticalmente. El marcador de posición tiene una relación de aspecto vertical de 1:1.4, con su ancho igual al 70% del ancho total del marco, y debe permanecer completamente vacío e intacto.
 
-El borde del marco circundante presenta perezosos de dibujos animados juguetones colgando de bastones de caramelo, ramas de hoja perenne y ganchos festivos. Los perezosos visten suéteres y bufandas de punto acogedores, adoptando poses relajadas y divertidas.
+El borde del marco circundante presenta perezosos de dibujos animados juguetones colgando de bastones de caramelo, ramas de hoja perenne y ganchos festivos. Los perezosos visten acogedores suéteres y bufandas de punto, adoptando poses relajadas y divertidas.
 
 La ilustración se siente alegre, acogedora y humorística, con una composición plana y colores aptos para la impresión, sin texto ni tipografía.
 ```
@@ -1031,7 +1031,7 @@ La ilustración se siente alegre, acogedora y humorística, con una composición
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="Marco de fotos animado navideño estilo perezoso - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784306121_t0q0kq_1765780328328-bqvze7-w8ONsthQo1_QAAAAABJRU5ErkJggg__" width="600" alt="Marco de fotos navideño animado estilo perezoso - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1041,30 +1041,30 @@ La ilustración se siente alegre, acogedora y humorística, con una composición
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20ilustraci%C3%B3n%20de%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20dise%C3%B1ada%20exclusivamente%20como%20un%20marco%20independiente%2C%20en%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20adecuada%20para%20impresi%C3%B3n%20de%20alta%20calidad.%0A%0ALa%20ilustraci%C3%B3n%20se%20centra%20%C3%BAnicamente%20en%20el%20marco%20en%20s%C3%AD%2C%20sin%20entorno%20externo%20ni%20escena%20de%20fondo.%20El%20estilo%20es%20una%20ilustraci%C3%B3n%20humor%C3%ADstica%20de%20cuento%20animado%20con%20texturas%20suaves%2C%20contornos%20limpios%20y%20colores%20c%C3%A1lidos.%0A%0AEn%20el%20centro%20exacto%20del%20marco%2C%20reserve%20un%20%C3%A1rea%20de%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20que%20est%C3%A9%20centrada%20horizontal%20y%20verticalmente.%20El%20marcador%20de%20posici%C3%B3n%20tiene%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20con%20su%20ancho%20igual%20al%2070%25%20del%20ancho%20total%20del%20marco%2C%20y%20debe%20permanecer%20completamente%20vac%C3%ADo%20e%20intacto.%0A%0AEl%20borde%20del%20marco%20circundante%20presenta%20perezosos%20de%20dibujos%20animados%20juguetones%20colgando%20de%20bastones%20de%20caramelo%2C%20ramas%20de%20hoja%20perenne%20y%20ganchos%20festivos.%20Los%20perezosos%20visten%20su%C3%A9teres%20y%20bufandas%20de%20punto%20acogedores%2C%20adoptando%20poses%20relajadas%20y%20divertidas.%0A%0ALa%20ilustraci%C3%B3n%20se%20siente%20alegre%2C%20acogedora%20y%20humor%C3%ADstica%2C%20con%20una%20composici%C3%B3n%20plana%20y%20colores%20aptos%20para%20la%20impresi%C3%B3n%2C%20sin%20texto%20ni%20tipograf%C3%ADa.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Una%20ilustraci%C3%B3n%20de%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20dise%C3%B1ada%20exclusivamente%20como%20un%20marco%20independiente%2C%20en%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20adecuada%20para%20impresi%C3%B3n%20de%20alta%20calidad.%0A%0ALa%20ilustraci%C3%B3n%20se%20centra%20%C3%BAnicamente%20en%20el%20marco%20en%20s%C3%AD%2C%20sin%20entorno%20externo%20ni%20escena%20de%20fondo.%20El%20estilo%20es%20una%20ilustraci%C3%B3n%20humor%C3%ADstica%20de%20libro%20de%20cuentos%20animado%20con%20texturas%20suaves%2C%20contornos%20limpios%20y%20colores%20c%C3%A1lidos.%0A%0AEn%20el%20centro%20exacto%20del%20marco%2C%20reserve%20un%20%C3%A1rea%20de%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20que%20est%C3%A9%20centrada%20horizontal%20y%20verticalmente.%20El%20marcador%20de%20posici%C3%B3n%20tiene%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20con%20su%20ancho%20igual%20al%2070%25%20del%20ancho%20total%20del%20marco%2C%20y%20debe%20permanecer%20completamente%20vac%C3%ADo%20e%20intacto.%0A%0AEl%20borde%20del%20marco%20circundante%20presenta%20perezosos%20de%20dibujos%20animados%20juguetones%20colgando%20de%20bastones%20de%20caramelo%2C%20ramas%20de%20hoja%20perenne%20y%20ganchos%20festivos.%20Los%20perezosos%20visten%20acogedores%20su%C3%A9teres%20y%20bufandas%20de%20punto%2C%20adoptando%20poses%20relajadas%20y%20divertidas.%0A%0ALa%20ilustraci%C3%B3n%20se%20siente%20alegre%2C%20acogedora%20y%20humor%C3%ADstica%2C%20con%20una%20composici%C3%B3n%20plana%20y%20colores%20aptos%20para%20la%20impresi%C3%B3n%2C%20sin%20texto%20ni%20tipograf%C3%ADa.)**
 
 ---
 
-### No. 19: Marco de fotos de Navidad de dibujos animados de oso polar juguetón
+### No. 19: Marco de fotos navideño de dibujos animados de oso polar juguetón
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Este prompt crea un marco de fotos navideño animado imprimible en un estilo de dibujos animados humorístico con osos polares juguetones. Está diseñado únicamente como una ilustración de marco para imprimir, con un espacio en blanco para la foto, ofreciendo una estética alegre, divertida y amigable para las fotos navideñas.
+Este prompt crea un marco de fotos navideño animado e imprimible en un estilo de dibujos animados humorístico con osos polares juguetones. Está diseñado únicamente como una ilustración de marco para imprimir, con un espacio en blanco para la foto, ofreciendo una estética alegre, divertida y amigable para las fotos navideñas.
 
 #### 📝 Prompt
 
 ```
-Un marco de fotos navideño animado imprimible en una relación de aspecto vertical de 1:1.4, diseñado únicamente como ilustración de marco para impresión.
+Un marco de fotos navideño animado imprimible en una relación de aspecto vertical de 1:1.4, diseñado únicamente como ilustración de marco para imprimir.
 
 El marco está ilustrado en un estilo de dibujos animados humorístico con formas redondeadas, personajes expresivos y sombreado suave. Sin entorno, sin escena de fondo, solo el diseño del marco.
 
-Un marcador de posición de foto en blanco está reservado exactamente en el centro horizontal y vertical, con una relación de aspecto de 1:1.4 y el 70% del ancho del marco, completamente vacío y limpio.
+Se reserva un espacio en blanco para la foto en el centro horizontal y vertical exacto, con una relación de aspecto de 1:1.4 y el 70% del ancho del marco, completamente vacío y limpio.
 
 El borde está decorado con osos polares juguetones deslizándose, asomándose y aferrándose a los bordes del marco, interactuando con bastones de caramelo, adornos y bolas de nieve de una manera tonta y exagerada.
 
-El ambiente general es alegre, divertido y amigable, optimizado para ilustración imprimible plana, sin texto.
+El ambiente general es alegre, divertido y amigable, optimizado para una ilustración plana imprimible, sin texto.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1072,7 +1072,7 @@ El ambiente general es alegre, divertido y amigable, optimizado para ilustració
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="Marco de fotos de Navidad de dibujos animados de oso polar juguetón - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765784304207_vgcn84_1765783371888-rr2ss6-JakuM2toyMiL3ZpwmlQuo_JITfAhqP8PR9TNjEdQNEgAAAAASUVORK5CYII_" width="600" alt="Marco de fotos navideño de dibujos animados de oso polar juguetón - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1082,7 +1082,7 @@ El ambiente general es alegre, divertido y amigable, optimizado para ilustració
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20animado%20imprimible%20en%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20dise%C3%B1ado%20%C3%BAnicamente%20como%20ilustraci%C3%B3n%20de%20marco%20para%20impresi%C3%B3n.%0A%0AEl%20marco%20est%C3%A1%20ilustrado%20en%20un%20estilo%20de%20dibujos%20animados%20humor%C3%ADstico%20con%20formas%20redondeadas%2C%20personajes%20expresivos%20y%20sombreado%20suave.%20Sin%20entorno%2C%20sin%20escena%20de%20fondo%2C%20solo%20el%20dise%C3%B1o%20del%20marco.%0A%0AUn%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20est%C3%A1%20reservado%20exactamente%20en%20el%20centro%20horizontal%20y%20vertical%2C%20con%20una%20relaci%C3%B3n%20de%20aspecto%20de%201%3A1.4%20y%20el%2070%25%20del%20ancho%20del%20marco%2C%20completamente%20vac%C3%ADo%20y%20limpio.%0A%0AEl%20borde%20est%C3%A1%20decorado%20con%20osos%20polares%20juguetones%20desliz%C3%A1ndose%2C%20asom%C3%A1ndose%20y%20aferr%C3%A1ndose%20a%20los%20bordes%20del%20marco%2C%20interactuando%20con%20bastones%20de%20caramelo%2C%20adornos%20y%20bolas%20de%20nieve%20de%20una%20manera%20tonta%20y%20exagerada.%0A%0AEl%20ambiente%20general%20es%20alegre%2C%20divertido%20y%20amigable%2C%20optimizado%20para%20ilustraci%C3%B3n%20imprimible%20plana%2C%20sin%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20animado%20imprimible%20en%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%2C%20dise%C3%B1ado%20%C3%BAnicamente%20como%20ilustraci%C3%B3n%20de%20marco%20para%20imprimir.%0A%0AEl%20marco%20est%C3%A1%20ilustrado%20en%20un%20estilo%20de%20dibujos%20animados%20humor%C3%ADstico%20con%20formas%20redondeadas%2C%20personajes%20expresivos%20y%20sombreado%20suave.%20Sin%20entorno%2C%20sin%20escena%20de%20fondo%2C%20solo%20el%20dise%C3%B1o%20del%20marco.%0A%0ASe%20reserva%20un%20espacio%20en%20blanco%20para%20la%20foto%20en%20el%20centro%20horizontal%20y%20vertical%20exacto%2C%20con%20una%20relaci%C3%B3n%20de%20aspecto%20de%201%3A1.4%20y%20el%2070%25%20del%20ancho%20del%20marco%2C%20completamente%20vac%C3%ADo%20y%20limpio.%0A%0AEl%20borde%20est%C3%A1%20decorado%20con%20osos%20polares%20juguetones%20desliz%C3%A1ndose%2C%20asom%C3%A1ndose%20y%20aferr%C3%A1ndose%20a%20los%20bordes%20del%20marco%2C%20interactuando%20con%20bastones%20de%20caramelo%2C%20adornos%20y%20bolas%20de%20nieve%20de%20una%20manera%20tonta%20y%20exagerada.%0A%0AEl%20ambiente%20general%20es%20alegre%2C%20divertido%20y%20amigable%2C%20optimizado%20para%20una%20ilustraci%C3%B3n%20plana%20imprimible%2C%20sin%20texto.)**
 
 ---
 
@@ -1092,18 +1092,18 @@ El ambiente general es alegre, divertido y amigable, optimizado para ilustració
 
 #### 📖 Descripción
 
-Este prompt genera un marco de fotos navideño vertical e imprimible, ilustrado en un estilo de pegatina animada, lindo y humorístico, con gatos traviesos. El diseño se centra únicamente en el marco en sí, con contornos audaces, colores suaves y un espacio en blanco para la foto, creando una sensación festiva juguetona y caótica.
+Este prompt genera un marco de fotos navideño vertical e imprimible, ilustrado en un estilo de pegatina animada, lindo y humorístico, con gatos traviesos. El diseño se centra únicamente en el marco, con contornos llamativos, colores suaves y un espacio en blanco para la foto, creando una sensación festiva juguetona y caótica.
 
 #### 📝 Prompt
 
 ```
-Un marco de fotos navideño imprimible vertical de 1:1.4, ilustrado con un estilo de pegatina animada, bonito y humorístico.
+Un marco de fotos navideño imprimible vertical de 1:1.4, ilustrado en un estilo de pegatina animada, lindo y humorístico.
 
-El diseño se centra únicamente en el marco, sin incluir la habitación, la pared o el contexto ambiental. La ilustración utiliza contornos marcados, colores suaves y personajes de dibujos animados expresivos.
+El diseño se centra únicamente en el marco, sin incluir la habitación, la pared o el contexto ambiental. La ilustración utiliza contornos llamativos, colores suaves y personajes de dibujos animados expresivos.
 
-En el centro exacto, un área en blanco para colocar una foto está centrada horizontal y verticalmente, con una relación de aspecto vertical de 1:1.4 y un 70% del ancho del marco, completamente vacía y claramente definida.
+En el centro exacto, un área de marcador de posición de foto en blanco está centrada horizontal y verticalmente, con una relación de retrato de 1:1.4 y un 70% del ancho del marco, completamente vacía y claramente definida.
 
-El borde circundante presenta gatos de dibujos animados traviesos enredados en luces navideñas, derribando adornos, trepando por guirnaldas y asomándose por las esquinas, creando una sensación festiva juguetona y caótica.
+El borde circundante presenta gatos de dibujos animados traviesos enredados en luces navideñas, derribando adornos, trepando guirnaldas y asomándose desde las esquinas, creando una sensación festiva juguetona y caótica.
 
 La composición se mantiene plana, equilibrada y lista para imprimir, sin elementos de texto.
 ```
@@ -1123,17 +1123,17 @@ La composición se mantiene plana, equilibrada y lista para imprimir, sin elemen
 - **Publicado:** 15 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20vertical%20de%201%3A1.4%2C%20ilustrado%20con%20un%20estilo%20de%20pegatina%20animada%2C%20bonito%20y%20humor%C3%ADstico.%0A%0AEl%20dise%C3%B1o%20se%20centra%20%C3%BAnicamente%20en%20el%20marco%2C%20sin%20incluir%20la%20habitaci%C3%B3n%2C%20la%20pared%20o%20el%20contexto%20ambiental.%20La%20ilustraci%C3%B3n%20utiliza%20contornos%20marcados%2C%20colores%20suaves%20y%20personajes%20de%20dibujos%20animados%20expresivos.%0A%0AEn%20el%20centro%20exacto%2C%20un%20%C3%A1rea%20en%20blanco%20para%20colocar%20una%20foto%20est%C3%A1%20centrada%20horizontal%20y%20verticalmente%2C%20con%20una%20relaci%C3%B3n%20de%20aspecto%20vertical%20de%201%3A1.4%20y%20un%2070%25%20del%20ancho%20del%20marco%2C%20completamente%20vac%C3%ADa%20y%20claramente%20definida.%0A%0AEl%20borde%20circundante%20presenta%20gatos%20de%20dibujos%20animados%20traviesos%20enredados%20en%20luces%20navide%C3%B1as%2C%20derribando%20adornos%2C%20trepando%20por%20guirnaldas%20y%20asom%C3%A1ndose%20por%20las%20esquinas%2C%20creando%20una%20sensaci%C3%B3n%20festiva%20juguetona%20y%20ca%C3%B3tica.%0A%0ALa%20composici%C3%B3n%20se%20mantiene%20plana%2C%20equilibrada%20y%20lista%20para%20imprimir%2C%20sin%20elementos%20de%20texto.)**
+**[👉 Pruébalo ahora →](https://youmind.com/tools/christmas-cards-maker?prompt=Un%20marco%20de%20fotos%20navide%C3%B1o%20imprimible%20vertical%20de%201%3A1.4%2C%20ilustrado%20en%20un%20estilo%20de%20pegatina%20animada%2C%20lindo%20y%20humor%C3%ADstico.%0A%0AEl%20dise%C3%B1o%20se%20centra%20%C3%BAnicamente%20en%20el%20marco%2C%20sin%20incluir%20la%20habitaci%C3%B3n%2C%20la%20pared%20o%20el%20contexto%20ambiental.%20La%20ilustraci%C3%B3n%20utiliza%20contornos%20llamativos%2C%20colores%20suaves%20y%20personajes%20de%20dibujos%20animados%20expresivos.%0A%0AEn%20el%20centro%20exacto%2C%20un%20%C3%A1rea%20de%20marcador%20de%20posici%C3%B3n%20de%20foto%20en%20blanco%20est%C3%A1%20centrada%20horizontal%20y%20verticalmente%2C%20con%20una%20relaci%C3%B3n%20de%20retrato%20de%201%3A1.4%20y%20un%2070%25%20del%20ancho%20del%20marco%2C%20completamente%20vac%C3%ADa%20y%20claramente%20definida.%0A%0AEl%20borde%20circundante%20presenta%20gatos%20de%20dibujos%20animados%20traviesos%20enredados%20en%20luces%20navide%C3%B1as%2C%20derribando%20adornos%2C%20trepando%20guirnaldas%20y%20asom%C3%A1ndose%20desde%20las%20esquinas%2C%20creando%20una%20sensaci%C3%B3n%20festiva%20juguetona%20y%20ca%C3%B3tica.%0A%0ALa%20composici%C3%B3n%20se%20mantiene%20plana%2C%20equilibrada%20y%20lista%20para%20imprimir%2C%20sin%20elementos%20de%20texto.)**
 
 ---
 
-### No. 21: Un koala aferrado a un árbol de Navidad
+### No. 21: Koala aferrado al árbol de Navidad
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Este prompt genera un bonito diseño imprimible de tarjeta de Navidad con un koala gris aferrado a un árbol de Navidad decorado. Es perfecto para saludos navideños dulces y entrañables con una textura suave de dibujo a lápiz de cera.
+Este prompt genera un bonito diseño de tarjeta de Navidad imprimible con un koala gris aferrado a un árbol de Navidad decorado. Es perfecto para saludos navideños dulces y entrañables con una textura suave de dibujo a lápiz de cera.
 
 #### 📝 Prompt
 
@@ -1146,7 +1146,7 @@ Un bonito diseño de tarjeta de Navidad imprimible, relación de aspecto 1:1.4. 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1765780157326_ckp21g_1765693121569-apj76v-v_H31t5QXhilrDAAAAAElFTkSuQmCC" width="600" alt="Un koala aferrado a un árbol de Navidad - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765780157326_ckp21g_1765693121569-apj76v-v_H31t5QXhilrDAAAAAElFTkSuQmCC" width="600" alt="Koala aferrado al árbol de Navidad - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -5036,6 +5036,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-18T04:32:38.615Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-18T08:27:23.916Z</sub>
 
 </div>
