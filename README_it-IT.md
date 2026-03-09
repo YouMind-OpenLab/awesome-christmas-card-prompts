@@ -88,7 +88,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **140** |
 | ⭐ In evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **domenica 8 marzo 2026 alle ore 20:23:29 UTC** |
+| 🔄 Ultimo aggiornamento | **lunedì 9 marzo 2026 alle ore 01:58:03 UTC** |
 
 </div>
 
@@ -5036,6 +5036,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-03-08T20:23:29.533Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-03-09T01:58:03.723Z</sub>
 
 </div>
