@@ -88,7 +88,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **140** |
 | ⭐ Öne Çıkan | **6** |
-| 🔄 Son Güncelleme | **5 Nisan 2026 Pazar 08:40:20 UTC** |
+| 🔄 Son Güncelleme | **5 Nisan 2026 Pazar 12:53:46 UTC** |
 
 </div>
 
@@ -5037,6 +5037,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-05T08:40:20.985Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-05T12:53:46.393Z</sub>
 
 </div>
