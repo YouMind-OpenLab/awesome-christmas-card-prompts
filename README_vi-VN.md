@@ -88,7 +88,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **140** |
 | ⭐ Nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **lúc 14:26:59 UTC Thứ Hai, 27 tháng 7, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 17:40:00 UTC Thứ Hai, 27 tháng 7, 2026** |
 
 </div>
 
@@ -5036,6 +5036,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-27T14:26:59.066Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-27T17:40:00.350Z</sub>
 
 </div>
