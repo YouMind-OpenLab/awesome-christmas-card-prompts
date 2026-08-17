@@ -88,7 +88,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **140** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **रविवार, 16 अगस्त 2026 को 8:17:47 pm UTC बजे** |
+| 🔄 अंतिम अपडेट | **सोमवार, 17 अगस्त 2026 को 1:04:48 am UTC बजे** |
 
 </div>
 
@@ -5037,6 +5037,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-16T20:17:47.815Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-17T01:04:48.279Z</sub>
 
 </div>
