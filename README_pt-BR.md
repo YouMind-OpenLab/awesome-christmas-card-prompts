@@ -88,7 +88,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **140** |
 | ⭐ Destaque | **6** |
-| 🔄 Última atualização | **terça-feira, 18 de agosto de 2026 às 01:02:47 UTC** |
+| 🔄 Última atualização | **terça-feira, 18 de agosto de 2026 às 04:31:58 UTC** |
 
 </div>
 
@@ -5036,6 +5036,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-18T01:02:47.839Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-18T04:31:58.554Z</sub>
 
 </div>
