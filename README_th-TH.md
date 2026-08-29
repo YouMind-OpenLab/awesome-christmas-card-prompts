@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **140** |
 | ⭐ แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 28 สิงหาคม พ.ศ. 2569 เวลา 19 นาฬิกา 52 นาที 30 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 29 สิงหาคม พ.ศ. 2569 เวลา 2 นาฬิกา 41 นาที 27 วินาที UTC** |
 
 </div>
 
@@ -5037,6 +5037,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-28T19:52:30.858Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-29T02:41:27.367Z</sub>
 
 </div>
