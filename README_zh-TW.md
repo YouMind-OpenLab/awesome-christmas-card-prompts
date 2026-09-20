@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **140** |
 | ⭐ 精選 | **6** |
-| 🔄 最後更新 | **2026年9月20日 星期日 凌晨3:20:01 [UTC]** |
+| 🔄 最後更新 | **2026年9月20日 星期日 上午9:03:00 [UTC]** |
 
 </div>
 
@@ -5032,6 +5032,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-20T03:20:01.559Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-20T09:03:00.645Z</sub>
 
 </div>
