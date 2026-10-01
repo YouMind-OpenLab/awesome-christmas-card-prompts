@@ -88,7 +88,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **140** |
 | ⭐ おすすめ | **6** |
-| 🔄 最終更新 | **2026年9月30日水曜日 23:26:36 UTC** |
+| 🔄 最終更新 | **2026年10月1日木曜日 4:04:20 UTC** |
 
 </div>
 
@@ -5023,6 +5023,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-09-30T23:26:36.917Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-10-01T04:04:20.901Z</sub>
 
 </div>
