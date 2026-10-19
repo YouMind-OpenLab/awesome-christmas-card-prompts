@@ -88,7 +88,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **140** |
 | ⭐ En vedette | **6** |
-| 🔄 Dernière mise à jour | **lundi 19 octobre 2026 à 03:11:27 UTC** |
+| 🔄 Dernière mise à jour | **lundi 19 octobre 2026 à 09:34:08 UTC** |
 
 </div>
 
@@ -5035,6 +5035,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-19T03:11:27.952Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-19T09:34:08.397Z</sub>
 
 </div>
