@@ -88,7 +88,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **140** |
 | ⭐ 추천 | **6** |
-| 🔄 마지막 업데이트 | **2026년 11월 16일 월요일 AM 4시 41분 42초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 11월 16일 월요일 PM 5시 54분 34초 UTC** |
 
 </div>
 
@@ -5030,6 +5030,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-16T04:41:42.608Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-16T17:54:34.201Z</sub>
 
 </div>
