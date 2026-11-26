@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **140** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **miércoles, 25 de noviembre de 2026, 23:58:18 UTC** |
+| 🔄 Última actualización | **jueves, 26 de noviembre de 2026, 7:44:10 UTC** |
 
 </div>
 
@@ -5036,6 +5036,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-christmas-card-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-25T23:58:18.950Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-26T07:44:10.920Z</sub>
 
 </div>
